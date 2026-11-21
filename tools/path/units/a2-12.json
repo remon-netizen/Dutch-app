@@ -1,0 +1,447 @@
+{
+  "id": "a2-12",
+  "level": "A2",
+  "icon": "🎉",
+  "title": "Making plans",
+  "grammar": "Separable verbs",
+  "summary": "A separable verb has a stressed prefix (opbellen). In a main clause and the imperative the prefix goes to the end: Ik bel je op. As an infinitive it stays whole: Ik wil je opbellen. be-, ver-, ont- never split.",
+  "explain": "A separable verb (*scheidbaar werkwoord*) is a verb with a small word in front, such as `op`, `mee`, `uit` or `af`. In the dictionary it is one word: `opbellen`, `meenemen`, `uitnodigen`. In a normal sentence the two parts often stand far apart. The prefix also changes the meaning: `gaan` is \"to go\", `uitgaan` is \"to go out\", `meegaan` is \"to come along\".\n\n### The rule in a main clause\n\nIn a statement or a question the conjugated part stands where the verb always stands (second in a statement, first in a yes/no question), and the prefix goes to the **end** of the sentence. The conjugated part follows the normal rules of the present tense.\n\n| | opbellen | meenemen |\n| ik | bel … op | neem … mee |\n| jij / je, u, hij, zij | belt … op | neemt … mee |\n| wij, jullie, zij | bellen … op | nemen … mee |\n\n> Ik bel je morgen op. — I will call you tomorrow.\n> Mijn zus neemt een taart mee. — My sister is bringing a cake.\n> Neem je iets te drinken mee? — Are you bringing something to drink?\n\nJij and je directly after the verb lose the t, as always: `Neem je … mee?`, `Ga je mee?`\n\nEverything else comes between the two parts: the object, the time, `niet`. `Niet` stands just before the prefix.\n\n> Het feest gaat zaterdag niet door. — The party is not going ahead on Saturday.\n\nA phrase with a preposition may also come after the prefix, and in speech that is very common: `Ik nodig je uit voor mijn feest` and `Ik nodig je voor mijn feest uit` are both correct.\n\nThe simple past splits in the same way: `Ik belde je op` (unit A2 · 15).\n\n### When it stays in one piece\n\nWhen the verb is an **infinitive** at the end, it is written as one word. That happens after a modal verb, after `gaan` and after `zullen`.\n\n> Ik wil je graag uitnodigen. — I would like to invite you.\n> Kun je me morgen ophalen? — Can you pick me up tomorrow?\n\n| form | example |\n| present | Ik kom vanavond langs. |\n| question | Kom je vanavond langs? |\n| imperative | Kom vanavond langs! |\n| with a modal | Ik kan vanavond langskomen. |\n| perfect | Ik ben langsgekomen. |\n\nThe imperative splits too: `Bel me op!`, `Neem een jas mee!` In the perfect the `ge` goes in the middle: `opgebeld`, `meegenomen`, `uitgenodigd` (units A2 · 13 and A2 · 14). In a sub-clause the two parts come together again at the end; that is unit B1 · 17.\n\n### Separable or not? Listen to the stress\n\nA separable prefix is **stressed**: OPbellen, MEEnemen, UITnodigen, AFspreken. Most of these prefixes are also words of their own: `op, af, uit, mee, aan, in, weg, terug, thuis, langs`.\n\nThe prefixes **be-, ge-, her-, ont-, ver-, er-** are never stressed and **never split**: `betalen, gebruiken, herhalen, ontmoeten, vertellen, ervaren`. The stress is on the verb itself: beTAlen, verTELlen.\n\n> Wie betaalt de drankjes? — Who is paying for the drinks?\n> Ik ontmoet haar bij het station. — I am meeting her at the station.\n\nA few prefixes, such as `door, over, onder, voor` and `om`, can be either, and then the stress decides. `VOORstellen` (to introduce, to propose) splits: `Ik stel je voor aan mijn vrienden`. But `overLEGgen` (to discuss) does not: `We overleggen morgen`.\n\n### Watch out\n\n- The prefix does not stay in front: *Ik opbel je → `Ik bel je op`.\n- Do not forget the prefix: `Hij komt langs` (he drops by) is not `Hij komt` (he is coming). Without `mee`, `Ik neem een fles wijn` means \"I take a bottle of wine\", not \"I bring one\".\n- After a modal verb nothing splits: *Ik wil je nodigen uit → `Ik wil je uitnodigen`.\n- be-, ver-, ont- never split: *Ik taal de drankjes be → `Ik betaal de drankjes`.\n\n### Compared with Ukrainian\n\nUkrainian also changes a verb's meaning with a prefix (`йти`, `прийти`, `піти`), but the prefix is always glued to the verb. In Dutch it travels to the end: `Я запрошую тебе` is `Ik nodig je uit`. So read a Dutch sentence to the end before you decide what the verb means.",
+  "words": [
+    {
+      "nl": "feest",
+      "art": "het",
+      "pl": "feesten",
+      "en": "party",
+      "pos": "n"
+    },
+    {
+      "nl": "uitnodiging",
+      "art": "de",
+      "pl": "uitnodigingen",
+      "en": "invitation",
+      "pos": "n"
+    },
+    {
+      "nl": "gast",
+      "art": "de",
+      "pl": "gasten",
+      "en": "guest",
+      "pos": "n"
+    },
+    {
+      "nl": "borrel",
+      "art": "de",
+      "pl": "borrels",
+      "en": "drinks (an informal gathering)",
+      "pos": "n"
+    },
+    {
+      "nl": "kroeg",
+      "art": "de",
+      "pl": "kroegen",
+      "en": "pub / bar",
+      "pos": "n"
+    },
+    {
+      "nl": "uitnodigen",
+      "past": "nodigde uit",
+      "perf": "heeft uitgenodigd",
+      "en": "to invite",
+      "pos": "v",
+      "tag": "separable"
+    },
+    {
+      "nl": "afspreken",
+      "past": "sprak af",
+      "perf": "heeft afgesproken",
+      "en": "to arrange (to meet) / to agree",
+      "pos": "v",
+      "tag": "separable"
+    },
+    {
+      "nl": "meenemen",
+      "past": "nam mee",
+      "perf": "heeft meegenomen",
+      "en": "to bring (along) / to take (along)",
+      "pos": "v",
+      "tag": "separable"
+    },
+    {
+      "nl": "meegaan",
+      "past": "ging mee",
+      "perf": "is meegegaan",
+      "en": "to come along / to go along",
+      "pos": "v",
+      "tag": "separable"
+    },
+    {
+      "nl": "uitgaan",
+      "past": "ging uit",
+      "perf": "is uitgegaan",
+      "en": "to go out (for fun)",
+      "pos": "v",
+      "tag": "separable"
+    },
+    {
+      "nl": "langskomen",
+      "past": "kwam langs",
+      "perf": "is langsgekomen",
+      "en": "to drop by",
+      "pos": "v",
+      "tag": "separable"
+    },
+    {
+      "nl": "afzeggen",
+      "past": "zei af",
+      "perf": "heeft afgezegd",
+      "en": "to cancel / to call off",
+      "pos": "v",
+      "tag": "separable"
+    },
+    {
+      "nl": "voorstellen",
+      "past": "stelde voor",
+      "perf": "heeft voorgesteld",
+      "en": "to introduce (a person) / to propose",
+      "pos": "v",
+      "tag": "separable"
+    },
+    {
+      "nl": "doorgaan",
+      "past": "ging door",
+      "perf": "is doorgegaan",
+      "en": "to go ahead / to take place",
+      "pos": "v",
+      "tag": "separable"
+    },
+    {
+      "nl": "ontmoeten",
+      "past": "ontmoette",
+      "perf": "heeft ontmoet",
+      "en": "to meet",
+      "pos": "v",
+      "tag": "not separable"
+    },
+    {
+      "nl": "gezellig",
+      "en": "cosy / fun (of company)",
+      "pos": "adj"
+    }
+  ],
+  "sentences": [
+    {
+      "nl": "Ik nodig mijn buren uit voor mijn feest.",
+      "en": "I am inviting my neighbours to my party.",
+      "hint": [
+        "uitnodigen",
+        "buur",
+        "feest"
+      ],
+      "note": "nodig stands in second place and uit goes towards the end. The phrase voor mijn feest may come after uit or before it.",
+      "alt": [
+        "Ik nodig mijn buren voor mijn feest uit."
+      ]
+    },
+    {
+      "nl": "Neem jij een fles wijn mee?",
+      "en": "Are you bringing a bottle of wine?",
+      "hint": [
+        "meenemen",
+        "fles",
+        "wijn"
+      ],
+      "note": "In a yes/no question neem comes first and mee goes to the very end. Jij follows the verb, so there is no t.",
+      "alt": [
+        "Neem je een fles wijn mee?"
+      ]
+    },
+    {
+      "nl": "Hoe laat spreken we af?",
+      "en": "What time shall we meet?",
+      "hint": [
+        "hoe laat",
+        "afspreken"
+      ],
+      "note": "After the question word comes spreken, and af closes the question. With zullen the verb would stay whole: Hoe laat zullen we afspreken?",
+      "alt": [
+        "Hoe laat zullen we afspreken?"
+      ]
+    },
+    {
+      "nl": "Mijn zus komt morgenavond langs.",
+      "en": "My sister is dropping by tomorrow evening.",
+      "hint": [
+        "zus",
+        "langskomen",
+        "morgenavond"
+      ],
+      "note": "komt is the conjugated part (stem + t for mijn zus); langs goes to the end. Without langs it would only mean \"is coming\".",
+      "alt": [
+        "Morgenavond komt mijn zus langs."
+      ]
+    },
+    {
+      "nl": "Ga je vanavond mee naar de kroeg?",
+      "en": "Are you coming along to the pub tonight?",
+      "hint": [
+        "meegaan",
+        "vanavond",
+        "kroeg"
+      ],
+      "note": "Ga comes first and mee goes to the end, but the phrase naar de kroeg may follow mee, which is what people usually say.",
+      "alt": [
+        "Ga jij vanavond mee naar de kroeg?",
+        "Ga je vanavond naar de kroeg mee?",
+        "Ga jij vanavond naar de kroeg mee?"
+      ]
+    },
+    {
+      "nl": "Ik wil je aan mijn vrienden voorstellen.",
+      "en": "I want to introduce you to my friends.",
+      "hint": [
+        "willen",
+        "vriend",
+        "voorstellen"
+      ],
+      "note": "After the modal verb wil, voorstellen is an infinitive at the end and stays in one piece.",
+      "alt": [
+        "Ik wil jou aan mijn vrienden voorstellen.",
+        "Ik wil je voorstellen aan mijn vrienden.",
+        "Ik wil jou voorstellen aan mijn vrienden."
+      ]
+    },
+    {
+      "nl": "Waarom zeg je de afspraak af?",
+      "en": "Why are you cancelling the appointment?",
+      "hint": [
+        "waarom",
+        "afzeggen",
+        "afspraak"
+      ],
+      "note": "zeg comes straight after the question word, without t because je follows it; af goes to the end, after the object.",
+      "alt": [
+        "Waarom zeg jij de afspraak af?"
+      ]
+    },
+    {
+      "nl": "Het feest gaat zaterdag niet door.",
+      "en": "The party is not going ahead on Saturday.",
+      "hint": [
+        "feest",
+        "doorgaan",
+        "zaterdag",
+        "niet"
+      ],
+      "note": "gaat is in second place and door at the end. Niet stands just before the prefix.",
+      "alt": [
+        "Zaterdag gaat het feest niet door."
+      ]
+    },
+    {
+      "nl": "Neem een warme jas mee!",
+      "en": "Bring a warm coat!",
+      "hint": [
+        "meenemen",
+        "warm",
+        "jas"
+      ],
+      "note": "The imperative is the stem, and the separable verb splits here too: Neem … mee."
+    },
+    {
+      "nl": "Op een gezellig feest ontmoet je altijd nieuwe mensen.",
+      "en": "At a fun party you always meet new people.",
+      "hint": [
+        "gezellig",
+        "feest",
+        "ontmoeten",
+        "altijd",
+        "nieuw"
+      ],
+      "note": "ontmoeten has the unstressed prefix ont-, so it never splits: ontmoet je, never \"moet je … ont\".",
+      "alt": [
+        "Je ontmoet op een gezellig feest altijd nieuwe mensen.",
+        "Je ontmoet altijd nieuwe mensen op een gezellig feest."
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "type": "choose",
+      "nl": "Ik ___ je morgen op.",
+      "options": [
+        "bel",
+        "opbel",
+        "belt"
+      ],
+      "correct": 0,
+      "en": "I will call you tomorrow.",
+      "note": "The prefix op is already at the end, so only the conjugated part goes in second place: bel. Ik takes the bare stem, without t."
+    },
+    {
+      "type": "choose",
+      "nl": "Ik moet morgen vroeg ___.",
+      "options": [
+        "sta op",
+        "opstaan",
+        "op staan"
+      ],
+      "correct": 1,
+      "en": "I have to get up early tomorrow.",
+      "note": "After the modal moet the separable verb is an infinitive at the end, written as one word: opstaan."
+    },
+    {
+      "type": "choose",
+      "nl": "Mijn vriendin ___ elke zaterdag uit.",
+      "options": [
+        "gaan",
+        "uitgaat",
+        "gaat"
+      ],
+      "correct": 2,
+      "en": "My friend goes out every Saturday.",
+      "note": "uit is already at the end, so the gap needs only the conjugated part. Mijn vriendin is a hij/zij-subject: stem + t, gaat."
+    },
+    {
+      "type": "gap",
+      "nl": "Wat ___ (meenemen) jij mee naar het feest?",
+      "answers": [
+        "neem"
+      ],
+      "en": "What are you bringing to the party?",
+      "note": "Only neem goes in second place; mee is already in the sentence. Jij follows the verb, so there is no t."
+    },
+    {
+      "type": "gap",
+      "nl": "Mijn broer ___ (langskomen) vanavond langs.",
+      "answers": [
+        "komt"
+      ],
+      "en": "My brother is dropping by this evening.",
+      "note": "The conjugated part of langskomen is komen: mijn broer takes stem + t, komt. The prefix langs is at the end."
+    },
+    {
+      "type": "gap",
+      "nl": "Hoe laat ___ (opstaan) je na een feest op?",
+      "answers": [
+        "sta"
+      ],
+      "en": "What time do you get up after a party?",
+      "note": "sta is the conjugated part, and je directly after the verb means no t: sta je … op."
+    },
+    {
+      "type": "gap",
+      "nl": "Waarom ___ (afzeggen) hij het feest af?",
+      "answers": [
+        "zegt"
+      ],
+      "en": "Why is he cancelling the party?",
+      "note": "The conjugated part zeggen becomes zegt for hij; af stays at the end of the question."
+    },
+    {
+      "type": "order",
+      "lead": "Ik",
+      "words": [
+        "bel",
+        "je",
+        "morgen",
+        "op"
+      ],
+      "answers": [
+        "Ik bel je morgen op."
+      ],
+      "en": "I will call you tomorrow.",
+      "note": "bel is the verb in second place, the pronoun je comes right after it, and op closes the sentence."
+    },
+    {
+      "type": "order",
+      "lead": "Neem",
+      "words": [
+        "jij",
+        "vanavond",
+        "je gitaar",
+        "mee"
+      ],
+      "answers": [
+        "Neem jij vanavond je gitaar mee?",
+        "Neem jij je gitaar vanavond mee?"
+      ],
+      "en": "Are you bringing your guitar tonight?",
+      "note": "A yes/no question starts with the verb, then the subject. Mee goes to the very end; vanavond may stand before or after je gitaar."
+    },
+    {
+      "type": "order",
+      "lead": "We",
+      "words": [
+        "willen",
+        "jou",
+        "voor onze borrel",
+        "uitnodigen"
+      ],
+      "answers": [
+        "We willen jou voor onze borrel uitnodigen.",
+        "We willen jou uitnodigen voor onze borrel."
+      ],
+      "en": "We want to invite you to our drinks.",
+      "note": "After willen the infinitive uitnodigen stays in one piece at the end. The phrase voor onze borrel may also follow it."
+    },
+    {
+      "type": "rewrite",
+      "task": "Start the sentence with Morgen.",
+      "from": "Ik kom bij je langs.",
+      "answers": [
+        "Morgen kom ik bij je langs.",
+        "Morgen kom ik langs bij je."
+      ],
+      "en": "Tomorrow I will drop by at your place.",
+      "note": "Morgen takes the first place, kom stays second and ik follows it. The prefix langs stays at the end."
+    },
+    {
+      "type": "rewrite",
+      "task": "Add the modal verb wil and use the infinitive uitgaan.",
+      "from": "Ik ga vanavond uit.",
+      "answers": [
+        "Ik wil vanavond uitgaan.",
+        "Vanavond wil ik uitgaan."
+      ],
+      "en": "I want to go out tonight.",
+      "note": "wil takes second place, and uitgaan goes to the end as one word."
+    },
+    {
+      "type": "rewrite",
+      "task": "Turn it into an instruction (the imperative) to one friend.",
+      "from": "Jij neemt de uitnodiging mee.",
+      "answers": [
+        "Neem de uitnodiging mee."
+      ],
+      "en": "Bring the invitation.",
+      "note": "The imperative is the stem, neem, at the start. The separable verb splits as in any main clause: mee goes to the end."
+    },
+    {
+      "type": "fix",
+      "wrong": "Ik opbel je vanavond.",
+      "answers": [
+        "Ik bel je vanavond op."
+      ],
+      "en": "I will call you this evening.",
+      "note": "In a main clause the prefix goes to the end: bel … op. Opbellen stays whole only as an infinitive."
+    },
+    {
+      "type": "fix",
+      "wrong": "Ik wil alle gasten nodigen uit.",
+      "answers": [
+        "Ik wil alle gasten uitnodigen."
+      ],
+      "en": "I want to invite all the guests.",
+      "note": "After a modal verb the separable verb is an infinitive and stays in one piece: uitnodigen."
+    },
+    {
+      "type": "fix",
+      "wrong": "Ik taal de drankjes be.",
+      "answers": [
+        "Ik betaal de drankjes."
+      ],
+      "en": "I am paying for the drinks.",
+      "note": "be- is an unstressed prefix and never splits: betalen, ik betaal. The stress is on -taal."
+    }
+  ]
+}

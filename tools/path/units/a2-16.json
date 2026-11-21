@@ -1,0 +1,439 @@
+{
+  "id": "a2-16",
+  "level": "A2",
+  "icon": "🌧️",
+  "title": "A day when everything went wrong",
+  "grammar": "The simple past of strong verbs; perfect or simple past?",
+  "summary": "Strong verbs change their vowel and take no ending in the singular (ik viel, hij kwam); the plural adds -en (vielen, kwamen). Perfect: what happened. Simple past: how it went, step by step.",
+  "explain": "Dutch has two past tenses. The perfect (*de voltooide tijd*: `ik ben gevallen`) reports that something happened; the simple past (*de onvoltooid verleden tijd*: `ik viel`) tells the story. Regular verbs make the simple past with -te or -de (unit A2 · 15). But most of the verbs you use every day are **strong**: they change their vowel instead. This unit gives you their forms, and shows when Dutch uses which past.\n\n### Strong verbs: a new vowel, no ending\n\nA strong verb gets **no -te or -de**. In the singular (ik, jij, u, hij, zij) the form is the new stem, the same for every person and **without a t**. In the plural (wij, jullie, zij) you add -en.\n\n| | vallen | komen |\n| ik, jij, u, hij, zij | viel | kwam |\n| wij, jullie, zij | vielen | kwamen |\n\n> Ik viel van de trap. — I fell down the stairs.\n> Jij kwam ook te laat. — You were late too.\n\nThe new vowel cannot be worked out from the infinitive, so learn each verb as a set of three: `vallen – viel – gevallen`. The most common ones:\n\n| infinitive | singular | plural |\n| gaan | ging | gingen |\n| zien | zag | zagen |\n| doen | deed | deden |\n| nemen | nam | namen |\n| geven | gaf | gaven |\n| vinden | vond | vonden |\n| lopen | liep | liepen |\n| krijgen | kreeg | kregen |\n| blijven | bleef | bleven |\n| zitten | zat | zaten |\n| staan | stond | stonden |\n| beginnen | begon | begonnen |\n\nMore of the same kind: `spreken – sprak`, `schrijven – schreef`, `lezen – las`, `eten – at`, `drinken – dronk`, `vertrekken – vertrok`, `weten – wist`, `rijden – reed`, `roepen – riep`, `helpen – hielp`, `vergeten – vergat`, `breken – brak`, `verliezen – verloor`.\n\n### Spelling the plural\n\nThe plural follows the spelling rules of unit A2 · 1, and in some verbs the vowel also becomes **long**:\n\n- **Short in the singular, long in the plural**: `kwam – kwamen`, `nam – namen`, `zat – zaten`, `at – aten`, `sprak – spraken`, `vergat – vergaten`, `gaf – gaven`, `las – lazen`. No double consonant, and f and s become v and z.\n- **Short in both**: the consonant is doubled to keep the vowel short: `begon – begonnen`, `vertrok – vertrokken`.\n- **A double vowel** becomes single in the open syllable: `bleef – bleven`, `kreeg – kregen`, `reed – reden`.\n\n> We kwamen een uur te laat. — We were an hour late.\n> De problemen begonnen al vroeg. — The problems started early.\n\n### Mixed and irregular verbs\n\n`zeggen – zei, zeiden`. These change their vowel and end in -cht: `denken – dacht`, `brengen – bracht`, `kopen – kocht`, `zoeken – zocht`. The modal verbs: `kunnen – kon, konden`, `moeten – moest`, `mogen – mocht`, `willen – wilde` (in speech also `wou`, singular only), `zullen – zou, zouden`. And `zijn – was, waren`, `hebben – had, hadden`.\n\n> Ik zocht overal, maar mijn sleutels waren kwijt. — I looked everywhere, but my keys were gone.\n\n### Perfect or simple past?\n\nOften both are correct. What decides is what you are doing:\n\n- The **perfect** reports **that** something happened: a fact, a result. It is the normal past tense in conversation, and the way to start telling something.\n- The **simple past** tells **how it went**: a chain of events, the background (the weather, what was going on), and what you used to do. After `toen` (then) in a story it is the usual tense.\n\nSo a story typically opens in the perfect and goes on in the simple past:\n\n> Ik ben gisteren gevallen. — I had a fall yesterday.\n> Ik liep naar de bus en het regende. — I was walking to the bus and it was raining.\n> Toen gleed ik uit. — Then I slipped.\n\n`zijn`, `hebben` and the modal verbs are nearly always in the simple past, in conversation too: `Ik was moe`, `Ik had pech`, `Ik moest lopen`. `Ik ben moe geweest` is not wrong, but far less usual.\n\n### Watch out\n\n- No -te or -de on a strong verb: `ik viel`, never *ik valde; `ik vergat`, never *ik vergatte.\n- No t for jij, u or hij: `hij kwam`, never *hij kwamt.\n- Spell the plural: `kwamen`, not *kwammen; `begonnen`, not *begonen.\n- The past of zeggen is `zei`, not *zegde.\n\n### Compared with Ukrainian\n\nThe choice is not about aspect. `Я впав` can be `ik ben gevallen` or `ik viel`: it depends on whether you report the fact or tell the story (more in unit B1 · 22).",
+  "words": [
+    {
+      "nl": "pech",
+      "art": "de",
+      "pl": "",
+      "en": "bad luck / breakdown",
+      "pos": "n",
+      "tag": "no plural"
+    },
+    {
+      "nl": "ongeluk",
+      "art": "het",
+      "pl": "ongelukken",
+      "en": "accident",
+      "pos": "n"
+    },
+    {
+      "nl": "vertraging",
+      "art": "de",
+      "pl": "vertragingen",
+      "en": "delay",
+      "pos": "n"
+    },
+    {
+      "nl": "vlek",
+      "art": "de",
+      "pl": "vlekken",
+      "en": "stain",
+      "pos": "n"
+    },
+    {
+      "nl": "gat",
+      "art": "het",
+      "pl": "gaten",
+      "en": "hole",
+      "pos": "n"
+    },
+    {
+      "nl": "pleister",
+      "art": "de",
+      "pl": "pleisters",
+      "en": "plaster (for a cut)",
+      "pos": "n"
+    },
+    {
+      "nl": "buil",
+      "art": "de",
+      "pl": "builen",
+      "en": "bump (on the head)",
+      "pos": "n"
+    },
+    {
+      "nl": "vallen",
+      "past": "viel",
+      "perf": "is gevallen",
+      "en": "to fall",
+      "pos": "v"
+    },
+    {
+      "nl": "verliezen",
+      "past": "verloor",
+      "perf": "heeft verloren",
+      "en": "to lose",
+      "pos": "v"
+    },
+    {
+      "nl": "vergeten",
+      "past": "vergat",
+      "perf": "heeft/is vergeten",
+      "en": "to forget",
+      "pos": "v"
+    },
+    {
+      "nl": "breken",
+      "past": "brak",
+      "perf": "heeft/is gebroken",
+      "en": "to break",
+      "pos": "v"
+    },
+    {
+      "nl": "uitglijden",
+      "past": "gleed uit",
+      "perf": "is uitgegleden",
+      "en": "to slip",
+      "pos": "v",
+      "tag": "separable"
+    },
+    {
+      "nl": "morsen",
+      "past": "morste",
+      "perf": "heeft gemorst",
+      "en": "to spill",
+      "pos": "v"
+    },
+    {
+      "nl": "kwijt",
+      "en": "lost / gone (kwijt zijn)",
+      "pos": "adj"
+    },
+    {
+      "nl": "per ongeluk",
+      "en": "by accident",
+      "pos": "expr"
+    },
+    {
+      "nl": "gelukkig",
+      "en": "luckily / fortunately",
+      "pos": "adv"
+    }
+  ],
+  "sentences": [
+    {
+      "nl": "Ik heb vanochtend mijn sleutels verloren.",
+      "en": "I lost my keys this morning. (perfect)",
+      "hint": [
+        "vanochtend",
+        "sleutel",
+        "verliezen"
+      ],
+      "note": "The perfect reports what happened, so it is how you start telling someone. Verliezen takes hebben: heb … verloren.",
+      "alt": [
+        "Vanochtend heb ik mijn sleutels verloren.",
+        "Ik heb mijn sleutels vanochtend verloren."
+      ]
+    },
+    {
+      "nl": "Ik zocht overal, maar mijn sleutels waren kwijt.",
+      "en": "I looked everywhere, but my keys were gone. (simple past)",
+      "hint": [
+        "zoeken",
+        "overal",
+        "sleutel",
+        "kwijt"
+      ],
+      "note": "The story goes on in the simple past. Zoeken is mixed: zocht. Mijn sleutels is plural, so zijn becomes waren, not was."
+    },
+    {
+      "nl": "Toen gleed ik uit op de natte stoep.",
+      "en": "Then I slipped on the wet pavement. (simple past)",
+      "hint": [
+        "toen",
+        "uitglijden",
+        "nat",
+        "stoep"
+      ],
+      "note": "After toen in a story the simple past is usual. Uitglijden is strong (glijden → gleed) and separable: uit goes to the end, or before the last phrase.",
+      "alt": [
+        "Toen gleed ik op de natte stoep uit.",
+        "Ik gleed toen uit op de natte stoep.",
+        "Ik gleed toen op de natte stoep uit."
+      ]
+    },
+    {
+      "nl": "Het regende en de trein had een uur vertraging.",
+      "en": "It was raining and the train had an hour's delay. (simple past)",
+      "hint": [
+        "regenen",
+        "trein",
+        "uur",
+        "vertraging"
+      ],
+      "note": "Background: the simple past. Hebben is almost always in the simple past: had, plural hadden."
+    },
+    {
+      "nl": "We kwamen allebei te laat op ons werk.",
+      "en": "We were both late for work. (simple past)",
+      "hint": [
+        "komen",
+        "allebei",
+        "te laat",
+        "werk"
+      ],
+      "note": "Kwam has a short a; in the plural the a becomes long, so it is kwamen with one m.",
+      "alt": [
+        "We kwamen allebei te laat op het werk.",
+        "We kwamen allebei te laat op kantoor.",
+        "We waren allebei te laat op ons werk.",
+        "We waren allebei te laat op het werk."
+      ]
+    },
+    {
+      "nl": "Wat zei je baas toen?",
+      "en": "What did your boss say then? (simple past)",
+      "hint": [
+        "wat",
+        "zeggen",
+        "baas",
+        "toen"
+      ],
+      "note": "The past of zeggen is zei, plural zeiden. It never gets a t: hij zei, jij zei.",
+      "alt": [
+        "Wat zei jouw baas toen?"
+      ]
+    },
+    {
+      "nl": "Mijn collega viel van de trap en brak haar pols.",
+      "en": "My colleague fell down the stairs and broke her wrist. (simple past)",
+      "hint": [
+        "collega",
+        "vallen",
+        "trap",
+        "breken",
+        "pols"
+      ],
+      "note": "A chain of events, so the simple past. Viel and brak have no ending in the singular; the plural would be vielen and braken."
+    },
+    {
+      "nl": "Ik moest een pleister op mijn knie plakken.",
+      "en": "I had to put a plaster on my knee. (simple past)",
+      "hint": [
+        "moeten",
+        "pleister",
+        "knie",
+        "plakken"
+      ],
+      "note": "Modal verbs are nearly always in the simple past: moest, plural moesten. The infinitive plakken stays at the end.",
+      "alt": [
+        "Ik moest een pleister op mijn knie doen."
+      ]
+    },
+    {
+      "nl": "Thuis zag ik een grote vlek op mijn broek.",
+      "en": "At home I saw a big stain on my trousers. (simple past)",
+      "hint": [
+        "thuis",
+        "zien",
+        "groot",
+        "vlek",
+        "broek"
+      ],
+      "note": "Zien → zag, plural zagen with a long a. Thuis stands first, so the verb comes before ik.",
+      "alt": [
+        "Ik zag thuis een grote vlek op mijn broek."
+      ]
+    },
+    {
+      "nl": "Vroeger vergat ik altijd mijn paraplu.",
+      "en": "I always used to forget my umbrella.",
+      "hint": [
+        "vroeger",
+        "vergeten",
+        "altijd",
+        "paraplu"
+      ],
+      "note": "A habit in the past: the simple past. Vergeten → vergat, with one t and no -te; the plural is vergaten.",
+      "alt": [
+        "Ik vergat vroeger altijd mijn paraplu."
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "type": "choose",
+      "nl": "Mijn buurman ___ gisteren van zijn fiets.",
+      "options": [
+        "valde",
+        "viel",
+        "vielt"
+      ],
+      "correct": 1,
+      "en": "My neighbour fell off his bike yesterday.",
+      "note": "Vallen is strong: viel. A strong verb never gets -de, and in the singular it has no t, so not valde or vielt."
+    },
+    {
+      "type": "choose",
+      "nl": "Wij ___ door de vertraging een uur te laat.",
+      "options": [
+        "kwam",
+        "kwammen",
+        "kwamen",
+        "komden"
+      ],
+      "correct": 2,
+      "en": "Because of the delay we were an hour late.",
+      "note": "Wij needs the plural: kwam + en. The a becomes long in the open syllable, so it is written with one m: kwamen."
+    },
+    {
+      "type": "choose",
+      "nl": "Gisteren ___ jij je jas in de trein.",
+      "options": [
+        "vergaten",
+        "vergatte",
+        "vergat"
+      ],
+      "correct": 2,
+      "en": "Yesterday you forgot your coat on the train.",
+      "note": "Vergeten is strong: vergat, the same for ik, jij and hij, with no ending. Vergatte mixes in the regular -te; vergaten is the plural."
+    },
+    {
+      "type": "choose",
+      "nl": "Na het ongeluk ___ ik naar huis lopen.",
+      "options": [
+        "moette",
+        "moest",
+        "moesten"
+      ],
+      "correct": 1,
+      "en": "After the accident I had to walk home.",
+      "note": "The past of moeten is moest for ik, jij and hij, and moesten in the plural. Moette does not exist."
+    },
+    {
+      "type": "choose",
+      "nl": "Ik ___ gisteren echt pech.",
+      "options": [
+        "had",
+        "hadden",
+        "hebte"
+      ],
+      "correct": 0,
+      "en": "I was really unlucky yesterday.",
+      "note": "Hebben is irregular: had, plural hadden. With hebben the simple past is the normal choice, also in conversation."
+    },
+    {
+      "type": "gap",
+      "nl": "In het donker ___ (zien) ik het gat in de weg niet.",
+      "answers": [
+        "zag"
+      ],
+      "en": "In the dark I did not see the hole in the road.",
+      "note": "Zien → zag, without an ending. In het donker stands first, so the verb comes before ik."
+    },
+    {
+      "type": "gap",
+      "nl": "Gelukkig ___ (doen) de buil op mijn hoofd niet veel pijn.",
+      "answers": [
+        "deed"
+      ],
+      "en": "Luckily the bump on my head did not hurt much.",
+      "note": "Doen → deed, plural deden. De buil is singular, so deed, with no ending and no t."
+    },
+    {
+      "type": "gap",
+      "nl": "Mijn ouders ___ (vertrekken) veel te laat van huis.",
+      "answers": [
+        "vertrokken"
+      ],
+      "en": "My parents left home far too late.",
+      "note": "Vertrekken → vertrok. In the plural the o stays short, so the k is doubled: vertrokken."
+    },
+    {
+      "type": "gap",
+      "nl": "Gelukkig ___ (helpen) twee mannen me met mijn fiets.",
+      "answers": [
+        "hielpen"
+      ],
+      "en": "Luckily two men helped me with my bike.",
+      "note": "Helpen → hielp, plural hielpen. The subject is twee mannen, so the plural, even though it comes after the verb."
+    },
+    {
+      "type": "order",
+      "lead": "Gisteren",
+      "words": [
+        "verloor",
+        "ik",
+        "mijn portemonnee",
+        "op het station"
+      ],
+      "answers": [
+        "Gisteren verloor ik mijn portemonnee op het station.",
+        "Gisteren verloor ik op het station mijn portemonnee."
+      ],
+      "en": "Yesterday I lost my wallet at the station.",
+      "note": "Verliezen → verloor. Gisteren takes the first place, so the verb comes second and ik follows it."
+    },
+    {
+      "type": "order",
+      "lead": "Ik",
+      "words": [
+        "gevallen",
+        "van de trap",
+        "ben",
+        "gisteren"
+      ],
+      "answers": [
+        "Ik ben gisteren van de trap gevallen."
+      ],
+      "en": "I fell down the stairs yesterday.",
+      "note": "The perfect reports what happened. Vallen takes zijn: ben … gevallen, with the participle at the end."
+    },
+    {
+      "type": "rewrite",
+      "task": "Put it in the simple past.",
+      "from": "Hij morst per ongeluk thee en krijgt een vlek op zijn broek.",
+      "answers": [
+        "Hij morste per ongeluk thee en kreeg een vlek op zijn broek."
+      ],
+      "en": "He spilt tea by accident and got a stain on his trousers.",
+      "note": "Morsen is regular: morste. Krijgen is strong: kreeg, with no ending."
+    },
+    {
+      "type": "rewrite",
+      "task": "Put it in the perfect, the way you report it in conversation.",
+      "from": "Ik brak gisteren mijn bril.",
+      "answers": [
+        "Ik heb gisteren mijn bril gebroken.",
+        "Ik heb mijn bril gisteren gebroken."
+      ],
+      "en": "I broke my glasses yesterday.",
+      "note": "Breken with an object (you break something) takes hebben: heb … gebroken. Something that breaks by itself takes zijn: de bril is gebroken."
+    },
+    {
+      "type": "rewrite",
+      "task": "Say it the usual way, with zijn in the simple past.",
+      "from": "Ik ben gisteren erg moe geweest.",
+      "answers": [
+        "Ik was gisteren erg moe.",
+        "Gisteren was ik erg moe."
+      ],
+      "en": "I was very tired yesterday.",
+      "note": "With zijn, hebben and the modal verbs Dutch nearly always uses the simple past: was, waren."
+    },
+    {
+      "type": "fix",
+      "wrong": "Gisteren zegde ik sorry tegen de buurvrouw.",
+      "answers": [
+        "Gisteren zei ik sorry tegen de buurvrouw."
+      ],
+      "en": "Yesterday I said sorry to the neighbour.",
+      "note": "The past of zeggen is zei, plural zeiden. Zegde is not used for 'said'."
+    },
+    {
+      "type": "fix",
+      "wrong": "De problemen begonen al om zeven uur.",
+      "answers": [
+        "De problemen begonnen al om zeven uur."
+      ],
+      "en": "The problems already started at seven o'clock.",
+      "note": "Begon keeps its short o in the plural, so the n is doubled: begonnen. With one n you would read a long o."
+    }
+  ]
+}

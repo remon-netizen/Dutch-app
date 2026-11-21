@@ -1,0 +1,431 @@
+{
+  "id": "a2-08",
+  "level": "A2",
+  "icon": "📱",
+  "title": "Keeping in touch",
+  "grammar": "Personal pronouns: subject and object forms",
+  "summary": "Subject: ik, je/jij, u, hij, ze/zij, het, we/wij, jullie, ze/zij. Object: me/mij, je/jou, u, hem, haar, het, ons, jullie, hen/hun/ze. After a preposition always the object form: met hem. It's me: Ik ben het.",
+  "explain": "Personal pronouns (*persoonlijke voornaamwoorden*) are the small words for people and things: I, you, him, them. Dutch has two sets: a **subject form** for the one who does something, and an **object form** for everything else. Most of them also have a short, unstressed form, and that short form is the one you hear most.\n\n### Subject and object\n\n| | subject | object |\n| I / me | ik | mij / me |\n| you | jij / je | jou / je |\n| you (formal) | u | u |\n| he / him | hij | hem |\n| she / her | zij / ze | haar |\n| it | het | het |\n| we / us | wij / we | ons |\n| you (plural) | jullie | jullie |\n| they / them | zij / ze | hen / hun / ze |\n\nThe subject form goes with the conjugated verb. The object form is for the person the action is done to, for the person who receives something, and for every pronoun after a preposition.\n\n> Ik bel hem vanavond. — I am calling him tonight.\n> Hij appt haar elke dag. — He texts her every day.\n\n### Short and stressed forms\n\n`je`, `ze`, `we` and `me` are the normal forms in speech and in most writing. The long forms `jij`, `zij`, `wij`, `mij` and `jou` are for **emphasis or contrast**, when the pronoun itself is stressed. A short form can never carry stress, so in a contrast only the long form is possible.\n\n> Zie je hem vaak? — Do you see him often?\n> Hij belt mij, niet jou. — He is calling me, not you.\n\n`ze` can mean \"she\" or \"they\"; the verb shows which: `ze belt` (she), `ze bellen` (they).\n\n### After a preposition\n\nAfter every preposition comes the object form: `met mij`, `voor hem`, `van haar`, `bij ons`, `zonder jullie`, `naast hen`.\n\n> Ik praat vaak met haar. — I often talk to her.\n> Wij logeren bij hen. — We are staying with them.\n\nOn the phone you say who you are with `met`: `Met Anna` (Anna speaking), and to a friend `Hoi, met mij!` (Hi, it's me!).\n\n### Hen, hun or ze?\n\nFor people in the plural, written standard Dutch has two object forms:\n\n- `hen` when the people undergo the action, and after a preposition: `Ik bel hen`, `Ik woon bij hen`.\n- `hun` for the people who **receive** something, without a preposition (with `geven`, `vertellen`, `sturen`): `Ik geef hun een cadeau` = `Ik geef een cadeau aan hen`.\n\n> Ik vertel hun het nieuws. — I tell them the news.\n\nIn speech and in informal messages `ze` is always right for people, in both cases: `Ik bel ze`, `Ik vertel ze het nieuws`. When in doubt, say `ze`. `hen` and `hun` are only for people; things in the plural are always `ze`.\n\n### Things: hij, hem or het\n\nIn everyday Dutch a thing is replaced according to its article: a de-word by `hij` and `hem`, a het-word by `het`, a plural by `ze`. So English \"it\" is often `hij` or `hem`.\n\n> Mijn telefoon? Hij ligt op tafel. — My phone? It is on the table.\n> Ik zoek mijn sleutels, maar ik zie ze nergens. — I am looking for my keys, but I don't see them anywhere.\n\nAfter a preposition a thing becomes `ermee`, `erop` and so on; that is unit B1 · 5.\n\n### It's me\n\nDutch turns \"it's me\" around: the person is the subject, `het` comes after the verb, and the verb agrees with the person.\n\n> Ik ben het. — It's me.\n> Ben jij het? — Is it you?\n\n### Watch out\n\n- After a preposition, the object form: `met hem`, never *met hij.\n- `hun` is never a subject: `Ze bellen me`, not *Hun bellen me. You hear it, but it is a clear mistake.\n- In a contrast, the long form: `Hij belt mij, niet jou`, not *Hij belt me, niet je.\n- A de-word is `hij` or `hem`: `Mijn jas? Ik draag hem vandaag`, not *Ik draag het vandaag.\n- \"It's me\" is `Ik ben het`, never *Het is mij.\n\n### Compared with Ukrainian\n\nUkrainian often leaves the pronoun out (`Дзвоню тобі`); Dutch never does: `Ik bel je`. Where Ukrainian has `мене`, `мені` and `мною`, Dutch has only `mij`/`me`: these few object forms are all that is left of case. Like `він` and `вона` for things, Dutch chooses by the word: `de telefoon` is `hij`. And `Це я` is `Ik ben het`.",
+  "words": [
+    {
+      "nl": "gesprek",
+      "art": "het",
+      "pl": "gesprekken",
+      "en": "conversation / (phone) call",
+      "pos": "n"
+    },
+    {
+      "nl": "contact",
+      "art": "het",
+      "pl": "contacten",
+      "en": "contact",
+      "pos": "n"
+    },
+    {
+      "nl": "bezoek",
+      "art": "het",
+      "pl": "bezoeken",
+      "en": "visit / visitors",
+      "pos": "n"
+    },
+    {
+      "nl": "gast",
+      "art": "de",
+      "pl": "gasten",
+      "en": "guest",
+      "pos": "n"
+    },
+    {
+      "nl": "vriendschap",
+      "art": "de",
+      "pl": "vriendschappen",
+      "en": "friendship",
+      "pos": "n"
+    },
+    {
+      "nl": "buitenland",
+      "art": "het",
+      "pl": "",
+      "en": "abroad / foreign countries",
+      "pos": "n",
+      "tag": "in het buitenland"
+    },
+    {
+      "nl": "appen",
+      "past": "appte",
+      "perf": "heeft geappt",
+      "en": "to text (on WhatsApp)",
+      "pos": "v"
+    },
+    {
+      "nl": "missen",
+      "past": "miste",
+      "perf": "heeft gemist",
+      "en": "to miss",
+      "pos": "v"
+    },
+    {
+      "nl": "bezoeken",
+      "past": "bezocht",
+      "perf": "heeft bezocht",
+      "en": "to visit",
+      "pos": "v"
+    },
+    {
+      "nl": "logeren",
+      "past": "logeerde",
+      "perf": "heeft gelogeerd",
+      "en": "to stay (as a guest)",
+      "pos": "v"
+    },
+    {
+      "nl": "reageren",
+      "past": "reageerde",
+      "perf": "heeft gereageerd",
+      "en": "to reply / to react",
+      "pos": "v",
+      "tag": "reageren op"
+    },
+    {
+      "nl": "vertellen",
+      "past": "vertelde",
+      "perf": "heeft verteld",
+      "en": "to tell",
+      "pos": "v"
+    },
+    {
+      "nl": "bereikbaar",
+      "en": "reachable (by phone)",
+      "pos": "adj"
+    },
+    {
+      "nl": "elkaar",
+      "en": "each other",
+      "pos": "pron"
+    },
+    {
+      "nl": "de groeten doen",
+      "en": "to say hello (from someone)",
+      "pos": "expr"
+    }
+  ],
+  "sentences": [
+    {
+      "nl": "Ik mis je heel erg.",
+      "en": "I miss you very much.",
+      "hint": [
+        "missen",
+        "heel erg"
+      ],
+      "note": "Je is the object here: the one who is missed. The short form je is normal; jou would put stress on 'you'.",
+      "alt": [
+        "Ik mis jou heel erg."
+      ]
+    },
+    {
+      "nl": "Ben je morgen bereikbaar? Dan bel ik je.",
+      "en": "Can you be reached tomorrow? Then I will call you.",
+      "hint": [
+        "zijn",
+        "morgen",
+        "bereikbaar",
+        "dan",
+        "bellen"
+      ],
+      "note": "The same short form je twice: first as subject (ben je), then as object (bel ik je). Only the long forms differ: jij and jou.",
+      "alt": [
+        "Ben jij morgen bereikbaar? Dan bel ik je.",
+        "Ben je morgen bereikbaar? Dan bel ik jou.",
+        "Ben jij morgen bereikbaar? Dan bel ik jou."
+      ]
+    },
+    {
+      "nl": "Mijn moeder doet je de groeten.",
+      "en": "My mother says hello to you.",
+      "hint": [
+        "moeder",
+        "de groeten doen"
+      ],
+      "note": "Je is the one who receives the greetings. Dutch uses the same object form for 'you' whether something is done to you or given to you.",
+      "alt": [
+        "Mijn moeder doet jou de groeten."
+      ]
+    },
+    {
+      "nl": "Volgend weekend bezoeken we jullie in Amsterdam.",
+      "en": "Next weekend we are visiting you (plural) in Amsterdam.",
+      "hint": [
+        "volgend",
+        "weekend",
+        "bezoeken",
+        "Amsterdam"
+      ],
+      "note": "Jullie is both the subject and the object form. We is the subject: it follows the verb because the time comes first.",
+      "alt": [
+        "We bezoeken jullie volgend weekend in Amsterdam."
+      ]
+    },
+    {
+      "nl": "Ik heb geen contact meer met hem.",
+      "en": "I have no contact with him any more.",
+      "hint": [
+        "hebben",
+        "contact",
+        "meer"
+      ],
+      "note": "After the preposition met comes the object form: met hem, never met hij.",
+      "alt": [
+        "Ik heb met hem geen contact meer."
+      ]
+    },
+    {
+      "nl": "Ik vertel hun alles over Nederland.",
+      "en": "I tell them everything about the Netherlands.",
+      "hint": [
+        "vertellen",
+        "alles",
+        "Nederland"
+      ],
+      "note": "They receive the story, without a preposition, so the written form is hun. In speech ze is just as right.",
+      "alt": [
+        "Ik vertel ze alles over Nederland."
+      ]
+    },
+    {
+      "nl": "Volgende week logeer ik bij hen.",
+      "en": "Next week I am staying with them.",
+      "hint": [
+        "volgende week",
+        "logeren"
+      ],
+      "note": "After a preposition the plural is hen in writing, not hun. In speech bij ze is also fine.",
+      "alt": [
+        "Ik logeer volgende week bij hen.",
+        "Volgende week logeer ik bij ze.",
+        "Ik logeer volgende week bij ze."
+      ]
+    },
+    {
+      "nl": "Waar is mijn telefoon? Ik zie hem nergens.",
+      "en": "Where is my phone? I don't see it anywhere.",
+      "hint": [
+        "waar",
+        "telefoon",
+        "zien",
+        "nergens"
+      ],
+      "note": "De telefoon is a de-word, so 'it' is hem as an object (and hij as a subject). Het is only for het-words."
+    },
+    {
+      "nl": "Ben jij het? Ik herken je stem niet.",
+      "en": "Is it you? I don't recognise your voice.",
+      "hint": [
+        "zijn",
+        "herkennen",
+        "stem"
+      ],
+      "note": "Dutch says 'are you it': Ben jij het? The verb agrees with jij, and het comes after it.",
+      "alt": [
+        "Ben jij het? Ik herken jouw stem niet."
+      ]
+    },
+    {
+      "nl": "Hij belt mij elke week, maar ik bel hem nooit.",
+      "en": "He calls me every week, but I never call him.",
+      "hint": [
+        "bellen",
+        "elke week",
+        "nooit"
+      ],
+      "note": "The two people are contrasted, so the long form mij fits best. Hem has no separate long form.",
+      "alt": [
+        "Hij belt me elke week, maar ik bel hem nooit.",
+        "Elke week belt hij mij, maar ik bel hem nooit.",
+        "Elke week belt hij me, maar ik bel hem nooit."
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "type": "choose",
+      "nl": "Bel jij hem? – Nee, hij belt ___.",
+      "options": [
+        "me",
+        "mij",
+        "ik"
+      ],
+      "correct": 1,
+      "en": "Are you calling him? – No, he is calling me.",
+      "note": "'Me' carries the stress here, in contrast with 'him', and only the long form can be stressed: mij. Ik is the subject form."
+    },
+    {
+      "type": "choose",
+      "nl": "Kom je morgen bij ___ op bezoek?",
+      "options": [
+        "wij",
+        "ons",
+        "onze"
+      ],
+      "correct": 1,
+      "en": "Are you coming to visit us tomorrow?",
+      "note": "After the preposition bij comes the object form: bij ons. Wij is the subject form, and onze means 'our'."
+    },
+    {
+      "type": "choose",
+      "nl": "Mijn telefoon is oud, maar ___ doet het nog.",
+      "options": [
+        "het",
+        "zij",
+        "hij"
+      ],
+      "correct": 2,
+      "en": "My phone is old, but it still works.",
+      "note": "De telefoon is a de-word, so 'it' is hij. Het only replaces a het-word."
+    },
+    {
+      "type": "choose",
+      "nl": "Ik zie mijn vrienden niet vaak, maar ik bel ___ elke week.",
+      "options": [
+        "hun",
+        "hen",
+        "zij"
+      ],
+      "correct": 1,
+      "en": "I don't see my friends often, but I call them every week.",
+      "note": "The friends are the ones who are called, so the written form is hen. Hun is for those who receive something; zij is a subject. In speech: ik bel ze."
+    },
+    {
+      "type": "choose",
+      "nl": "Waar zijn mijn sleutels? Ik zie ___ nergens.",
+      "options": [
+        "hen",
+        "ze",
+        "hun"
+      ],
+      "correct": 1,
+      "en": "Where are my keys? I don't see them anywhere.",
+      "note": "Things in the plural are always ze. Hen and hun are only used for people."
+    },
+    {
+      "type": "gap",
+      "nl": "Vriendschap is heel belangrijk voor ___ (ik).",
+      "answers": [
+        "mij",
+        "me"
+      ],
+      "en": "Friendship is very important to me.",
+      "note": "After the preposition voor comes the object form: voor mij, or unstressed voor me. Never voor ik."
+    },
+    {
+      "type": "gap",
+      "nl": "Mijn ouders wonen ver weg. Ik mis ___ (zij, they) heel erg.",
+      "answers": [
+        "hen",
+        "ze"
+      ],
+      "en": "My parents live far away. I miss them very much.",
+      "note": "The parents are the ones who are missed: hen in writing, ze in speech. Not hun, and not zij, which is a subject form."
+    },
+    {
+      "type": "gap",
+      "nl": "Ik vertel ___ (zij, they) morgen het nieuws.",
+      "answers": [
+        "hun",
+        "ze"
+      ],
+      "en": "I will tell them the news tomorrow.",
+      "note": "They receive the news, without a preposition, so the written form is hun (= aan hen). Ze is always right in speech."
+    },
+    {
+      "type": "gap",
+      "nl": "Wie is daar? – Ik ben ___.",
+      "answers": [
+        "het"
+      ],
+      "en": "Who is there? – It's me.",
+      "note": "Dutch turns 'it's me' around: Ik ben het. Ik is the subject, so the verb is ben."
+    },
+    {
+      "type": "order",
+      "lead": "Morgen",
+      "words": [
+        "bel",
+        "ik",
+        "je",
+        "om negen uur"
+      ],
+      "answers": [
+        "Morgen bel ik je om negen uur.",
+        "Morgen om negen uur bel ik je."
+      ],
+      "en": "Tomorrow I will call you at nine o'clock.",
+      "note": "The verb comes second and the subject ik follows it. A short object pronoun like je comes straight after the subject."
+    },
+    {
+      "type": "order",
+      "words": [
+        "zien",
+        "weer",
+        "wanneer",
+        "elkaar",
+        "we"
+      ],
+      "answers": [
+        "Wanneer zien we elkaar weer?"
+      ],
+      "en": "When will we see each other again?",
+      "note": "After the question word comes the verb, then the subject we. Elkaar (each other) is the object, so it comes after the subject."
+    },
+    {
+      "type": "rewrite",
+      "task": "Replace mijn vrienden by a personal pronoun.",
+      "from": "Mijn vrienden reageren snel op mijn berichten.",
+      "answers": [
+        "Ze reageren snel op mijn berichten.",
+        "Zij reageren snel op mijn berichten."
+      ],
+      "en": "They reply quickly to my messages.",
+      "note": "Mijn vrienden is the subject, so the subject form ze or zij. Hun can never be a subject."
+    },
+    {
+      "type": "rewrite",
+      "task": "Replace de gasten by a personal pronoun.",
+      "from": "Ik geef de gasten koffie.",
+      "answers": [
+        "Ik geef hun koffie.",
+        "Ik geef ze koffie."
+      ],
+      "en": "I give them coffee.",
+      "note": "The guests receive the coffee, without a preposition: hun in writing, ze in speech. Hen would be for 'aan hen'."
+    },
+    {
+      "type": "rewrite",
+      "task": "Replace het gesprek by a personal pronoun.",
+      "from": "Het gesprek duurt erg lang.",
+      "answers": [
+        "Het duurt erg lang."
+      ],
+      "en": "It takes a very long time.",
+      "note": "Gesprek is a het-word, so 'it' is het. A de-word would become hij: De film duurt lang → Hij duurt lang."
+    },
+    {
+      "type": "fix",
+      "wrong": "Ik praat vaak met hij over vroeger.",
+      "answers": [
+        "Ik praat vaak met hem over vroeger."
+      ],
+      "en": "I often talk to him about the old days.",
+      "note": "After a preposition the pronoun is always in the object form: met hem."
+    },
+    {
+      "type": "fix",
+      "wrong": "Hun appen me elke dag vanuit het buitenland.",
+      "answers": [
+        "Ze appen me elke dag vanuit het buitenland.",
+        "Zij appen me elke dag vanuit het buitenland."
+      ],
+      "en": "They text me every day from abroad.",
+      "note": "The subject form for 'they' is ze or zij. Hun as a subject is heard a lot, but it is a clear mistake."
+    }
+  ]
+}

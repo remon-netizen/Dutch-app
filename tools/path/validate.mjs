@@ -195,7 +195,9 @@ export function validateUnit(u) {
 
   if (!Array.isArray(u.words)) errs.push('words: missing array');
   else {
-    if (u.words.length < 14 || u.words.length > 16) errs.push(`words: ${u.words.length} (need 14–16)`);
+    // A writer delivers 14–16; dedupe.mjs may take a repeated word out afterwards, down to 12.
+    if (u.words.length < 12 || u.words.length > 16) errs.push(`words: ${u.words.length} (need 14–16)`);
+    else if (u.words.length < 14) warns.push(`words: ${u.words.length} (14–16 when written; fewer only after dedupe)`);
     const seen = new Set();
     u.words.forEach((w, i) => {
       checkWord(w, `words[${i}]`, errs, warns);
