@@ -1,0 +1,419 @@
+{
+  "id": "a2-07",
+  "level": "A2",
+  "icon": "🍽️",
+  "title": "Eating out",
+  "grammar": "Negation: niet and geen",
+  "summary": "Geen replaces een or no article in front of a noun; niet does the rest. Niet stands late: after a definite object, but before a preposition phrase, an adjective and the final verbs. One negation per sentence.",
+  "explain": "Dutch has two words for \"not\". `Geen` goes with a noun that has `een` or no article; `niet` does all the rest. Choosing between them is the easy part. The harder part is where `niet` stands, because that depends on what else is in the sentence.\n\n### Geen: where the positive sentence has een or no article\n\nLook at the positive sentence. A noun with `een`, or with no article at all (a plural, or something you cannot count), gets `geen` in that place.\n\n| positive | negative |\n| Ik neem een voorgerecht. | Ik neem geen voorgerecht. |\n| Ik eet vlees. | Ik eet geen vlees. |\n| Hij lust noten. | Hij lust geen noten. |\n\n> Ik heb geen honger. — I am not hungry.\n> Dat is geen probleem. — That is not a problem.\n\nA noun with `de`, `het`, `mijn`, `deze` or `dit` is definite and takes `niet`: `Ik neem het voorgerecht niet.`\n\n### Niet: late in the sentence\n\n`Niet` comes **after** the verb, after a definite object or a pronoun, and after a time word like `vandaag` or `vanavond`. If nothing else follows, it is the last word.\n\n> Ik rook niet. — I do not smoke.\n> Ik ken die ober niet. — I do not know that waiter.\n> We komen vanavond niet. — We are not coming tonight.\n\nBut `niet` comes **in front of** the part that completes the sentence:\n\n- a phrase with a preposition that says where or where to, or that belongs to the verb: `Ik woon niet in Utrecht`, `We gaan niet naar huis`, `Ik wacht niet op het nagerecht`. A noun inside such a phrase keeps `een`: `Ik werk niet in een restaurant.`\n- an adjective, and an adverb that says how or how often: `niet duur`, `niet lekker`, `niet goed`, `niet vaak`, `niet graag`\n- the verbs at the end, an infinitive or a past participle: `Ik kan niet komen`, `We hebben niet gereserveerd`\n\n> De soep is niet warm. — The soup is not warm.\n> Mijn man kookt niet vaak. — My husband does not cook often.\n\n### Niet … maar …: a correction\n\nTo correct one part of the sentence, put `niet` directly in front of that part and the right version after `maar`.\n\n> We komen niet vandaag, maar morgen. — We are coming not today, but tomorrow.\n\n### Nooit, niets, niemand, nergens: one negation\n\n`nooit` (never), `niets` (nothing), `niemand` (nobody) and `nergens` (nowhere) are the negation themselves. Standard Dutch does not add `niet` or `geen` to them, and after them it uses the positive words `iets`, `iemand`, `ooit`, `ergens`.\n\n> Ik drink nooit koffie. — I never drink coffee.\n> Niemand heeft iets gehoord. — Nobody has heard anything.\n\n### Compared with Ukrainian\n\nUkrainian piles negations up: `Ніхто нічого не сказав` has three. Dutch has one: `Niemand heeft iets gezegd`. `Я ніколи не їм м'яса` is `Ik eet nooit vlees`, never *Ik eet nooit geen vlees. And where Ukrainian puts `не` on the verb, Dutch often needs `geen` on the noun: `Я не маю часу` is `Ik heb geen tijd`.\n\n### Not yet, no longer, and wel\n\n- `nog niet`, `nog geen`: not yet. `Het eten is nog niet klaar.` `Ik heb nog geen honger.`\n- `niet meer`, `geen … meer`: no longer, no more. `Hij werkt hier niet meer.` `We hebben geen soep meer.`\n- `wel` is the opposite of `niet`: it stresses that something is so, mostly after a negative. `Ik drink geen wijn, maar wel bier.` `Ik niet, maar hij wel.`\n\n### Watch out\n\n- *Ik heb niet honger → `Ik heb geen honger`: no article in the positive sentence, so `geen`.\n- *Ik niet rook → `Ik rook niet`: in a main clause `niet` never stands between the subject and the verb.\n- *Ik woon in Utrecht niet → `Ik woon niet in Utrecht`.\n- *Niemand heeft niets gezegd → `Niemand heeft iets gezegd`.",
+  "words": [
+    {
+      "nl": "ober",
+      "art": "de",
+      "pl": "obers",
+      "en": "waiter",
+      "pos": "n"
+    },
+    {
+      "nl": "menukaart",
+      "art": "de",
+      "pl": "menukaarten",
+      "en": "menu",
+      "pos": "n"
+    },
+    {
+      "nl": "gerecht",
+      "art": "het",
+      "pl": "gerechten",
+      "en": "dish",
+      "pos": "n"
+    },
+    {
+      "nl": "voorgerecht",
+      "art": "het",
+      "pl": "voorgerechten",
+      "en": "starter",
+      "pos": "n"
+    },
+    {
+      "nl": "hoofdgerecht",
+      "art": "het",
+      "pl": "hoofdgerechten",
+      "en": "main course",
+      "pos": "n"
+    },
+    {
+      "nl": "nagerecht",
+      "art": "het",
+      "pl": "nagerechten",
+      "en": "dessert",
+      "pos": "n"
+    },
+    {
+      "nl": "rekening",
+      "art": "de",
+      "pl": "rekeningen",
+      "en": "bill",
+      "pos": "n"
+    },
+    {
+      "nl": "fooi",
+      "art": "de",
+      "pl": "fooien",
+      "en": "tip",
+      "pos": "n"
+    },
+    {
+      "nl": "allergie",
+      "art": "de",
+      "pl": "allergieën",
+      "en": "allergy",
+      "pos": "n"
+    },
+    {
+      "nl": "noot",
+      "art": "de",
+      "pl": "noten",
+      "en": "nut",
+      "pos": "n"
+    },
+    {
+      "nl": "bestellen",
+      "past": "bestelde",
+      "perf": "heeft besteld",
+      "en": "to order",
+      "pos": "v"
+    },
+    {
+      "nl": "reserveren",
+      "past": "reserveerde",
+      "perf": "heeft gereserveerd",
+      "en": "to book / to reserve",
+      "pos": "v"
+    },
+    {
+      "nl": "proeven",
+      "past": "proefde",
+      "perf": "heeft geproefd",
+      "en": "to taste / to try (food)",
+      "pos": "v"
+    },
+    {
+      "nl": "lusten",
+      "past": "lustte",
+      "perf": "heeft gelust",
+      "en": "to like (food or drink)",
+      "pos": "v"
+    },
+    {
+      "nl": "vegetarisch",
+      "en": "vegetarian",
+      "pos": "adj"
+    },
+    {
+      "nl": "allergisch",
+      "en": "allergic",
+      "pos": "adj",
+      "tag": "allergisch voor"
+    }
+  ],
+  "sentences": [
+    {
+      "nl": "Ik eet geen vlees, maar wel vis.",
+      "en": "I do not eat meat, but I do eat fish.",
+      "hint": [
+        "eten",
+        "vlees",
+        "wel",
+        "vis"
+      ],
+      "note": "The positive sentence is Ik eet vlees, a noun without an article, so the negative takes geen. Wel is the opposite of the negation: it stresses that fish is fine."
+    },
+    {
+      "nl": "Lust je de soep niet?",
+      "en": "Don't you like the soup?",
+      "hint": [
+        "lusten",
+        "soep"
+      ],
+      "note": "De soep is a definite object, so the negation is niet, and it comes after the object, at the end. Lusten is 'to like' for food and drink only.",
+      "alt": [
+        "Lust jij de soep niet?"
+      ]
+    },
+    {
+      "nl": "Hij geeft nooit een fooi.",
+      "en": "He never gives a tip.",
+      "hint": [
+        "geven",
+        "nooit",
+        "fooi"
+      ],
+      "note": "Nooit is the negation, and it is the only one: een fooi keeps een. *Hij geeft nooit geen fooi would be the Ukrainian habit of two negatives.",
+      "alt": [
+        "Hij geeft nooit fooi."
+      ]
+    },
+    {
+      "nl": "Wij eten niet vaak in een restaurant.",
+      "en": "We do not often eat in a restaurant.",
+      "hint": [
+        "eten",
+        "vaak",
+        "restaurant"
+      ],
+      "note": "Niet stands in front of the adverb vaak. The noun after the preposition in keeps een: niet negates the whole phrase.",
+      "alt": [
+        "We eten niet vaak in een restaurant."
+      ]
+    },
+    {
+      "nl": "Uw naam staat niet op de lijst.",
+      "en": "Your (formal) name is not on the list.",
+      "hint": [
+        "naam",
+        "staan",
+        "lijst"
+      ],
+      "note": "Op de lijst is a phrase with a preposition that says where: niet goes in front of it, never after it."
+    },
+    {
+      "nl": "In dit gerecht zitten geen noten.",
+      "en": "There are no nuts in this dish.",
+      "hint": [
+        "gerecht",
+        "zitten",
+        "noot"
+      ],
+      "note": "The positive sentence has a plural without an article (… zitten noten), so the negative is geen noten. Dutch says that nuts 'sit' in a dish.",
+      "alt": [
+        "Er zitten geen noten in dit gerecht."
+      ]
+    },
+    {
+      "nl": "Het hoofdgerecht is nog niet klaar.",
+      "en": "The main course is not ready yet.",
+      "hint": [
+        "hoofdgerecht",
+        "nog niet",
+        "klaar"
+      ],
+      "note": "Niet stands in front of the adjective klaar, which completes the sentence. Nog niet is 'not yet'."
+    },
+    {
+      "nl": "Waarom nemen jullie geen nagerecht?",
+      "en": "Why are you (plural) not having a dessert?",
+      "hint": [
+        "waarom",
+        "nemen",
+        "nagerecht"
+      ],
+      "note": "The positive sentence is Jullie nemen een nagerecht: een becomes geen, in the same place."
+    },
+    {
+      "nl": "Niemand zegt iets over de rekening.",
+      "en": "Nobody says anything about the bill.",
+      "hint": [
+        "niemand",
+        "zeggen",
+        "iets",
+        "rekening"
+      ],
+      "note": "Niemand is the negation, so the next word is the positive iets, not niets. Ukrainian would use three negatives here, Dutch one."
+    },
+    {
+      "nl": "We kunnen vanavond niet komen.",
+      "en": "We cannot come tonight.",
+      "hint": [
+        "kunnen",
+        "vanavond",
+        "komen"
+      ],
+      "note": "Niet stands after the time word vanavond and in front of the infinitive at the end.",
+      "alt": [
+        "Wij kunnen vanavond niet komen.",
+        "Vanavond kunnen we niet komen.",
+        "Vanavond kunnen wij niet komen."
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "type": "choose",
+      "nl": "Nee, dank u, ik heb ___ dorst.",
+      "options": [
+        "niet",
+        "geen",
+        "niets"
+      ],
+      "correct": 1,
+      "en": "No, thank you, I am not thirsty.",
+      "note": "Dorst has no article in the positive sentence (Ik heb dorst), so the negative is geen dorst, never *niet dorst."
+    },
+    {
+      "type": "choose",
+      "nl": "Dit voorgerecht is ___ vegetarisch.",
+      "options": [
+        "geen",
+        "niets",
+        "niet"
+      ],
+      "correct": 2,
+      "en": "This starter is not vegetarian.",
+      "note": "Vegetarisch is an adjective, not a noun, so the negation is niet, and it stands in front of the adjective. Geen needs a noun after it."
+    },
+    {
+      "type": "choose",
+      "nl": "Niemand heeft ___ besteld.",
+      "options": [
+        "niets",
+        "iets",
+        "geen"
+      ],
+      "correct": 1,
+      "en": "Nobody has ordered anything.",
+      "note": "Niemand already is the negation. After it Dutch uses the positive word iets; with niets as well, the sentence would mean that everybody ordered something."
+    },
+    {
+      "type": "choose",
+      "nl": "We hebben ___ menukaart.",
+      "options": [
+        "niet",
+        "nog geen",
+        "nog niet"
+      ],
+      "correct": 1,
+      "en": "We do not have a menu yet.",
+      "note": "We hebben een menukaart: een becomes geen, and 'not yet' is then nog geen. Nog niet is for sentences where niet is the negation: Het eten is nog niet klaar."
+    },
+    {
+      "type": "gap",
+      "nl": "Ben je allergisch voor noten? Nee, ik heb ___ (niet / geen) allergie.",
+      "answers": [
+        "geen"
+      ],
+      "en": "Are you allergic to nuts? No, I do not have an allergy.",
+      "note": "The positive sentence is Ik heb een allergie. Een becomes geen: geen allergie."
+    },
+    {
+      "type": "gap",
+      "nl": "Heeft u gereserveerd? Nee, we hebben ___ (niet / geen) gereserveerd.",
+      "answers": [
+        "niet"
+      ],
+      "en": "Have you (formal) booked? No, we have not booked.",
+      "note": "There is no noun to negate, so it is niet, and it stands in front of the past participle at the end."
+    },
+    {
+      "type": "gap",
+      "nl": "Ken je hier iemand? Nee, ik ken hier ___ (iemand).",
+      "answers": [
+        "niemand"
+      ],
+      "en": "Do you know anyone here? No, I do not know anyone here.",
+      "note": "The negative of iemand is niemand, and it is the whole negation: no niet with it. English 'not … anyone' is one word in Dutch."
+    },
+    {
+      "type": "order",
+      "lead": "Ik",
+      "words": [
+        "proef",
+        "de knoflook",
+        "niet"
+      ],
+      "answers": [
+        "Ik proef de knoflook niet."
+      ],
+      "en": "I cannot taste the garlic.",
+      "note": "De knoflook is a definite object and nothing else follows, so niet is the last word of the sentence."
+    },
+    {
+      "type": "order",
+      "lead": "Ik",
+      "words": [
+        "heb",
+        "de rekening",
+        "nog niet",
+        "betaald"
+      ],
+      "answers": [
+        "Ik heb de rekening nog niet betaald."
+      ],
+      "en": "I have not paid the bill yet.",
+      "note": "Nog niet comes after the definite object de rekening and in front of the past participle, which stands at the end."
+    },
+    {
+      "type": "order",
+      "lead": "Mijn man",
+      "words": [
+        "gaat",
+        "niet",
+        "graag",
+        "naar een restaurant"
+      ],
+      "answers": [
+        "Mijn man gaat niet graag naar een restaurant."
+      ],
+      "en": "My husband does not like going to a restaurant.",
+      "note": "Niet stands in front of the adverb graag, and both come before the phrase with the preposition: niet graag naar een restaurant."
+    },
+    {
+      "type": "rewrite",
+      "task": "Make it negative.",
+      "from": "De ober spreekt Engels.",
+      "answers": [
+        "De ober spreekt geen Engels."
+      ],
+      "en": "The waiter does not speak English.",
+      "note": "Engels is a noun without an article here, so the negative is geen Engels. The same goes for geen Nederlands spreken."
+    },
+    {
+      "type": "rewrite",
+      "task": "Make it negative.",
+      "from": "Ik zie de ober.",
+      "answers": [
+        "Ik zie de ober niet."
+      ],
+      "en": "I do not see the waiter.",
+      "note": "De ober is definite, so the negation is niet, and it comes after the object. Geen is only for a noun with een or without an article."
+    },
+    {
+      "type": "rewrite",
+      "task": "Correct it with niet … maar …: you are having the salad (de salade), not the soup.",
+      "from": "Ik neem de soep.",
+      "answers": [
+        "Ik neem niet de soep, maar de salade.",
+        "Ik neem de soep niet, maar de salade."
+      ],
+      "en": "I am having not the soup, but the salad.",
+      "note": "In a correction niet stands directly in front of the part that is wrong, here de soep, and maar brings the right version. With niet after de soep the sentence is right as well."
+    },
+    {
+      "type": "fix",
+      "wrong": "Mijn zoon lust niet vis.",
+      "answers": [
+        "Mijn zoon lust geen vis."
+      ],
+      "en": "My son does not like fish.",
+      "note": "Vis has no article (Hij lust vis), so the negation is geen: geen vis. Niet would be right with a definite noun: Hij lust de vis niet."
+    },
+    {
+      "type": "fix",
+      "wrong": "De ober niet komt.",
+      "answers": [
+        "De ober komt niet."
+      ],
+      "en": "The waiter is not coming.",
+      "note": "The verb is the second element of a main clause, so niet cannot stand between the subject and the verb. It comes after the verb."
+    },
+    {
+      "type": "fix",
+      "wrong": "Wij eten vanavond in een restaurant niet.",
+      "answers": [
+        "Wij eten vanavond niet in een restaurant."
+      ],
+      "en": "We are not eating in a restaurant tonight.",
+      "note": "In een restaurant says where and completes the sentence, so niet stands in front of it. The time word vanavond stays before niet."
+    }
+  ]
+}

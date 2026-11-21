@@ -1,0 +1,411 @@
+{
+  "id": "a2-19",
+  "level": "A2",
+  "icon": "🏙️",
+  "title": "City or village?",
+  "grammar": "Comparing: groter, het grootst, even groot als",
+  "summary": "Comparative: adjective + er (groter, duurder), followed by dan. Superlative: + st (het grootst, de grootste stad). Irregular: goed, beter, best; veel, meer, meest. Equal: even groot als. No meer + adjective.",
+  "explain": "To compare two things Dutch uses the comparative (*de vergrotende trap*): `groter`. To say that something beats all the others it uses the superlative (*de overtreffende trap*): `het grootst`. Both are made with an ending on the adjective itself. Dutch normally does not use an extra word like English \"more\" and \"most\", not even for long adjectives.\n\n### The comparative: + er\n\n| | comparative | what happens |\n| klein | kleiner | + er |\n| groot | groter | long vowel: one letter |\n| dik | dikker | short vowel: double consonant |\n| lief | liever | f becomes v |\n| vies | viezer | s becomes z |\n| duur | duurder | after r: + der |\n\nThe spelling changes are the same as for the `-e` of the adjective (unit A2 · 10): `grote → groter`, `dikke → dikker`, `lieve → liever`, `vieze → viezer`. New is the **d after r**: `duur → duurder`, `ver → verder`, `lekker → lekkerder`, `zwaar → zwaarder`.\n\nAfter a comparative comes `dan`. You will hear `als` too, but `dan` is the standard, and it is what you should write.\n\n> Utrecht is kleiner dan Rotterdam. — Utrecht is smaller than Rotterdam.\n> Een huis is duurder dan een flat. — A house is more expensive than a flat.\n\n### The superlative: + st\n\n`groot → grootst`, `mooi → mooist`, `duur → duurst` (no d here). After an s only a t is added: `vies → viest`.\n\n- Before a noun: `de` or `het` + superlative + `e`: `de grootste stad`, `het mooiste dorp`.\n- On its own: `het` + superlative, with or without `-e`: `Dit huis is het duurst` or `het duurste`.\n\n> Amsterdam is de grootste stad van Nederland. — Amsterdam is the biggest city in the Netherlands.\n> In de zomer is het hier het drukst. — It is busiest here in the summer.\n\n### Irregular forms\n\n| | comparative | superlative |\n| goed | beter | het best |\n| veel | meer | het meest |\n| weinig | minder | het minst |\n| graag | liever | het liefst |\n\nAlso: `dichtbij → dichterbij` (closer).\n\n> Ik woon graag in de stad, maar mijn man woont liever in een dorp. — I like living in the city, but my husband prefers to live in a village.\n> Een dorp heeft minder inwoners dan een stad. — A village has fewer inhabitants than a city.\n\n### Just as, not as\n\n| Dutch | English |\n| even groot als | just as big as |\n| net zo groot als | just as big as |\n| niet zo groot als | not as big as |\n\nHere the adjective keeps its basic form, and the word after it is `als`, not `dan`.\n\n> Mijn kamer is even groot als de keuken. — My room is just as big as the kitchen.\n> Utrecht is niet zo groot als Amsterdam. — Utrecht is not as big as Amsterdam.\n\n### Before a noun\n\nA comparative before a noun follows the ordinary `-e` rule (unit A2 · 10): it takes `-e`, except with a het-word after `een`, `geen` or no article.\n\n> Zij willen een grotere keuken. — They want a bigger kitchen.\n> Zij willen een groter balkon. — They want a bigger balcony.\n\nLong comparatives sometimes drop that `-e` (`een veiliger buurt`). Following the rule is always right.\n\n### Small words before a comparative\n\n`veel groter` (much bigger), `nog groter` (even bigger), `steeds groter` (bigger and bigger).\n\n> Het verkeer wordt steeds drukker. — The traffic is getting busier and busier.\n\n### Watch out\n\n- No `meer` + adjective: `interessanter`, `belangrijker`, `gezelliger`, not *meer interessant. `Meer` is the comparative of `veel`: `meer ruimte`, `meer mensen`.\n- `dan` after a comparative, `als` after `even` and `zo`: `groter dan`, but `even groot als`.\n- `duurder` has a d, `duurst` has none: never *duurdst.\n- `beter` and `best`, never *goeder and *goedst.\n\n### Compared with Ukrainian\n\nUkrainian has a short comparative (`більший`, `дешевший`) and a long one with `більш` (`більш цікавий`). Dutch normally has only the short one: `interessanter`. `Ніж` or `за` after a comparative is always `dan`. And `найбільший` is `de grootste` or `het grootst`: an ending, not a prefix.",
+  "words": [
+    {
+      "nl": "dorp",
+      "art": "het",
+      "pl": "dorpen",
+      "en": "village",
+      "pos": "n"
+    },
+    {
+      "nl": "platteland",
+      "art": "het",
+      "pl": "",
+      "en": "countryside",
+      "pos": "n",
+      "tag": "no plural"
+    },
+    {
+      "nl": "inwoner",
+      "art": "de",
+      "pl": "inwoners",
+      "en": "inhabitant",
+      "pos": "n"
+    },
+    {
+      "nl": "lawaai",
+      "art": "het",
+      "pl": "",
+      "en": "noise",
+      "pos": "n",
+      "tag": "no plural"
+    },
+    {
+      "nl": "ruimte",
+      "art": "de",
+      "pl": "ruimtes",
+      "en": "space",
+      "pos": "n"
+    },
+    {
+      "nl": "lucht",
+      "art": "de",
+      "pl": "luchten",
+      "en": "air / sky",
+      "pos": "n"
+    },
+    {
+      "nl": "voordeel",
+      "art": "het",
+      "pl": "voordelen",
+      "en": "advantage",
+      "pos": "n"
+    },
+    {
+      "nl": "nadeel",
+      "art": "het",
+      "pl": "nadelen",
+      "en": "disadvantage",
+      "pos": "n"
+    },
+    {
+      "nl": "verschil",
+      "art": "het",
+      "pl": "verschillen",
+      "en": "difference",
+      "pos": "n"
+    },
+    {
+      "nl": "rustig",
+      "en": "quiet / calm",
+      "pos": "adj"
+    },
+    {
+      "nl": "veilig",
+      "en": "safe",
+      "pos": "adj"
+    },
+    {
+      "nl": "schoon",
+      "en": "clean",
+      "pos": "adj"
+    },
+    {
+      "nl": "ruim",
+      "en": "spacious",
+      "pos": "adj"
+    },
+    {
+      "nl": "saai",
+      "en": "boring",
+      "pos": "adj"
+    },
+    {
+      "nl": "stil",
+      "en": "silent (no sound)",
+      "pos": "adj"
+    },
+    {
+      "nl": "dichtbij",
+      "en": "nearby / close",
+      "pos": "adv"
+    }
+  ],
+  "sentences": [
+    {
+      "nl": "Een dorp is rustiger dan een stad.",
+      "en": "A village is quieter than a city.",
+      "hint": [
+        "dorp",
+        "rustig",
+        "dan",
+        "stad"
+      ],
+      "note": "rustig + er = rustiger. After a comparative comes dan, not als."
+    },
+    {
+      "nl": "Wat is het grootste verschil tussen een dorp en een stad?",
+      "en": "What is the biggest difference between a village and a city?",
+      "hint": [
+        "groot",
+        "verschil",
+        "tussen",
+        "dorp",
+        "stad"
+      ],
+      "note": "groot + st = grootst, and before a noun the superlative always takes -e: het grootste verschil."
+    },
+    {
+      "nl": "In het centrum zijn de huizen het duurst.",
+      "en": "In the centre the houses are the most expensive.",
+      "hint": [
+        "centrum",
+        "huis",
+        "duur"
+      ],
+      "note": "duur + st = duurst, without d: only the comparative duurder has one. On its own the superlative takes het: het duurst (het duurste is also right).",
+      "alt": [
+        "In het centrum zijn de huizen het duurste."
+      ]
+    },
+    {
+      "nl": "Wij zoeken een groter huis met een tuin.",
+      "en": "We are looking for a bigger house with a garden.",
+      "hint": [
+        "zoeken",
+        "groot",
+        "huis",
+        "tuin"
+      ],
+      "note": "Before a noun the comparative follows the -e rule. Huis is a het-word after een, so no -e: een groter huis. With a de-word: een grotere tuin.",
+      "alt": [
+        "We zoeken een groter huis met een tuin."
+      ]
+    },
+    {
+      "nl": "Mijn zus woont liever in een klein dorp.",
+      "en": "My sister prefers to live in a small village.",
+      "hint": [
+        "zus",
+        "wonen",
+        "graag",
+        "klein",
+        "dorp"
+      ],
+      "note": "liever is the comparative of graag: woont graag (likes living), woont liever (prefers to live). Never *meer graag."
+    },
+    {
+      "nl": "Is jullie nieuwe huis even groot als het oude?",
+      "en": "Is your (plural) new house just as big as the old one?",
+      "hint": [
+        "nieuw",
+        "huis",
+        "even",
+        "groot",
+        "oud"
+      ],
+      "note": "even … als says that two things are equal. The adjective keeps its basic form, groot, and the word after it is als, not dan.",
+      "alt": [
+        "Is jullie nieuwe huis net zo groot als het oude?"
+      ]
+    },
+    {
+      "nl": "De lucht is hier niet zo schoon als in ons dorp.",
+      "en": "The air here is not as clean as in our village.",
+      "hint": [
+        "lucht",
+        "hier",
+        "schoon",
+        "dorp"
+      ],
+      "note": "niet zo … als: the adjective keeps its basic form, schoon, and als follows. The same idea with a comparative: In ons dorp is de lucht schoner dan hier.",
+      "alt": [
+        "De lucht hier is niet zo schoon als in ons dorp."
+      ]
+    },
+    {
+      "nl": "De huizen in de stad worden steeds duurder.",
+      "en": "The houses in the city are getting more and more expensive.",
+      "hint": [
+        "huis",
+        "stad",
+        "worden",
+        "steeds",
+        "duur"
+      ],
+      "note": "steeds + comparative means 'more and more'. Duur ends in r, so the comparative gets a d: duurder."
+    },
+    {
+      "nl": "Het belangrijkste nadeel van de stad is het lawaai.",
+      "en": "The most important disadvantage of the city is the noise.",
+      "hint": [
+        "belangrijk",
+        "nadeel",
+        "stad",
+        "lawaai"
+      ],
+      "note": "Long adjectives take the ending too: belangrijk + st, and -e before the noun. Not *het meest belangrijke nadeel."
+    },
+    {
+      "nl": "Op het platteland heb je meer ruimte en minder verkeer.",
+      "en": "In the countryside you have more space and less traffic.",
+      "hint": [
+        "platteland",
+        "hebben",
+        "veel",
+        "ruimte",
+        "weinig",
+        "verkeer"
+      ],
+      "note": "meer and minder are the irregular comparatives of veel and weinig. Before a noun they do not change: meer ruimte, minder verkeer."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "choose",
+      "nl": "Het openbaar vervoer is in de stad ___ dan op het platteland.",
+      "options": [
+        "goeder",
+        "beter",
+        "meer goed"
+      ],
+      "correct": 1,
+      "en": "Public transport is better in the city than in the countryside.",
+      "note": "goed is irregular: goed, beter, best. There is no *goeder, and meer goed is not Dutch either."
+    },
+    {
+      "type": "choose",
+      "nl": "Ons dorp is kleiner ___ jullie stad.",
+      "options": [
+        "als",
+        "dat",
+        "dan"
+      ],
+      "correct": 2,
+      "en": "Our village is smaller than your (plural) city.",
+      "note": "After a comparative the standard is dan. You will hear als in speech, but in writing and in exams it counts as a mistake."
+    },
+    {
+      "type": "choose",
+      "nl": "Ze hebben nu een ___ tuin.",
+      "options": [
+        "groter",
+        "grotere",
+        "meer grote"
+      ],
+      "correct": 1,
+      "en": "They now have a bigger garden.",
+      "note": "Before a noun the comparative follows the -e rule. Tuin is a de-word, so -e: een grotere tuin. Without -e only for a het-word after een: een groter huis."
+    },
+    {
+      "type": "choose",
+      "nl": "Het ___ voordeel van een dorp is de rust.",
+      "options": [
+        "grootst",
+        "meest grote",
+        "grootste"
+      ],
+      "correct": 2,
+      "en": "The biggest advantage of a village is the peace and quiet.",
+      "note": "Before a noun the superlative always takes -e: het grootste voordeel. Dutch does not build it with meest."
+    },
+    {
+      "type": "choose",
+      "nl": "Ik woon ___ in een dorp dan in een stad.",
+      "options": [
+        "liever",
+        "graager",
+        "meer graag"
+      ],
+      "correct": 0,
+      "en": "I prefer living in a village to living in a city.",
+      "note": "graag is irregular: graag, liever, het liefst. Liever … dan … says what you prefer."
+    },
+    {
+      "type": "gap",
+      "nl": "De lucht in de stad is ___ (vies) dan in ons dorp.",
+      "answers": [
+        "viezer"
+      ],
+      "en": "The air in the city is dirtier than in our village.",
+      "note": "vies + er. The s of vies becomes z when an ending is added, as in vieze: viezer."
+    },
+    {
+      "type": "gap",
+      "nl": "Welke stad heeft de ___ (veel) inwoners?",
+      "answers": [
+        "meeste"
+      ],
+      "en": "Which city has the most inhabitants?",
+      "note": "veel, meer, meest. Before a plural noun it is de meeste, with de and with -e: de meeste inwoners."
+    },
+    {
+      "type": "gap",
+      "nl": "Mijn werk is nu ___ (dichtbij) dan vroeger.",
+      "answers": [
+        "dichterbij"
+      ],
+      "en": "My work is closer now than it used to be.",
+      "note": "In dichtbij the ending goes on the first part: dichterbij. The dan after it shows that a comparative is needed."
+    },
+    {
+      "type": "gap",
+      "nl": "Het leven in een dorp is niet zo ___ (saai) als je denkt.",
+      "answers": [
+        "saai"
+      ],
+      "en": "Life in a village is not as boring as you think.",
+      "note": "After zo (and after even) the adjective keeps its basic form: niet zo saai als. The comparative saaier would need dan."
+    },
+    {
+      "type": "gap",
+      "nl": "Van alle steden is Amsterdam het ___ (duur).",
+      "answers": [
+        "duurst",
+        "duurste"
+      ],
+      "en": "Of all cities Amsterdam is the most expensive.",
+      "note": "The superlative is duur + st, without the d of duurder. After het both duurst and duurste are right."
+    },
+    {
+      "type": "gap",
+      "nl": "'s Nachts is het hier nog ___ (stil) dan overdag.",
+      "answers": [
+        "stiller"
+      ],
+      "en": "At night it is even quieter here than during the day.",
+      "note": "stil has a short vowel, so the l is doubled before -er: stiller. Nog before a comparative means 'even'."
+    },
+    {
+      "type": "order",
+      "lead": "Ons dorp",
+      "words": [
+        "is",
+        "niet zo",
+        "groot",
+        "als",
+        "jullie stad"
+      ],
+      "answers": [
+        "Ons dorp is niet zo groot als jullie stad."
+      ],
+      "en": "Our village is not as big as your (plural) city.",
+      "note": "niet zo + adjective + als: the adjective stands between zo and als, in its basic form."
+    },
+    {
+      "type": "rewrite",
+      "task": "Say the same with a comparative. Start with Een huis.",
+      "from": "Een flat is niet zo ruim als een huis.",
+      "answers": [
+        "Een huis is ruimer dan een flat."
+      ],
+      "en": "A house is more spacious than a flat.",
+      "note": "niet zo ruim als turns round into ruimer dan: ruim + er, and dan after the comparative."
+    },
+    {
+      "type": "rewrite",
+      "task": "Say that it is getting busier and busier: use steeds.",
+      "from": "Het centrum wordt druk.",
+      "answers": [
+        "Het centrum wordt steeds drukker."
+      ],
+      "en": "The centre is getting busier and busier.",
+      "note": "steeds + comparative. Druk has a short vowel, so the k is doubled: drukker."
+    },
+    {
+      "type": "fix",
+      "wrong": "Deze buurt is meer veilig dan het centrum.",
+      "answers": [
+        "Deze buurt is veiliger dan het centrum."
+      ],
+      "en": "This neighbourhood is safer than the centre.",
+      "note": "Dutch puts the ending on the adjective itself: veilig + er. Meer veilig is English, not Dutch."
+    },
+    {
+      "type": "fix",
+      "wrong": "Ons huis is even groot dan jullie huis.",
+      "answers": [
+        "Ons huis is even groot als jullie huis."
+      ],
+      "en": "Our house is just as big as your (plural) house.",
+      "note": "After even + adjective comes als. Dan only follows a comparative: groter dan."
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Nederlands: Dutch from A2 to B2",
+  "short_name": "Nederlands",
+  "description": "A Dutch course from A2 to B2, one grammar point at a time: explanation, words, sentences and exercises, with spaced review",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#c2410c",
+  "orientation": "portrait-primary",
+  "lang": "en",
+  "icons": [
+    { "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ],
+  "categories": ["education"]
+}

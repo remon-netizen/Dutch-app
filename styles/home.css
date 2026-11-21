@@ -1,0 +1,150 @@
+/* ── Home centred column ── */
+.home-center {
+  max-width: 420px;
+  margin: 0 auto;
+}
+
+/* voice-select and voice-test-btn now live in the settings drawer (base.css) */
+.voice-select {
+  padding: 8px 12px; border: 2px solid var(--border); border-radius: 8px;
+  font-size: 0.85rem; outline: none; cursor: pointer; background: white;
+  transition: border-color 0.2s;
+}
+.voice-select:focus { border-color: var(--brand); }
+.voice-test-btn {
+  padding: 8px 14px; background: var(--brand); color: white;
+  border: none; border-radius: 8px; font-size: 0.85rem; font-weight: 600;
+  cursor: pointer; transition: background 0.2s; white-space: nowrap; flex-shrink: 0;
+}
+.voice-test-btn:hover { background: var(--brand-dark); }
+.vc-name { font-weight: 600; font-size: 0.9rem; color: var(--text); }
+.vc-quality { font-size: 0.75rem; margin-top: 2px; }
+.vc-quality.neural { color: var(--success); }
+.vc-quality.standard { color: var(--warning); }
+
+/* ── Home tools grid (2-column) ── */
+.home-tools-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 10px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+.home-tool-card {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 4px;
+  padding: 18px 10px 14px;
+  background: var(--card-bg);
+  border: 2px solid var(--border);
+  border-radius: 14px;
+  cursor: pointer;
+  transition: all 0.2s;
+  position: relative;
+}
+.home-tool-card:hover {
+  border-color: var(--brand);
+  transform: translateY(-2px);
+  box-shadow: 0 4px 12px rgba(0,0,0,0.08);
+}
+.home-tool-icon  { font-size: 1.6rem; }
+.home-tool-title { font-weight: 700; font-size: 0.9rem; color: var(--text); }
+.home-tool-sub   { font-size: 0.75rem; color: var(--gray); }
+
+/* Badge inside tool card */
+.home-tool-card .review-btn-count {
+  position: absolute;
+  top: 8px;
+  right: 8px;
+  background: #8b5cf6;
+  color: white;
+  font-size: 0.75rem;
+  font-weight: 700;
+  padding: 2px 6px;
+  border-radius: 8px;
+}
+
+/* ── Mobile ── */
+@media (max-width: 500px) {
+  .home-tools-grid { grid-template-columns: 1fr 1fr; gap: 8px; }
+  .home-tool-card { padding: 14px 10px; }
+  .home-tool-icon { font-size: 1.5rem; }
+  .home-tool-title { font-size: 0.85rem; }
+}
+
+/* ── Today card ── */
+.today-card {
+  background: var(--card-bg); border: 2px solid var(--border); border-radius: 14px;
+  padding: 12px 12px 6px; margin-top: 10px;
+}
+.today-title {
+  font-size: 0.75rem; font-weight: 800; color: var(--gray);
+  text-transform: uppercase; letter-spacing: 0.04em; margin: 0 4px 8px;
+}
+.today-row {
+  display: flex; align-items: center; gap: 10px; width: 100%;
+  padding: 10px 10px; margin-bottom: 6px; border-radius: 10px;
+  border: 1px solid var(--border); background: var(--bg); cursor: pointer;
+  text-align: left; font-family: inherit; transition: all 0.15s; min-height: 48px;
+}
+.today-row:hover, .today-row:active { border-color: var(--brand); background: var(--brand-soft); }
+.today-row-hot { border-color: #fcd34d; background: #fffbeb; }
+.today-icon { font-size: 1.3rem; flex-shrink: 0; }
+.today-text { display: flex; flex-direction: column; min-width: 0; flex: 1; }
+.today-row-title { font-size: 0.9rem; font-weight: 700; color: var(--text); }
+.today-row-sub { font-size: 0.75rem; color: var(--gray); white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+.today-arrow { color: var(--gray); font-weight: 700; }
+.home-tool-title .flag-icon { vertical-align: -1px; margin-right: 2px; border-radius: 2px; }
+
+/* ── Review hub ── */
+/* The hub's own header, in the purple of a review round. A round running on this
+   screen brings its own header (.ce-header) in the colour of its course. */
+#reviewScreen .lesson-header:not(.ce-header) {
+  display: flex; align-items: center; gap: 14px;
+  background: linear-gradient(135deg, #7c3aed 0%, #5b21b6 100%);
+  border-radius: 16px; padding: 14px 18px; margin-bottom: 16px;
+  box-shadow: 0 2px 12px rgba(124,58,237,0.22);
+}
+#reviewScreen .lesson-header:not(.ce-header) .back-btn {
+  background: rgba(255,255,255,0.18); border: none; border-radius: 10px;
+  color: white; font-size: 1.2rem; width: 36px; height: 36px; padding: 0; flex-shrink: 0;
+}
+#reviewScreen .lesson-header:not(.ce-header) .back-btn:hover { background: rgba(255,255,255,0.32); }
+#reviewScreen .lesson-header:not(.ce-header) .lesson-title { font-size: 1.05rem; font-weight: 700; color: white; }
+#reviewScreen .lesson-header:not(.ce-header) .lesson-subtitle { font-size: 0.75rem; color: rgba(255,255,255,0.78); margin-top: 2px; }
+.rv-hub { display: flex; flex-direction: column; gap: 10px; }
+.rv-all-btn {
+  width: 100%; display: flex; flex-direction: column; align-items: center; gap: 4px; padding: 16px 14px; margin-bottom: 12px;
+  border: none; border-radius: 14px; background: linear-gradient(135deg, #7c3aed 0%, #5b21b6 100%); color: white;
+  cursor: pointer; font-family: inherit; min-height: 64px; box-shadow: 0 2px 12px rgba(124,58,237,0.25);
+}
+.rv-all-btn:hover:not(:disabled) { filter: brightness(1.08); }
+.rv-catch-btn { width: 100%; padding: 11px 14px; margin: -6px 0 12px; border: 2px solid #fdba74; border-radius: 12px; background: #fff7ed; color: #9a3412; font-size: 0.85rem; font-weight: 700; cursor: pointer; font-family: inherit; min-height: 44px; }
+.rv-catch-link { display: block; width: 100%; margin: -6px 0 12px; background: none; border: none; color: var(--gray); font-size: 0.78rem; text-decoration: underline; cursor: pointer; font-family: inherit; }
+.rv-all-btn:disabled { background: var(--card-bg); color: var(--gray); border: 2px dashed var(--border); box-shadow: none; cursor: default; }
+.rv-all-title { font-size: 1rem; font-weight: 800; }
+.rv-all-sub { font-size: 0.76rem; opacity: 0.85; }
+.rv-row {
+  display: flex; align-items: center; gap: 12px; width: 100%;
+  padding: 14px; border-radius: 14px; border: 2px solid var(--border);
+  background: var(--card-bg); cursor: pointer; text-align: left; font-family: inherit;
+  transition: all 0.15s; min-height: 64px;
+}
+.rv-row:hover:not(:disabled), .rv-row:active:not(:disabled) { border-color: var(--brand); background: var(--brand-soft); }
+.rv-row-icon { font-size: 1.6rem; flex-shrink: 0; }
+.rv-row-text { display: flex; flex-direction: column; flex: 1; min-width: 0; }
+.rv-row-title { font-size: 0.95rem; font-weight: 700; color: var(--text); }
+.rv-row-sub { font-size: 0.76rem; color: var(--gray); }
+.rv-row-count {
+  font-size: 0.85rem; font-weight: 800; color: var(--gray);
+  background: var(--bg); border-radius: 10px; padding: 4px 10px; flex-shrink: 0;
+}
+.rv-row-due { background: #8b5cf6; color: white; }
+.rv-empty-note { font-size: 0.86rem; line-height: 1.5; color: var(--gray); padding: 6px 4px; }
+.rv-empty { display: flex; gap: 8px; flex-wrap: wrap; margin-top: 6px; }
+.rv-empty-btn {
+  flex: 1; padding: 12px; border: 2px solid var(--border); border-radius: 12px;
+  background: var(--card-bg); font-weight: 700; cursor: pointer; font-family: inherit; min-height: 44px;
+}
+.rv-empty-btn:hover { border-color: var(--brand); color: var(--brand); }

@@ -1,0 +1,424 @@
+{
+  "id": "a2-18",
+  "level": "A2",
+  "icon": "🛍️",
+  "title": "In the shop",
+  "grammar": "Deze, die, dit, dat",
+  "summary": "Near: deze (de-words and all plurals), dit (het-words in the singular). Far: die and dat in the same way. Dit is / dat zijn + noun never change. Die and dat also stand in for hij, zij, het, usually in first place.",
+  "explain": "`Deze`, `die`, `dit` and `dat` are the pointing words (*aanwijzende voornaamwoorden*): \"this\", \"that\", \"these\", \"those\". Which one you need depends on two things: is the thing near or far, and is the noun a de-word or a het-word? This is one of the reasons to learn every noun with its article.\n\n### The four forms\n\n| | near: this, these | far: that, those |\n| de-word (de jas) | deze jas | die jas |\n| het-word (het horloge) | dit horloge | dat horloge |\n| every plural | deze jassen, deze horloges | die jassen, die horloges |\n\nEvery plural is a de-word, so the plural always takes `deze` or `die`: `dit horloge`, but `deze horloges`. A way to remember it: the forms that end in **t** go with he**t**.\n\n> Deze trui is te groot. — This jumper is too big.\n> Dat overhemd staat je goed. — That shirt suits you.\n> Die laarzen zijn te duur. — Those boots are too expensive.\n\n\"Far\" does not have to be far away. `Die` and `dat` are also used for something that was just mentioned, and in speech they are the most common choice. `Deze` and `dit` really point: this one here.\n\nAn adjective after these words always takes `-e` (unit A2 · 10): `dit mooie horloge`, `deze nieuwe schoenen`.\n\n### On their own\n\nAll four can be used without a noun when it is clear what you mean. The form still follows the noun you have in mind. English adds \"one\", Dutch adds nothing.\n\n> Ik neem deze. — I will take this one.\n> Dit overhemd is te groot, maar dat past goed. — This shirt is too big, but that one fits well.\n\n### Dit is …, dat zijn …\n\nTo introduce or identify a person or a thing, Dutch says `dit` or `dat` + `zijn` + noun. Here **dit and dat never change**: not for a de-word, not for a plural. Only the verb follows the noun: `is` for one, `zijn` for more.\n\n> Dit is mijn broer. — This is my brother.\n> Dat is de paskamer. — That is the fitting room.\n> Dit zijn de nieuwe modellen. — These are the new models.\n> Dat zijn mijn ouders. — Those are my parents.\n\nCompare `Die schoenen zijn duur` (die + noun) with `Dat zijn dure schoenen` (dat + zijn + noun).\n\n### Die and dat instead of hij, zij, het\n\nIn everyday speech Dutch very often says `die` or `dat` where English has \"he\", \"she\", \"it\", \"they\", \"him\" or \"them\", for people and things that were just mentioned. They usually stand first; when `die` or `dat` is not the subject, the subject comes after the verb.\n\n> Ken je die verkoper? Nee, die ken ik niet. — Do you know that shop assistant? No, I do not know him.\n> Waar zijn de sleutels? Die liggen op tafel. — Where are the keys? They are on the table.\n> Hoe laat gaat de winkel dicht? Dat weet ik niet. — What time does the shop close? I do not know.\n\n`Die` for de-words and plurals, `dat` for het-words. `Dat` also refers to a whole idea or sentence: `Dat weet ik niet`, `Dat is waar`, `Dat vind ik mooi`.\n\n### Watch out\n\n- A het-word takes `dit` and `dat` only in the singular: `dit product`, but `deze producten`, never *dit producten.\n- To say who or what it is, always `dit` or `dat`: `Dit is mijn collega` (not *Deze is mijn collega), `Dat zijn mijn kinderen` (not *Die zijn mijn kinderen, and not *Dat is mijn kinderen).\n- Without a noun after it, the pointing word follows the noun you mean: `Deze jas is duur en die is goedkoop`.\n- \"This one, that one\": `Ik neem deze`, never *deze een.\n\n`Die` and `dat` have two more jobs, which come later: `de man die daar staat` (unit B1 · 3) and `Ik weet dat hij komt` (unit A2 · 23).\n\n### Compared with Ukrainian\n\nUkrainian chooses between `цей, ця, це, ці` and `той, та, те, ті` by gender, number and case. Dutch only looks at de or het and at near or far, and nothing changes after a preposition: `в цьому магазині` is simply `in deze winkel`. And `Це мій брат`, `Це мої батьки` work like `Dit is mijn broer`, `Dit zijn mijn ouders`: the pointing word stays the same. But Dutch must have the verb, and the verb shows the plural.",
+  "words": [
+    {
+      "nl": "klant",
+      "art": "de",
+      "pl": "klanten",
+      "en": "customer",
+      "pos": "n"
+    },
+    {
+      "nl": "verkoper",
+      "art": "de",
+      "pl": "verkopers",
+      "en": "shop assistant",
+      "pos": "n"
+    },
+    {
+      "nl": "prijs",
+      "art": "de",
+      "pl": "prijzen",
+      "en": "price",
+      "pos": "n"
+    },
+    {
+      "nl": "korting",
+      "art": "de",
+      "pl": "kortingen",
+      "en": "discount",
+      "pos": "n"
+    },
+    {
+      "nl": "aanbieding",
+      "art": "de",
+      "pl": "aanbiedingen",
+      "en": "special offer",
+      "pos": "n"
+    },
+    {
+      "nl": "bon",
+      "art": "de",
+      "pl": "bonnen",
+      "en": "receipt",
+      "pos": "n"
+    },
+    {
+      "nl": "maat",
+      "art": "de",
+      "pl": "maten",
+      "en": "size",
+      "pos": "n"
+    },
+    {
+      "nl": "paskamer",
+      "art": "de",
+      "pl": "paskamers",
+      "en": "fitting room",
+      "pos": "n"
+    },
+    {
+      "nl": "rek",
+      "art": "het",
+      "pl": "rekken",
+      "en": "rack",
+      "pos": "n"
+    },
+    {
+      "nl": "product",
+      "art": "het",
+      "pl": "producten",
+      "en": "product",
+      "pos": "n"
+    },
+    {
+      "nl": "horloge",
+      "art": "het",
+      "pl": "horloges",
+      "en": "watch",
+      "pos": "n"
+    },
+    {
+      "nl": "merk",
+      "art": "het",
+      "pl": "merken",
+      "en": "brand",
+      "pos": "n"
+    },
+    {
+      "nl": "passen",
+      "past": "paste",
+      "perf": "heeft gepast",
+      "en": "to try on / to fit",
+      "pos": "v"
+    },
+    {
+      "nl": "ruilen",
+      "past": "ruilde",
+      "perf": "heeft geruild",
+      "en": "to exchange",
+      "pos": "v"
+    },
+    {
+      "nl": "terugbrengen",
+      "past": "bracht terug",
+      "perf": "heeft teruggebracht",
+      "en": "to take back / to return",
+      "pos": "v",
+      "tag": "separable"
+    },
+    {
+      "nl": "pinnen",
+      "past": "pinde",
+      "perf": "heeft gepind",
+      "en": "to pay by card",
+      "pos": "v"
+    }
+  ],
+  "sentences": [
+    {
+      "nl": "Deze jas is te klein voor mij.",
+      "en": "This coat is too small for me.",
+      "hint": [
+        "jas",
+        "klein",
+        "voor"
+      ],
+      "note": "De jas is a de-word and the coat is right here, so deze. With a het-word it would be dit: dit overhemd."
+    },
+    {
+      "nl": "Hoeveel kost dit horloge met korting?",
+      "en": "How much does this watch cost with the discount?",
+      "hint": [
+        "hoeveel",
+        "kosten",
+        "horloge",
+        "korting"
+      ],
+      "note": "Het horloge is a het-word in the singular and you have it in your hand: dit.",
+      "alt": [
+        "Wat kost dit horloge met korting?"
+      ]
+    },
+    {
+      "nl": "Deze horloges zijn in de aanbieding.",
+      "en": "These watches are on offer.",
+      "hint": [
+        "horloge",
+        "zijn",
+        "aanbieding"
+      ],
+      "note": "The plural always takes deze (or die), also for a het-word: dit horloge, but deze horloges."
+    },
+    {
+      "nl": "Ik wil die zwarte schoenen graag passen.",
+      "en": "I would like to try on those black shoes.",
+      "hint": [
+        "willen",
+        "zwart",
+        "schoen",
+        "graag",
+        "passen"
+      ],
+      "note": "Schoenen is plural and the shoes are further away: die. The adjective after die takes -e: zwarte.",
+      "alt": [
+        "Ik wil graag die zwarte schoenen passen."
+      ]
+    },
+    {
+      "nl": "Wij verkopen dat product niet meer.",
+      "en": "We no longer sell that product.",
+      "hint": [
+        "verkopen",
+        "product",
+        "niet meer"
+      ],
+      "note": "Het product is a het-word in the singular, and it is not here in front of us: dat. In the plural it would be die producten.",
+      "alt": [
+        "We verkopen dat product niet meer.",
+        "Dat product verkopen wij niet meer.",
+        "Dat product verkopen we niet meer."
+      ]
+    },
+    {
+      "nl": "Welke maat wilt u, deze of die?",
+      "en": "Which size would you (formal) like, this one or that one?",
+      "hint": [
+        "welke",
+        "maat",
+        "willen",
+        "deze",
+        "die"
+      ],
+      "note": "Deze and die stand on their own here: the noun maat is not repeated. De maat is a de-word, so deze and die, not dit and dat. Dutch has no word for 'one'."
+    },
+    {
+      "nl": "Dit is de nieuwe verkoper.",
+      "en": "This is the new shop assistant.",
+      "hint": [
+        "dit",
+        "zijn",
+        "nieuw",
+        "verkoper"
+      ],
+      "note": "To introduce someone Dutch uses dit is, also for a de-word like de verkoper. Deze is … would be wrong here."
+    },
+    {
+      "nl": "Dat zijn de prijzen van vorig jaar.",
+      "en": "Those are last year's prices.",
+      "hint": [
+        "dat",
+        "zijn",
+        "prijs",
+        "vorig",
+        "jaar"
+      ],
+      "note": "Dat stays dat, also before a plural. Only the verb changes: zijn, because de prijzen is plural."
+    },
+    {
+      "nl": "Waar is de bon? Die heb ik niet meer.",
+      "en": "Where is the receipt? I do not have it any more. (it: die, in first place)",
+      "hint": [
+        "waar",
+        "bon",
+        "die",
+        "hebben",
+        "niet meer"
+      ],
+      "note": "Die stands for de bon, a de-word, and comes first, so the verb heb follows and then the subject ik. With hem it would be: Ik heb hem niet meer."
+    },
+    {
+      "nl": "Dat vind ik een goede prijs.",
+      "en": "I think that is a good price.",
+      "hint": [
+        "dat",
+        "vinden",
+        "goed",
+        "prijs"
+      ],
+      "note": "Dat refers to what was just said or shown, not to a noun. It stands first, so the verb vind comes before ik.",
+      "alt": [
+        "Ik vind dat een goede prijs."
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "type": "choose",
+      "nl": "___ korting geldt alleen vandaag.",
+      "options": [
+        "Dit",
+        "Deze",
+        "Dat"
+      ],
+      "correct": 1,
+      "en": "This discount is only valid today.",
+      "note": "Korting is a de-word, like all words in -ing, so deze. Dit and dat only go with het-words in the singular."
+    },
+    {
+      "type": "choose",
+      "nl": "Wat vind je van ___ merk?",
+      "options": [
+        "deze",
+        "die",
+        "dit"
+      ],
+      "correct": 2,
+      "en": "What do you think of this brand?",
+      "note": "Het merk is a het-word in the singular: dit. Deze and die go with de-words and with plurals."
+    },
+    {
+      "type": "choose",
+      "nl": "___ zijn mijn nieuwe schoenen.",
+      "options": [
+        "Deze",
+        "Dit",
+        "Die"
+      ],
+      "correct": 1,
+      "en": "These are my new shoes.",
+      "note": "To say what something is, Dutch uses dit or dat before zijn, also when the noun is plural. Only the verb shows the plural: dit zijn."
+    },
+    {
+      "type": "choose",
+      "nl": "Deze jas kost honderd euro en ___ kost vijftig euro.",
+      "options": [
+        "die",
+        "dit",
+        "dat"
+      ],
+      "correct": 0,
+      "en": "This coat costs a hundred euros and that one costs fifty euros.",
+      "note": "Die stands on its own here and still means a jas, a de-word: die. Nothing is added for English 'one'."
+    },
+    {
+      "type": "choose",
+      "nl": "Waar is de klant? ___ staat bij de kassa.",
+      "options": [
+        "Dat",
+        "Dit",
+        "Die"
+      ],
+      "correct": 2,
+      "en": "Where is the customer? She is standing at the checkout.",
+      "note": "In speech die often replaces hij or zij. De klant is a de-word, so die. Dat would be for a het-word."
+    },
+    {
+      "type": "gap",
+      "nl": "Ik wil ___ (this) overhemd graag ruilen.",
+      "answers": [
+        "dit"
+      ],
+      "en": "I would like to exchange this shirt.",
+      "note": "Het overhemd is a het-word in the singular, and you are holding it: dit."
+    },
+    {
+      "type": "gap",
+      "nl": "Is ___ (that) paskamer vrij?",
+      "answers": [
+        "die"
+      ],
+      "en": "Is that fitting room free?",
+      "note": "De paskamer is a de-word, and it is over there: die."
+    },
+    {
+      "type": "gap",
+      "nl": "Dit ___ (zijn) onze nieuwe producten.",
+      "answers": [
+        "zijn"
+      ],
+      "en": "These are our new products.",
+      "note": "Dit does not change, but the verb follows the noun after it. Producten is plural, so zijn."
+    },
+    {
+      "type": "gap",
+      "nl": "Kan ik hier pinnen? Ja, ___ (that) kan.",
+      "answers": [
+        "dat"
+      ],
+      "en": "Can I pay by card here? Yes, you can.",
+      "note": "Dat refers to the whole idea of paying by card, not to a noun. For an idea or a whole sentence it is always dat."
+    },
+    {
+      "type": "order",
+      "lead": "Die schoenen",
+      "words": [
+        "breng",
+        "ik",
+        "morgen",
+        "terug"
+      ],
+      "answers": [
+        "Die schoenen breng ik morgen terug."
+      ],
+      "en": "I am taking those shoes back tomorrow.",
+      "note": "Die schoenen is the object and stands first, so the verb comes second and ik after it. The prefix of terugbrengen goes to the end."
+    },
+    {
+      "type": "rewrite",
+      "task": "Make the noun plural.",
+      "from": "Dit horloge is duur.",
+      "answers": [
+        "Deze horloges zijn duur."
+      ],
+      "en": "These watches are expensive.",
+      "note": "Every plural takes deze, also the plural of a het-word. The verb becomes plural too: zijn."
+    },
+    {
+      "type": "rewrite",
+      "task": "Make the noun singular.",
+      "from": "Deze rekken zijn nieuw.",
+      "answers": [
+        "Dit rek is nieuw."
+      ],
+      "en": "This rack is new.",
+      "note": "Rek is a het-word, so in the singular deze becomes dit. The verb becomes singular too: is."
+    },
+    {
+      "type": "rewrite",
+      "task": "Point at things further away: change this to that, twice.",
+      "from": "Deze klant wil dit horloge ruilen.",
+      "answers": [
+        "Die klant wil dat horloge ruilen."
+      ],
+      "en": "That customer wants to exchange that watch.",
+      "note": "Deze becomes die (de klant) and dit becomes dat (het horloge). The pairs are deze / die and dit / dat."
+    },
+    {
+      "type": "rewrite",
+      "task": "Say the same with Dat zijn …",
+      "from": "Die schoenen zijn duur.",
+      "answers": [
+        "Dat zijn dure schoenen."
+      ],
+      "en": "Those are expensive shoes.",
+      "note": "Before zijn + noun it is dat, also for a plural. The adjective now stands before the noun and takes -e: dure."
+    },
+    {
+      "type": "fix",
+      "wrong": "Dit schoenen zijn te klein.",
+      "answers": [
+        "Deze schoenen zijn te klein.",
+        "Die schoenen zijn te klein."
+      ],
+      "en": "These shoes are too small.",
+      "note": "Schoenen is plural, and a plural never takes dit or dat. Near is deze. Die would also be a correct sentence, for shoes that are further away."
+    },
+    {
+      "type": "fix",
+      "wrong": "Deze is mijn nieuwe collega.",
+      "answers": [
+        "Dit is mijn nieuwe collega.",
+        "Dat is mijn nieuwe collega."
+      ],
+      "en": "This is my new colleague.",
+      "note": "To introduce a person Dutch uses dit is (or dat is), whether the noun is a de-word or a het-word. Deze is … is only right without a noun after it: Deze is van mij."
+    }
+  ]
+}

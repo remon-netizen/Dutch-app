@@ -1,0 +1,396 @@
+{
+  "id": "a2-01",
+  "level": "A2",
+  "icon": "🕘",
+  "title": "A normal working day",
+  "grammar": "Present tense of regular verbs",
+  "summary": "ik: the stem. jij, u, hij, zij: stem + t. wij, jullie, zij: the infinitive. Jij or je directly after the verb loses its t. Spell the stem as a Dutch word: maak, stop, reis.",
+  "explain": "The present tense (*de tegenwoordige tijd*) is the tense Dutch uses most: for what is happening now, for habits, for facts, and very often for the future too (`Morgen werk ik thuis`). There is only one present tense: `ik werk` is both \"I work\" and \"I am working\". Getting it right depends on one thing: finding the **stem** of the verb.\n\n### The stem and the endings\n\nTake the infinitive and remove `-en`. What is left is the stem: `werken → werk`.\n\n| | werken | ending |\n| ik | werk | stem |\n| jij / je, u | werkt | stem + t |\n| hij, zij / ze, het | werkt | stem + t |\n| wij / we, jullie, zij / ze | werken | infinitive |\n\n> Ik werk op een kantoor. — I work in an office.\n> Mijn collega werkt thuis. — My colleague works from home.\n> Wij werken van negen tot vijf. — We work from nine to five.\n\n### Spelling the stem\n\nThe stem has to **sound** like the infinitive, and it has to look like a Dutch word. That gives three rules.\n\n- **A long vowel is written double.** In `ma-ken` the `a` is long because its syllable is open. Without `-en` the syllable closes, so the vowel is doubled: `maken → maak`, `lopen → loop`, `praten → praat`, `sturen → stuur`.\n- **A double consonant becomes single.** No Dutch word ends in two of the same consonant: `stoppen → stop`, `zeggen → zeg`, `beginnen → begin`.\n- **v becomes f, z becomes s.** No Dutch word ends in v or z: `leven → leef`, `schrijven → schrijf`, `reizen → reis`, `lezen → lees`.\n\n> Ik maak eerst koffie. — I make coffee first.\n> De vergadering begint om tien uur. — The meeting starts at ten o'clock.\n> Hij reist veel voor zijn werk. — He travels a lot for his work.\n\nIn the plural the infinitive comes back, and with it the single vowel and the v or z: `ik lees, hij leest`, but `wij lezen`; `ik maak`, but `wij maken`.\n\n### Stems that end in t or d\n\n- A stem that ends in **t** never gets a second t: `praten → hij praat`, `zitten → zij zit`, `wachten → hij wacht`.\n- A stem that ends in **d** does get the t, although you cannot hear it: `worden → hij wordt`, `vinden → zij vindt`. (Unit B1 · 13 is all about this.)\n\n### Jij after the verb: no t\n\nWhen `jij` or `je` comes directly **after** the verb, the t disappears. That happens in questions and whenever the sentence starts with something other than the subject.\n\n> Jij begint vroeg. — You start early.\n> Begin jij altijd zo vroeg? — Do you always start this early?\n> Morgen werk je thuis. — Tomorrow you are working from home.\n\nThis is only true for jij and je. `Hij` and `u` keep their t: `Werkt hij vandaag?`, `Werkt u hier?`\n\n### Watch out\n\n- The ik-form is the bare stem: `ik werk`, never *ik werkt or *ik werken.\n- The t of hij and zij is part of the spelling even where fast speech swallows it: `hij werkt`, never *hij werk.\n- Write the stem as a Dutch word: `ik reis`, not *ik reiz; `ik maak`, not *ik mak; `ik stop`, not *ik stopp.\n- `Wij`, `jullie` and plural `zij` always take the infinitive: `jullie werken`, never *jullie werkt.\n\n### Compared with Ukrainian\n\nUkrainian has a different ending for every person (`працюю, працюєш, працює…`), so the pronoun can be left out. Dutch has only three forms, and the subject must always be there: `Працюю вдома` is `Ik werk thuis`, never just *Werk thuis.",
+  "words": [
+    {
+      "nl": "collega",
+      "art": "de",
+      "pl": "collega's",
+      "en": "colleague",
+      "pos": "n"
+    },
+    {
+      "nl": "kantoor",
+      "art": "het",
+      "pl": "kantoren",
+      "en": "office",
+      "pos": "n"
+    },
+    {
+      "nl": "vergadering",
+      "art": "de",
+      "pl": "vergaderingen",
+      "en": "meeting",
+      "pos": "n"
+    },
+    {
+      "nl": "pauze",
+      "art": "de",
+      "pl": "pauzes",
+      "en": "break",
+      "pos": "n"
+    },
+    {
+      "nl": "afspraak",
+      "art": "de",
+      "pl": "afspraken",
+      "en": "appointment",
+      "pos": "n"
+    },
+    {
+      "nl": "baas",
+      "art": "de",
+      "pl": "bazen",
+      "en": "boss",
+      "pos": "n"
+    },
+    {
+      "nl": "bericht",
+      "art": "het",
+      "pl": "berichten",
+      "en": "message",
+      "pos": "n"
+    },
+    {
+      "nl": "taak",
+      "art": "de",
+      "pl": "taken",
+      "en": "task",
+      "pos": "n"
+    },
+    {
+      "nl": "beginnen",
+      "past": "begon",
+      "perf": "is begonnen",
+      "en": "to begin / to start",
+      "pos": "v"
+    },
+    {
+      "nl": "stoppen",
+      "past": "stopte",
+      "perf": "is gestopt",
+      "en": "to stop",
+      "pos": "v"
+    },
+    {
+      "nl": "vergaderen",
+      "past": "vergaderde",
+      "perf": "heeft vergaderd",
+      "en": "to have a meeting",
+      "pos": "v"
+    },
+    {
+      "nl": "sturen",
+      "past": "stuurde",
+      "perf": "heeft gestuurd",
+      "en": "to send",
+      "pos": "v"
+    },
+    {
+      "nl": "reizen",
+      "past": "reisde",
+      "perf": "heeft/is gereisd",
+      "en": "to travel",
+      "pos": "v"
+    },
+    {
+      "nl": "regelen",
+      "past": "regelde",
+      "perf": "heeft geregeld",
+      "en": "to arrange / to organise",
+      "pos": "v"
+    },
+    {
+      "nl": "druk",
+      "en": "busy",
+      "pos": "adj"
+    },
+    {
+      "nl": "meestal",
+      "en": "usually",
+      "pos": "adv"
+    }
+  ],
+  "sentences": [
+    {
+      "nl": "Ik werk op een kantoor in Utrecht.",
+      "en": "I work in an office in Utrecht.",
+      "hint": [
+        "werken",
+        "kantoor"
+      ],
+      "note": "The ik-form is the bare stem: werken → werk, with no ending."
+    },
+    {
+      "nl": "Mijn collega begint elke dag om acht uur.",
+      "en": "My colleague starts at eight o'clock every day.",
+      "hint": [
+        "collega",
+        "beginnen",
+        "elke dag",
+        "uur"
+      ],
+      "note": "Mijn collega is a hij/zij-subject: stem + t. The stem of beginnen is begin, with one n."
+    },
+    {
+      "nl": "Wij vergaderen meestal op maandag.",
+      "en": "We usually have a meeting on Mondays.",
+      "hint": [
+        "vergaderen",
+        "meestal",
+        "maandag"
+      ],
+      "note": "With wij the verb is simply the infinitive: vergaderen."
+    },
+    {
+      "nl": "De baas stuurt veel berichten.",
+      "en": "The boss sends a lot of messages.",
+      "hint": [
+        "baas",
+        "sturen",
+        "veel",
+        "bericht"
+      ],
+      "note": "sturen → stem stuur: the long u is written double once -en is gone. Then + t for de baas."
+    },
+    {
+      "nl": "Reis jij vaak voor je werk?",
+      "en": "Do you often travel for your work?",
+      "hint": [
+        "reizen",
+        "vaak",
+        "werk"
+      ],
+      "note": "reizen → stem reis (z becomes s). Jij comes directly after the verb, so there is no t.",
+      "alt": [
+        "Reis je vaak voor je werk?"
+      ]
+    },
+    {
+      "nl": "Hoe laat stop je vandaag?",
+      "en": "What time do you stop today?",
+      "hint": [
+        "hoe laat",
+        "stoppen",
+        "vandaag"
+      ],
+      "note": "stoppen → stem stop, with one p. Je follows the verb, so the t is dropped: stop je.",
+      "alt": [
+        "Hoe laat stop jij vandaag?"
+      ]
+    },
+    {
+      "nl": "Zij regelt alle afspraken voor ons.",
+      "en": "She arranges all the appointments for us.",
+      "hint": [
+        "regelen",
+        "alle",
+        "afspraak"
+      ],
+      "note": "regelen → stem regel, + t for zij (she). The plural zij would be: zij regelen.",
+      "alt": [
+        "Ze regelt alle afspraken voor ons."
+      ]
+    },
+    {
+      "nl": "In de pauze praat ik met mijn collega's.",
+      "en": "During the break I talk to my colleagues.",
+      "hint": [
+        "pauze",
+        "praten",
+        "collega"
+      ],
+      "note": "praten → stem praat: the long a is doubled. The ik-form has no ending, wherever ik stands in the sentence."
+    },
+    {
+      "nl": "Werkt u morgen ook thuis?",
+      "en": "Are you (formal) working from home tomorrow too?",
+      "hint": [
+        "werken",
+        "morgen",
+        "ook",
+        "thuis"
+      ],
+      "note": "U keeps its t in a question. Only jij and je lose it after the verb."
+    },
+    {
+      "nl": "Hij leest zijn berichten in de trein.",
+      "en": "He reads his messages on the train.",
+      "hint": [
+        "lezen",
+        "bericht",
+        "trein"
+      ],
+      "note": "lezen → stem lees: z becomes s and the long e is doubled. Then + t for hij."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "choose",
+      "nl": "Wij ___ om negen uur.",
+      "options": [
+        "begin",
+        "begint",
+        "beginnen"
+      ],
+      "correct": 2,
+      "en": "We start at nine o'clock.",
+      "note": "Wij takes the infinitive: beginnen. Begin is the ik-form, begint the form for jij, u, hij and zij."
+    },
+    {
+      "type": "choose",
+      "nl": "Mijn collega ___ elke dag met de trein.",
+      "options": [
+        "reis",
+        "reist",
+        "reizen",
+        "reizt"
+      ],
+      "correct": 1,
+      "en": "My colleague travels by train every day.",
+      "note": "The stem of reizen is reis, because a Dutch word cannot end in z. Mijn collega is a hij/zij-subject, so stem + t: reist."
+    },
+    {
+      "type": "choose",
+      "nl": "___ jij vandaag op kantoor?",
+      "options": [
+        "Werk",
+        "Werkt",
+        "Werken"
+      ],
+      "correct": 0,
+      "en": "Are you working at the office today?",
+      "note": "Jij stands directly after the verb, so the t disappears: Werk jij? With hij or u it would stay: Werkt hij? Werkt u?"
+    },
+    {
+      "type": "choose",
+      "nl": "Ik ___ elke ochtend koffie voor mijn collega's.",
+      "options": [
+        "mak",
+        "maakt",
+        "maak",
+        "maken"
+      ],
+      "correct": 2,
+      "en": "I make coffee for my colleagues every morning.",
+      "note": "maken → stem maak: the a is long, so it is written double once -en is gone. Ik takes the bare stem."
+    },
+    {
+      "type": "gap",
+      "nl": "De baas ___ (sturen) ons elke maandag een lijst met taken.",
+      "answers": [
+        "stuurt"
+      ],
+      "en": "The boss sends us a list of tasks every Monday.",
+      "note": "The stem of sturen is stuur, with the long u doubled. De baas is a hij/zij-subject, so stem + t: stuurt."
+    },
+    {
+      "type": "gap",
+      "nl": "Ik ___ (lezen) eerst mijn berichten.",
+      "answers": [
+        "lees"
+      ],
+      "en": "I read my messages first.",
+      "note": "lezen → lees: the z becomes s and the long e is doubled. Ik takes the stem without an ending."
+    },
+    {
+      "type": "gap",
+      "nl": "Hoe laat ___ (stoppen) jullie vandaag?",
+      "answers": [
+        "stoppen"
+      ],
+      "en": "What time do you (plural) stop today?",
+      "note": "Jullie is plural, so the verb is the infinitive, also in a question: stoppen."
+    },
+    {
+      "type": "gap",
+      "nl": "Je ___ (praten) te veel in de pauze.",
+      "answers": [
+        "praat"
+      ],
+      "en": "You talk too much during the break.",
+      "note": "The stem praat already ends in t, and a second t is never added: je praat, hij praat."
+    },
+    {
+      "type": "gap",
+      "nl": "Op drukke dagen ___ (beginnen) ik om zeven uur.",
+      "answers": [
+        "begin"
+      ],
+      "en": "On busy days I start at seven o'clock.",
+      "note": "Ik takes the bare stem wherever it stands in the sentence: begin, with one n and without t."
+    },
+    {
+      "type": "order",
+      "lead": "Morgen",
+      "words": [
+        "we",
+        "vergaderen",
+        "om twee uur"
+      ],
+      "answers": [
+        "Morgen vergaderen we om twee uur."
+      ],
+      "en": "Tomorrow we have a meeting at two o'clock.",
+      "note": "The verb keeps its form wherever the subject stands: we takes the infinitive, vergaderen. (Why the verb comes before we is the subject of unit A2 · 3.)"
+    },
+    {
+      "type": "order",
+      "words": [
+        "de vergadering",
+        "hoe",
+        "begint",
+        "laat"
+      ],
+      "answers": [
+        "Hoe laat begint de vergadering?"
+      ],
+      "en": "What time does the meeting start?",
+      "note": "After the question words comes the verb, and it agrees with de vergadering: stem + t, begint."
+    },
+    {
+      "type": "rewrite",
+      "task": "Change the subject to hij.",
+      "from": "Ik reis elke week naar Brussel.",
+      "answers": [
+        "Hij reist elke week naar Brussel."
+      ],
+      "en": "He travels to Brussels every week.",
+      "note": "Hij needs stem + t. The stem stays reis, with s: reist, never reizt."
+    },
+    {
+      "type": "rewrite",
+      "task": "Make it a question (start with the verb).",
+      "from": "Jij werkt vandaag thuis.",
+      "answers": [
+        "Werk jij vandaag thuis?",
+        "Werk je vandaag thuis?"
+      ],
+      "en": "Are you working from home today?",
+      "note": "In the question jij comes after the verb, and then the t is dropped: Werk jij?"
+    },
+    {
+      "type": "fix",
+      "wrong": "Mijn collega werk op vrijdag thuis.",
+      "answers": [
+        "Mijn collega werkt op vrijdag thuis."
+      ],
+      "en": "My colleague works from home on Fridays.",
+      "note": "Mijn collega is a hij/zij-subject and needs the t: werkt. Werk without t is only for ik, and for jij after the verb."
+    },
+    {
+      "type": "fix",
+      "wrong": "Ik leez elke ochtend mijn berichten.",
+      "answers": [
+        "Ik lees elke ochtend mijn berichten."
+      ],
+      "en": "I read my messages every morning.",
+      "note": "A Dutch word never ends in z: the stem of lezen is lees. The z only comes back in the plural, wij lezen."
+    }
+  ]
+}

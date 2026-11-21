@@ -1,0 +1,27 @@
+:root {
+  /* The app's own colour: Dutch orange. */
+  --brand: #c2410c;
+  --brand-dark: #9a3412;
+  --brand-soft: #fff7ed;
+  --accent: #21468b;
+  --dark: #1a1a2e;
+  --text: #2d3142;
+  --gray: #6b7280;
+  --border: #e5e7eb;
+  --success: #22c55e;
+  --warning: #f59e0b;
+  --danger: #ef4444;
+  --card-bg: #ffffff;
+  --bg: #faf9f7;
+
+  /* The colour of the screen you are on. Every course has its own; the pieces
+     they share (path.css) take it from here. The default is the course path's. */
+  --sc-main: #0d9488;
+  --sc-dark: #115e59;
+  --sc-soft: #f0fdfa;
+  --sc-border: #99f6e4;
+  --sc-tint: #ccfbf1;
+}
+#grammarScreen { --sc-main: #be123c; --sc-dark: #881337; --sc-soft: #fff1f2; --sc-border: #fecdd3; --sc-tint: #ffe4e6; }
+#verbsScreen   { --sc-main: #7c3aed; --sc-dark: #5b21b6; --sc-soft: #f5f3ff; --sc-border: #c4b5fd; --sc-tint: #ede9fe; }
+#dehetScreen   { --sc-main: #1d4ed8; --sc-dark: #1e3a8a; --sc-soft: #eff6ff; --sc-border: #bfdbfe; --sc-tint: #dbeafe; }

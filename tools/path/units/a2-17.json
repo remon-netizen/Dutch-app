@@ -1,0 +1,440 @@
+{
+  "id": "a2-17",
+  "level": "A2",
+  "icon": "🌦️",
+  "title": "Plans and the weather",
+  "grammar": "Talking about the future",
+  "summary": "The future is usually the present tense with a time word (Morgen werk ik). gaan + infinitive: a plan, or something about to happen. zullen + infinitive: a promise, a guess (zal wel), a forecast. The infinitive goes last.",
+  "explain": "Dutch grammar books call `zullen` + infinitive the future tense (*de toekomende tijd*), but in real life that is not the usual way to talk about later. There are three ways, and the most common one is the simplest: the present tense.\n\n### 1. The present tense with a time word\n\nWhen a time word or the situation makes clear that it is about later, the present tense is enough. This is what people say most of the time.\n\n> Morgen regent het de hele dag. — Tomorrow it will rain all day.\n> Vanavond blijf ik thuis. — I am staying at home this evening.\n> Over twee dagen begint de vakantie. — The holiday starts in two days.\n\nTime words you will need: `vanavond` (this evening), `straks` (later today), `zo meteen` or just `zo` (in a moment), `morgen`, `overmorgen` (the day after tomorrow), `binnenkort` (soon), `volgende week`, `over twee dagen` (in two days: `over`, not `in`), `later`.\n\n### 2. gaan + infinitive\n\n`gaan` (ik ga, jij gaat, hij gaat, wij gaan) with an infinitive is the Dutch \"going to\". Use it for a **plan**, and for something that is **about to happen**: you can see it coming.\n\n> Ik ga volgend jaar Spaans leren. — I am going to learn Spanish next year.\n> Gaan jullie in de zomer weer kamperen? — Are you going camping again in the summer?\n> Kijk naar die wolken: het gaat regenen. — Look at those clouds: it is going to rain.\n\nWhere it does not fit:\n\n- Not with `gaan` itself: `Ik ga morgen naar de markt`, never *Ik ga morgen naar de markt gaan.\n- With `komen` the present tense is normal: `Ik kom morgen`, rather than `Ik ga morgen komen`.\n- With `zijn`, `hebben` and the modal verbs it is unusual. Use the present tense: `Morgen ben ik thuis`, `Ik heb morgen tijd`, `Ik moet morgen werken`.\n\n### 3. zullen + infinitive\n\n| | zullen |\n| ik | zal |\n| jij / je, u | zult / zal |\n| hij, zij / ze, het | zal |\n| wij / we, jullie, zij / ze | zullen |\n\n`zullen` is not a neutral future. It always adds something:\n\n- **a promise**: you give your word.\n- **a proposal**, in a question with ik or we (unit A2 · 11).\n- **a guess**, usually with `wel`: \"probably\".\n- **a forecast** in formal or written Dutch, such as the weather report.\n\n> Ik zal je morgen bellen. — I will call you tomorrow.\n> Zullen we zondag gaan fietsen? — Shall we go cycling on Sunday?\n> Het zal wel goed komen. — It will probably be all right.\n> Morgen zal het in het hele land regenen. — Tomorrow it will rain in the whole country.\n\nSo `Ik zal morgen werken` is correct, but it sounds like a promise. For a plain fact about tomorrow say `Ik werk morgen`.\n\n### Word order\n\n`ga` or `zal` is the conjugated verb, so it stands where the verb always stands: second in a statement, first in a yes/no question. The infinitive goes to the **end**, as with the modal verbs. When a time word comes first, the subject follows the verb. A separable verb stays in one piece at the end.\n\n> Morgen ga ik met mijn zus wandelen. — Tomorrow I am going for a walk with my sister.\n> Ik zal een paraplu voor je meenemen. — I will bring an umbrella for you.\n\nYou will also hear a phrase with a preposition after the infinitive (`Ik ga wandelen in het bos`). For now, put the infinitive last.\n\n### Watch out\n\n- **No te.** English says \"going *to* rain\", Dutch does not: `Het gaat regenen`, never *Het gaat te regenen.\n- **willen is not \"will\".** `Ik wil komen` means \"I want to come\". \"I will come\" is `Ik kom` or `Ik zal komen`.\n- **Not gaan twice**: `Ik ga naar huis`, never *Ik ga naar huis gaan.\n- **The infinitive goes last**: `Ik ga morgen een paraplu kopen`, not *Ik ga kopen morgen een paraplu.\n\n### Compared with Ukrainian\n\nUkrainian builds a future with `буду` + infinitive: `Я буду працювати`. Do not turn every `буду` into `zal`. The normal Dutch is the present tense, `Ik werk morgen`, just as Ukrainian can say `Завтра я працюю`. In Dutch that is the rule, not the exception.",
+  "words": [
+    {
+      "nl": "weerbericht",
+      "art": "het",
+      "pl": "weerberichten",
+      "en": "weather forecast",
+      "pos": "n"
+    },
+    {
+      "nl": "bui",
+      "art": "de",
+      "pl": "buien",
+      "en": "shower (of rain)",
+      "pos": "n"
+    },
+    {
+      "nl": "wolk",
+      "art": "de",
+      "pl": "wolken",
+      "en": "cloud",
+      "pos": "n"
+    },
+    {
+      "nl": "temperatuur",
+      "art": "de",
+      "pl": "temperaturen",
+      "en": "temperature",
+      "pos": "n"
+    },
+    {
+      "nl": "graad",
+      "art": "de",
+      "pl": "graden",
+      "en": "degree",
+      "pos": "n"
+    },
+    {
+      "nl": "seizoen",
+      "art": "het",
+      "pl": "seizoenen",
+      "en": "season",
+      "pos": "n"
+    },
+    {
+      "nl": "lente",
+      "art": "de",
+      "pl": "lentes",
+      "en": "spring (season)",
+      "pos": "n"
+    },
+    {
+      "nl": "herfst",
+      "art": "de",
+      "pl": "herfsten",
+      "en": "autumn",
+      "pos": "n"
+    },
+    {
+      "nl": "regenen",
+      "past": "regende",
+      "perf": "heeft geregend",
+      "en": "to rain",
+      "pos": "v"
+    },
+    {
+      "nl": "waaien",
+      "past": "waaide",
+      "perf": "heeft gewaaid",
+      "en": "to blow (wind) / to be windy",
+      "pos": "v"
+    },
+    {
+      "nl": "schijnen",
+      "past": "scheen",
+      "perf": "heeft geschenen",
+      "en": "to shine",
+      "pos": "v"
+    },
+    {
+      "nl": "vriezen",
+      "past": "vroor",
+      "perf": "heeft gevroren",
+      "en": "to freeze",
+      "pos": "v"
+    },
+    {
+      "nl": "bewolkt",
+      "en": "cloudy",
+      "pos": "adj"
+    },
+    {
+      "nl": "droog",
+      "en": "dry",
+      "pos": "adj"
+    },
+    {
+      "nl": "binnenkort",
+      "en": "soon",
+      "pos": "adv"
+    },
+    {
+      "nl": "overmorgen",
+      "en": "the day after tomorrow",
+      "pos": "adv"
+    }
+  ],
+  "sentences": [
+    {
+      "nl": "Overmorgen gaan we naar het strand.",
+      "en": "The day after tomorrow we are going to the beach.",
+      "hint": [
+        "overmorgen",
+        "gaan",
+        "strand"
+      ],
+      "note": "The present tense with a time word is the normal future. Gaan is the main verb here (to go). Overmorgen stands first, so the verb comes before we.",
+      "alt": [
+        "Overmorgen gaan wij naar het strand."
+      ]
+    },
+    {
+      "nl": "Mijn ouders komen in de herfst naar Nederland.",
+      "en": "My parents are coming to the Netherlands in the autumn.",
+      "hint": [
+        "ouders",
+        "komen",
+        "herfst",
+        "Nederland"
+      ],
+      "note": "With komen Dutch uses the present tense for the future, rather than gaan + komen. In de herfst shows that it is about later.",
+      "alt": [
+        "In de herfst komen mijn ouders naar Nederland."
+      ]
+    },
+    {
+      "nl": "Straks schijnt de zon weer.",
+      "en": "Later today the sun will shine again. (present tense)",
+      "hint": [
+        "straks",
+        "schijnen",
+        "zon",
+        "weer"
+      ],
+      "note": "Straks already says that it is about later, so the present tense is enough: schijnt. Straks stands first, so the subject de zon follows the verb.",
+      "alt": [
+        "De zon schijnt straks weer."
+      ]
+    },
+    {
+      "nl": "Mijn zus gaat in de lente trouwen.",
+      "en": "My sister is going to get married in the spring.",
+      "hint": [
+        "zus",
+        "gaan",
+        "lente",
+        "trouwen"
+      ],
+      "note": "gaan + infinitive for a plan. Gaat stands in second place and the infinitive trouwen goes to the end of the sentence.",
+      "alt": [
+        "In de lente gaat mijn zus trouwen."
+      ]
+    },
+    {
+      "nl": "Wat ga je dit weekend doen?",
+      "en": "What are you going to do this weekend?",
+      "hint": [
+        "wat",
+        "gaan",
+        "weekend",
+        "doen"
+      ],
+      "note": "gaan + infinitive asks about a plan. It is jij gaat, but je directly after the verb loses the t: ga je. Doen stands at the end.",
+      "alt": [
+        "Wat ga jij dit weekend doen?"
+      ]
+    },
+    {
+      "nl": "Het gaat zo meteen regenen.",
+      "en": "It is going to rain in a moment.",
+      "hint": [
+        "gaan",
+        "zo meteen",
+        "regenen"
+      ],
+      "note": "gaan + infinitive for something that is about to happen: you can see the clouds. There is no te before regenen.",
+      "alt": [
+        "Het gaat zo regenen."
+      ]
+    },
+    {
+      "nl": "Volgens het weerbericht gaat het morgen niet vriezen.",
+      "en": "According to the weather forecast it is not going to freeze tomorrow.",
+      "hint": [
+        "volgens",
+        "weerbericht",
+        "gaan",
+        "morgen",
+        "vriezen"
+      ],
+      "note": "Volgens het weerbericht is the first element, so gaat comes next and then the subject het. Niet stands before the infinitive at the end."
+    },
+    {
+      "nl": "Ik zal je morgen helpen.",
+      "en": "I will help you tomorrow. (a promise)",
+      "hint": [
+        "zullen",
+        "morgen",
+        "helpen"
+      ],
+      "note": "zullen for a promise: ik zal, without t. Not ik wil, which would mean 'I want to help you'. The infinitive helpen goes to the end.",
+      "alt": [
+        "Ik zal jou morgen helpen.",
+        "Morgen zal ik je helpen."
+      ]
+    },
+    {
+      "nl": "Zullen we morgen naar het bos gaan?",
+      "en": "Shall we go to the forest tomorrow?",
+      "hint": [
+        "zullen",
+        "morgen",
+        "bos",
+        "gaan"
+      ],
+      "note": "Zullen we …? is a proposal. Gaan is the infinitive here and stands at the end. With zullen that is fine; only gaan + gaan is impossible.",
+      "alt": [
+        "Zullen wij morgen naar het bos gaan?"
+      ]
+    },
+    {
+      "nl": "Het zal morgen wel bewolkt zijn.",
+      "en": "It will probably be cloudy tomorrow. (with zal … wel)",
+      "hint": [
+        "zullen",
+        "morgen",
+        "wel",
+        "bewolkt",
+        "zijn"
+      ],
+      "note": "zal + wel is a guess: probably. With zijn Dutch uses zullen or the present tense (Het is morgen bewolkt) rather than gaan.",
+      "alt": [
+        "Morgen zal het wel bewolkt zijn."
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "type": "choose",
+      "nl": "Zie je die donkere wolken? We ___ nat worden.",
+      "options": [
+        "ga",
+        "gaat",
+        "gaan"
+      ],
+      "correct": 2,
+      "en": "Do you see those dark clouds? We are going to get wet.",
+      "note": "We is plural, so gaan. This is gaan + infinitive for something you can see coming; the infinitive worden stands at the end."
+    },
+    {
+      "type": "choose",
+      "nl": "We gaan morgen ___ zwemmen.",
+      "options": [
+        "te",
+        "–",
+        "om"
+      ],
+      "correct": 1,
+      "en": "We are going swimming tomorrow.",
+      "note": "After gaan the infinitive comes without te. English 'going to' has a 'to', but Dutch gaan takes the bare infinitive: gaan zwemmen."
+    },
+    {
+      "type": "choose",
+      "nl": "De temperatuur ___ morgen stijgen tot twintig graden.",
+      "options": [
+        "zult",
+        "wil",
+        "zal",
+        "zullen"
+      ],
+      "correct": 2,
+      "en": "Tomorrow the temperature will rise to twenty degrees.",
+      "note": "A forecast in a weather report uses zullen, and de temperatuur is a third-person singular subject: zal. Wil means 'wants to', and zult goes with jij and u."
+    },
+    {
+      "type": "choose",
+      "nl": "Ik ___ morgen graag komen, maar ik kan niet.",
+      "options": [
+        "zal",
+        "ga",
+        "wil"
+      ],
+      "correct": 2,
+      "en": "I would like to come tomorrow, but I cannot.",
+      "note": "willen says what you want, not what will happen. Zal would be a promise to come, and that does not go together with 'maar ik kan niet'."
+    },
+    {
+      "type": "gap",
+      "nl": "Wat ___ (gaan) je in de vakantie doen?",
+      "answers": [
+        "ga"
+      ],
+      "en": "What are you going to do in the holidays?",
+      "note": "It is jij gaat, but when je follows the verb the t disappears: ga je. The plan itself, doen, stands at the end as an infinitive."
+    },
+    {
+      "type": "gap",
+      "nl": "Wij ___ (gaan) binnenkort op vakantie.",
+      "answers": [
+        "gaan"
+      ],
+      "en": "We are going on holiday soon.",
+      "note": "Here gaan is the main verb (to go) in the present tense, and binnenkort makes it future. A second gaan at the end is impossible: never 'wij gaan … gaan'."
+    },
+    {
+      "type": "gap",
+      "nl": "De bui ___ (zullen) zo wel voorbij zijn.",
+      "answers": [
+        "zal"
+      ],
+      "en": "The shower will probably be over in a moment.",
+      "note": "Hij, zij and het take zal, without t. Zal together with wel is a guess: probably."
+    },
+    {
+      "type": "gap",
+      "nl": "Over twee weken ___ (beginnen) het nieuwe seizoen.",
+      "answers": [
+        "begint"
+      ],
+      "en": "The new season starts in two weeks.",
+      "note": "The present tense is enough, because over twee weken already places it in the future. Het nieuwe seizoen is the subject: stem + t, begint."
+    },
+    {
+      "type": "order",
+      "lead": "Straks",
+      "words": [
+        "ga",
+        "ik",
+        "een paraplu",
+        "kopen"
+      ],
+      "answers": [
+        "Straks ga ik een paraplu kopen."
+      ],
+      "en": "Later today I am going to buy an umbrella.",
+      "note": "Straks takes the first place, so ga comes second and ik follows it. The object stands before the infinitive, and the infinitive closes the sentence."
+    },
+    {
+      "type": "order",
+      "lead": "Zal",
+      "words": [
+        "ik",
+        "je",
+        "morgen",
+        "ophalen"
+      ],
+      "answers": [
+        "Zal ik je morgen ophalen?"
+      ],
+      "en": "Shall I pick you up tomorrow?",
+      "note": "An offer with Zal ik …? starts with the verb. The short pronoun je comes right after the subject, and the separable verb ophalen stays in one piece at the end."
+    },
+    {
+      "type": "order",
+      "lead": "Morgen",
+      "words": [
+        "gaat",
+        "het",
+        "niet",
+        "sneeuwen"
+      ],
+      "answers": [
+        "Morgen gaat het niet sneeuwen."
+      ],
+      "en": "Tomorrow it is not going to snow.",
+      "note": "After Morgen comes the verb gaat, then the subject het. Niet stands before the infinitive at the end."
+    },
+    {
+      "type": "rewrite",
+      "task": "Say it with gaan + infinitive.",
+      "from": "Het waait morgen hard.",
+      "answers": [
+        "Het gaat morgen hard waaien.",
+        "Morgen gaat het hard waaien."
+      ],
+      "en": "It is going to be very windy tomorrow.",
+      "note": "Gaat takes the place of the conjugated verb, and waaien moves to the end as an infinitive, without te."
+    },
+    {
+      "type": "rewrite",
+      "task": "Write it the way a formal weather report does: with zullen.",
+      "from": "Morgen blijft het droog.",
+      "answers": [
+        "Morgen zal het droog blijven.",
+        "Het zal morgen droog blijven."
+      ],
+      "en": "Tomorrow it will stay dry.",
+      "note": "Zal takes the second place and blijven goes to the end as an infinitive. In conversation the present tense, Morgen blijft het droog, is more usual."
+    },
+    {
+      "type": "rewrite",
+      "task": "Say it the everyday way: in the present tense, without zullen.",
+      "from": "Wij zullen volgende week niet thuis zijn.",
+      "answers": [
+        "Wij zijn volgende week niet thuis.",
+        "We zijn volgende week niet thuis."
+      ],
+      "en": "We are not at home next week.",
+      "note": "Volgende week already shows that it is about the future, so the present tense of zijn is enough. With zijn this is the normal choice."
+    },
+    {
+      "type": "fix",
+      "wrong": "Ik ga morgen naar de markt gaan.",
+      "answers": [
+        "Ik ga morgen naar de markt.",
+        "Ik zal morgen naar de markt gaan."
+      ],
+      "en": "I am going to the market tomorrow.",
+      "note": "gaan + infinitive is not used with gaan itself. The present tense of gaan together with morgen is enough. (With zal it would be a promise.)"
+    },
+    {
+      "type": "fix",
+      "wrong": "Morgen wil het de hele dag regenen.",
+      "answers": [
+        "Morgen zal het de hele dag regenen.",
+        "Morgen gaat het de hele dag regenen.",
+        "Morgen regent het de hele dag."
+      ],
+      "en": "Tomorrow it will rain all day.",
+      "note": "willen means 'to want', and the weather does not want anything. English 'will' is zullen, gaan or simply the present tense."
+    }
+  ]
+}

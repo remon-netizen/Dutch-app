@@ -1,0 +1,137 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover" />
+  <title>Nederlands: Dutch from A2 to B2</title>
+  <meta name="description" content="A Dutch course from A2 to B2, one grammar point at a time: explanation, words, sentences and exercises, with spaced review." />
+
+  <!-- PWA manifest -->
+  <link rel="manifest" href="manifest.json" />
+  <link rel="icon" href="icon.svg" type="image/svg+xml" />
+  <meta name="theme-color" content="#c2410c" />
+
+  <!-- Home screen support (the first is the current name, the second the one iOS still reads) -->
+  <meta name="mobile-web-app-capable" content="yes" />
+  <meta name="apple-mobile-web-app-capable" content="yes" />
+  <meta name="apple-mobile-web-app-status-bar-style" content="default" />
+  <meta name="apple-mobile-web-app-title" content="Nederlands" />
+  <link rel="apple-touch-icon" href="icon.svg" />
+
+  <link rel="stylesheet" href="styles/variables.css" />
+  <link rel="stylesheet" href="styles/base.css" />
+  <link rel="stylesheet" href="styles/home.css" />
+  <link rel="stylesheet" href="styles/course-engine.css" />
+  <link rel="stylesheet" href="styles/path.css" />
+  <link rel="stylesheet" href="styles/courses.css" />
+  <link rel="stylesheet" href="styles/progress.css" />
+</head>
+<body class="on-home">
+
+<header>
+  <div class="header-info">
+    <h1><svg class="flag-icon" viewBox="0 0 9 6" width="24" height="16" aria-hidden="true"><rect fill="#AE1C28" width="9" height="2"/><rect fill="#fff" y="2" width="9" height="2"/><rect fill="#21468B" y="4" width="9" height="2"/></svg> Nederlands</h1>
+    <p>Dutch from A2 to B2, grammar first</p>
+  </div>
+  <button class="settings-toggle" id="settingsToggleBtn" onclick="toggleSettingsDrawer()" title="Settings" aria-label="Settings">⚙️</button>
+</header>
+
+<!-- Update toast: shown when a new version has taken over while a screen is open -->
+<div class="update-toast" id="updateToast" style="display:none">
+  <span>A new version is ready</span>
+  <button onclick="location.reload()">Reload</button>
+</div>
+
+<!-- Settings drawer -->
+<div class="drawer-overlay" id="drawerOverlay" onclick="toggleSettingsDrawer()"></div>
+<div class="settings-drawer" id="settingsDrawer">
+  <div class="drawer-header">
+    <span>Settings</span>
+    <button class="drawer-close" onclick="toggleSettingsDrawer()" aria-label="Close">✕</button>
+  </div>
+
+  <!-- Voice -->
+  <div class="drawer-section">
+    <div class="settings-label">Dutch voice</div>
+    <div class="vc-name" id="vcName">Loading voices…</div>
+    <div class="vc-quality" id="vcQuality"></div>
+    <div class="drawer-voice-row">
+      <select class="voice-select" id="voiceSelect" onchange="changeVoice()" aria-label="Dutch voice">
+        <option>Loading…</option>
+      </select>
+      <button class="voice-test-btn" onclick="testVoice()">▶ Test</button>
+    </div>
+  </div>
+
+  <!-- Speech speed -->
+  <div class="drawer-section">
+    <div class="settings-label">Speech speed</div>
+    <div class="speed-btn-row">
+      <button class="speed-btn" data-rate="0.7" onclick="setSpeechRate(0.7)">🐢 Slow</button>
+      <button class="speed-btn" data-rate="1.0" onclick="setSpeechRate(1.0)">▶ Normal</button>
+    </div>
+  </div>
+
+  <!-- Backup: one file with all progress, and back (filled by backup-ui.js) -->
+  <div class="drawer-section" id="backupSection"></div>
+</div>
+
+<div class="app">
+
+  <!-- ══════════ HOME ══════════ -->
+  <div class="screen active" id="homeScreen">
+    <div class="home-center">
+
+      <!-- Today: what is due, weak spots, next unit (filled by main.js) -->
+      <div class="today-card" id="todayCard" style="display:none"></div>
+
+      <div class="home-tools-grid">
+        <button class="home-tool-card" onclick="openPathScreen()">
+          <span class="home-tool-icon">🗺️</span>
+          <span class="home-tool-title">Course path</span>
+          <span class="home-tool-sub">76 units, one grammar point each</span>
+        </button>
+        <button class="home-tool-card" id="reviewBtn" onclick="openReviewScreen()">
+          <span class="home-tool-icon">🔄</span>
+          <span class="home-tool-title">Review</span>
+          <span class="home-tool-sub">Due today</span>
+          <span class="review-btn-count" id="reviewBtnCount" style="display:none"></span>
+        </button>
+        <button class="home-tool-card" onclick="openGrammarScreen()">
+          <span class="home-tool-icon">📖</span>
+          <span class="home-tool-title">Grammar</span>
+          <span class="home-tool-sub">Every rule, and where you slip</span>
+        </button>
+        <button class="home-tool-card" onclick="openVerbsScreen()">
+          <span class="home-tool-icon">🔀</span>
+          <span class="home-tool-title">Irregular verbs</span>
+          <span class="home-tool-sub">ging, is gegaan: by pattern</span>
+        </button>
+        <button class="home-tool-card" onclick="openDeHetScreen()">
+          <span class="home-tool-icon">🏷️</span>
+          <span class="home-tool-title">De or het?</span>
+          <span class="home-tool-sub">The article of everyday nouns</span>
+        </button>
+        <button class="home-tool-card" onclick="openProgressScreen()">
+          <span class="home-tool-icon">📊</span>
+          <span class="home-tool-title">Progress</span>
+          <span class="home-tool-sub">Streak and what you know</span>
+        </button>
+      </div>
+
+    </div>
+  </div>
+
+  <!-- Each screen is filled in by its own module. -->
+  <div class="screen course-screen" id="pathScreen"></div>
+  <div class="screen" id="reviewScreen"></div>
+  <div class="screen course-screen" id="grammarScreen"></div>
+  <div class="screen course-screen" id="verbsScreen"></div>
+  <div class="screen course-screen" id="dehetScreen"></div>
+  <div class="screen" id="progressScreen"></div>
+
+</div><!-- /app -->
+
+<script type="module" src="src/main.js"></script>
+</body>
+</html>
