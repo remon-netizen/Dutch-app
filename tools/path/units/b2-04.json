@@ -282,7 +282,7 @@
         "verbreedde",
         "verbreed",
         "verbrede",
-        "verbreedte"
+        "verbreede"
       ],
       "correct": 2,
       "en": "The widened bridge is open to traffic again.",
@@ -414,7 +414,8 @@
       "task": "Turn the extended attribute into a relative clause with die.",
       "from": "De in de nieuwbouwwijk wonende gezinnen willen een school.",
       "answers": [
-        "De gezinnen die in de nieuwbouwwijk wonen, willen een school."
+        "De gezinnen die in de nieuwbouwwijk wonen, willen een school.",
+        "De gezinnen die wonen in de nieuwbouwwijk, willen een school."
       ],
       "en": "The families who live in the new housing estate want a school.",
       "note": "The present participle becomes a conjugated verb at the end of the relative clause: die … wonen. Gezinnen is plural, so wonen."

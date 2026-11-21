@@ -339,7 +339,8 @@
       "nl": "Ik werk hier al tien jaar, ___ (although) ik nooit promotie heb gekregen.",
       "answers": [
         "hoewel",
-        "ofschoon"
+        "ofschoon",
+        "alhoewel"
       ],
       "en": "I have worked here for ten years, although I have never been promoted.",
       "note": "hoewel or the very formal ofschoon, both with sub-clause order. Al or ook al do not fit here: they need the verb directly after them (ook al heb ik …)."
