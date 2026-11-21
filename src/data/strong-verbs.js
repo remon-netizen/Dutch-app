@@ -79,7 +79,7 @@ export const VERB_GROUPS = [
     ['buigen', 'to bend / to bow', 'boog', 'bogen', 'gebogen', 'h'],
     ['ruiken', 'to smell', 'rook', 'roken', 'geroken', 'h'],
     ['kruipen', 'to crawl', 'kroop', 'kropen', 'gekropen', 'hz'],
-    ['schuiven', 'to slide / to push', 'schoof', 'schoven', 'geschoven', 'h'],
+    ['schuiven', 'to slide / to push', 'schoof', 'schoven', 'geschoven', 'hz'],
     ['zuigen', 'to suck', 'zoog', 'zogen', 'gezogen', 'h'],
     ['duiken', 'to dive', 'dook', 'doken', 'gedoken', 'hz'],
     ['fluiten', 'to whistle', 'floot', 'floten', 'gefloten', 'h'],

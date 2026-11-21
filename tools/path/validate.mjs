@@ -72,7 +72,7 @@ function checkWord(w, at, errs, warns) {
   if (!POS.has(w.pos)) errs.push(`${at}: pos "${w.pos}" is not one of ${[...POS].join(', ')}`);
   if (CYR.test(w.nl || '')) errs.push(`${at}: nl contains Cyrillic`);
   if (w.pos === 'n') {
-    if (!['de', 'het', 'de/het'].includes(w.art)) errs.push(`${at}: noun "${w.nl}" needs art "de" or "het", got "${w.art}"`);
+    if (!['de', 'het', 'de/het', 'het/de'].includes(w.art)) errs.push(`${at}: noun "${w.nl}" needs art "de" or "het", got "${w.art}"`);
     if (/^(de|het|een) /i.test(w.nl || '')) errs.push(`${at}: "${w.nl}": the article goes in art, not in nl`);
     if (typeof w.pl !== 'string') errs.push(`${at}: noun "${w.nl}" needs pl (the plural, or "" if it has none)`);
     else if (/^(de|het) /i.test(w.pl)) errs.push(`${at}: pl "${w.pl}" without article`);

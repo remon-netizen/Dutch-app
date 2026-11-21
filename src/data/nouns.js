@@ -40,9 +40,9 @@ export const NOUN_SETS = [
     'uur=hour, jaar=year, moment=moment, weekend=weekend, seizoen=season, begin=beginning, einde=end, verleden=past, horloge=watch, feest=party'),
   set('body', 'Body and health', '🩺',
     'neus=nose, mond=mouth, tand=tooth, tong=tongue, keel=throat, nek=neck, schouder=shoulder, arm=arm, hand=hand, vinger=finger, rug=back, buik=belly, knie=knee, voet=foot, teen=toe, huid=skin, pijn=pain, koorts=fever, ziekte=illness, griep=flu, pil=pill, gezondheid=health, wond=wound',
-    'lichaam=body, hoofd=head, gezicht=face, oog=eye, oor=ear, been=leg, hart=heart, bloed=blood, haar=hair, medicijn=medicine, ongeluk=accident'),
+    'lichaam=body, hoofd=head, gezicht=face, oog=eye, oor=ear, been=leg, hart=heart, bloed=blood, haar=hair (on your head), medicijn=medicine, ongeluk=accident'),
   set('nature', 'Nature and weather', '🌳',
-    'zon=sun, maan=moon, ster=star, hemel=sky / heaven, lucht=air / sky, wolk=cloud, regen=rain, sneeuw=snow, wind=wind, storm=storm, temperatuur=temperature, natuur=nature, boom=tree, bloem=flower, plant=plant, zee=sea, rivier=river, berg=mountain, hond=dog, kat=cat, vogel=bird, koe=cow, muis=mouse, vlieg=fly, aarde=earth, grond=ground, steen=stone',
+    'zon=sun, maan=moon, ster=star, hemel=sky / heaven, lucht=air / sky, wolk=cloud, regen=rain, sneeuw=snow, wind=wind, storm=storm, temperatuur=temperature, natuur=nature, boom=tree, bloem=flower, plant=plant, zee=sea, rivier=river, berg=mountain, hond=dog, kat=cat, vogel=bird, koe=cow, muis=mouse, vlieg=fly, aarde=earth, grond=ground, steen=stone (a single one)',
     'weer=weather, onweer=thunderstorm, gras=grass, blad=leaf, bos=forest, strand=beach, meer=lake, eiland=island, dier=animal, paard=horse, varken=pig, schaap=sheep, vuur=fire, zand=sand'),
   set('work', 'Work and school', '💼',
     'baan=job, cursus=course, les=lesson, klas=class, toets=test, vraag=question, fout=mistake, pen=pen, brief=letter (mail), e-mail=e-mail, zin=sentence, taal=language, letter=letter (a, b, c), computer=computer, telefoon=telephone, foto=photo, film=film, muziek=music, krant=newspaper, televisie=television, radio=radio, website=website',
@@ -52,7 +52,7 @@ export const NOUN_SETS = [
     'shirt=shirt, cadeau=present, geld=money, paspoort=passport, formulier=form, adres=address'),
   set('ideas', 'Ideas and feelings', '💭',
     'oplossing=solution, reden=reason, kans=chance, keuze=choice, mening=opinion, waarheid=truth, leugen=lie, manier=way, kant=side, plaats=place, plek=spot, ruimte=space, dood=death, liefde=love, vriendschap=friendship, angst=fear, hoop=hope, wet=law, regel=rule, macht=power, vrede=peace, oorlog=war, geschiedenis=history, cultuur=culture, kunst=art, sport=sport, wedstrijd=match, ervaring=experience, kennis=knowledge, aandacht=attention, hulp=help, uitnodiging=invitation, oorzaak=cause, waarde=value, kwaliteit=quality',
-    'idee=idea, plan=plan, probleem=problem, doel=goal, gevoel=feeling, verschil=difference, voorbeeld=example, deel=part, geheel=whole, punt=point, leven=life, geluk=happiness / luck, recht=right, spel=game, succes=success, geheugen=memory, gesprek=conversation, bezoek=visit, besluit=decision, resultaat=result, gevolg=consequence, belang=interest / importance'),
+    'idee=idea, plan=plan, probleem=problem, doel=goal, gevoel=feeling, verschil=difference, voorbeeld=example, deel=part, geheel=whole, punt=point (in a game / on a list), leven=life, geluk=happiness / luck, recht=right, spel=game, succes=success, geheugen=memory, gesprek=conversation, bezoek=visit, besluit=decision, resultaat=result, gevolg=consequence, belang=interest / importance'),
 ];
 
 export const NOUNS = NOUN_SETS.flatMap(s => s.nouns);

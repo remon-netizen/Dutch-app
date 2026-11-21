@@ -106,7 +106,7 @@ Each word is an object:
 
 | pos | fields | example |
 |---|---|---|
-| `n` noun | `nl` without article, `art` (`de` or `het`), `pl` (plural, or `""` if it has none), `en` | `{ "nl": "afspraak", "art": "de", "pl": "afspraken", "en": "appointment", "pos": "n" }` |
+| `n` noun | `nl` without article, `art` (`de` or `het`; `het/de` or `de/het` when the official word list allows both for the same meaning, the more usual one first), `pl` (plural, or `""` if it has none), `en` | `{ "nl": "afspraak", "art": "de", "pl": "afspraken", "en": "appointment", "pos": "n" }` |
 | `v` verb | `nl` infinitive, `past` (ik-form of the simple past), `perf` (hij-form of the perfect, with the auxiliary), `en` starting with "to" | `{ "nl": "opbellen", "past": "belde op", "perf": "heeft opgebeld", "en": "to call (on the phone)", "pos": "v" }` |
 | `adj` `adv` `prep` `conj` `pron` `num` `expr` | `nl`, `en` | `{ "nl": "druk", "en": "busy", "pos": "adj" }` |
 

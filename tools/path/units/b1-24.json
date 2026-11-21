@@ -7,100 +7,283 @@
   "summary": "Between the verb and the end: pronouns first; person before thing (or thing + aan + person), but het before a person pronoun; an indefinite object after the time; time, manner, place; niet after a definite object.",
   "explain": "Unit A2 · 3 put the conjugated verb in second place, and the other verbs go to the end. Between them lies the *middle of the sentence* (het middenveld): objects, pronouns, time, manner, place and `niet`. Dutch has a few firm habits there, and they are why *Ik heb gisteren hem gezien sounds foreign.\n\n### 1. Pronouns come early\n\nShort pronouns without stress (`me`, `je`, `hem`, `haar`, `het`, `ons`, `ze`) stand at the very start of the middle: right after the verb, or right after the subject when the subject follows the verb. Time words and everything else come after them.\n\n> Ik heb hem gisteren met zijn verjaardag gefeliciteerd. — I congratulated him on his birthday yesterday.\n> Gisteren heb ik hem gefeliciteerd. — Yesterday I congratulated him.\n\n*Ik heb gisteren hem gefeliciteerd is only possible with strong stress on hem (him, not her).\n\n### 2. Two objects\n\nVerbs like `geven`, `sturen`, `schenken`, `vertellen` and `overhandigen` can have two objects: the thing, and the person who gets it.\n\n| what you have | order |\n| two nouns | person, thing: `mijn moeder een boek` |\n| two nouns with aan | thing, aan + person: `een boek aan mijn moeder` |\n| a pronoun and a noun | the pronoun first: `haar een boek`, `het aan mijn moeder` |\n| two pronouns | het or ze (the thing) first: `het haar`, `het aan haar` |\n\n> Ik geef mijn moeder een boeket. — I am giving my mother a bouquet.\n> Ik geef een boeket aan mijn moeder. — I am giving a bouquet to my mother.\n> Ik heb het haar gisteren gegeven. — I gave it to her yesterday.\n\nWithout `aan`, the person must stand **before** the thing: *Ik geef een boeket mijn moeder is wrong. With two pronouns it is the other way round, the thing first: never *Ik geef haar het. When the thing is a pronoun and the person a noun, the usual way is with `aan`: `Ik geef het aan mijn moeder`. `Ik geef het mijn moeder` is correct but rarer.\n\n### 3. Known before new\n\nA definite object (`het cadeau`, `die bloemen`, `haar verlanglijstje`) is something already known. It may stand before or after a time word: before it is the neutral choice, after it puts a little more weight on the object. An indefinite object (`een cadeau`, `bloemen`, `veel felicitaties`) is new information and goes **after** the time word, close to the verbs at the end.\n\n> Ik heb gisteren een cadeau gekocht. — I bought a present yesterday.\n> Ik heb het cadeau gisteren gekocht. — I bought the present yesterday.\n\n`Ik heb gisteren het cadeau gekocht` is right too, but *Ik heb een cadeau gisteren gekocht is not. The same goes for `al`, `altijd` and `vaak`: `Ik heb al een cadeau`, not *Ik heb een cadeau al.\n\n### 4. Time, manner, place\n\nWhen several of these stand in the middle, the neutral order is **time** (when?), **manner** (how? with whom?), **place** (where? where to?). A place or direction belongs closely to the verb at the end.\n\n> Ik ben gisteren met de fiets naar het feest gegaan. — Yesterday I went to the party by bike.\n\nEnglish puts the time last (*to the party yesterday*); Dutch does not: *Ik ben met de fiets naar het feest gisteren gegaan is wrong. Any of the three can also take the first place: `Gisteren ben ik met de fiets naar het feest gegaan`. A phrase with a preposition may also follow the final verb: `… naar het feest gegaan met de fiets`.\n\n### 5. Niet\n\nAs in unit A2 · 7, `niet` comes after pronouns, after a definite object and after a time word, and before a place, a phrase with a preposition and the verbs at the end.\n\n> Ik heb het cadeau nog niet ingepakt. — I have not wrapped the present yet.\n> We gaan morgen niet naar de bruiloft. — We are not going to the wedding tomorrow.\n\n`Niet` before a definite object or a time word is only used for a contrast: `niet het cadeau, maar de kaart`.\n\n### Watch out\n\n- *Ik heb gisteren hem gezien → `Ik heb hem gisteren gezien`.\n- *Ik geef haar het → `Ik geef het haar` or `Ik geef het aan haar`.\n- *Ik geef een boek mijn moeder → `Ik geef mijn moeder een boek` or `Ik geef een boek aan mijn moeder`.\n- *Ik heb een cadeau gisteren gekocht → `Ik heb gisteren een cadeau gekocht`.\n- *Ik heb niet het cadeau ingepakt → `Ik heb het cadeau niet ingepakt`.\n\n### Compared with Ukrainian\n\nUkrainian marks the person who receives with the dative ending (`мамі`, `їй`), so the order is free: `Я дав їй книжку` and `Я дав книжку їй` are both fine. Dutch nouns have no case endings, so in `Ik geef mijn moeder een boek` only the position shows who gets what. That is why, without `aan`, the person must come first.",
   "words": [
-    { "nl": "uitpakken", "past": "pakte uit", "perf": "heeft uitgepakt", "en": "to unwrap / to unpack", "pos": "v" },
-    { "nl": "versieren", "past": "versierde", "perf": "heeft versierd", "en": "to decorate", "pos": "v" },
-    { "nl": "schenken", "past": "schonk", "perf": "heeft geschonken", "en": "to give (as a present) / to donate", "pos": "v" },
-    { "nl": "overhandigen", "past": "overhandigde", "perf": "heeft overhandigd", "en": "to hand over / to present", "pos": "v" },
-    { "nl": "attentie", "art": "de", "pl": "attenties", "en": "small present / token", "pos": "n" },
-    { "nl": "slinger", "art": "de", "pl": "slingers", "en": "paper garland / streamer", "pos": "n" },
-    { "nl": "gastvrouw", "art": "de", "pl": "gastvrouwen", "en": "hostess", "pos": "n" },
-    { "nl": "cadeaubon", "art": "de", "pl": "cadeaubonnen", "en": "gift voucher", "pos": "n" },
-    { "nl": "bruiloft", "art": "de", "pl": "bruiloften", "en": "wedding", "pos": "n" },
-    { "nl": "boeket", "art": "het", "pl": "boeketten", "en": "bouquet", "pos": "n" },
-    { "nl": "verlanglijstje", "art": "het", "pl": "verlanglijstjes", "en": "wish list (for presents)", "pos": "n" },
-    { "nl": "felicitatie", "art": "de", "pl": "felicitaties", "en": "congratulation", "pos": "n" },
-    { "nl": "gelukwens", "art": "de", "pl": "gelukwensen", "en": "congratulation / good wish", "pos": "n" },
-    { "nl": "attent", "en": "thoughtful / considerate", "pos": "adj" },
-    { "nl": "dankbaar", "en": "grateful", "pos": "adj" },
-    { "nl": "iemand een plezier doen", "en": "to do someone a favour", "pos": "expr" }
+    {
+      "nl": "uitpakken",
+      "past": "pakte uit",
+      "perf": "heeft uitgepakt",
+      "en": "to unwrap / to unpack",
+      "pos": "v"
+    },
+    {
+      "nl": "versieren",
+      "past": "versierde",
+      "perf": "heeft versierd",
+      "en": "to decorate",
+      "pos": "v"
+    },
+    {
+      "nl": "schenken",
+      "past": "schonk",
+      "perf": "heeft geschonken",
+      "en": "to give (as a present) / to donate",
+      "pos": "v"
+    },
+    {
+      "nl": "overhandigen",
+      "past": "overhandigde",
+      "perf": "heeft overhandigd",
+      "en": "to hand over / to present",
+      "pos": "v"
+    },
+    {
+      "nl": "attentie",
+      "art": "de",
+      "pl": "attenties",
+      "en": "small present / token",
+      "pos": "n"
+    },
+    {
+      "nl": "slinger",
+      "art": "de",
+      "pl": "slingers",
+      "en": "paper garland / streamer",
+      "pos": "n"
+    },
+    {
+      "nl": "gastvrouw",
+      "art": "de",
+      "pl": "gastvrouwen",
+      "en": "hostess",
+      "pos": "n"
+    },
+    {
+      "nl": "cadeaubon",
+      "art": "de",
+      "pl": "cadeaubonnen",
+      "en": "gift voucher",
+      "pos": "n"
+    },
+    {
+      "nl": "bruiloft",
+      "art": "de",
+      "pl": "bruiloften",
+      "en": "wedding",
+      "pos": "n"
+    },
+    {
+      "nl": "boeket",
+      "art": "het/de",
+      "pl": "boeketten",
+      "en": "bouquet",
+      "pos": "n"
+    },
+    {
+      "nl": "verlanglijstje",
+      "art": "het",
+      "pl": "verlanglijstjes",
+      "en": "wish list (for presents)",
+      "pos": "n"
+    },
+    {
+      "nl": "felicitatie",
+      "art": "de",
+      "pl": "felicitaties",
+      "en": "congratulation",
+      "pos": "n"
+    },
+    {
+      "nl": "gelukwens",
+      "art": "de",
+      "pl": "gelukwensen",
+      "en": "congratulation / good wish",
+      "pos": "n"
+    },
+    {
+      "nl": "attent",
+      "en": "thoughtful / considerate",
+      "pos": "adj"
+    },
+    {
+      "nl": "dankbaar",
+      "en": "grateful",
+      "pos": "adj"
+    },
+    {
+      "nl": "iemand een plezier doen",
+      "en": "to do someone a favour",
+      "pos": "expr"
+    }
   ],
   "sentences": [
     {
       "nl": "Ik heb hem gisteren met zijn verjaardag gefeliciteerd.",
       "en": "I congratulated him on his birthday yesterday.",
-      "hint": ["feliciteren", "gisteren", "met", "verjaardag"],
+      "hint": [
+        "feliciteren",
+        "gisteren",
+        "met",
+        "verjaardag"
+      ],
       "note": "The pronoun hem has no stress, so it comes first in the middle, before the time word gisteren. *Ik heb gisteren hem … would put stress on hem.",
-      "alt": ["Gisteren heb ik hem met zijn verjaardag gefeliciteerd.", "Ik heb hem gisteren gefeliciteerd met zijn verjaardag.", "Gisteren heb ik hem gefeliciteerd met zijn verjaardag."]
+      "alt": [
+        "Gisteren heb ik hem met zijn verjaardag gefeliciteerd.",
+        "Ik heb hem gisteren gefeliciteerd met zijn verjaardag.",
+        "Gisteren heb ik hem gefeliciteerd met zijn verjaardag."
+      ]
     },
     {
       "nl": "Voor onze bruiloft hebben mijn ouders ons een cadeaubon gegeven.",
       "en": "For our wedding my parents gave us a gift voucher.",
-      "hint": ["voor", "bruiloft", "ouders", "cadeaubon", "geven"],
+      "hint": [
+        "voor",
+        "bruiloft",
+        "ouders",
+        "cadeaubon",
+        "geven"
+      ],
       "note": "Two objects: the pronoun ons (the person) comes before the noun een cadeaubon (the thing). The subject mijn ouders stands right after the verb hebben.",
-      "alt": ["Mijn ouders hebben ons voor onze bruiloft een cadeaubon gegeven.", "Mijn ouders hebben ons een cadeaubon voor onze bruiloft gegeven.", "Mijn ouders hebben ons een cadeaubon gegeven voor onze bruiloft."]
+      "alt": [
+        "Mijn ouders hebben ons voor onze bruiloft een cadeaubon gegeven.",
+        "Mijn ouders hebben ons een cadeaubon voor onze bruiloft gegeven.",
+        "Mijn ouders hebben ons een cadeaubon gegeven voor onze bruiloft."
+      ]
     },
     {
       "nl": "Bij zijn afscheid hebben de collega's hun baas een nieuwe fiets geschonken.",
       "en": "When he left, the colleagues gave their boss a new bike as a present.",
-      "hint": ["afscheid", "collega", "baas", "nieuw", "fiets", "schenken"],
+      "hint": [
+        "afscheid",
+        "collega",
+        "baas",
+        "nieuw",
+        "fiets",
+        "schenken"
+      ],
       "note": "Two nouns without aan: the person hun baas comes before the thing een nieuwe fiets. *een nieuwe fiets hun baas is wrong.",
-      "alt": ["De collega's hebben hun baas bij zijn afscheid een nieuwe fiets geschonken.", "De collega's hebben bij zijn afscheid hun baas een nieuwe fiets geschonken."]
+      "alt": [
+        "De collega's hebben hun baas bij zijn afscheid een nieuwe fiets geschonken.",
+        "De collega's hebben bij zijn afscheid hun baas een nieuwe fiets geschonken."
+      ]
     },
     {
       "nl": "Ik laat het je morgen weten.",
       "en": "I will let you know tomorrow.",
-      "hint": ["laten", "morgen", "weten"],
+      "hint": [
+        "laten",
+        "morgen",
+        "weten"
+      ],
       "note": "Two pronouns: het (the thing) comes before je (the person), and both come before morgen. *Ik laat je het morgen weten is wrong.",
-      "alt": ["Ik laat het jou morgen weten.", "Morgen laat ik het je weten.", "Morgen laat ik het jou weten."]
+      "alt": [
+        "Ik laat het jou morgen weten.",
+        "Morgen laat ik het je weten.",
+        "Morgen laat ik het jou weten."
+      ]
     },
     {
       "nl": "We gaan zaterdag met de trein naar de bruiloft.",
       "en": "We are going to the wedding by train on Saturday.",
-      "hint": ["gaan", "zaterdag", "trein", "bruiloft"],
+      "hint": [
+        "gaan",
+        "zaterdag",
+        "trein",
+        "bruiloft"
+      ],
       "note": "Time, manner, place: zaterdag (when), met de trein (how), naar de bruiloft (where to). English puts the time last; Dutch puts it first in the middle.",
-      "alt": ["Zaterdag gaan we met de trein naar de bruiloft."]
+      "alt": [
+        "Zaterdag gaan we met de trein naar de bruiloft."
+      ]
     },
     {
       "nl": "Ik heb gisteren een kleine attentie voor haar gekocht.",
       "en": "I bought a little present for her yesterday.",
-      "hint": ["gisteren", "klein", "attentie", "voor", "kopen"],
+      "hint": [
+        "gisteren",
+        "klein",
+        "attentie",
+        "voor",
+        "kopen"
+      ],
       "note": "Een kleine attentie is indefinite, new information, so it comes after the time word gisteren. *Ik heb een kleine attentie gisteren gekocht is wrong.",
-      "alt": ["Gisteren heb ik een kleine attentie voor haar gekocht.", "Ik heb gisteren voor haar een kleine attentie gekocht.", "Gisteren heb ik voor haar een kleine attentie gekocht.", "Ik heb gisteren een kleine attentie gekocht voor haar.", "Gisteren heb ik een kleine attentie gekocht voor haar."]
+      "alt": [
+        "Gisteren heb ik een kleine attentie voor haar gekocht.",
+        "Ik heb gisteren voor haar een kleine attentie gekocht.",
+        "Gisteren heb ik voor haar een kleine attentie gekocht.",
+        "Ik heb gisteren een kleine attentie gekocht voor haar.",
+        "Gisteren heb ik een kleine attentie gekocht voor haar."
+      ]
     },
     {
       "nl": "Ik heb het cadeau nog niet ingepakt.",
       "en": "I have not wrapped the present yet.",
-      "hint": ["cadeau", "nog niet", "inpakken"],
+      "hint": [
+        "cadeau",
+        "nog niet",
+        "inpakken"
+      ],
       "note": "Het cadeau is a definite object, so niet comes after it. Niet before het cadeau would only be used for a contrast.",
-      "alt": ["Het cadeau heb ik nog niet ingepakt."]
+      "alt": [
+        "Het cadeau heb ik nog niet ingepakt."
+      ]
     },
     {
       "nl": "Wil je me een plezier doen en de taart ophalen?",
       "en": "Will you do me a favour and pick up the cake?",
-      "hint": ["willen", "plezier", "doen", "taart", "ophalen"],
+      "hint": [
+        "willen",
+        "plezier",
+        "doen",
+        "taart",
+        "ophalen"
+      ],
       "note": "The pronoun me (the person) comes before the noun een plezier. Pronoun before noun, wherever two objects meet.",
-      "alt": ["Wil jij me een plezier doen en de taart ophalen?", "Wil je mij een plezier doen en de taart ophalen?", "Wil jij mij een plezier doen en de taart ophalen?"]
+      "alt": [
+        "Wil jij me een plezier doen en de taart ophalen?",
+        "Wil je mij een plezier doen en de taart ophalen?",
+        "Wil jij mij een plezier doen en de taart ophalen?"
+      ]
     },
     {
       "nl": "Ik ben je heel dankbaar voor je hulp.",
       "en": "I am very grateful to you for your help.",
-      "hint": ["heel", "dankbaar", "voor", "hulp"],
+      "hint": [
+        "heel",
+        "dankbaar",
+        "voor",
+        "hulp"
+      ],
       "note": "Je is the person you are grateful to. As a pronoun without stress it stands right after the verb, before heel dankbaar.",
-      "alt": ["Ik ben jou heel dankbaar voor je hulp.", "Ik ben je heel dankbaar voor jouw hulp.", "Ik ben jou heel dankbaar voor jouw hulp."]
+      "alt": [
+        "Ik ben jou heel dankbaar voor je hulp.",
+        "Ik ben je heel dankbaar voor jouw hulp.",
+        "Ik ben jou heel dankbaar voor jouw hulp."
+      ]
     },
     {
       "nl": "Ze heeft ons gisteren haar verlanglijstje gestuurd.",
       "en": "She sent us her wish list yesterday.",
-      "hint": ["gisteren", "verlanglijstje", "sturen"],
+      "hint": [
+        "gisteren",
+        "verlanglijstje",
+        "sturen"
+      ],
       "note": "The pronoun ons comes first. Haar verlanglijstje is definite, so it may also stand before gisteren: Ze heeft ons haar verlanglijstje gisteren gestuurd.",
-      "alt": ["Ze heeft ons haar verlanglijstje gisteren gestuurd.", "Gisteren heeft ze ons haar verlanglijstje gestuurd.", "Gisteren heeft zij ons haar verlanglijstje gestuurd."]
+      "alt": [
+        "Ze heeft ons haar verlanglijstje gisteren gestuurd.",
+        "Gisteren heeft ze ons haar verlanglijstje gestuurd.",
+        "Gisteren heeft zij ons haar verlanglijstje gestuurd."
+      ]
     }
   ],
   "exercises": [
     {
       "type": "choose",
       "nl": "Ik heb ___ gisteren gegeven.",
-      "options": ["hem het", "het hem", "aan hem het"],
+      "options": [
+        "hem het",
+        "het hem",
+        "aan hem het"
+      ],
       "correct": 1,
       "en": "I gave it to him yesterday.",
       "note": "With two pronouns, het (the thing) comes first and the person second: het hem. With aan it would be het aan hem, never aan hem het."
@@ -108,7 +291,11 @@
     {
       "type": "choose",
       "nl": "Ik heb ___ voor de gastvrouw gekocht.",
-      "options": ["een taart gisteren", "gisteren een taart", "een taart al"],
+      "options": [
+        "een taart gisteren",
+        "gisteren een taart",
+        "een taart al"
+      ],
       "correct": 1,
       "en": "I bought a cake for the hostess yesterday.",
       "note": "Een taart is indefinite, new information, so it goes after the time word: gisteren een taart. The same holds for al: al een taart, not een taart al."
@@ -116,7 +303,11 @@
     {
       "type": "choose",
       "nl": "Ik heb ___ uitgepakt, want ik wacht tot mijn verjaardag.",
-      "options": ["niet het cadeau", "het cadeau niet", "het niet cadeau"],
+      "options": [
+        "niet het cadeau",
+        "het cadeau niet",
+        "het niet cadeau"
+      ],
       "correct": 1,
       "en": "I have not unwrapped the present, because I am waiting until my birthday.",
       "note": "Het cadeau is definite, so niet comes after it. Niet het cadeau is only used for a contrast (not the present, but the card)."
@@ -124,61 +315,111 @@
     {
       "type": "gap",
       "nl": "Mijn buurman is erg attent: hij geeft ___ (mijn dochter) altijd iets op haar verjaardag.",
-      "answers": ["haar"],
+      "answers": [
+        "haar"
+      ],
       "en": "My neighbour is very thoughtful: he always gives my daughter something on her birthday.",
       "note": "Mijn dochter becomes the pronoun haar. As a pronoun it stands right after the verb, before altijd and before the thing iets."
     },
     {
       "type": "gap",
       "nl": "We hebben het boeket ___ de bruid overhandigd.",
-      "answers": ["aan"],
+      "answers": [
+        "aan"
+      ],
       "en": "We handed the bouquet to the bride.",
       "note": "When the thing comes first, the person needs aan: het boeket aan de bruid. Without aan the person would have to come first: de bruid het boeket."
     },
     {
       "type": "gap",
       "nl": "Waar is de cadeaubon? Ik heb ___ (de cadeaubon) al aan mijn broer gegeven.",
-      "answers": ["hem", "die"],
+      "answers": [
+        "hem",
+        "die"
+      ],
       "en": "Where is the gift voucher? I have already given it to my brother.",
       "note": "Cadeaubon is a de-word, so the pronoun for it is hem, not het. It comes early, before al. In speech die is also used here."
     },
     {
       "type": "order",
       "lead": "Gisteren",
-      "words": ["heb", "ik", "haar", "een boeket", "gestuurd"],
-      "answers": ["Gisteren heb ik haar een boeket gestuurd."],
+      "words": [
+        "heb",
+        "ik",
+        "haar",
+        "een boeket",
+        "gestuurd"
+      ],
+      "answers": [
+        "Gisteren heb ik haar een boeket gestuurd."
+      ],
       "en": "Yesterday I sent her a bouquet.",
       "note": "After Gisteren come the verb heb and the subject ik. Then the pronoun haar (the person) before the noun een boeket (the thing), and the participle last."
     },
     {
       "type": "order",
       "lead": "Ik",
-      "words": ["heb", "de zaal", "gisteren", "met slingers", "versierd"],
-      "answers": ["Ik heb de zaal gisteren met slingers versierd.", "Ik heb gisteren de zaal met slingers versierd.", "Ik heb de zaal gisteren versierd met slingers.", "Ik heb gisteren de zaal versierd met slingers."],
+      "words": [
+        "heb",
+        "de zaal",
+        "gisteren",
+        "met slingers",
+        "versierd"
+      ],
+      "answers": [
+        "Ik heb de zaal gisteren met slingers versierd.",
+        "Ik heb gisteren de zaal met slingers versierd.",
+        "Ik heb de zaal gisteren versierd met slingers.",
+        "Ik heb gisteren de zaal versierd met slingers."
+      ],
       "en": "I decorated the hall with garlands yesterday.",
       "note": "De zaal is a definite object, so it can stand before or after gisteren. Met slingers says how (manner), so it comes after the time, or as an afterthought after versierd. With een zaal only gisteren een zaal would be right."
     },
     {
       "type": "order",
       "lead": "We",
-      "words": ["geven", "onze buren", "een mooie lamp", "voor hun bruiloft"],
-      "answers": ["We geven onze buren een mooie lamp voor hun bruiloft.", "We geven onze buren voor hun bruiloft een mooie lamp."],
+      "words": [
+        "geven",
+        "onze buren",
+        "een mooie lamp",
+        "voor hun bruiloft"
+      ],
+      "answers": [
+        "We geven onze buren een mooie lamp voor hun bruiloft.",
+        "We geven onze buren voor hun bruiloft een mooie lamp."
+      ],
       "en": "We are giving our neighbours a nice lamp for their wedding.",
       "note": "Two nouns without aan: the person onze buren comes before the thing een mooie lamp. Voor hun bruiloft may stand at the end or between the two."
     },
     {
       "type": "order",
       "lead": "Ik",
-      "words": ["ben", "gisteren", "lopend", "naar het feest", "gegaan"],
-      "answers": ["Ik ben gisteren lopend naar het feest gegaan."],
+      "words": [
+        "ben",
+        "gisteren",
+        "lopend",
+        "naar het feest",
+        "gegaan"
+      ],
+      "answers": [
+        "Ik ben gisteren lopend naar het feest gegaan."
+      ],
       "en": "Yesterday I walked to the party.",
       "note": "Time, manner, place: gisteren (when), lopend (how), naar het feest (where to). The direction stays close to the participle gegaan."
     },
     {
       "type": "order",
       "lead": "Heb",
-      "words": ["je", "het", "hem", "al", "gegeven"],
-      "answers": ["Heb je het hem al gegeven?"],
+      "words": [
+        "je",
+        "het",
+        "hem",
+        "al",
+        "gegeven"
+      ],
+      "answers": [
+        "Heb je het hem al gegeven?"
+      ],
       "en": "Have you given it to him yet?",
       "note": "In the question the subject je comes right after the verb. Then the two pronouns, het (the thing) before hem (the person), then al, and the participle last."
     },
@@ -186,7 +427,10 @@
       "type": "rewrite",
       "task": "Replace both nouns with pronouns.",
       "from": "Ik geef mijn vader het boek.",
-      "answers": ["Ik geef het hem.", "Ik geef het aan hem."],
+      "answers": [
+        "Ik geef het hem.",
+        "Ik geef het aan hem."
+      ],
       "en": "I am giving it to him.",
       "note": "Two nouns: the person first. Two pronouns: the thing first, het hem. With aan: het aan hem. Never *Ik geef hem het."
     },
@@ -194,7 +438,10 @@
       "type": "rewrite",
       "task": "Make the object definite: het boeket.",
       "from": "Ik heb gisteren een boeket gekocht.",
-      "answers": ["Ik heb het boeket gisteren gekocht.", "Ik heb gisteren het boeket gekocht."],
+      "answers": [
+        "Ik heb het boeket gisteren gekocht.",
+        "Ik heb gisteren het boeket gekocht."
+      ],
       "en": "I bought the bouquet yesterday.",
       "note": "An indefinite object must follow gisteren. A definite one may stand before it (the neutral choice) or after it."
     },
@@ -202,21 +449,29 @@
       "type": "rewrite",
       "task": "Make it negative with niet.",
       "from": "Ik heb de cadeaubon aan mijn broer gegeven.",
-      "answers": ["Ik heb de cadeaubon niet aan mijn broer gegeven."],
+      "answers": [
+        "Ik heb de cadeaubon niet aan mijn broer gegeven."
+      ],
       "en": "I did not give the gift voucher to my brother.",
       "note": "Niet comes after the definite object de cadeaubon and before the phrase with a preposition, aan mijn broer."
     },
     {
       "type": "fix",
       "wrong": "Ik heb gisteren hem mijn gelukwensen gestuurd.",
-      "answers": ["Ik heb hem gisteren mijn gelukwensen gestuurd.", "Gisteren heb ik hem mijn gelukwensen gestuurd."],
+      "answers": [
+        "Ik heb hem gisteren mijn gelukwensen gestuurd.",
+        "Gisteren heb ik hem mijn gelukwensen gestuurd."
+      ],
       "en": "I sent him my congratulations yesterday.",
       "note": "A pronoun without stress comes first in the middle, before the time word: hem gisteren. Gisteren hem only works with strong stress on hem."
     },
     {
       "type": "fix",
       "wrong": "Wij hebben veel felicitaties gisteren gekregen.",
-      "answers": ["Wij hebben gisteren veel felicitaties gekregen.", "Gisteren hebben wij veel felicitaties gekregen."],
+      "answers": [
+        "Wij hebben gisteren veel felicitaties gekregen.",
+        "Gisteren hebben wij veel felicitaties gekregen."
+      ],
       "en": "We received a lot of congratulations yesterday.",
       "note": "Veel felicitaties is indefinite, new information, so it comes after the time word gisteren, close to the participle."
     }
