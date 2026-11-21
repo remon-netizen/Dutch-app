@@ -7,97 +7,245 @@
   "summary": "Perfect: the fact or result, to open or close a story. Simple past: the events in a row, the background, habits, and after toen. Past perfect: a step back to before. Translate what Ukrainian aspect means, not the aspect itself.",
   "explain": "When you tell what happened, Dutch has three past tenses, and in a story each one has its own job. You know the forms from earlier units: the perfect (de voltooide tijd: `ik heb gewerkt`), the simple past (de onvoltooid verleden tijd: `ik werkte`) and the past perfect (de voltooid verleden tijd: `ik had gewerkt`). This unit is about choosing between them, and about why Ukrainian aspect does not tell you which one to use.\n\n### The perfect: the fact and the result\n\nThe perfect says **that** something happened and that it matters now. Use it for a single event you report, for news, for questions about experience, and to open or close a story.\n\n> Er is gisteren iets geks gebeurd. — Something strange happened yesterday.\n> Heb je ooit zoiets meegemaakt? — Have you ever experienced anything like it?\n> Uiteindelijk is alles goed afgelopen. — In the end everything turned out fine.\n\nIn conversation the perfect is the normal past for one event: `Ik heb gisteren mijn moeder gebeld`.\n\n### The simple past: the story itself\n\nOnce the story is running, the simple past carries it:\n\n- **events one after another**: and then, and then …\n- **the background**: what was going on, how things looked, the weather.\n- **habits**: what you used to do, with `vroeger`, `altijd`, `vaak`, `elke zomer`.\n- a clause with **toen** (when): `Toen ik thuiskwam, …`\n\n> Ik stond op het perron en het regende. — I was standing on the platform and it was raining.\n> Opeens zag ik mijn oude buurman. — Suddenly I saw my old neighbour.\n> Vroeger fietsten we elke dag naar school. — We used to cycle to school every day.\n\n`zijn`, `hebben` and the modal verbs are often in the simple past even in a single remark: `Ik was gisteren ziek`, `Ik moest lang wachten`. After `toen` meaning *then* (`En toen …`) a story also goes on in the simple past, although in speech you hear the perfect too: `En toen heb ik de politie gebeld`.\n\n### The past perfect: a step back\n\nThe story is in the past; the past perfect goes back to something that had happened **before** that moment. It is `had` or `was` + participle, with the same auxiliary as in the perfect.\n\n> Toen we aankwamen, was de film al begonnen. — When we arrived, the film had already started.\n> Ik had hem al tien jaar niet gezien. — I had not seen him for ten years.\n\n### Signal words\n\n- `toen` (when / then), `daarna` (after that), `opeens` (suddenly): events in a row, simple past.\n- `ondertussen` (meanwhile): something happening at the same time.\n- `net` (just): `Ik heb net gegeten` (a moment ago) against `Ik had net gegeten` (just before that moment).\n- `al` (already) and `nog nooit` (never yet) often go with the perfect or the past perfect: `Ik had hem nog nooit gezien`.\n\n### Ukrainian aspect is not a Dutch tense\n\nMost Ukrainian verbs come in pairs: perfective (`прочитав`) and imperfective (`читав`). Dutch verbs have no such pairs; Dutch chooses a tense by its job in the story. So translate the meaning, not the aspect:\n\n| Ukrainian | meaning | Dutch |\n| Я прочитав книжку. | done, a result | Ik heb het boek gelezen. |\n| Ти читав цю книжку? | ever? a fact | Heb je dit boek gelezen? |\n| Я читав, коли він подзвонив. | in the middle of it | Ik was aan het lezen toen hij belde. |\n| Раніше я часто читав. | used to | Vroeger las ik vaak. |\n\nSo an imperfective verb can be `las`, `was aan het lezen` or `heb gelezen`, and a perfective verb can be `heb gelezen` or, inside a story, `las`. For *in the middle of it* use `was aan het …` or `zat / stond / lag te …` (unit B1 · 8).\n\n### Watch out\n\n- After toen (when), the simple past: *Toen ik in Utrecht heb gewoond → `Toen ik in Utrecht woonde`.\n- `Ik heb op het perron gestaan` is correct Dutch, but it only states a fact. As the background of a story, say `Ik stond op het perron`.\n- The past perfect needs an earlier point in the story: *Gisteren had ik een verrassing gekregen → `Gisteren heb ik een verrassing gekregen`.\n- When the main clause is in the past, what happened before it takes the past perfect: *Ik merkte dat iemand mijn tas heeft opengemaakt → `Ik merkte dat iemand mijn tas had opengemaakt`.",
   "words": [
-    { "nl": "herinnering", "art": "de", "pl": "herinneringen", "en": "memory (of something)", "pos": "n" },
-    { "nl": "verrassing", "art": "de", "pl": "verrassingen", "en": "surprise", "pos": "n" },
-    { "nl": "gebeuren", "past": "gebeurde", "perf": "is gebeurd", "en": "to happen", "pos": "v" },
-    { "nl": "meemaken", "past": "maakte mee", "perf": "heeft meegemaakt", "en": "to experience / to go through", "pos": "v" },
-    { "nl": "schrikken", "past": "schrok", "perf": "is geschrokken", "en": "to get a fright / to be startled", "pos": "v" },
-    { "nl": "ontdekken", "past": "ontdekte", "perf": "heeft ontdekt", "en": "to discover / to find out", "pos": "v" },
-    { "nl": "merken", "past": "merkte", "perf": "heeft gemerkt", "en": "to notice", "pos": "v" },
-    { "nl": "tegenkomen", "past": "kwam tegen", "perf": "is tegengekomen", "en": "to run into (someone)", "pos": "v" },
-    { "nl": "opeens", "en": "suddenly", "pos": "adv" },
-    { "nl": "ondertussen", "en": "meanwhile / in the meantime", "pos": "adv" },
-    { "nl": "toevallig", "en": "by chance", "pos": "adv" },
-    { "nl": "achteraf", "en": "afterwards / looking back", "pos": "adv" },
-    { "nl": "uiteindelijk", "en": "in the end / eventually", "pos": "adv" },
-    { "nl": "ongelooflijk", "en": "incredible", "pos": "adj" },
-    { "nl": "verbaasd", "en": "surprised / amazed", "pos": "adj" }
+    {
+      "nl": "verrassing",
+      "art": "de",
+      "pl": "verrassingen",
+      "en": "surprise",
+      "pos": "n"
+    },
+    {
+      "nl": "gebeuren",
+      "past": "gebeurde",
+      "perf": "is gebeurd",
+      "en": "to happen",
+      "pos": "v"
+    },
+    {
+      "nl": "meemaken",
+      "past": "maakte mee",
+      "perf": "heeft meegemaakt",
+      "en": "to experience / to go through",
+      "pos": "v"
+    },
+    {
+      "nl": "schrikken",
+      "past": "schrok",
+      "perf": "is geschrokken",
+      "en": "to get a fright / to be startled",
+      "pos": "v"
+    },
+    {
+      "nl": "ontdekken",
+      "past": "ontdekte",
+      "perf": "heeft ontdekt",
+      "en": "to discover / to find out",
+      "pos": "v"
+    },
+    {
+      "nl": "merken",
+      "past": "merkte",
+      "perf": "heeft gemerkt",
+      "en": "to notice",
+      "pos": "v"
+    },
+    {
+      "nl": "tegenkomen",
+      "past": "kwam tegen",
+      "perf": "is tegengekomen",
+      "en": "to run into (someone)",
+      "pos": "v"
+    },
+    {
+      "nl": "opeens",
+      "en": "suddenly",
+      "pos": "adv"
+    },
+    {
+      "nl": "ondertussen",
+      "en": "meanwhile / in the meantime",
+      "pos": "adv"
+    },
+    {
+      "nl": "toevallig",
+      "en": "by chance",
+      "pos": "adv"
+    },
+    {
+      "nl": "achteraf",
+      "en": "afterwards / looking back",
+      "pos": "adv"
+    },
+    {
+      "nl": "uiteindelijk",
+      "en": "in the end / eventually",
+      "pos": "adv"
+    },
+    {
+      "nl": "ongelooflijk",
+      "en": "incredible",
+      "pos": "adj"
+    },
+    {
+      "nl": "verbaasd",
+      "en": "surprised / amazed",
+      "pos": "adj"
+    }
   ],
   "sentences": [
     {
       "nl": "Er is gisteren iets geks gebeurd op mijn werk.",
       "en": "Something strange happened at work yesterday.",
-      "hint": ["gisteren", "gek", "gebeuren", "werk"],
+      "hint": [
+        "gisteren",
+        "gek",
+        "gebeuren",
+        "werk"
+      ],
       "note": "The perfect opens the story: it states that something happened. Gebeuren takes zijn: is gebeurd.",
-      "alt": ["Gisteren is er iets geks gebeurd op mijn werk.", "Er is gisteren op mijn werk iets geks gebeurd.", "Gisteren is er op mijn werk iets geks gebeurd.", "Er is gisteren iets geks gebeurd op het werk.", "Gisteren is er iets geks gebeurd op het werk.", "Er is gisteren op het werk iets geks gebeurd.", "Gisteren is er op het werk iets geks gebeurd."]
+      "alt": [
+        "Gisteren is er iets geks gebeurd op mijn werk.",
+        "Er is gisteren op mijn werk iets geks gebeurd.",
+        "Gisteren is er op mijn werk iets geks gebeurd.",
+        "Er is gisteren iets geks gebeurd op het werk.",
+        "Gisteren is er iets geks gebeurd op het werk.",
+        "Er is gisteren op het werk iets geks gebeurd.",
+        "Gisteren is er op het werk iets geks gebeurd."
+      ]
     },
     {
       "nl": "Ik stond op het perron en het regende hard.",
       "en": "I was standing on the platform and it was raining hard.",
-      "hint": ["staan", "perron", "regenen", "hard"],
+      "hint": [
+        "staan",
+        "perron",
+        "regenen",
+        "hard"
+      ],
       "note": "This is the background of the story, so both verbs are in the simple past: stond, regende. English uses 'was …ing' here; Dutch needs no extra form."
     },
     {
       "nl": "Opeens kwam ik mijn oude buurman tegen.",
       "en": "Suddenly I ran into my old neighbour.",
-      "hint": ["opeens", "tegenkomen", "oud", "buurman"],
+      "hint": [
+        "opeens",
+        "tegenkomen",
+        "oud",
+        "buurman"
+      ],
       "note": "A new event in the story: simple past. Tegenkomen is separable, so kwam stands second and tegen goes to the end.",
-      "alt": ["Ik kwam opeens mijn oude buurman tegen."]
+      "alt": [
+        "Ik kwam opeens mijn oude buurman tegen."
+      ]
     },
     {
       "nl": "Ik had hem al tien jaar niet gezien.",
       "en": "I had not seen him for ten years.",
-      "hint": ["al", "jaar", "zien"],
+      "hint": [
+        "al",
+        "jaar",
+        "zien"
+      ],
       "note": "A step back to the time before the meeting: the past perfect, had + gezien."
     },
     {
       "nl": "Toen hij mijn naam riep, schrok ik erg.",
       "en": "When he called my name, I got a real fright.",
-      "hint": ["toen", "naam", "roepen", "schrikken", "erg"],
+      "hint": [
+        "toen",
+        "naam",
+        "roepen",
+        "schrikken",
+        "erg"
+      ],
       "note": "In a clause with toen (when) the verb is in the simple past: riep. The next event follows in the simple past too: schrok, from the strong verb schrikken.",
-      "alt": ["Ik schrok erg toen hij mijn naam riep."]
+      "alt": [
+        "Ik schrok erg toen hij mijn naam riep."
+      ]
     },
     {
       "nl": "Vroeger logeerden we elke zomer bij mijn oma op het platteland.",
       "en": "Every summer we used to stay with my grandmother in the countryside.",
-      "hint": ["vroeger", "logeren", "zomer", "oma", "platteland"],
+      "hint": [
+        "vroeger",
+        "logeren",
+        "zomer",
+        "oma",
+        "platteland"
+      ],
       "note": "A habit in the past: the simple past with vroeger and elke zomer. Ukrainian would use an imperfective verb here; Dutch uses no extra word for 'used to'.",
-      "alt": ["We logeerden vroeger elke zomer bij mijn oma op het platteland.", "Vroeger logeerden we elke zomer op het platteland bij mijn oma."]
+      "alt": [
+        "We logeerden vroeger elke zomer bij mijn oma op het platteland.",
+        "Vroeger logeerden we elke zomer op het platteland bij mijn oma."
+      ]
     },
     {
       "nl": "Ik was aan het koken toen de bel ging.",
       "en": "I was cooking when the doorbell rang.",
-      "hint": ["koken", "toen", "bel", "gaan"],
+      "hint": [
+        "koken",
+        "toen",
+        "bel",
+        "gaan"
+      ],
       "note": "For 'in the middle of it' Dutch uses was aan het + infinitive. The event that interrupts it is a plain simple past: ging.",
-      "alt": ["Ik stond te koken toen de bel ging.", "Toen de bel ging, was ik aan het koken.", "Toen de bel ging, stond ik te koken."]
+      "alt": [
+        "Ik stond te koken toen de bel ging.",
+        "Toen de bel ging, was ik aan het koken.",
+        "Toen de bel ging, stond ik te koken."
+      ]
     },
     {
       "nl": "Heb je ooit zoiets geks meegemaakt?",
       "en": "Have you ever experienced anything so strange?",
-      "hint": ["ooit", "zoiets", "gek", "meemaken"],
+      "hint": [
+        "ooit",
+        "zoiets",
+        "gek",
+        "meemaken"
+      ],
       "note": "A question about experience takes the perfect, even where Ukrainian would use an imperfective verb (Ти колись …?).",
-      "alt": ["Heb jij ooit zoiets geks meegemaakt?"]
+      "alt": [
+        "Heb jij ooit zoiets geks meegemaakt?"
+      ]
     },
     {
       "nl": "Achteraf hebben we er veel om gelachen.",
       "en": "Afterwards we laughed about it a lot.",
-      "hint": ["achteraf", "veel", "lachen"],
+      "hint": [
+        "achteraf",
+        "veel",
+        "lachen"
+      ],
       "note": "The perfect closes the story: looking back, this is the result. Erom belongs to lachen om (to laugh about).",
-      "alt": ["We hebben er achteraf veel om gelachen."]
+      "alt": [
+        "We hebben er achteraf veel om gelachen."
+      ]
     },
     {
       "nl": "Ondertussen had iemand mijn fiets meegenomen.",
       "en": "Meanwhile someone had taken my bike.",
-      "hint": ["ondertussen", "iemand", "fiets", "meenemen"],
+      "hint": [
+        "ondertussen",
+        "iemand",
+        "fiets",
+        "meenemen"
+      ],
       "note": "The theft happened before you found out, so the past perfect: had meegenomen.",
-      "alt": ["Iemand had ondertussen mijn fiets meegenomen."]
+      "alt": [
+        "Iemand had ondertussen mijn fiets meegenomen."
+      ]
     }
   ],
   "exercises": [
     {
       "type": "choose",
       "nl": "Toen we bij de bioscoop aankwamen, ___ de film al begonnen.",
-      "options": ["is", "was", "werd"],
+      "options": [
+        "is",
+        "was",
+        "werd"
+      ],
       "correct": 1,
       "en": "When we arrived at the cinema, the film had already started.",
       "note": "The film started before we arrived, so the past perfect. Beginnen takes zijn, so was begonnen. Is begonnen would not fit the past story."
@@ -105,7 +253,11 @@
     {
       "type": "choose",
       "nl": "Ik ___ de afwas aan het doen toen je belde.",
-      "options": ["had", "ben", "was"],
+      "options": [
+        "had",
+        "ben",
+        "was"
+      ],
       "correct": 2,
       "en": "I was doing the washing-up when you called.",
       "note": "In the middle of something in the past: was aan het + infinitive. Aan het always goes with zijn, never with hebben."
@@ -113,7 +265,11 @@
     {
       "type": "choose",
       "nl": "Weet je wat? Ik ___ vandaag toevallig een oude vriendin tegengekomen.",
-      "options": ["heb", "ben", "was"],
+      "options": [
+        "heb",
+        "ben",
+        "was"
+      ],
       "correct": 1,
       "en": "You know what? Today I ran into an old friend by chance.",
       "note": "You are reporting news, so the perfect. Tegenkomen takes zijn: ben tegengekomen. Was would make it a step back to an earlier point in a story, and there is none here."
@@ -121,7 +277,11 @@
     {
       "type": "choose",
       "nl": "Ik merkte pas thuis dat iemand mijn tas ___ opengemaakt.",
-      "options": ["heeft", "was", "had"],
+      "options": [
+        "heeft",
+        "was",
+        "had"
+      ],
       "correct": 2,
       "en": "I only noticed at home that someone had opened my bag.",
       "note": "Merkte is in the past, and the opening happened before that: past perfect. Openmaken takes hebben, so had opengemaakt."
@@ -129,7 +289,11 @@
     {
       "type": "choose",
       "nl": "Een van mijn mooiste herinneringen: ik ___ vijf en mijn vader leerde me fietsen.",
-      "options": ["ben", "was", "had"],
+      "options": [
+        "ben",
+        "was",
+        "had"
+      ],
       "correct": 1,
       "en": "One of my best memories: I was five and my father taught me to ride a bike.",
       "note": "How old you were is background, so the simple past: was. Dutch says ik was vijf with zijn, never with hebben."
@@ -137,37 +301,61 @@
     {
       "type": "gap",
       "nl": "Opeens ___ (zien) ik dat de deur openstond.",
-      "answers": ["zag"],
+      "answers": [
+        "zag"
+      ],
       "en": "Suddenly I saw that the door was open.",
       "note": "Opeens moves the story on with a new event: simple past. Zien is strong: zag."
     },
     {
       "type": "gap",
       "nl": "Ik wist niet dat ze al ___ (vertrekken) was.",
-      "answers": ["vertrokken"],
+      "answers": [
+        "vertrokken"
+      ],
       "en": "I did not know that she had already left.",
       "note": "Her leaving came before the moment you did not know it: the past perfect. Vertrekken takes zijn and its participle is vertrokken."
     },
     {
       "type": "gap",
       "nl": "Ik stond in de file en ondertussen ___ (beginnen) de vergadering zonder mij.",
-      "answers": ["begon"],
+      "answers": [
+        "begon"
+      ],
       "en": "I was stuck in a traffic jam and meanwhile the meeting started without me.",
       "note": "Two things at the same time in the story, both in the simple past. Beginnen is strong: begon."
     },
     {
       "type": "order",
       "lead": "Uiteindelijk",
-      "words": ["heeft", "een buurjongen", "mijn tas", "gevonden"],
-      "answers": ["Uiteindelijk heeft een buurjongen mijn tas gevonden."],
+      "words": [
+        "heeft",
+        "een buurjongen",
+        "mijn tas",
+        "gevonden"
+      ],
+      "answers": [
+        "Uiteindelijk heeft een buurjongen mijn tas gevonden."
+      ],
       "en": "In the end a boy from next door found my bag.",
       "note": "The result that closes the story: the perfect. Heeft stays second after uiteindelijk, and the participle goes to the end."
     },
     {
       "type": "order",
       "lead": "Ik",
-      "words": ["was", "aan het", "fietsen", "toen", "het", "begon", "te regenen"],
-      "answers": ["Ik was aan het fietsen toen het begon te regenen.", "Ik was aan het fietsen toen het te regenen begon."],
+      "words": [
+        "was",
+        "aan het",
+        "fietsen",
+        "toen",
+        "het",
+        "begon",
+        "te regenen"
+      ],
+      "answers": [
+        "Ik was aan het fietsen toen het begon te regenen.",
+        "Ik was aan het fietsen toen het te regenen begon."
+      ],
       "en": "I was cycling when it started to rain.",
       "note": "Was aan het fietsen is the action going on; toen brings in the event, in the simple past. In the toen-clause both begon te regenen and te regenen begon are correct."
     },
@@ -175,7 +363,10 @@
       "type": "rewrite",
       "task": "Keep the first sentence. Turn the second into story-telling: background and event in the simple past.",
       "from": "Ik ben gisteren mijn oude lerares tegengekomen. Ik heb in de supermarkt gestaan en zij is naar me toe gelopen.",
-      "answers": ["Ik ben gisteren mijn oude lerares tegengekomen. Ik stond in de supermarkt en zij liep naar me toe.", "Ik ben gisteren mijn oude lerares tegengekomen. Ik stond in de supermarkt en ze liep naar me toe."],
+      "answers": [
+        "Ik ben gisteren mijn oude lerares tegengekomen. Ik stond in de supermarkt en zij liep naar me toe.",
+        "Ik ben gisteren mijn oude lerares tegengekomen. Ik stond in de supermarkt en ze liep naar me toe."
+      ],
       "en": "I ran into my old teacher yesterday. I was standing in the supermarket and she walked up to me.",
       "note": "The perfect states the news; then the story starts. Where you stood is background and her walking up is the next event, so both go into the simple past: stond, liep."
     },
@@ -183,7 +374,9 @@
       "type": "rewrite",
       "task": "Join the two sentences with toen. Start with the toen-clause.",
       "from": "Ik kwam thuis. Ik ontdekte dat het raam openstond.",
-      "answers": ["Toen ik thuiskwam, ontdekte ik dat het raam openstond."],
+      "answers": [
+        "Toen ik thuiskwam, ontdekte ik dat het raam openstond."
+      ],
       "en": "When I came home, I discovered that the window was open.",
       "note": "In the toen-clause the verb goes to the end: thuiskwam, written as one word. The clause counts as the first element, so ontdekte comes next and then ik."
     },
@@ -191,7 +384,10 @@
       "type": "rewrite",
       "task": "Join with omdat. The reason happened earlier, so use the past perfect for it.",
       "from": "Ik was verbaasd. Niemand vertelde het me.",
-      "answers": ["Ik was verbaasd, omdat niemand het me had verteld.", "Ik was verbaasd, omdat niemand het me verteld had."],
+      "answers": [
+        "Ik was verbaasd, omdat niemand het me had verteld.",
+        "Ik was verbaasd, omdat niemand het me verteld had."
+      ],
       "en": "I was surprised, because nobody had told me.",
       "note": "Not being told came before the surprise: had verteld. In the omdat-clause the verbs go to the end, in either order."
     },
@@ -199,21 +395,28 @@
       "type": "rewrite",
       "task": "Make it a habit in the past. Start with Vroeger.",
       "from": "Mijn vader leest elke ochtend de krant.",
-      "answers": ["Vroeger las mijn vader elke ochtend de krant."],
+      "answers": [
+        "Vroeger las mijn vader elke ochtend de krant."
+      ],
       "en": "My father used to read the newspaper every morning.",
       "note": "A habit in the past is the simple past: las, from the strong verb lezen. Dutch has no separate form for 'used to'."
     },
     {
       "type": "fix",
       "wrong": "Toen ik in Utrecht heb gewoond, fietste ik elke dag.",
-      "answers": ["Toen ik in Utrecht woonde, fietste ik elke dag."],
+      "answers": [
+        "Toen ik in Utrecht woonde, fietste ik elke dag."
+      ],
       "en": "When I lived in Utrecht, I cycled every day.",
       "note": "A clause with toen (when) takes the simple past: woonde. In standard Dutch the perfect does not go with toen."
     },
     {
       "type": "fix",
       "wrong": "Gisteren had ik een ongelooflijke verrassing gekregen.",
-      "answers": ["Gisteren heb ik een ongelooflijke verrassing gekregen.", "Gisteren kreeg ik een ongelooflijke verrassing."],
+      "answers": [
+        "Gisteren heb ik een ongelooflijke verrassing gekregen.",
+        "Gisteren kreeg ik een ongelooflijke verrassing."
+      ],
       "en": "Yesterday I got an incredible surprise.",
       "note": "The past perfect needs an earlier point in a story to step back from, and there is none. For news about yesterday use the perfect."
     }

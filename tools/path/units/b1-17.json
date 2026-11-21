@@ -7,99 +7,284 @@
   "summary": "Main clause: the prefix goes to the end (De trein komt om acht uur aan). Perfect: aangekomen. With te: aan te komen. Sub-clause and after a modal: one word (omdat hij aankomt). Stress on the verb part: never split (voorkómen).",
   "explain": "A separable verb (*een scheidbaar werkwoord*) has a prefix such as `aan`, `in`, `uit`, `op` or `over` that sometimes stands apart from the verb. Unit A2 · 12 did the present tense; here is every form, and how to spot the verbs that only look separable.\n\n### One rule behind every form\n\nThe prefix is split off only when the verb itself stands in **second place** in a main clause (or first: a question, an order). Everywhere else the verb is written as **one word**, or with `ge` or `te` in the middle.\n\n| form | overstappen (to change trains) |\n| present, main clause | ik stap … over |\n| simple past, main clause | ik stapte … over |\n| perfect | ik ben overgestapt |\n| with te | om over te stappen |\n| sub-clause | … dat ik overstap |\n| after a modal verb | ik moet overstappen |\n\n### Main clause: present and simple past\n\nThe verb takes its normal place, and the prefix goes to the **end** of the clause, where an infinitive or participle would stand. Objects, `niet` and time words stay in front of it.\n\n> De trein komt om acht uur aan. — The train arrives at eight o'clock.\n> Hij stapte gisteren in Utrecht over. — He changed trains in Utrecht yesterday.\n\nA phrase with a preposition may also follow the prefix: `Ik stap in Utrecht over` and `Ik stap over in Utrecht` are both correct; the second is common in speech.\n\n> We zaten een uur vast in de file. — We were stuck in a jam for an hour.\n\n### The perfect: ge in the middle\n\nThe past participle is one word, with `ge` between the prefix and the verb: `aankomen → aangekomen`, `overstappen → overgestapt`, `inchecken → ingecheckt`. The auxiliary is chosen as usual: `zijn` for a change of place or state (`is overgestapt`), otherwise mostly `hebben` (`heeft ingecheckt`).\n\nWhen the verb part starts with `be-`, `ver-` or `ont-`, no `ge` is added: `voorbereiden → voorbereid`.\n\n> De laatste bus is uitgevallen. — The last bus has been cancelled.\n\n### With te: three words\n\n`te` goes between the prefix and the verb: three words, `over te stappen`, `uit te checken`.\n\n> Vergeet niet uit te checken. — Don't forget to check out.\n> Je hoeft in Utrecht niet over te stappen. — You don't have to change trains in Utrecht.\n\n### Sub-clauses and modal verbs: one word\n\nIn a sub-clause the verb goes to the end, and there the prefix joins it again: `… omdat de trein te laat aankomt`. After a modal verb the infinitive is one word too: `Je moet in Utrecht overstappen`.\n\nWith two verbs at the end, both orders are correct:\n\n> Ik weet niet of hij al is aangekomen. — I don't know whether he has arrived yet.\n> Ik weet niet of hij al aangekomen is. — I don't know whether he has arrived yet.\n\nYou will also see the prefix in front of the verb group (`… dat hij aan is gekomen`). That is correct too, but keep the verb together yourself.\n\n### Separable or not? Listen to the stress\n\nWith prefixes such as `over`, `door`, `onder`, `voor` and `om` the stress decides. **Stress on the prefix**: separable, with `ge` in the participle. **Stress on the verb part**: never split, and no `ge`.\n\n| | stress on the prefix | stress on the verb |\n| voorkomen | Dat komt vaak voor. (occurs) | Dat voorkomt problemen. (prevents) |\n| doorlopen | Loop maar door. (walk on) | Ze doorliep de opleiding. (went through) |\n| ondergaan | De zon gaat onder. (sets) | Hij onderging een operatie. (underwent) |\n\nThe participles: `is voorgekomen` against `heeft voorkomen`, `is doorgelopen` against `heeft doorlopen`, `is ondergegaan` against `heeft ondergaan`.\n\nNever split: `overtuigen` (to convince: heeft overtuigd), `overlijden` (to die: is overleden), `onderzoeken` (to investigate: heeft onderzocht), `voorspellen` (to predict: heeft voorspeld). `aan` is nearly always separable, but `aanvaarden` (to accept) is not: `Hij aanvaardde de baan`. On the other hand `overnemen` (to take over) does split: `Zij nam mijn dienst over`.\n\n### Watch out\n\n- Only the verb part stands second: *Ik overstap in Utrecht → `Ik stap in Utrecht over`.\n- `ge` in the middle, not in front: *geoverstapt → `overgestapt`.\n- `te` in the middle: *te overstappen → `over te stappen`.\n- One word in a sub-clause: *omdat de bus niet komt aan → `omdat de bus niet aankomt`.\n- No `ge` when the stress is on the verb: *heeft een ongeluk voorgekomen → `heeft een ongeluk voorkomen`.\n\n### Compared with Ukrainian\n\nA Ukrainian prefix is fixed to its verb: `пересісти` is one word in every form. A Dutch separable prefix behaves like a separate word that rejoins the verb only at the end of the clause.",
   "words": [
-    { "nl": "overstappen", "past": "stapte over", "perf": "is overgestapt", "en": "to change (trains, buses)", "pos": "v", "tag": "separable" },
-    { "nl": "inchecken", "past": "checkte in", "perf": "heeft ingecheckt", "en": "to check in (with a travel card)", "pos": "v", "tag": "separable" },
-    { "nl": "uitchecken", "past": "checkte uit", "perf": "heeft uitgecheckt", "en": "to check out (with a travel card)", "pos": "v", "tag": "separable" },
-    { "nl": "uitvallen", "past": "viel uit", "perf": "is uitgevallen", "en": "to be cancelled (a train, a bus)", "pos": "v", "tag": "separable" },
-    { "nl": "inhalen", "past": "haalde in", "perf": "heeft ingehaald", "en": "to overtake / to make up (a delay)", "pos": "v", "tag": "separable" },
-    { "nl": "vastzitten", "past": "zat vast", "perf": "heeft vastgezeten", "en": "to be stuck", "pos": "v", "tag": "separable" },
-    { "nl": "voorkomen", "past": "voorkwam", "perf": "heeft voorkomen", "en": "to prevent", "pos": "v", "tag": "stress on komen; not separable" },
-    { "nl": "aansluiting", "art": "de", "pl": "aansluitingen", "en": "connection (to another train or bus)", "pos": "n" },
-    { "nl": "spitsuur", "art": "het", "pl": "spitsuren", "en": "rush hour", "pos": "n" },
-    { "nl": "file", "art": "de", "pl": "files", "en": "traffic jam", "pos": "n" },
-    { "nl": "perron", "art": "het", "pl": "perrons", "en": "platform (at a station)", "pos": "n" },
-    { "nl": "dienstregeling", "art": "de", "pl": "dienstregelingen", "en": "timetable (of public transport)", "pos": "n" },
-    { "nl": "storing", "art": "de", "pl": "storingen", "en": "fault / breakdown (technical)", "pos": "n" },
-    { "nl": "omleiding", "art": "de", "pl": "omleidingen", "en": "diversion (of traffic)", "pos": "n" },
-    { "nl": "abonnement", "art": "het", "pl": "abonnementen", "en": "season ticket / subscription", "pos": "n" },
-    { "nl": "machinist", "art": "de", "pl": "machinisten", "en": "train driver", "pos": "n" }
+    {
+      "nl": "overstappen",
+      "past": "stapte over",
+      "perf": "is overgestapt",
+      "en": "to change (trains, buses)",
+      "pos": "v",
+      "tag": "separable"
+    },
+    {
+      "nl": "inchecken",
+      "past": "checkte in",
+      "perf": "heeft ingecheckt",
+      "en": "to check in (with a travel card)",
+      "pos": "v",
+      "tag": "separable"
+    },
+    {
+      "nl": "uitchecken",
+      "past": "checkte uit",
+      "perf": "heeft uitgecheckt",
+      "en": "to check out (with a travel card)",
+      "pos": "v",
+      "tag": "separable"
+    },
+    {
+      "nl": "inhalen",
+      "past": "haalde in",
+      "perf": "heeft ingehaald",
+      "en": "to overtake / to make up (a delay)",
+      "pos": "v",
+      "tag": "separable"
+    },
+    {
+      "nl": "vastzitten",
+      "past": "zat vast",
+      "perf": "heeft vastgezeten",
+      "en": "to be stuck",
+      "pos": "v",
+      "tag": "separable"
+    },
+    {
+      "nl": "voorkomen",
+      "past": "voorkwam",
+      "perf": "heeft voorkomen",
+      "en": "to prevent",
+      "pos": "v",
+      "tag": "stress on komen; not separable"
+    },
+    {
+      "nl": "aansluiting",
+      "art": "de",
+      "pl": "aansluitingen",
+      "en": "connection (to another train or bus)",
+      "pos": "n"
+    },
+    {
+      "nl": "spitsuur",
+      "art": "het",
+      "pl": "spitsuren",
+      "en": "rush hour",
+      "pos": "n"
+    },
+    {
+      "nl": "file",
+      "art": "de",
+      "pl": "files",
+      "en": "traffic jam",
+      "pos": "n"
+    },
+    {
+      "nl": "perron",
+      "art": "het",
+      "pl": "perrons",
+      "en": "platform (at a station)",
+      "pos": "n"
+    },
+    {
+      "nl": "dienstregeling",
+      "art": "de",
+      "pl": "dienstregelingen",
+      "en": "timetable (of public transport)",
+      "pos": "n"
+    },
+    {
+      "nl": "storing",
+      "art": "de",
+      "pl": "storingen",
+      "en": "fault / breakdown (technical)",
+      "pos": "n"
+    },
+    {
+      "nl": "omleiding",
+      "art": "de",
+      "pl": "omleidingen",
+      "en": "diversion (of traffic)",
+      "pos": "n"
+    },
+    {
+      "nl": "abonnement",
+      "art": "het",
+      "pl": "abonnementen",
+      "en": "season ticket / subscription",
+      "pos": "n"
+    },
+    {
+      "nl": "machinist",
+      "art": "de",
+      "pl": "machinisten",
+      "en": "train driver",
+      "pos": "n"
+    }
   ],
   "sentences": [
     {
       "nl": "De trein uit Utrecht komt tien minuten te laat aan.",
       "en": "The train from Utrecht is arriving ten minutes late.",
-      "hint": ["trein", "minuut", "te laat", "aankomen"],
+      "hint": [
+        "trein",
+        "minuut",
+        "te laat",
+        "aankomen"
+      ],
       "note": "In a main clause aankomen splits: komt stands in second place and aan goes to the end of the sentence."
     },
     {
       "nl": "Gisteren viel de laatste trein door een storing uit.",
       "en": "Yesterday the last train was cancelled because of a fault. (simple past)",
-      "hint": ["gisteren", "laatst", "trein", "storing", "uitvallen"],
+      "hint": [
+        "gisteren",
+        "laatst",
+        "trein",
+        "storing",
+        "uitvallen"
+      ],
       "note": "The simple past splits just like the present: viel stands second, uit goes to the end. Door een storing stays in front of the prefix.",
-      "alt": ["Gisteren viel de laatste trein uit door een storing.", "De laatste trein viel gisteren door een storing uit.", "De laatste trein viel gisteren uit door een storing."]
+      "alt": [
+        "Gisteren viel de laatste trein uit door een storing.",
+        "De laatste trein viel gisteren door een storing uit.",
+        "De laatste trein viel gisteren uit door een storing."
+      ]
     },
     {
       "nl": "Ben je in Amersfoort overgestapt?",
       "en": "Did you change trains in Amersfoort? (perfect)",
-      "hint": ["zijn", "overstappen"],
+      "hint": [
+        "zijn",
+        "overstappen"
+      ],
       "note": "The participle is one word with ge in the middle: over-ge-stapt. Overstappen is a change of place, so the auxiliary is zijn.",
-      "alt": ["Ben jij in Amersfoort overgestapt?", "Ben je overgestapt in Amersfoort?", "Ben jij overgestapt in Amersfoort?"]
+      "alt": [
+        "Ben jij in Amersfoort overgestapt?",
+        "Ben je overgestapt in Amersfoort?",
+        "Ben jij overgestapt in Amersfoort?"
+      ]
     },
     {
       "nl": "Vergeet niet uit te checken als je uitstapt.",
       "en": "Don't forget to check out when you get off.",
-      "hint": ["vergeten", "uitchecken", "als", "uitstappen"],
+      "hint": [
+        "vergeten",
+        "uitchecken",
+        "als",
+        "uitstappen"
+      ],
       "note": "With te you get three words: uit te checken. In the sub-clause with als the verb is one word again: uitstapt.",
-      "alt": ["Vergeet niet om uit te checken als je uitstapt.", "Vergeet niet uit te checken wanneer je uitstapt.", "Vergeet niet om uit te checken wanneer je uitstapt."]
+      "alt": [
+        "Vergeet niet om uit te checken als je uitstapt.",
+        "Vergeet niet uit te checken wanneer je uitstapt.",
+        "Vergeet niet om uit te checken wanneer je uitstapt."
+      ]
     },
     {
       "nl": "Je hoeft in Utrecht niet over te stappen.",
       "en": "You don't have to change trains in Utrecht.",
-      "hint": ["hoeven", "niet", "overstappen"],
+      "hint": [
+        "hoeven",
+        "niet",
+        "overstappen"
+      ],
       "note": "Hoeven takes te, and te goes between the prefix and the verb: over te stappen. Niet stands before this group.",
-      "alt": ["Jij hoeft in Utrecht niet over te stappen.", "In Utrecht hoef je niet over te stappen.", "In Utrecht hoef jij niet over te stappen.", "Je hoeft niet over te stappen in Utrecht."]
+      "alt": [
+        "Jij hoeft in Utrecht niet over te stappen.",
+        "In Utrecht hoef je niet over te stappen.",
+        "In Utrecht hoef jij niet over te stappen.",
+        "Je hoeft niet over te stappen in Utrecht."
+      ]
     },
     {
       "nl": "Ik kom later, omdat ik in de file vastzit.",
       "en": "I'm coming later because I'm stuck in a traffic jam.",
-      "hint": ["komen", "later", "omdat", "file", "vastzitten"],
+      "hint": [
+        "komen",
+        "later",
+        "omdat",
+        "file",
+        "vastzitten"
+      ],
       "note": "Omdat sends the verb to the end of the sub-clause, and there vastzitten is one word again: vastzit, not zit vast.",
-      "alt": ["Ik kom later, omdat ik vastzit in de file."]
+      "alt": [
+        "Ik kom later, omdat ik vastzit in de file."
+      ]
     },
     {
       "nl": "Weet je of de trein uit Zwolle al is aangekomen?",
       "en": "Do you know whether the train from Zwolle has arrived yet?",
-      "hint": ["weten", "of", "trein", "al", "aankomen"],
+      "hint": [
+        "weten",
+        "of",
+        "trein",
+        "al",
+        "aankomen"
+      ],
       "note": "In a sub-clause that ends in two verbs, both orders are right: is aangekomen or aangekomen is. The participle itself stays one word.",
-      "alt": ["Weet jij of de trein uit Zwolle al is aangekomen?", "Weet je of de trein uit Zwolle al aangekomen is?", "Weet jij of de trein uit Zwolle al aangekomen is?", "Weet je of de trein uit Zwolle al aan is gekomen?", "Weet jij of de trein uit Zwolle al aan is gekomen?"]
+      "alt": [
+        "Weet jij of de trein uit Zwolle al is aangekomen?",
+        "Weet je of de trein uit Zwolle al aangekomen is?",
+        "Weet jij of de trein uit Zwolle al aangekomen is?",
+        "Weet je of de trein uit Zwolle al aan is gekomen?",
+        "Weet jij of de trein uit Zwolle al aan is gekomen?"
+      ]
     },
     {
       "nl": "De trein kan de vertraging niet meer inhalen, dus ik mis mijn aansluiting.",
       "en": "The train can no longer make up the delay, so I am missing my connection.",
-      "hint": ["trein", "kunnen", "vertraging", "inhalen", "dus", "aansluiting"],
+      "hint": [
+        "trein",
+        "kunnen",
+        "vertraging",
+        "inhalen",
+        "dus",
+        "aansluiting"
+      ],
       "note": "After a modal verb the infinitive goes to the end as one word: kan … inhalen. After dus you may keep the normal order or invert (dus mis ik).",
-      "alt": ["De trein kan de vertraging niet meer inhalen, dus mis ik mijn aansluiting."]
+      "alt": [
+        "De trein kan de vertraging niet meer inhalen, dus mis ik mijn aansluiting."
+      ]
     },
     {
       "nl": "Zulke storingen komen in de winter vaak voor.",
       "en": "Faults like that often occur in winter.",
-      "hint": ["zulk", "storing", "winter", "vaak", "vóórkomen"],
+      "hint": [
+        "zulk",
+        "storing",
+        "winter",
+        "vaak",
+        "vóórkomen"
+      ],
       "note": "Vóórkomen (to occur) has the stress on voor, so it splits: komen … voor. Compare voorkómen (to prevent), which never splits.",
-      "alt": ["In de winter komen zulke storingen vaak voor.", "Zulke storingen komen vaak voor in de winter."]
+      "alt": [
+        "In de winter komen zulke storingen vaak voor.",
+        "Zulke storingen komen vaak voor in de winter."
+      ]
     },
     {
       "nl": "Hoe kunnen we vertragingen op het spoor voorkomen?",
       "en": "How can we prevent delays on the railways?",
-      "hint": ["hoe", "kunnen", "vertraging", "spoor", "voorkómen"],
+      "hint": [
+        "hoe",
+        "kunnen",
+        "vertraging",
+        "spoor",
+        "voorkómen"
+      ],
       "note": "Voorkómen (to prevent) has the stress on komen, so it is one word in every form: voorkomt, voorkwam, heeft voorkomen.",
-      "alt": ["Hoe kunnen we vertraging op het spoor voorkomen?"]
+      "alt": [
+        "Hoe kunnen we vertraging op het spoor voorkomen?"
+      ]
     }
   ],
   "exercises": [
     {
       "type": "choose",
       "nl": "Door een omleiding ___ de bus vandaag later aan.",
-      "options": ["aankomt", "komt", "kom"],
+      "options": [
+        "aankomt",
+        "komt",
+        "kom"
+      ],
       "correct": 1,
       "en": "Because of a diversion the bus is arriving later today.",
       "note": "In a main clause only komt stands in second place; aan is already at the end. Aankomt as one word belongs in a sub-clause."
@@ -107,7 +292,11 @@
     {
       "type": "choose",
       "nl": "Je hoeft hier niet ___.",
-      "options": ["uitstappen", "te uitstappen", "uit te stappen"],
+      "options": [
+        "uitstappen",
+        "te uitstappen",
+        "uit te stappen"
+      ],
       "correct": 2,
       "en": "You don't have to get off here.",
       "note": "Hoeven needs te, and with a separable verb te goes between the prefix and the verb: uit te stappen."
@@ -115,7 +304,11 @@
     {
       "type": "choose",
       "nl": "Zo'n storing ___ hier bijna nooit voor.",
-      "options": ["voorkomt", "komt", "komen"],
+      "options": [
+        "voorkomt",
+        "komt",
+        "komen"
+      ],
       "correct": 1,
       "en": "A fault like that hardly ever occurs here.",
       "note": "Vóórkomen (to occur) splits, and voor already stands at the end, so only komt is left. Zo'n storing is singular."
@@ -123,7 +316,11 @@
     {
       "type": "choose",
       "nl": "De machinist heeft een ongeluk ___.",
-      "options": ["voorgekomen", "voorkomen", "gevoorkomen"],
+      "options": [
+        "voorgekomen",
+        "voorkomen",
+        "gevoorkomen"
+      ],
       "correct": 1,
       "en": "The train driver prevented an accident.",
       "note": "Voorkómen (to prevent) has the stress on komen, so it is not separable and its participle has no ge: heeft voorkomen. Voorgekomen belongs to vóórkomen (to occur)."
@@ -131,52 +328,85 @@
     {
       "type": "gap",
       "nl": "Wij zijn in Zwolle ___ (uitstappen).",
-      "answers": ["uitgestapt"],
+      "answers": [
+        "uitgestapt"
+      ],
       "en": "We got off in Zwolle.",
       "note": "The participle is one word with ge between the prefix and the verb: uit-ge-stapt. Not *geuitstapt."
     },
     {
       "type": "gap",
       "nl": "Heb je met je abonnement al ___ (inchecken)?",
-      "answers": ["ingecheckt"],
+      "answers": [
+        "ingecheckt"
+      ],
       "en": "Have you already checked in with your season ticket?",
       "note": "Ge goes in the middle: in-ge-checkt. The stem check ends in k, which is in 't kofschip, so the participle ends in t."
     },
     {
       "type": "gap",
       "nl": "Ik ben vergeten ___ (uitchecken).",
-      "answers": ["uit te checken", "om uit te checken"],
+      "answers": [
+        "uit te checken",
+        "om uit te checken"
+      ],
       "en": "I forgot to check out.",
       "note": "With te a separable verb becomes three words: uit te checken. Never *te uitchecken."
     },
     {
       "type": "gap",
       "nl": "Kijk in de dienstregeling hoe laat de bus ___ (aankomen).",
-      "answers": ["aankomt"],
+      "answers": [
+        "aankomt"
+      ],
       "en": "Look in the timetable to see what time the bus arrives.",
       "note": "Hoe laat starts a sub-clause, so the verb goes to the end, and there the prefix joins it again: aankomt."
     },
     {
       "type": "order",
       "lead": "Morgen",
-      "words": ["stap", "ik", "in Utrecht", "over"],
-      "answers": ["Morgen stap ik in Utrecht over.", "Morgen stap ik over in Utrecht."],
+      "words": [
+        "stap",
+        "ik",
+        "in Utrecht",
+        "over"
+      ],
+      "answers": [
+        "Morgen stap ik in Utrecht over.",
+        "Morgen stap ik over in Utrecht."
+      ],
       "en": "Tomorrow I am changing trains in Utrecht.",
       "note": "Stap stands second, after Morgen, and ik follows. Over normally goes to the end; a phrase with a preposition such as in Utrecht may also come after it."
     },
     {
       "type": "order",
       "lead": "Tijdens het spitsuur is het lastig",
-      "words": ["om", "in", "te", "stappen"],
-      "answers": ["Tijdens het spitsuur is het lastig om in te stappen."],
+      "words": [
+        "om",
+        "in",
+        "te",
+        "stappen"
+      ],
+      "answers": [
+        "Tijdens het spitsuur is het lastig om in te stappen."
+      ],
       "en": "During the rush hour it is difficult to get on.",
       "note": "Om comes first, then the separable verb with te in the middle: in te stappen."
     },
     {
       "type": "order",
       "lead": "Ik weet niet",
-      "words": ["of", "de trein", "al", "is", "aangekomen"],
-      "answers": ["Ik weet niet of de trein al is aangekomen.", "Ik weet niet of de trein al aangekomen is."],
+      "words": [
+        "of",
+        "de trein",
+        "al",
+        "is",
+        "aangekomen"
+      ],
+      "answers": [
+        "Ik weet niet of de trein al is aangekomen.",
+        "Ik weet niet of de trein al aangekomen is."
+      ],
       "en": "I don't know whether the train has arrived yet.",
       "note": "Of starts a sub-clause, so both verbs go to the end, in either order. Aangekomen stays one word."
     },
@@ -184,7 +414,9 @@
       "type": "rewrite",
       "task": "Put it in the perfect.",
       "from": "De sneltrein valt uit.",
-      "answers": ["De sneltrein is uitgevallen."],
+      "answers": [
+        "De sneltrein is uitgevallen."
+      ],
       "en": "The express train has been cancelled.",
       "note": "Uitvallen is a change of state, so it takes zijn. The participle is one word: uit-ge-vallen."
     },
@@ -192,7 +424,10 @@
       "type": "rewrite",
       "task": "Start with Ik denk dat.",
       "from": "We stappen in Amersfoort over.",
-      "answers": ["Ik denk dat we in Amersfoort overstappen.", "Ik denk dat we overstappen in Amersfoort."],
+      "answers": [
+        "Ik denk dat we in Amersfoort overstappen.",
+        "Ik denk dat we overstappen in Amersfoort."
+      ],
       "en": "I think that we change trains in Amersfoort.",
       "note": "Dat sends the verb to the end of the clause, and there over and stappen join again: overstappen."
     },
@@ -200,21 +435,30 @@
       "type": "rewrite",
       "task": "Make it an instruction with moeten: start with Je moet.",
       "from": "Je checkt bij het perron in.",
-      "answers": ["Je moet bij het perron inchecken.", "Je moet inchecken bij het perron."],
+      "answers": [
+        "Je moet bij het perron inchecken.",
+        "Je moet inchecken bij het perron."
+      ],
       "en": "You have to check in at the platform.",
       "note": "Moet takes the second place, and the infinitive goes to the end as one word: inchecken."
     },
     {
       "type": "fix",
       "wrong": "Ik overstap altijd in Utrecht.",
-      "answers": ["Ik stap altijd in Utrecht over.", "Ik stap altijd over in Utrecht.", "In Utrecht stap ik altijd over."],
+      "answers": [
+        "Ik stap altijd in Utrecht over.",
+        "Ik stap altijd over in Utrecht.",
+        "In Utrecht stap ik altijd over."
+      ],
       "en": "I always change trains in Utrecht.",
       "note": "In a main clause only the verb part stands second; the prefix over goes to the end (or before in Utrecht)."
     },
     {
       "type": "fix",
       "wrong": "Ik hoop dat de bus vandaag niet valt uit.",
-      "answers": ["Ik hoop dat de bus vandaag niet uitvalt."],
+      "answers": [
+        "Ik hoop dat de bus vandaag niet uitvalt."
+      ],
       "en": "I hope that the bus is not cancelled today.",
       "note": "In a sub-clause with dat the verb goes to the end as one word: uitvalt. The prefix only splits off when the verb stands second."
     }

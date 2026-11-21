@@ -7,100 +7,281 @@
   "summary": "Daarom, daardoor, toch, bovendien, daarna, anders and similar words are adverbs, not conjunctions. In first place they are the first element, so the verb follows at once: Daarom ga ik. They can also stand after the verb: Ik ga daarom.",
   "explain": "Many words that link two sentences are not conjunctions like `en`, `maar` and `want`, but **adverbs** (*bijwoorden*): `daarom`, `toch`, `bovendien`, `anders`. That makes a big difference for word order. A conjunction stands outside the sentence; an adverb is part of it and counts as an element.\n\n### In first place: the verb comes next\n\nWhen the adverb starts the sentence, it is element number one, so the verb comes second and the subject follows the verb (inversion, unit A2 · 3).\n\n> Ik wil afvallen. Daarom eet ik minder suiker. — I want to lose weight. That's why I eat less sugar.\n> Het regende. Toch ging ze hardlopen. — It was raining. Still, she went running.\n\nThe adverb can also stand in the middle, after the verb and the subject. Then the sentence starts in the normal way:\n\n> Ik eet daarom minder suiker. — That's why I eat less sugar.\n\nA comma instead of a full stop changes nothing: `Ik wil afvallen, daarom eet ik minder suiker`.\n\n### The words by meaning\n\n- **Reason and result**: `daarom` (that's why: a choice), `daardoor` (as a result: a cause, not a choice), `dus` (so), `dan ook` (so, as you would expect; in the middle, never first: `Ze rookt niet en is dan ook zelden ziek`).\n- **Contrast**: `toch` (still, yet), `echter` (however; written Dutch, normally after the verb or after the first element: `Dat is echter niet genoeg`), `daarentegen` (on the other hand: it contrasts two things), `niettemin` (nevertheless; formal).\n- **Adding**: `bovendien` (what's more), `ook` (also), `verder` (furthermore), `daarnaast` (in addition), `trouwens` (by the way, besides).\n- **Order in time**: `eerst`, `dan`, `daarna`, `vervolgens` (next), `ten slotte` (finally), `intussen` (meanwhile), `tegelijkertijd` (at the same time).\n- **Condition**: `anders` (otherwise).\n\n> Hij rookt niet meer en daardoor slaapt hij beter. — He no longer smokes and as a result he sleeps better.\n> Eerst warm je op, daarna loop je hard. — First you warm up, then you run.\n> Neem een jas mee, anders word je ziek. — Take a coat, otherwise you'll get ill.\n\n`En` and `maar` do not count, but an adverb after them does: `… en daardoor slaapt hij beter`, `… maar toch ging ze`.\n\n`dus` is special: it can be an adverb (`dus blijf ik thuis`) or work like a conjunction with the normal order (`dus ik blijf thuis`). Both are correct.\n\n### Three ways to give a reason\n\n| word | kind | order after it |\n| want | conjunction | normal: want ik ben moe |\n| omdat | starts a sub-clause | verb at the end: omdat ik moe ben |\n| daarom | adverb | verb first: daarom ga ik |\n\n`Want` and `omdat` introduce the **reason**; `daarom` introduces the **result**: `Ik ben moe, want ik heb slecht geslapen`, but `Ik heb slecht geslapen, daarom ben ik moe`.\n\n### hoewel, maar, toch\n\nOne contrast, three patterns:\n\n> Hoewel ik moe ben, ga ik sporten. — Although I am tired, I am going to exercise.\n> Ik ben moe, maar ik ga sporten. — I am tired, but I am going to exercise.\n> Ik ben moe. Toch ga ik sporten. — I am tired. Still, I am going to exercise.\n\n`Hoewel` starts a sub-clause, so its verb goes to the end; `maar` keeps the normal order; `toch` is an adverb and causes inversion. `Maar` and `toch` often go together: `maar ik ga toch`.\n\n### Watch out\n\n- No subject between the adverb and the verb: *Daarom ik ga → `Daarom ga ik`.\n- `omdat` sends the verb to the end: *omdat ik ben moe → `omdat ik moe ben`.\n- `want` keeps the normal order: *want ben ik moe → `want ik ben moe`.\n- `hoewel` is not `toch`: *Hoewel ga ik sporten → `Toch ga ik sporten`.\n- Inversion with jij: `anders word je ziek`, without t (unit A2 · 1).\n\n### Compared with Ukrainian\n\nAfter `тому` (that's why) or `проте` (however) Ukrainian keeps whatever order it likes: `Тому я йду`. In Dutch these words take the first place and push the subject behind the verb: `Daarom ga ik`.\n\nThe formal ones (`echter`, `daarentegen`, `niettemin`) come back in unit B2 · 7.",
   "words": [
-    { "nl": "gezondheid", "art": "de", "pl": "", "en": "health", "pos": "n" },
-    { "nl": "leefstijl", "art": "de", "pl": "leefstijlen", "en": "lifestyle", "pos": "n" },
-    { "nl": "voeding", "art": "de", "pl": "", "en": "food / nutrition", "pos": "n" },
-    { "nl": "gewicht", "art": "het", "pl": "gewichten", "en": "weight", "pos": "n" },
-    { "nl": "conditie", "art": "de", "pl": "condities", "en": "fitness (physical condition)", "pos": "n" },
-    { "nl": "vet", "art": "het", "pl": "vetten", "en": "fat", "pos": "n" },
-    { "nl": "eiwit", "art": "het", "pl": "eiwitten", "en": "protein", "pos": "n" },
-    { "nl": "gewoonte", "art": "de", "pl": "gewoontes", "en": "habit", "pos": "n" },
-    { "nl": "zorgverzekering", "art": "de", "pl": "zorgverzekeringen", "en": "health insurance", "pos": "n" },
-    { "nl": "afvallen", "past": "viel af", "perf": "is afgevallen", "en": "to lose weight", "pos": "v", "tag": "separable" },
-    { "nl": "bewegen", "past": "bewoog", "perf": "heeft bewogen", "en": "to move / to exercise", "pos": "v" },
-    { "nl": "roken", "past": "rookte", "perf": "heeft gerookt", "en": "to smoke", "pos": "v" },
-    { "nl": "vermijden", "past": "vermeed", "perf": "heeft vermeden", "en": "to avoid", "pos": "v" },
-    { "nl": "volhouden", "past": "hield vol", "perf": "heeft volgehouden", "en": "to keep it up / to keep going", "pos": "v", "tag": "separable" },
-    { "nl": "voedzaam", "en": "nutritious", "pos": "adj" },
-    { "nl": "matig", "en": "moderate / in moderation", "pos": "adj" }
+    {
+      "nl": "gezondheid",
+      "art": "de",
+      "pl": "",
+      "en": "health",
+      "pos": "n"
+    },
+    {
+      "nl": "leefstijl",
+      "art": "de",
+      "pl": "leefstijlen",
+      "en": "lifestyle",
+      "pos": "n"
+    },
+    {
+      "nl": "voeding",
+      "art": "de",
+      "pl": "",
+      "en": "food / nutrition",
+      "pos": "n"
+    },
+    {
+      "nl": "gewicht",
+      "art": "het",
+      "pl": "gewichten",
+      "en": "weight",
+      "pos": "n"
+    },
+    {
+      "nl": "conditie",
+      "art": "de",
+      "pl": "condities",
+      "en": "fitness (physical condition)",
+      "pos": "n"
+    },
+    {
+      "nl": "vet",
+      "art": "het",
+      "pl": "vetten",
+      "en": "fat",
+      "pos": "n"
+    },
+    {
+      "nl": "eiwit",
+      "art": "het",
+      "pl": "eiwitten",
+      "en": "protein",
+      "pos": "n"
+    },
+    {
+      "nl": "zorgverzekering",
+      "art": "de",
+      "pl": "zorgverzekeringen",
+      "en": "health insurance",
+      "pos": "n"
+    },
+    {
+      "nl": "afvallen",
+      "past": "viel af",
+      "perf": "is afgevallen",
+      "en": "to lose weight",
+      "pos": "v",
+      "tag": "separable"
+    },
+    {
+      "nl": "bewegen",
+      "past": "bewoog",
+      "perf": "heeft bewogen",
+      "en": "to move / to exercise",
+      "pos": "v"
+    },
+    {
+      "nl": "roken",
+      "past": "rookte",
+      "perf": "heeft gerookt",
+      "en": "to smoke",
+      "pos": "v"
+    },
+    {
+      "nl": "vermijden",
+      "past": "vermeed",
+      "perf": "heeft vermeden",
+      "en": "to avoid",
+      "pos": "v"
+    },
+    {
+      "nl": "volhouden",
+      "past": "hield vol",
+      "perf": "heeft volgehouden",
+      "en": "to keep it up / to keep going",
+      "pos": "v",
+      "tag": "separable"
+    },
+    {
+      "nl": "voedzaam",
+      "en": "nutritious",
+      "pos": "adj"
+    },
+    {
+      "nl": "matig",
+      "en": "moderate / in moderation",
+      "pos": "adj"
+    }
   ],
   "sentences": [
     {
       "nl": "Ik wil afvallen, daarom vermijd ik suiker en vet.",
       "en": "I want to lose weight, that's why I avoid sugar and fat.",
-      "hint": ["willen", "afvallen", "daarom", "vermijden", "suiker", "vet"],
+      "hint": [
+        "willen",
+        "afvallen",
+        "daarom",
+        "vermijden",
+        "suiker",
+        "vet"
+      ],
       "note": "Daarom is the first element of the second sentence, so the verb vermijd comes straight after it and ik follows.",
-      "alt": ["Ik wil afvallen, ik vermijd daarom suiker en vet."]
+      "alt": [
+        "Ik wil afvallen, ik vermijd daarom suiker en vet."
+      ]
     },
     {
       "nl": "Hij is gestopt met roken en daardoor is zijn conditie veel beter.",
       "en": "He has stopped smoking, and as a result his fitness is much better.",
-      "hint": ["stoppen", "roken", "daardoor", "conditie", "beter"],
+      "hint": [
+        "stoppen",
+        "roken",
+        "daardoor",
+        "conditie",
+        "beter"
+      ],
       "note": "En does not count, daardoor does: it is element one, so is comes next and then zijn conditie. Daardoor gives a result that nobody chose.",
-      "alt": ["Hij is gestopt met roken en zijn conditie is daardoor veel beter."]
+      "alt": [
+        "Hij is gestopt met roken en zijn conditie is daardoor veel beter."
+      ]
     },
     {
       "nl": "Bewegen is belangrijk; goede voeding is echter net zo belangrijk.",
       "en": "Exercise is important; good nutrition, however, is just as important.",
-      "hint": ["bewegen", "belangrijk", "goed", "voeding", "echter"],
+      "hint": [
+        "bewegen",
+        "belangrijk",
+        "goed",
+        "voeding",
+        "echter"
+      ],
       "note": "Echter usually stands after the verb, in the middle of the sentence. It belongs to written and careful Dutch; in speech you would say maar.",
-      "alt": ["Bewegen is belangrijk; goede voeding echter is net zo belangrijk."]
+      "alt": [
+        "Bewegen is belangrijk; goede voeding echter is net zo belangrijk."
+      ]
     },
     {
       "nl": "Groente is voedzaam, patat daarentegen bevat veel vet.",
       "en": "Vegetables are nutritious; chips, on the other hand, contain a lot of fat.",
-      "hint": ["groente", "voedzaam", "patat", "daarentegen", "bevatten", "vet"],
+      "hint": [
+        "groente",
+        "voedzaam",
+        "patat",
+        "daarentegen",
+        "bevatten",
+        "vet"
+      ],
       "note": "Daarentegen often follows the thing it contrasts: patat daarentegen counts as one element, and bevat still comes second.",
-      "alt": ["Groente is voedzaam, patat bevat daarentegen veel vet.", "Groente is voedzaam, daarentegen bevat patat veel vet."]
+      "alt": [
+        "Groente is voedzaam, patat bevat daarentegen veel vet.",
+        "Groente is voedzaam, daarentegen bevat patat veel vet."
+      ]
     },
     {
       "nl": "Het regende hard, toch fietste ze naar de sportschool.",
       "en": "It was raining hard, yet she still cycled to the gym.",
-      "hint": ["regenen", "hard", "toch", "fietsen", "sportschool"],
+      "hint": [
+        "regenen",
+        "hard",
+        "toch",
+        "fietsen",
+        "sportschool"
+      ],
       "note": "Toch is an adverb, so in first place it is followed by the verb: toch fietste ze, never *toch ze fietste.",
-      "alt": ["Het regende hard, toch fietste zij naar de sportschool.", "Het regende hard, maar ze fietste toch naar de sportschool.", "Het regende hard, maar zij fietste toch naar de sportschool.", "Het regende hard, maar toch fietste ze naar de sportschool.", "Het regende hard, maar toch fietste zij naar de sportschool."]
+      "alt": [
+        "Het regende hard, toch fietste zij naar de sportschool.",
+        "Het regende hard, maar ze fietste toch naar de sportschool.",
+        "Het regende hard, maar zij fietste toch naar de sportschool.",
+        "Het regende hard, maar toch fietste ze naar de sportschool.",
+        "Het regende hard, maar toch fietste zij naar de sportschool."
+      ]
     },
     {
       "nl": "Hoewel ik gezond eet, val ik niet af.",
       "en": "Although I eat healthily, I am not losing weight.",
-      "hint": ["hoewel", "gezond", "eten", "afvallen"],
+      "hint": [
+        "hoewel",
+        "gezond",
+        "eten",
+        "afvallen"
+      ],
       "note": "Hoewel starts a sub-clause, so eet goes to its end. That whole sub-clause is element one, so val comes next.",
-      "alt": ["Ik val niet af, hoewel ik gezond eet."]
+      "alt": [
+        "Ik val niet af, hoewel ik gezond eet."
+      ]
     },
     {
       "nl": "Wandelen is goed voor je hart en bovendien kost het niets.",
       "en": "Walking is good for your heart, and what's more, it costs nothing.",
-      "hint": ["wandelen", "goed", "hart", "bovendien", "kosten"],
+      "hint": [
+        "wandelen",
+        "goed",
+        "hart",
+        "bovendien",
+        "kosten"
+      ],
       "note": "After en, bovendien is the first element, so kost comes before het.",
-      "alt": ["Wandelen is goed voor je hart en het kost bovendien niets."]
+      "alt": [
+        "Wandelen is goed voor je hart en het kost bovendien niets."
+      ]
     },
     {
       "nl": "Eerst warm je tien minuten op en vervolgens loop je een half uur hard.",
       "en": "First you warm up for ten minutes, and next you run for half an hour.",
-      "hint": ["eerst", "opwarmen", "minuut", "vervolgens", "hardlopen", "half uur"],
+      "hint": [
+        "eerst",
+        "opwarmen",
+        "minuut",
+        "vervolgens",
+        "hardlopen",
+        "half uur"
+      ],
       "note": "Eerst and vervolgens both take the first place, so each time the verb comes before je. Je directly after the verb: warm, loop, without t.",
-      "alt": ["Eerst warm je tien minuten op en daarna loop je een half uur hard.", "Eerst warm je tien minuten op en dan loop je een half uur hard."]
+      "alt": [
+        "Eerst warm je tien minuten op en daarna loop je een half uur hard.",
+        "Eerst warm je tien minuten op en dan loop je een half uur hard."
+      ]
     },
     {
       "nl": "Je moet het elke dag volhouden, anders heeft het geen zin.",
       "en": "You have to keep it up every day, otherwise there is no point.",
-      "hint": ["moeten", "elke dag", "volhouden", "anders", "zin"],
+      "hint": [
+        "moeten",
+        "elke dag",
+        "volhouden",
+        "anders",
+        "zin"
+      ],
       "note": "Anders is an adverb: it takes the first place of its sentence, and the verb heeft comes before the subject het.",
-      "alt": ["Je moet het elke dag volhouden, anders heeft het geen nut."]
+      "alt": [
+        "Je moet het elke dag volhouden, anders heeft het geen nut."
+      ]
     },
     {
       "nl": "Ik heb mijn leefstijl veranderd, omdat mijn gewicht te hoog was.",
       "en": "I changed my lifestyle because my weight was too high.",
-      "hint": ["leefstijl", "veranderen", "omdat", "gewicht", "hoog"],
+      "hint": [
+        "leefstijl",
+        "veranderen",
+        "omdat",
+        "gewicht",
+        "hoog"
+      ],
       "note": "Omdat is not an adverb but a conjunction that starts a sub-clause: the verb was goes to the end. With daarom the result would come second: Mijn gewicht was te hoog, daarom heb ik …",
-      "alt": ["Omdat mijn gewicht te hoog was, heb ik mijn leefstijl veranderd.", "Ik veranderde mijn leefstijl, omdat mijn gewicht te hoog was.", "Omdat mijn gewicht te hoog was, veranderde ik mijn leefstijl."]
+      "alt": [
+        "Omdat mijn gewicht te hoog was, heb ik mijn leefstijl veranderd.",
+        "Ik veranderde mijn leefstijl, omdat mijn gewicht te hoog was.",
+        "Omdat mijn gewicht te hoog was, veranderde ik mijn leefstijl."
+      ]
     }
   ],
   "exercises": [
     {
       "type": "choose",
       "nl": "Ik slaap slecht. Daarom ___ 's avonds geen koffie meer.",
-      "options": ["ik drink", "drink ik", "drinkt ik"],
+      "options": [
+        "ik drink",
+        "drink ik",
+        "drinkt ik"
+      ],
       "correct": 1,
       "en": "I sleep badly. That's why I no longer drink coffee in the evening.",
       "note": "Daarom is the first element, so the verb comes second and the subject follows it. The ik-form stays drink: never drinkt ik."
@@ -108,7 +289,11 @@
     {
       "type": "choose",
       "nl": "Ik eet veel groente, ___ ik wil gezonder leven.",
-      "options": ["daarom", "want", "omdat"],
+      "options": [
+        "daarom",
+        "want",
+        "omdat"
+      ],
       "correct": 1,
       "en": "I eat a lot of vegetables, because I want to live more healthily.",
       "note": "Ik wil has the normal order, and that fits only want. After daarom the verb would come first (daarom wil ik), and omdat needs the verb at the end (omdat ik gezonder wil leven)."
@@ -116,7 +301,11 @@
     {
       "type": "choose",
       "nl": "Ik ben moe. ___ ga ik vanavond naar de sportschool.",
-      "options": ["Hoewel", "Toch", "Maar"],
+      "options": [
+        "Hoewel",
+        "Toch",
+        "Maar"
+      ],
       "correct": 1,
       "en": "I am tired. Still, I am going to the gym tonight.",
       "note": "Ga comes before ik, so the first word must be an adverb: toch. After maar the order would be normal (maar ik ga), and hoewel starts a sub-clause."
@@ -124,7 +313,12 @@
     {
       "type": "choose",
       "nl": "Gebruik zout matig, ___ krijg je hoge bloeddruk.",
-      "options": ["want", "daarom", "anders", "dus"],
+      "options": [
+        "want",
+        "daarom",
+        "anders",
+        "dus"
+      ],
       "correct": 2,
       "en": "Use salt in moderation, otherwise you'll get high blood pressure.",
       "note": "Anders gives what happens if you do not follow the advice. Want would need normal order, and daarom and dus give a result, which makes no sense here."
@@ -132,52 +326,85 @@
     {
       "type": "gap",
       "nl": "Ik wil fit blijven. Daarom ___ (bewegen) ik elke dag een uur.",
-      "answers": ["beweeg"],
+      "answers": [
+        "beweeg"
+      ],
       "en": "I want to stay fit. That's why I exercise for an hour every day.",
       "note": "After daarom the verb comes first and ik follows. Ik takes the stem: beweeg, with a double e because the syllable is open in bewegen."
     },
     {
       "type": "gap",
       "nl": "Hij denkt aan zijn gezondheid en ___ (vermijden) daarom suiker.",
-      "answers": ["vermijdt"],
+      "answers": [
+        "vermijdt"
+      ],
       "en": "He thinks about his health and that is why he avoids sugar.",
       "note": "Here daarom stands in the middle, so the order is normal and hij (left out after en) is the subject: stem vermijd + t = vermijdt."
     },
     {
       "type": "gap",
       "nl": "Eerst rek je je spieren, daarna ___ (gaan) je hardlopen.",
-      "answers": ["ga"],
+      "answers": [
+        "ga"
+      ],
       "en": "First you stretch your muscles, then you go running.",
       "note": "Daarna is the first element, so the verb comes before je, and with je directly after it the verb loses its t: ga je."
     },
     {
       "type": "gap",
       "nl": "Je moet stoppen met roken, anders ___ (worden) je conditie steeds slechter.",
-      "answers": ["wordt"],
+      "answers": [
+        "wordt"
+      ],
       "en": "You must stop smoking, otherwise your fitness will keep getting worse.",
       "note": "After anders the verb comes first. The subject is je conditie (your fitness), not je, so the t stays: wordt je conditie."
     },
     {
       "type": "order",
       "lead": "Bovendien",
-      "words": ["is", "mijn zorgverzekering", "duurder", "geworden"],
-      "answers": ["Bovendien is mijn zorgverzekering duurder geworden."],
+      "words": [
+        "is",
+        "mijn zorgverzekering",
+        "duurder",
+        "geworden"
+      ],
+      "answers": [
+        "Bovendien is mijn zorgverzekering duurder geworden."
+      ],
       "en": "What's more, my health insurance has become more expensive.",
       "note": "Bovendien is the first element, so is comes second and mijn zorgverzekering follows. The participle geworden goes to the end."
     },
     {
       "type": "order",
       "lead": "Mijn vader rookt niet meer",
-      "words": ["en", "daardoor", "slaapt", "hij", "beter"],
-      "answers": ["Mijn vader rookt niet meer en daardoor slaapt hij beter.", "Mijn vader rookt niet meer en hij slaapt daardoor beter."],
+      "words": [
+        "en",
+        "daardoor",
+        "slaapt",
+        "hij",
+        "beter"
+      ],
+      "answers": [
+        "Mijn vader rookt niet meer en daardoor slaapt hij beter.",
+        "Mijn vader rookt niet meer en hij slaapt daardoor beter."
+      ],
       "en": "My father no longer smokes and as a result he sleeps better.",
       "note": "En does not count. Daardoor can be the first element, with the verb before hij, or stand after the verb in the normal order."
     },
     {
       "type": "order",
       "lead": "Hoewel",
-      "words": ["ik", "eet", "gezond", "val", "ik", "niet af"],
-      "answers": ["Hoewel ik gezond eet, val ik niet af."],
+      "words": [
+        "ik",
+        "eet",
+        "gezond",
+        "val",
+        "ik",
+        "niet af"
+      ],
+      "answers": [
+        "Hoewel ik gezond eet, val ik niet af."
+      ],
       "en": "Although I eat healthily, I am not losing weight.",
       "note": "In the sub-clause with hoewel the verb eet goes to the end. The sub-clause is the first element, so val comes next, then ik."
     },
@@ -185,7 +412,9 @@
       "type": "rewrite",
       "task": "Join the two with daarom at the start of the second sentence.",
       "from": "Ik sport veel. Ik eet veel eiwit.",
-      "answers": ["Ik sport veel, daarom eet ik veel eiwit."],
+      "answers": [
+        "Ik sport veel, daarom eet ik veel eiwit."
+      ],
       "en": "I do a lot of sport, that's why I eat a lot of protein.",
       "note": "Daarom becomes the first element of the second sentence, so eet comes before ik."
     },
@@ -193,7 +422,9 @@
       "type": "rewrite",
       "task": "Give the reason with omdat instead: start with Ik eet veel eiwit.",
       "from": "Ik sport veel, daarom eet ik veel eiwit.",
-      "answers": ["Ik eet veel eiwit, omdat ik veel sport."],
+      "answers": [
+        "Ik eet veel eiwit, omdat ik veel sport."
+      ],
       "en": "I eat a lot of protein because I do a lot of sport.",
       "note": "Omdat introduces the reason, not the result, so the two parts change places. In the omdat-clause the verb sport goes to the end."
     },
@@ -201,21 +432,29 @@
       "type": "rewrite",
       "task": "Say it without hoewel: two sentences, the second starting with Toch.",
       "from": "Hoewel ik weinig tijd heb, sport ik drie keer per week.",
-      "answers": ["Ik heb weinig tijd. Toch sport ik drie keer per week."],
+      "answers": [
+        "Ik heb weinig tijd. Toch sport ik drie keer per week."
+      ],
       "en": "I have little time. Still, I do sport three times a week.",
       "note": "Without hoewel, the first sentence has the normal order. Toch is an adverb, so the verb sport follows it directly."
     },
     {
       "type": "fix",
       "wrong": "Snoepen is een slechte gewoonte, daarom ik koop geen snoep meer.",
-      "answers": ["Snoepen is een slechte gewoonte, daarom koop ik geen snoep meer.", "Snoepen is een slechte gewoonte, ik koop daarom geen snoep meer."],
+      "answers": [
+        "Snoepen is een slechte gewoonte, daarom koop ik geen snoep meer.",
+        "Snoepen is een slechte gewoonte, ik koop daarom geen snoep meer."
+      ],
       "en": "Eating sweets is a bad habit, that's why I no longer buy sweets.",
       "note": "Daarom is an adverb and counts as the first element, so the verb must follow it directly: daarom koop ik."
     },
     {
       "type": "fix",
       "wrong": "Ik neem de trap, omdat ik wil meer bewegen.",
-      "answers": ["Ik neem de trap, omdat ik meer wil bewegen.", "Ik neem de trap, omdat ik meer bewegen wil."],
+      "answers": [
+        "Ik neem de trap, omdat ik meer wil bewegen.",
+        "Ik neem de trap, omdat ik meer bewegen wil."
+      ],
       "en": "I take the stairs because I want to move more.",
       "note": "Omdat is a conjunction that sends the verbs to the end of the clause. Meer belongs before them: omdat ik meer wil bewegen."
     }
