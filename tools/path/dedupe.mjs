@@ -17,15 +17,21 @@ const units = fs.readdirSync(dir).filter(f => f.endsWith('.json'))
   .map(f => ({ f, u: JSON.parse(fs.readFileSync(path.join(dir, f), 'utf8')) }))
   .sort((a, b) => order.indexOf(a.u.id) - order.indexOf(b.u.id));
 
-const seen = new Map();
+// The same spelling with another article (de stof, het stof) or another meaning
+// (het recept: a prescription, a recipe) is another word and stays. The app decides
+// the same way (src/data/path-progress.js).
+const cores = en => new Set(String(en).toLowerCase().replace(/\([^)]*\)/g, ' ').split(/[^a-z]+/).filter(w => w.length > 2 && w !== 'the'));
+const sameMeaning = (a, b) => { const x = cores(a), y = cores(b); return [...x].some(w => y.has(w)) || !x.size || !y.size; };
+const seen = new Map(), meaning = new Map();
 let dropped = 0, kept = 0;
 for (const { f, u } of units) {
   const keep = [], gone = [], stay = [];
   let room = Math.max(0, u.words.length - FLOOR);
   for (const w of u.words) {
-    const k = `${w.nl}|${w.pos}`;
+    const k = `${w.nl}|${w.pos}|${w.art || ''}`;
+    if (seen.has(k) && !sameMeaning(meaning.get(k), w.en)) { console.log(`${u.id}: "${w.nl}" (${w.en}) is also in ${seen.get(k)} (${meaning.get(k)}): another meaning, kept`); keep.push(w); continue; }
     if (seen.has(k) && room > 0) { gone.push(`${w.nl} (${seen.get(k)})`); room--; }
-    else { if (seen.has(k)) stay.push(`${w.nl} (${seen.get(k)})`); else seen.set(k, u.id); keep.push(w); }
+    else { if (seen.has(k)) stay.push(`${w.nl} (${seen.get(k)})`); else { seen.set(k, u.id); meaning.set(k, w.en); } keep.push(w); }
   }
   if (gone.length) {
     dropped += gone.length;

@@ -1,0 +1,221 @@
+{
+  "id": "b2-17",
+  "level": "B2",
+  "icon": "🎭",
+  "title": "Art and literature",
+  "grammar": "Referring back: hij or het, deze, die, zulke, de eerste",
+  "summary": "A de-word is hij / hem / zijn, a het-word het / zijn, a plural ze / hun. At the front: die, dat. hen after a preposition and as object, hun 'to them', never hun as subject. zo'n + singular, zulke + plural.",
+  "explain": "A good text does not repeat its nouns; it refers back to them. In Dutch the pronoun follows the **gender of the noun** (de or het), not the question whether it is a person or a thing. English says *it* for every thing; Dutch says `hij` for a film and `het` for a book. This unit puts the whole system together.\n\n### Things: hij, het, ze\n\n| noun | subject | object | possessive |\n| de film | hij | hem | zijn |\n| het boek | het | het | zijn |\n| de boeken | ze | ze | hun |\n\n> De roman is ontroerend, maar hij is erg lang. — The novel is moving, but it is very long.\n> Het museum toont een groot deel van zijn collectie. — The museum is showing a large part of its collection.\n\nThe possessive of a het-word is `zijn`, never *hun and not *haar: `het museum en zijn collectie`. `hun` is only for plurals. A person keeps natural gender: `de auteur` is hij or zij, and a het-word for a person usually gets the person's pronoun too: `Het meisje zegt dat ze moe is.`\n\n### Feminine reference: zij and haar\n\nIn formal writing, de-words for organisations (`de regering`, `de gemeente`) and abstract de-words in `-ing`, `-heid`, `-schap`, `-ie` and `-teit` are traditionally feminine: `de regering en haar plannen`. Recognise it when you read it. In the Netherlands `hij` / `zijn` is also accepted for these words and is what people say, so both are correct.\n\n### die and dat at the front\n\nWhen the pronoun takes the first place, usually to pick up what was just mentioned, Dutch uses `die` (de-words and plurals) and `dat` (het-words) instead of `hem` and `het`. An object `het` can never stand first.\n\n> Die film? Die heb ik vorige week al gezien. — That film? I already saw it last week.\n> Dat boek? Dat heb ik nog niet gelezen. — That book? I have not read it yet.\n\n### deze, de laatste, eerstgenoemde\n\nWhen `hij` could point at two people, written Dutch uses `deze`: the **last** person or thing mentioned. `de eerste … de laatste` and, more formally, `eerstgenoemde … laatstgenoemde` mean *the former … the latter*.\n\n> De auteur belde de uitgever. Deze vond de hoofdpersoon niet sympathiek. — The author phoned the publisher. The latter did not find the main character likeable.\n\n### People in the plural: zij, ze, hen, hun\n\n- subject: `zij` or unstressed `ze`, **never** *hun hebben.\n- direct object: `hen` in writing, `ze` in speech: `Ik heb hen gezien.`\n- indirect object (to them): `hun` in writing, `ze` in speech: `Ik heb hun een kaartje gegeven.`\n- after a preposition: `hen`: `met hen`, `voor hen`, never *met hun. For things you use the er-word instead: `ermee`, `erover` (unit B1 · 05).\n\n> Ik ken die twee kunstenaars goed: ik heb jaren samen met hen geëxposeerd. — I know those two artists well: I exhibited with them for years.\n\n### zo'n, zulke, zulk, dergelijk\n\n- `zo'n` + a singular noun you can count: `zo'n film`, `zo'n boek`.\n- `zulke` + a plural: `zulke films`; also before a de-word without plural: `zulke muziek`.\n- `zulk` + a het-word without plural: `zulk weer`, `zulk talent`.\n- `dergelijk` is the formal word and behaves like an adjective: `een dergelijke film`, `een dergelijk boek` (het-word after een: no -e), `dergelijke films`.\n- `zo iemand` (such a person) is two words, `zoiets` (something like that) one.\n\nBefore a number `zo'n` means *about*: `zo'n twintig doeken`. *zo'n mooie boeken is heard but wrong: `zulke mooie boeken`.\n\n### dezelfde and hetzelfde\n\n`dezelfde` goes with de-words and plurals, `hetzelfde` with het-words, each written as one word. On its own, `hetzelfde` means *the same thing*.\n\n> Ze vertellen hetzelfde verhaal, maar niet op dezelfde manier. — They tell the same story, but not in the same way.\n\n### het pointing forward; het or er\n\n`het` can announce a clause that follows. It cannot be left out: `Ik vind het jammer dat …`, never *Ik vind jammer dat ….\n\n> Het is opvallend dat het museum zo weinig bezoekers heeft. — It is striking that the museum has so few visitors.\n\n`het` is also the subject of weather and time (`Het regent`) and of sentences that name or identify, even with a plural: `Het zijn goede acteurs`. *There is / there are* with an indefinite subject is `er`: `Er is een nieuwe tentoonstelling`.\n\n### Compared with Ukrainian\n\nUkrainian also chooses він, вона, воно by grammatical gender, so the idea is familiar. But the genders do not match: `de roman` is hij like роман, but `het boek` is het while книга is вона. And `Шкода, що …` needs no 'it', while Dutch needs `het`.",
+  "words": [
+    { "nl": "roman", "art": "de", "pl": "romans", "en": "novel", "pos": "n" },
+    { "nl": "auteur", "art": "de", "pl": "auteurs", "en": "author", "pos": "n" },
+    { "nl": "uitgever", "art": "de", "pl": "uitgevers", "en": "publisher", "pos": "n" },
+    { "nl": "hoofdpersoon", "art": "de", "pl": "hoofdpersonen", "en": "main character", "pos": "n" },
+    { "nl": "toneelstuk", "art": "het", "pl": "toneelstukken", "en": "play (in the theatre)", "pos": "n" },
+    { "nl": "voorstelling", "art": "de", "pl": "voorstellingen", "en": "performance / show", "pos": "n" },
+    { "nl": "tentoonstelling", "art": "de", "pl": "tentoonstellingen", "en": "exhibition", "pos": "n" },
+    { "nl": "kunstenaar", "art": "de", "pl": "kunstenaars", "en": "artist", "pos": "n" },
+    { "nl": "collectie", "art": "de", "pl": "collecties", "en": "collection", "pos": "n" },
+    { "nl": "meesterwerk", "art": "het", "pl": "meesterwerken", "en": "masterpiece", "pos": "n" },
+    { "nl": "kunstwerk", "art": "het", "pl": "kunstwerken", "en": "work of art", "pos": "n" },
+    { "nl": "doek", "art": "het", "pl": "doeken", "en": "canvas / painting", "pos": "n" },
+    { "nl": "verschijnen", "past": "verscheen", "perf": "is verschenen", "en": "to appear / to be published", "pos": "v" },
+    { "nl": "exposeren", "past": "exposeerde", "perf": "heeft geëxposeerd", "en": "to exhibit", "pos": "v" },
+    { "nl": "verfilmen", "past": "verfilmde", "perf": "heeft verfilmd", "en": "to make into a film", "pos": "v" },
+    { "nl": "ontroerend", "en": "moving / touching", "pos": "adj" }
+  ],
+  "sentences": [
+    {
+      "nl": "De roman is ontroerend, maar hij is erg lang.",
+      "en": "The novel is moving, but it is very long.",
+      "hint": ["roman", "ontroerend", "erg", "lang"],
+      "note": "Roman is a de-word, so English 'it' becomes hij. Het would be wrong here: het only refers back to het-words.",
+      "alt": ["De roman is ontroerend, maar hij is heel lang."]
+    },
+    {
+      "nl": "Het toneelstuk is goed geschreven, maar het duurt te lang.",
+      "en": "The play is well written, but it goes on too long.",
+      "hint": ["toneelstuk", "goed", "schrijven", "duren", "lang"],
+      "note": "Toneelstuk is a het-word, so it is referred to with het. A de-word would have needed hij."
+    },
+    {
+      "nl": "Die film? Die heb ik vorige week al gezien.",
+      "en": "That film? I already saw it last week.",
+      "hint": ["film", "zien", "vorige week", "al"],
+      "note": "The pronoun takes the first place to pick up the topic, so a de-word gets die instead of hem. The verb heb stays second and ik follows it.",
+      "alt": ["Die film? Die heb ik al vorige week gezien.", "Die film? Ik heb die vorige week al gezien.", "Die film? Ik heb hem vorige week al gezien."]
+    },
+    {
+      "nl": "Het museum toont dit jaar een groot deel van zijn collectie.",
+      "en": "This year the museum is showing a large part of its collection.",
+      "hint": ["museum", "tonen", "jaar", "deel", "collectie"],
+      "note": "Museum is a het-word, and the possessive of a het-word is zijn. Hun is only for plurals, and haar does not go with a het-word.",
+      "alt": ["Dit jaar toont het museum een groot deel van zijn collectie."]
+    },
+    {
+      "nl": "De auteur belde de uitgever. Deze vond de hoofdpersoon niet sympathiek.",
+      "en": "The author phoned the publisher. The latter did not find the main character likeable.",
+      "hint": ["auteur", "bellen", "uitgever", "hoofdpersoon", "sympathiek"],
+      "note": "Hij could mean the author or the publisher; deze points at the last one mentioned, the publisher. This is written style.",
+      "alt": ["De auteur belde de uitgever. De laatste vond de hoofdpersoon niet sympathiek.", "De auteur belde de uitgever. Laatstgenoemde vond de hoofdpersoon niet sympathiek."]
+    },
+    {
+      "nl": "Ik wilde de acteurs na de voorstelling spreken, maar ik heb hen nergens gezien.",
+      "en": "I wanted to talk to the actors after the performance, but I did not see them anywhere.",
+      "hint": ["willen", "acteur", "voorstelling", "spreken", "nergens", "zien"],
+      "note": "Them is the direct object of gezien, which is hen in written Dutch and ze in speech. Hun would be the indirect object (to them).",
+      "alt": ["Ik wilde de acteurs na de voorstelling spreken, maar ik heb ze nergens gezien.", "Ik wilde na de voorstelling de acteurs spreken, maar ik heb hen nergens gezien.", "Ik wilde na de voorstelling de acteurs spreken, maar ik heb ze nergens gezien."]
+    },
+    {
+      "nl": "Ik ken die twee kunstenaars goed: ik heb jaren samen met hen geëxposeerd.",
+      "en": "I know those two artists well: I exhibited with them for years.",
+      "hint": ["kennen", "kunstenaar", "jaar", "exposeren"],
+      "note": "After a preposition, people in the plural are hen: met hen. Never met hun. Geëxposeerd has a trema because ge and e belong to different syllables.",
+      "alt": ["Ik ken die twee kunstenaars goed: ik heb jarenlang samen met hen geëxposeerd."]
+    },
+    {
+      "nl": "Ik had nog nooit zulke grote doeken gezien.",
+      "en": "I had never seen such big canvases before.",
+      "hint": ["nog nooit", "groot", "doek", "zien"],
+      "note": "Doeken is plural, so such is zulke. Zo'n only goes with a singular noun: zo'n groot doek.",
+      "alt": ["Zulke grote doeken had ik nog nooit gezien."]
+    },
+    {
+      "nl": "Het toneelstuk en de film vertellen hetzelfde verhaal, maar niet op dezelfde manier.",
+      "en": "The play and the film tell the same story, but not in the same way.",
+      "hint": ["toneelstuk", "film", "vertellen", "verhaal", "manier"],
+      "note": "Verhaal is a het-word: hetzelfde verhaal. Manier is a de-word: dezelfde manier. Both are written as one word."
+    },
+    {
+      "nl": "Ik vind het jammer dat de roman nooit is verfilmd.",
+      "en": "I think it is a pity that the novel has never been made into a film.",
+      "hint": ["vinden", "jammer", "roman", "nooit", "verfilmen"],
+      "note": "Het announces the dat-clause that follows, and it cannot be left out: never 'Ik vind jammer dat'. At the end both orders are correct: is verfilmd and verfilmd is.",
+      "alt": ["Ik vind het jammer dat de roman nooit verfilmd is."]
+    }
+  ],
+  "exercises": [
+    {
+      "type": "choose",
+      "nl": "De nieuwe roman is vorige week verschenen. ___ is echt heel spannend.",
+      "options": ["Het", "Hij", "Ze"],
+      "correct": 1,
+      "en": "The new novel came out last week. It is really very exciting.",
+      "note": "De roman is a de-word, so it is hij, although English says 'it'. Het is for het-words, ze for plurals."
+    },
+    {
+      "type": "choose",
+      "nl": "Het museum heeft ___ hele collectie online gezet.",
+      "options": ["hun", "haar", "zijn", "het"],
+      "correct": 2,
+      "en": "The museum has put its whole collection online.",
+      "note": "Museum is a het-word, so its possessive is zijn. Hun is only for plurals, and 'het museum en hun collectie' is a common mistake even among native speakers."
+    },
+    {
+      "type": "choose",
+      "nl": "___ is deze maand een bijzondere tentoonstelling in het museum.",
+      "options": ["Het", "Die", "Er"],
+      "correct": 2,
+      "en": "There is a special exhibition in the museum this month.",
+      "note": "'There is' with an indefinite subject (een tentoonstelling) is er is. Het would say 'it is a special exhibition'."
+    },
+    {
+      "type": "choose",
+      "nl": "Ik heb nog nooit ___ mooie kunstwerken bij elkaar gezien.",
+      "options": ["zo'n", "zulke", "zulk"],
+      "correct": 1,
+      "en": "I have never seen such beautiful works of art together.",
+      "note": "Kunstwerken is plural, so zulke. Zo'n is for one countable thing (zo'n mooi kunstwerk), zulk for a het-word without plural (zulk weer)."
+    },
+    {
+      "type": "choose",
+      "nl": "De kunstenaars zaten in de zaal, en het hele publiek klapte voor ___.",
+      "options": ["hen", "zij", "hun"],
+      "correct": 0,
+      "en": "The artists were sitting in the hall, and the whole audience applauded them.",
+      "note": "After a preposition (voor), people in the plural are hen. Hun is only the indirect object without a preposition, and zij is a subject form."
+    },
+    {
+      "type": "choose",
+      "nl": "Wie staan er op de poster? ___ zijn de regisseur en de hoofdrolspeler.",
+      "options": ["Er", "Hun", "Het"],
+      "correct": 2,
+      "en": "Who is on the poster? They are the director and the lead actor.",
+      "note": "A sentence that identifies people starts with het, and the verb agrees with the plural: het zijn. Hun is never a subject, and er is for 'there is'. (Dat zijn … is also correct.)"
+    },
+    {
+      "type": "gap",
+      "nl": "Die actrice speelt al tien jaar in ___ (the same) toneelstuk.",
+      "answers": ["hetzelfde"],
+      "en": "That actress has been acting in the same play for ten years.",
+      "note": "Toneelstuk is a het-word, so the same is hetzelfde, one word. With a de-word it would be dezelfde: dezelfde voorstelling."
+    },
+    {
+      "type": "gap",
+      "nl": "Een ___ (dergelijk) meesterwerk zie je maar zelden.",
+      "answers": ["dergelijk"],
+      "en": "You only rarely see a masterpiece like that.",
+      "note": "Dergelijk behaves like an adjective. Meesterwerk is a het-word, and after een an adjective before a het-word has no -e: een dergelijk meesterwerk, but een dergelijke film."
+    },
+    {
+      "type": "gap",
+      "nl": "Na afloop heb ik de acteurs gesproken en ___ (them) een compliment gegeven.",
+      "answers": ["hun", "ze"],
+      "en": "Afterwards I spoke to the actors and gave them a compliment.",
+      "note": "The actors receive the compliment: indirect object, so hun in written Dutch, ze in speech. Hen is for the direct object and after a preposition."
+    },
+    {
+      "type": "gap",
+      "nl": "De gemeente verlaagt volgend jaar ___ (its) subsidie aan het theater.",
+      "answers": ["haar", "zijn"],
+      "en": "Next year the municipality is cutting its grant to the theatre.",
+      "note": "Gemeente is a de-word for an organisation. Formal writing traditionally treats it as feminine (haar); in the Netherlands zijn is also accepted. Hun is wrong: the municipality is one thing."
+    },
+    {
+      "type": "order",
+      "lead": "Dat boek?",
+      "words": ["Dat", "heb", "ik", "nog niet", "gelezen"],
+      "answers": ["Dat boek? Dat heb ik nog niet gelezen.", "Dat boek? Ik heb dat nog niet gelezen."],
+      "en": "That book? I have not read it yet.",
+      "note": "Dat picks up the het-word boek and usually takes the first place; then heb comes second and ik follows. An object het cannot stand first: never 'Het heb ik nog niet gelezen'."
+    },
+    {
+      "type": "order",
+      "lead": "De regisseur sprak met de schrijver.",
+      "words": ["Deze", "vond", "het einde", "te somber"],
+      "answers": ["De regisseur sprak met de schrijver. Deze vond het einde te somber."],
+      "en": "The director spoke to the writer. The latter thought the ending was too gloomy.",
+      "note": "Deze refers to the last person mentioned, de schrijver. Hij would leave it open who found the ending too gloomy."
+    },
+    {
+      "type": "rewrite",
+      "task": "Replace de roman with a pronoun.",
+      "from": "Ik heb de roman in één weekend gelezen.",
+      "answers": ["Ik heb hem in één weekend gelezen.", "Die heb ik in één weekend gelezen.", "Ik heb die in één weekend gelezen."],
+      "en": "I read it in one weekend.",
+      "note": "Roman is a de-word, so the object pronoun is hem, not het. At the front of the sentence Dutch prefers die."
+    },
+    {
+      "type": "rewrite",
+      "task": "Start with Het is jammer.",
+      "from": "Dat de première is uitgesteld, is jammer.",
+      "answers": ["Het is jammer dat de première is uitgesteld.", "Het is jammer dat de première uitgesteld is."],
+      "en": "It is a pity that the premiere has been postponed.",
+      "note": "Het stands in the subject place and points forward to the dat-clause, which now comes at the end. Both orders of is and uitgesteld are correct."
+    },
+    {
+      "type": "fix",
+      "wrong": "Het kunstwerk werd in 1990 gestolen, maar de politie heeft hem nooit teruggevonden.",
+      "answers": ["Het kunstwerk werd in 1990 gestolen, maar de politie heeft het nooit teruggevonden."],
+      "en": "The work of art was stolen in 1990, but the police never found it again.",
+      "note": "Kunstwerk is a het-word, so the object pronoun is het, not hem. Hem is for de-words: de film … hem."
+    },
+    {
+      "type": "fix",
+      "wrong": "Mijn ouders gaan niet mee, want hun hebben de voorstelling al gezien.",
+      "answers": ["Mijn ouders gaan niet mee, want ze hebben de voorstelling al gezien.", "Mijn ouders gaan niet mee, want zij hebben de voorstelling al gezien."],
+      "en": "My parents are not coming along, because they have already seen the show.",
+      "note": "Hun is never a subject. The subject is zij or, unstressed, ze. 'Hun hebben' is heard, but it is a well-known mistake."
+    }
+  ]
+}

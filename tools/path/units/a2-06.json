@@ -1,0 +1,214 @@
+{
+  "id": "a2-06",
+  "level": "A2",
+  "icon": "🛒",
+  "title": "Shopping for food",
+  "grammar": "Plural nouns",
+  "summary": "Most nouns: -en (fles, flessen; tomaat, tomaten). -s after unstressed -el, -em, -en, -er, -je. -'s after a, i, o, u, y (kilo's). Every plural takes de. After a number a unit stays singular: twee kilo, drie euro.",
+  "explain": "Dutch makes most plurals with **-en** or **-s**. Which one a noun takes depends mostly on how it ends, and the spelling follows the rules you know from unit A2 · 1. Every plural takes `de`, whatever the singular has: `het ei`, `de eieren`.\n\n### -en: the main ending\n\nMost nouns, and nearly all nouns of one syllable, get **-en**. Say the plural aloud: the vowel keeps its sound, and the spelling changes to show that.\n\n| singular | plural | why |\n| de fles | de flessen | short vowel: double the consonant |\n| het pak | de pakken | short vowel: double the consonant |\n| de tomaat | de tomaten | long vowel: write it single |\n| het brood | de broden | long vowel: write it single |\n| de doos | de dozen | s becomes z |\n| de brief | de brieven | f becomes v |\n\n- A **short vowel** stays short only if the consonant is doubled: `de zak → zakken`, `de man → mannen`.\n- A **long vowel** written double loses a letter, because the syllable is now open: `de boom → bomen`.\n- **s → z** and **f → v** happen in many words: `het huis → huizen`, `de kaas → kazen`. But not in all: `de kans → kansen`, `de mens → mensen`.\n\n> Ik koop twee flessen water. — I am buying two bottles of water.\n> De tomaten zijn rood. — The tomatoes are red.\n\n### -s\n\n- After an unstressed **-el, -em, -en, -er** and after **-je**: `de tafel → tafels`, `de bezem → bezems`, `de jongen → jongens`, `de komkommer → komkommers`, `het mandje → mandjes`. A few -el words also have -en: `aardappels` or `aardappelen`.\n- Many words from English and French: `de film → films`, `het restaurant → restaurants`.\n\n> De komkommers liggen naast de uien. — The cucumbers are next to the onions.\n\n### -'s\n\nAfter **a, i, o, u, y** at the end, Dutch writes **'s**: `de kilo → kilo's`, `de auto → auto's`, `de taxi → taxi's`, `het menu → menu's`, `de baby → baby's`. Without the apostrophe you would read *kilos* as kil-os, with a short i. Words in **é** just get s: `het café → cafés`.\n\n### Irregular plurals\n\n- `het kind → kinderen`, `het ei → eieren`.\n- The vowel becomes long: `de stad → steden`, `het schip → schepen`, `het lid → leden`, `de dag → dagen`, `het glas → glazen`. Dag and glas keep one letter: the a is now long.\n- Words in **-heid** get **-heden**: `de mogelijkheid → mogelijkheden`.\n\n> De eieren liggen in de koelkast. — The eggs are in the fridge.\n\n### Numbers and quantities\n\nAfter a number bigger than one, a noun is plural: `twee appels`, `vijf eieren`. But **units of measure stay singular**: `twee kilo`, `drie euro`, `vijf jaar`, `twee uur`, `tien procent`, `twee liter`, `drie keer`. Containers and units of time like `dag` and `week` normally do take the plural: `twee flessen`, `drie pakken`, `vier dagen`, `drie weken`.\n\n> We hebben nog drie pakken melk. — We still have three cartons of milk.\n\nWhat comes after a quantity: something you count is plural (`een kilo tomaten`, `een zak uien`), something you cannot count is singular (`een pak melk`, `twee flessen water`).\n\n> Een kilo appels kost drie euro. — A kilo of apples costs three euros.\n\n### Watch out\n\n- *tomaats → `tomaten`; *broods → `broden`.\n- *flesen → `flessen`: keep the vowel short.\n- *kilos → `kilo's`; but *pauze's → `pauzes`, because e needs no apostrophe.\n- *twee kilo's appels → `twee kilo appels`.\n- *eien → `eieren`; *kinds → `kinderen`.\n- *het eieren → `de eieren`.\n\n### Compared with Ukrainian\n\nUkrainian changes the noun after a number: `два яблука`, but `п'ять яблук`. Dutch has one plural for every number from two up: `twee appels`, `vijf appels`. And where Ukrainian says `два кілограми`, Dutch keeps the unit singular: `twee kilo`.",
+  "words": [
+    { "nl": "fles", "art": "de", "pl": "flessen", "en": "bottle", "pos": "n" },
+    { "nl": "pak", "art": "het", "pl": "pakken", "en": "carton / packet", "pos": "n" },
+    { "nl": "blik", "art": "het", "pl": "blikken", "en": "tin / can", "pos": "n" },
+    { "nl": "zak", "art": "de", "pl": "zakken", "en": "bag", "pos": "n" },
+    { "nl": "pot", "art": "de", "pl": "potten", "en": "jar / pot", "pos": "n" },
+    { "nl": "doos", "art": "de", "pl": "dozen", "en": "box", "pos": "n" },
+    { "nl": "mandje", "art": "het", "pl": "mandjes", "en": "basket (in a shop)", "pos": "n" },
+    { "nl": "verpakking", "art": "de", "pl": "verpakkingen", "en": "packaging", "pos": "n" },
+    { "nl": "kilo", "art": "de", "pl": "kilo's", "en": "kilo", "pos": "n" },
+    { "nl": "ei", "art": "het", "pl": "eieren", "en": "egg", "pos": "n" },
+    { "nl": "tomaat", "art": "de", "pl": "tomaten", "en": "tomato", "pos": "n" },
+    { "nl": "ui", "art": "de", "pl": "uien", "en": "onion", "pos": "n" },
+    { "nl": "aardappel", "art": "de", "pl": "aardappels", "en": "potato", "pos": "n", "tag": "also: aardappelen" },
+    { "nl": "komkommer", "art": "de", "pl": "komkommers", "en": "cucumber", "pos": "n" },
+    { "nl": "wegen", "past": "woog", "perf": "heeft gewogen", "en": "to weigh", "pos": "v" },
+    { "nl": "vers", "en": "fresh", "pos": "adj" }
+  ],
+  "sentences": [
+    {
+      "nl": "Ik koop twee kilo aardappels en drie uien.",
+      "en": "I am buying two kilos of potatoes and three onions.",
+      "hint": ["kopen", "kilo", "aardappel", "ui"],
+      "note": "Kilo is a unit of measure and stays singular after a number. Aardappel ends in unstressed -el and gets -s; ui gets -en.",
+      "alt": ["Ik koop twee kilo aardappelen en drie uien."]
+    },
+    {
+      "nl": "Hoeveel eieren heb je nodig?",
+      "en": "How many eggs do you need?",
+      "hint": ["hoeveel", "ei", "nodig hebben"],
+      "note": "Ei has an irregular plural: eieren, never eien. Like kind, kinderen, it adds -er before -en.",
+      "alt": ["Hoeveel eieren heb jij nodig?"]
+    },
+    {
+      "nl": "De tomaten liggen naast de komkommers.",
+      "en": "The tomatoes are next to the cucumbers.",
+      "hint": ["tomaat", "liggen", "naast", "komkommer"],
+      "note": "Tomaat → tomaten: the long aa is written single in the open syllable to-ma-ten. Komkommer ends in unstressed -er, so it takes -s."
+    },
+    {
+      "nl": "We hebben drie flessen water nodig.",
+      "en": "We need three bottles of water.",
+      "hint": ["drie", "fles", "water", "nodig hebben"],
+      "note": "Fles has a short e, so the s is doubled: flessen. Water cannot be counted and stays singular after the container."
+    },
+    {
+      "nl": "In de kast staan vijf blikken tomaten.",
+      "en": "There are five tins of tomatoes in the cupboard.",
+      "hint": ["kast", "staan", "blik", "tomaat"],
+      "note": "Blik has a short i, so the k is doubled: blikken. Tomaten is plural because you can count tomatoes.",
+      "alt": ["Er staan vijf blikken tomaten in de kast."]
+    },
+    {
+      "nl": "De dozen met boodschappen zijn zwaar.",
+      "en": "The boxes of groceries are heavy.",
+      "hint": ["doos", "boodschappen", "zwaar"],
+      "note": "Doos → dozen: the long oo is written single, and the s becomes z, as in huis, huizen."
+    },
+    {
+      "nl": "Een kilo appels kost drie euro.",
+      "en": "A kilo of apples costs three euros.",
+      "hint": ["kilo", "appel", "kosten", "euro"],
+      "note": "Euro is a unit and stays singular after drie, unlike English euros. Appels is plural: you count apples."
+    },
+    {
+      "nl": "De kinderen dragen de mandjes naar de kassa.",
+      "en": "The children carry the baskets to the checkout.",
+      "hint": ["kind", "dragen", "mandje", "kassa"],
+      "note": "Kind has an irregular plural: kinderen. Every word in -je takes -s: mandjes."
+    },
+    {
+      "nl": "Hoeveel weegt een zak aardappels?",
+      "en": "How much does a bag of potatoes weigh?",
+      "hint": ["hoeveel", "wegen", "zak", "aardappel"],
+      "note": "After a container, something you count is plural: een zak aardappels. Een zak is singular, so the verb is too: weegt.",
+      "alt": ["Hoeveel weegt een zak aardappelen?"]
+    },
+    {
+      "nl": "Zijn de broden nog vers?",
+      "en": "Are the loaves still fresh?",
+      "hint": ["zijn", "brood", "nog", "vers"],
+      "note": "Brood → broden: the long oo is written single in the open syllable bro-den. Never broods."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "choose",
+      "nl": "Ik koop twee ___ melk.",
+      "options": ["paks", "pakken", "paken"],
+      "correct": 1,
+      "en": "I am buying two cartons of milk.",
+      "note": "Pak has a short a. To keep it short in the plural, the k is doubled: pakken. Paken would be read with a long a."
+    },
+    {
+      "type": "choose",
+      "nl": "Voor de soep heb ik drie ___ uien nodig.",
+      "options": ["kilo's", "kilo", "kilos"],
+      "correct": 1,
+      "en": "For the soup I need three kilos of onions.",
+      "note": "A unit of measure stays singular after a number: drie kilo. Unlike English, Dutch does not say drie kilo's for an amount."
+    },
+    {
+      "type": "choose",
+      "nl": "De ___ staan bij de ingang van de supermarkt.",
+      "options": ["mandjen", "mandje's", "mandjes"],
+      "correct": 2,
+      "en": "The baskets are at the entrance of the supermarket.",
+      "note": "Every word in -je takes -s, without an apostrophe: mandjes. The 's is only for a, i, o, u and y."
+    },
+    {
+      "type": "choose",
+      "nl": "Hoeveel ___ zitten er in een doos?",
+      "options": ["eien", "eieren", "eis"],
+      "correct": 1,
+      "en": "How many eggs are there in a box?",
+      "note": "Ei is irregular: eieren, just like kind, kinderen."
+    },
+    {
+      "type": "gap",
+      "nl": "Ik koop een kilo ___ (tomaat).",
+      "answers": ["tomaten"],
+      "en": "I am buying a kilo of tomatoes.",
+      "note": "After een kilo, something you count is plural. Tomaat → tomaten: the long aa is written single in the open syllable."
+    },
+    {
+      "type": "gap",
+      "nl": "In de kast staan twee ___ (pot) jam.",
+      "answers": ["potten"],
+      "en": "There are two jars of jam in the cupboard.",
+      "note": "Pot has a short o, so the t is doubled: potten. Jam stays singular: you do not count it."
+    },
+    {
+      "type": "gap",
+      "nl": "Plastic ___ (verpakking) zijn slecht voor het milieu.",
+      "answers": ["verpakkingen"],
+      "en": "Plastic packaging is bad for the environment.",
+      "note": "Words in -ing take -en: verpakkingen. Dutch uses the plural here, where English packaging has none."
+    },
+    {
+      "type": "gap",
+      "nl": "Op de markt liggen tien ___ (kaas).",
+      "answers": ["kazen"],
+      "en": "There are ten cheeses at the market.",
+      "note": "Kaas → kazen: the long aa is written single, and the s becomes z, as in doos, dozen."
+    },
+    {
+      "type": "gap",
+      "nl": "De boodschappen wegen samen tien ___ (kilo).",
+      "answers": ["kilo"],
+      "en": "Together the groceries weigh ten kilos.",
+      "note": "Kilo is a unit of measure and stays singular after a number: tien kilo, not tien kilo's."
+    },
+    {
+      "type": "gap",
+      "nl": "Hoeveel ___ (ui) heb je nog?",
+      "answers": ["uien"],
+      "en": "How many onions do you have left?",
+      "note": "Ui simply gets -en: uien. After hoeveel a noun you count is always plural."
+    },
+    {
+      "type": "rewrite",
+      "task": "Make the noun plural.",
+      "from": "Het ei is vers.",
+      "answers": ["De eieren zijn vers."],
+      "en": "The eggs are fresh.",
+      "note": "Ei → eieren, and every plural takes de: het ei, de eieren. The verb becomes plural too."
+    },
+    {
+      "type": "rewrite",
+      "task": "Buy two instead of one.",
+      "from": "Ik koop een fles water.",
+      "answers": ["Ik koop twee flessen water."],
+      "en": "I am buying two bottles of water.",
+      "note": "A container takes the plural after twee: flessen, with ss to keep the e short. Water stays as it is."
+    },
+    {
+      "type": "rewrite",
+      "task": "Buy three instead of one.",
+      "from": "Ik koop een kilo tomaten.",
+      "answers": ["Ik koop drie kilo tomaten."],
+      "en": "I am buying three kilos of tomatoes.",
+      "note": "Kilo is a unit of measure, so it stays singular after a number. Only tomaten, the thing you count, is plural."
+    },
+    {
+      "type": "fix",
+      "wrong": "Ik koop drie komkommers en vier tomaats.",
+      "answers": ["Ik koop drie komkommers en vier tomaten."],
+      "en": "I am buying three cucumbers and four tomatoes.",
+      "note": "Komkommer takes -s because it ends in unstressed -er, but tomaat takes -en: tomaten."
+    },
+    {
+      "type": "fix",
+      "wrong": "Ik koop twee kilo's appels.",
+      "answers": ["Ik koop twee kilo appels."],
+      "en": "I am buying two kilos of apples.",
+      "note": "After a number a unit of measure stays singular: twee kilo. English kilos, Dutch kilo."
+    },
+    {
+      "type": "fix",
+      "wrong": "Het verpakkingen zijn van plastic.",
+      "answers": ["De verpakkingen zijn van plastic."],
+      "en": "The packaging is made of plastic.",
+      "note": "Every plural takes de. Here it would be de anyway, because verpakking is a de-word, like every word in -ing."
+    }
+  ]
+}

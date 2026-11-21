@@ -1,0 +1,212 @@
+{
+  "id": "a2-27",
+  "level": "A2",
+  "icon": "☕",
+  "title": "A cup of coffee",
+  "grammar": "Diminutives: -je, -tje, -etje, -pje, -kje",
+  "summary": "A diminutive is always a het-word, plural -s: het kopje, de kopjes. Mostly -je (boekje); -tje after a vowel, -el, -en, -er (tafeltje); -etje after a short vowel + l, m, n, r, ng (balletje); -pje after m (boompje).",
+  "explain": "Dutch adds a small ending to a noun to make a diminutive (*het verkleinwoord*): `kop` becomes `kopje`, `tafel` becomes `tafeltje`. It can mean that something is small, but much more often it sounds friendly and informal, or it means one portion. In a café you hear diminutives in almost every sentence.\n\n### Always het, plural -s\n\nEvery diminutive is a **het-word**, whatever the article of the noun was. The plural adds **-s**, and like every plural it takes `de`.\n\n| | singular | plural |\n| de kop | het kopje | de kopjes |\n| de tafel | het tafeltje | de tafeltjes |\n| het glas | het glaasje | de glaasjes |\n\nSo it is `dit kopje`, `dat tafeltje`, and with `een` the adjective has no -e: `een lekker koekje`, `een klein tafeltje` (unit A2 · 10).\n\n> Dit kopje is te heet. — This cup is too hot.\n> Er liggen twee suikerklontjes op het schoteltje. — There are two sugar lumps on the saucer.\n\n### Which ending?\n\nThe ending depends on how the word ends. Say the word aloud: you need the sound.\n\n- **-je** after most consonants: `boek → boekje`, `huis → huisje`, `kop → kopje`, `brood → broodje`, `dag → dagje`.\n- **-tje** after a vowel or diphthong (`ei → eitje`, `thee → theetje`), after a long vowel or diphthong + l, n, r (`stoel → stoeltje`, `bier → biertje`, `telefoon → telefoontje`), and after unstressed -el, -en, -er (`tafel → tafeltje`, `keuken → keukentje`, `kamer → kamertje`). A final a, o or u is written double: `oma → omaatje`, `foto → fotootje`, `menu → menuutje`.\n- **-etje** after a **short** stressed vowel + l, m, n, r or ng; the consonant is doubled: `bal → balletje`, `kom → kommetje`, `pan → pannetje`, `ster → sterretje`, `ring → ringetje`.\n- **-pje** after m with a long vowel or diphthong, and after lm, rm and unstressed -em: `boom → boompje`, `bloem → bloempje`, `film → filmpje`, `arm → armpje`, `bezem → bezempje`.\n- **-kje** for unstressed -ing, which becomes -ink: `koning → koninkje`, `woning → woninkje`.\n\nA few common words change their vowel or add -etje: `glas → glaasje`, `blad → blaadje`, `gat → gaatje`, `pad → paadje`, `schip → scheepje`, `weg → weggetje`.\n\n> Ik neem een broodje kaas en een glaasje water. — I'll have a cheese roll and a small glass of water.\n> Ik neem een kommetje soep. — I'll have a small bowl of soup.\n\n### What a diminutive means\n\n- **small**: `een tafeltje bij het raam` (a small table by the window).\n- **friendly, informal, one portion**: `een biertje` (a beer), `een kopje koffie` (a cup of coffee), `een ijsje` (an ice cream), `een dagje uit` (a day out), `een momentje` (just a moment), `een telefoontje` (a phone call).\n\n> Zullen we een terrasje pakken? — Shall we go and sit outside at a café?\n\nSome words exist only as a diminutive, or have their own meaning: `het meisje` (girl), `het jongetje` (little boy), `het sprookje` (fairy tale), `het koekje` (biscuit), `het toetje` (dessert), `het kaartje` (ticket, or a small card), `het cadeautje` (a present), `het kopje` (cup; `kop` is a larger cup, a mug, or a head). Note: `het meisje`, but you say `ze` about her.\n\nA few adverbs take **-jes** or **-tjes**: `even → eventjes` (just a moment), `zacht → zachtjes` (quietly), `net → netjes` (neatly).\n\n> Wacht eventjes, ik moet nog afrekenen. — Wait a moment, I still have to pay.\n\n### Watch out\n\n- **het, not de**: *de kopje → `het kopje`; *deze koekje → `dit koekje`.\n- **No -e after een**: *een lekkere koekje → `een lekker koekje`. With `het` the -e comes back: `het lekkere koekje`.\n- **The right ending**: *stoelje → `stoeltje`; *balje → `balletje`; *glasje → `glaasje`.\n- **Plural -s**: *twee broodje → `twee broodjes`.\n\n### Compared with Ukrainian\n\nUkrainian has diminutives too (`чашка → чашечка`), and they also sound warm. Dutch uses them even more for everyday things, and the article always changes to `het`, which has no parallel in Ukrainian.",
+  "words": [
+    { "nl": "kopje", "art": "het", "pl": "kopjes", "en": "cup", "pos": "n" },
+    { "nl": "schoteltje", "art": "het", "pl": "schoteltjes", "en": "saucer", "pos": "n" },
+    { "nl": "theezakje", "art": "het", "pl": "theezakjes", "en": "tea bag", "pos": "n" },
+    { "nl": "suikerklontje", "art": "het", "pl": "suikerklontjes", "en": "sugar lump", "pos": "n" },
+    { "nl": "koekje", "art": "het", "pl": "koekjes", "en": "biscuit", "pos": "n" },
+    { "nl": "broodje", "art": "het", "pl": "broodjes", "en": "bread roll / sandwich (in a roll)", "pos": "n" },
+    { "nl": "rietje", "art": "het", "pl": "rietjes", "en": "drinking straw", "pos": "n" },
+    { "nl": "ijsje", "art": "het", "pl": "ijsjes", "en": "ice cream (one portion)", "pos": "n" },
+    { "nl": "tosti", "art": "de", "pl": "tosti's", "en": "toasted sandwich", "pos": "n" },
+    { "nl": "terras", "art": "het", "pl": "terrassen", "en": "terrace (outside a café)", "pos": "n" },
+    { "nl": "dienblad", "art": "het", "pl": "dienbladen", "en": "tray", "pos": "n" },
+    { "nl": "slagroom", "art": "de", "pl": "", "en": "whipped cream", "pos": "n", "tag": "no plural" },
+    { "nl": "frisdrank", "art": "de", "pl": "frisdranken", "en": "soft drink", "pos": "n" },
+    { "nl": "trakteren", "past": "trakteerde", "perf": "heeft getrakteerd", "en": "to treat (someone) / to pay for everyone", "pos": "v" },
+    { "nl": "afrekenen", "past": "rekende af", "perf": "heeft afgerekend", "en": "to pay (the bill)", "pos": "v", "tag": "separable" }
+  ],
+  "sentences": [
+    {
+      "nl": "Mag ik een kopje koffie, alstublieft?",
+      "en": "May I have a cup of coffee, please? (formal)",
+      "hint": ["mogen", "kopje", "koffie", "alstublieft"],
+      "note": "kop → kopje: after a consonant the ending is -je. Een kopje koffie is the normal way to order a cup of coffee."
+    },
+    {
+      "nl": "Zullen we een terrasje pakken?",
+      "en": "Shall we go and sit outside at a café?",
+      "hint": ["zullen", "terras", "pakken"],
+      "note": "een terrasje pakken is a fixed expression: a drink outside at a café. The diminutive makes it sound relaxed, not small. Terras → terrasje with -je after the s."
+    },
+    {
+      "nl": "Ik neem een broodje kaas en een glaasje water.",
+      "en": "I'll have a cheese roll and a small glass of water.",
+      "hint": ["nemen", "broodje", "kaas", "glas", "water"],
+      "note": "brood → broodje is regular. Glas is irregular: the vowel becomes long, glaasje."
+    },
+    {
+      "nl": "Dit kopje is te heet, ik wacht eventjes.",
+      "en": "This cup is too hot, I'll wait a moment.",
+      "hint": ["dit", "kopje", "heet", "wachten", "eventjes"],
+      "note": "Kopje is a het-word, so dit, not deze. Eventjes is the adverb even with -tjes: it sounds a little softer.",
+      "alt": ["Dit kopje is te heet, ik wacht even."]
+    },
+    {
+      "nl": "Bij de koffie krijg je hier altijd een koekje.",
+      "en": "Here you always get a biscuit with your coffee.",
+      "hint": ["koffie", "krijgen", "hier", "altijd", "koekje"],
+      "note": "Koekje is the normal word for a biscuit; it only exists in this form with this meaning. Bij de koffie comes first, so the verb comes before je.",
+      "alt": [
+        "Je krijgt hier bij de koffie altijd een koekje.",
+        "Je krijgt hier altijd een koekje bij de koffie.",
+        "Hier krijg je bij de koffie altijd een koekje."
+      ]
+    },
+    {
+      "nl": "Wil je een rietje in je frisdrank?",
+      "en": "Do you want a straw in your soft drink?",
+      "hint": ["willen", "rietje", "frisdrank"],
+      "note": "Rietje (drinking straw) is a diminutive with its own meaning: het riet is the reed that grows by the water.",
+      "alt": ["Wil jij een rietje in je frisdrank?"]
+    },
+    {
+      "nl": "Er liggen twee suikerklontjes op het schoteltje.",
+      "en": "There are two sugar lumps on the saucer.",
+      "hint": ["er", "liggen", "twee", "suikerklontje", "schoteltje"],
+      "note": "The plural of a diminutive adds -s: suikerklontjes. Schotel ends in unstressed -el, so the ending is -tje: schoteltje.",
+      "alt": ["Op het schoteltje liggen twee suikerklontjes."]
+    },
+    {
+      "nl": "Ik trakteer, want ik heb een nieuw baantje.",
+      "en": "It's my treat, because I have a new (little) job.",
+      "hint": ["trakteren", "want", "nieuw", "baan"],
+      "note": "baan → baantje: long vowel + n takes -tje. Baantje is a het-word, so een nieuw without -e.",
+      "alt": ["Ik trakteer, omdat ik een nieuw baantje heb."]
+    },
+    {
+      "nl": "Wacht eventjes, ik moet nog afrekenen.",
+      "en": "Wait a moment, I still have to pay.",
+      "hint": ["wachten", "eventjes", "moeten", "nog", "afrekenen"],
+      "note": "Eventjes is even with the diminutive ending -tjes. Like even, it makes the request friendlier.",
+      "alt": ["Wacht even, ik moet nog afrekenen."]
+    },
+    {
+      "nl": "Het meisje bestelt een ijsje met slagroom.",
+      "en": "The girl orders an ice cream with whipped cream.",
+      "hint": ["meisje", "bestellen", "ijsje", "slagroom"],
+      "note": "Meisje exists only as a diminutive and is a het-word: het meisje. Een ijsje is one portion of ice cream."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "choose",
+      "nl": "___ kopje op tafel is van mij.",
+      "options": ["De", "Deze", "Het"],
+      "correct": 2,
+      "en": "The cup on the table is mine.",
+      "note": "Every diminutive is a het-word: het kopje. That is why de and deze are wrong; 'this cup' would be dit kopje."
+    },
+    {
+      "type": "choose",
+      "nl": "Ik neem een ___ koekje bij de koffie.",
+      "options": ["lekkere", "lekker", "lekkers"],
+      "correct": 1,
+      "en": "I'll have a nice biscuit with my coffee.",
+      "note": "Koekje is a het-word. With een and a het-word the adjective has no -e: een lekker koekje (but het lekkere koekje)."
+    },
+    {
+      "type": "choose",
+      "nl": "Zullen we aan dat ___ bij het raam gaan zitten?",
+      "options": ["tafelje", "tafeltje", "tafeletje"],
+      "correct": 1,
+      "en": "Shall we sit at that little table by the window?",
+      "note": "Tafel ends in unstressed -el, so the ending is -tje. -etje is only for a short stressed vowel: bal → balletje."
+    },
+    {
+      "type": "choose",
+      "nl": "Wil je nog een ___ wijn?",
+      "options": ["glasje", "glaasje", "glassje"],
+      "correct": 1,
+      "en": "Would you like another glass of wine?",
+      "note": "Glas is one of the irregular diminutives: the a becomes long, so it is written double: glaasje."
+    },
+    {
+      "type": "gap",
+      "nl": "Ik bestel een ___ (bier) en een tosti.",
+      "answers": ["biertje"],
+      "en": "I'll order a beer and a toasted sandwich.",
+      "note": "Bier has a long vowel (ie) + r, so the ending is -tje: biertje. It means one glass of beer, not a small one."
+    },
+    {
+      "type": "gap",
+      "nl": "Op het dienblad staan drie ___ (kop).",
+      "answers": ["kopjes"],
+      "en": "There are three cups on the tray.",
+      "note": "kop → kopje, and the plural of a diminutive adds -s: kopjes."
+    },
+    {
+      "type": "gap",
+      "nl": "Kunt u een ___ (foto) van ons maken?",
+      "answers": ["fotootje"],
+      "en": "Could you take a (quick) photo of us?",
+      "note": "A word ending in o gets -tje, and the o is written double so that it stays long: fotootje."
+    },
+    {
+      "type": "gap",
+      "nl": "Voor het café staat een ___ (boom).",
+      "answers": ["boompje"],
+      "en": "There is a small tree in front of the café.",
+      "note": "After m with a long vowel (oo) the ending is -pje: boom → boompje, like raam → raampje."
+    },
+    {
+      "type": "gap",
+      "nl": "Bij het broodje krijgt u een ___ (kom) soep.",
+      "answers": ["kommetje"],
+      "en": "With the roll you (formal) get a small bowl of soup.",
+      "note": "Kom has a short stressed vowel + m, so the ending is -etje and the m is doubled: kommetje."
+    },
+    {
+      "type": "gap",
+      "nl": "Zullen we zondag een ___ (dag) naar zee gaan?",
+      "answers": ["dagje"],
+      "en": "Shall we have a day out at the seaside on Sunday?",
+      "note": "After a consonant like g the ending is simply -je: dagje. Een dagje means a relaxed day out, not a short day."
+    },
+    {
+      "type": "rewrite",
+      "task": "Make both nouns plural.",
+      "from": "Het theezakje ligt op het schoteltje.",
+      "answers": ["De theezakjes liggen op de schoteltjes."],
+      "en": "The tea bags are lying on the saucers.",
+      "note": "A diminutive takes -s in the plural, and like every plural it takes de: de theezakjes, de schoteltjes. The verb becomes plural too."
+    },
+    {
+      "type": "rewrite",
+      "task": "Replace de tafel by its diminutive.",
+      "from": "De tafel bij het raam is vrij.",
+      "answers": ["Het tafeltje bij het raam is vrij."],
+      "en": "The little table by the window is free.",
+      "note": "The diminutive is a het-word, so de becomes het: het tafeltje."
+    },
+    {
+      "type": "rewrite",
+      "task": "Replace kamer by its diminutive.",
+      "from": "Wij hebben een kleine kamer boven het café.",
+      "answers": ["Wij hebben een klein kamertje boven het café."],
+      "en": "We have a small room above the café.",
+      "note": "kamer → kamertje (unstressed -er takes -tje). It is now a het-word, so after een the adjective loses its -e: een klein kamertje."
+    },
+    {
+      "type": "fix",
+      "wrong": "Deze koekje is heel lekker.",
+      "answers": ["Dit koekje is heel lekker."],
+      "en": "This biscuit is very tasty.",
+      "note": "Koekje is a het-word, like every diminutive, so 'this' is dit, not deze."
+    },
+    {
+      "type": "fix",
+      "wrong": "We hebben twee biertjes en drie broodje besteld.",
+      "answers": ["We hebben twee biertjes en drie broodjes besteld."],
+      "en": "We have ordered two beers and three rolls.",
+      "note": "The plural of a diminutive ends in -s: drie broodjes."
+    }
+  ]
+}

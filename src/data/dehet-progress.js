@@ -16,11 +16,21 @@ const fromCourse = () => (courseNouns ||= UNITS.flatMap(u => u.words
   .filter(w => w.pos === 'n' && (w.art === 'de' || w.art === 'het') && !/\s/.test(w.nl))
   .map(w => ({ nl: w.nl, en: w.en, art: w.art, pl: w.pl || '', set: 'course', unitId: u.id }))));
 
+// A spelling that goes with de in one meaning and with het in another (de stof,
+// het stof) cannot be asked as "de or het?".
+let twoArticles = null;
+function both() {
+  if (twoArticles) return twoArticles;
+  const art = new Map(); twoArticles = new Set();
+  for (const n of [...NOUNS, ...fromCourse()]) { if (art.has(n.nl) && art.get(n.nl) !== n.art) twoArticles.add(n.nl); art.set(n.nl, n.art); }
+  return twoArticles;
+}
+
 // Every noun that can be asked now, the everyday ones first; a word is in it once.
 export function allNouns() {
   const seen = new Set(), out = [];
   for (const n of [...NOUNS, ...fromCourse().filter(n => unitState(n.unitId).words)]) {
-    if (seen.has(n.nl)) continue;
+    if (seen.has(n.nl) || both().has(n.nl)) continue;
     seen.add(n.nl);
     out.push(n);
   }
@@ -29,7 +39,7 @@ export function allNouns() {
 
 // The schedule knows every noun there could be, so progress is never dropped
 // when a unit's step is counted differently.
-const progress = makeProgress('dehetProgress', () => [...new Set([...NOUNS, ...fromCourse()].map(nounKey))]);
+const progress = makeProgress('dehetProgress', () => [...new Set([...NOUNS, ...fromCourse()].filter(n => !both().has(n.nl)).map(nounKey))]);
 
 export const nounEntry = n => progress.get(nounKey(n));
 export const recordNoun = (n, quality) => progress.record(nounKey(n), quality);

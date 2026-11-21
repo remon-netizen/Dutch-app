@@ -1,0 +1,437 @@
+{
+  "id": "a2-15",
+  "level": "A2",
+  "icon": "🧒",
+  "title": "When I was a child",
+  "grammar": "The simple past: regular verbs",
+  "summary": "Stem + te after the letters of 't kofschip, else + de; plural + n: werkte(n), speelde(n). leven → leefde. Stems in t or d double: praatte, antwoordde. Irregular: was/waren, had/hadden.",
+  "explain": "The simple past (*de onvoltooid verleden tijd*, often just *de o.v.t.*) is the tense for **what things were like** in the past, for **habits** and things that happened again and again, and for **telling a story**. It is one word: `Als kind speelde ik veel buiten`. It often goes with `vroeger` (in the past, \"used to\"), `toen` (then, at that time), `als kind`, `altijd` and `elke zomer`.\n\n### The form: stem + te or de\n\nTake the stem, as in the present tense. Then use the same rule as for the participle (unit A2 · 13): after a letter of **'t kofschip** (t, k, f, s, ch, p) add `te`, after any other letter add `de`. In the plural add an extra `n`.\n\n| | werken | spelen |\n| ik, jij / je, u, hij, zij | werkte | speelde |\n| wij, jullie, zij / ze | werkten | speelden |\n\nThere are only two forms: one for the singular and one for the plural. Jij gets no extra t: `Werkte jij?`, `jij werkte`.\n\n> Mijn vader werkte in een fabriek. — My father worked in a factory.\n> Wij speelden elke middag voetbal. — We played football every afternoon.\n> Woonde jij vroeger ook in de stad? — Did you also use to live in the city?\n\nThe spelling of the stem is the same as in the present: `maken → maakte`, `horen → hoorde`, `stoppen → stopte`.\n\n### v and z: look at the infinitive\n\nAs with the participle, the rule looks at the stem **before** v becomes f and z becomes s. V and z are not in 't kofschip, so you add `de`: `leven → leefde`, `reizen → reisde`, `verhuizen → verhuisde`.\n\n> In 2010 verhuisden we naar Utrecht. — In 2010 we moved to Utrecht.\n\n### Stems in t or d: a double letter\n\nHere, unlike the participle, nothing is dropped. A stem in t gets `te`, a stem in d gets `de`, and you write the letter twice: `praten → praatte`, `wachten → wachtte`, `antwoorden → antwoordde`, `landen → landde`.\n\n> De juf praatte veel over haar kat. — The teacher talked a lot about her cat.\n\nCareful: `wij praatten` (past) sounds exactly like `wij praten` (present). Only the spelling and the context tell them apart.\n\n### Word order and separable verbs\n\nThe past form is the conjugated verb, so it stands in second place, or first in a yes/no question. A separable verb splits, as in the present: `Ik belde hem op`, `Ik groeide op in Odesa`.\n\n> Vroeger haalde mijn oma mij van school op. — My grandmother used to pick me up from school.\n\n### was and had\n\nTwo irregular verbs you need from the start:\n\n| | zijn | hebben |\n| ik, jij / je, u, hij, zij | was | had |\n| wij, jullie, zij / ze | waren | hadden |\n\n> Mijn eerste juf was erg streng. — My first teacher was very strict.\n> We hadden vroeger een hond. — We used to have a dog.\n\nStrong verbs, such as `ging`, `kwam` and `zag`, have their own past forms (unit A2 · 16). Do not give them a regular ending: *ik loopte is wrong.\n\n### Watch out\n\n- 't kofschip: `werkte`, not *werkde; `speelde`, not *speelte.\n- v and z: `leefde`, not *leefte; `verhuisde`, not *verhuiste.\n- Stem in t or d: `praatte`, `wachtte`, `antwoordde`, not *praate or *antwoorde.\n- The plural needs its n: `wij speelden`, not *wij speelde.\n- A separable verb splits: `Ik belde haar op`, not *Ik opbelde haar.\n\n### Compared with Ukrainian\n\nThe Ukrainian past changes for gender (`я грав`, `я грала`). The Dutch past changes only for number: `ik speelde`, `wij speelden`, for a man and a woman alike. A Ukrainian imperfective past for a habit, `щоліта я їздила до бабусі`, is very often a Dutch simple past with a time word like `elke zomer`.",
+  "words": [
+    {
+      "nl": "jeugd",
+      "art": "de",
+      "pl": "",
+      "en": "childhood / youth",
+      "pos": "n",
+      "tag": "no plural"
+    },
+    {
+      "nl": "juf",
+      "art": "de",
+      "pl": "juffen",
+      "en": "teacher (woman, primary school)",
+      "pos": "n"
+    },
+    {
+      "nl": "meester",
+      "art": "de",
+      "pl": "meesters",
+      "en": "teacher (man, primary school)",
+      "pos": "n"
+    },
+    {
+      "nl": "klasgenoot",
+      "art": "de",
+      "pl": "klasgenoten",
+      "en": "classmate",
+      "pos": "n"
+    },
+    {
+      "nl": "kleuterschool",
+      "art": "de",
+      "pl": "kleuterscholen",
+      "en": "nursery school / infant school",
+      "pos": "n"
+    },
+    {
+      "nl": "speelgoed",
+      "art": "het",
+      "pl": "",
+      "en": "toys",
+      "pos": "n",
+      "tag": "no plural"
+    },
+    {
+      "nl": "schoolplein",
+      "art": "het",
+      "pl": "schoolpleinen",
+      "en": "school playground",
+      "pos": "n"
+    },
+    {
+      "nl": "opgroeien",
+      "past": "groeide op",
+      "perf": "is opgegroeid",
+      "en": "to grow up",
+      "pos": "v",
+      "tag": "separable"
+    },
+    {
+      "nl": "verhuizen",
+      "past": "verhuisde",
+      "perf": "is verhuisd",
+      "en": "to move (house)",
+      "pos": "v"
+    },
+    {
+      "nl": "knutselen",
+      "past": "knutselde",
+      "perf": "heeft geknutseld",
+      "en": "to do crafts / to make things",
+      "pos": "v"
+    },
+    {
+      "nl": "plagen",
+      "past": "plaagde",
+      "perf": "heeft geplaagd",
+      "en": "to tease",
+      "pos": "v"
+    },
+    {
+      "nl": "verstoppen",
+      "past": "verstopte",
+      "perf": "heeft verstopt",
+      "en": "to hide",
+      "pos": "v"
+    },
+    {
+      "nl": "verzamelen",
+      "past": "verzamelde",
+      "perf": "heeft verzameld",
+      "en": "to collect",
+      "pos": "v"
+    },
+    {
+      "nl": "straffen",
+      "past": "strafte",
+      "perf": "heeft gestraft",
+      "en": "to punish",
+      "pos": "v"
+    },
+    {
+      "nl": "huilen",
+      "past": "huilde",
+      "perf": "heeft gehuild",
+      "en": "to cry",
+      "pos": "v"
+    },
+    {
+      "nl": "vroeger",
+      "en": "in the past / used to",
+      "pos": "adv"
+    }
+  ],
+  "sentences": [
+    {
+      "nl": "Als kind speelde ik elke dag buiten.",
+      "en": "As a child I played outside every day.",
+      "hint": [
+        "als",
+        "kind",
+        "spelen",
+        "elke dag",
+        "buiten"
+      ],
+      "note": "The stem speel ends in l, not a letter of 't kofschip, so + de: speelde. Als kind comes first, so the verb comes before ik.",
+      "alt": [
+        "Ik speelde als kind elke dag buiten."
+      ]
+    },
+    {
+      "nl": "Vroeger woonden we in een klein dorp.",
+      "en": "We used to live in a small village.",
+      "hint": [
+        "vroeger",
+        "wonen",
+        "klein",
+        "dorp"
+      ],
+      "note": "English \"used to\" is the Dutch simple past, often with vroeger. Woon + de, and + n for the plural: woonden.",
+      "alt": [
+        "We woonden vroeger in een klein dorp."
+      ]
+    },
+    {
+      "nl": "Mijn oudere broer plaagde mij altijd.",
+      "en": "My older brother always teased me.",
+      "hint": [
+        "oud",
+        "broer",
+        "plagen",
+        "altijd"
+      ],
+      "note": "plagen → stem plaag, ending in g: + de, plaagde. A habit in the past is a typical use of the simple past.",
+      "alt": [
+        "Mijn oudere broer plaagde me altijd."
+      ]
+    },
+    {
+      "nl": "Op het schoolplein wachtten we op de juf.",
+      "en": "We waited for the teacher in the school playground.",
+      "hint": [
+        "schoolplein",
+        "wachten",
+        "juf"
+      ],
+      "note": "The stem wacht ends in t, so + te gives a double t, and the plural adds n: wachtten. It sounds like the present wachten.",
+      "alt": [
+        "We wachtten op het schoolplein op de juf."
+      ]
+    },
+    {
+      "nl": "Toen verhuisden we naar een andere stad.",
+      "en": "Then we moved to another town.",
+      "hint": [
+        "toen",
+        "verhuizen",
+        "ander",
+        "stad"
+      ],
+      "note": "The stem of verhuizen ends in z in the infinitive, so + de: verhuisde, plural verhuisden. Ver- is part of the verb and stays.",
+      "alt": [
+        "We verhuisden toen naar een andere stad."
+      ]
+    },
+    {
+      "nl": "Verzamelde jij vroeger ook stickers?",
+      "en": "Did you also use to collect stickers?",
+      "hint": [
+        "verzamelen",
+        "vroeger",
+        "ook",
+        "sticker"
+      ],
+      "note": "The singular form verzamelde is the same for jij, with nothing added or dropped when jij follows it.",
+      "alt": [
+        "Verzamelde je vroeger ook stickers?"
+      ]
+    },
+    {
+      "nl": "In mijn jeugd had ik weinig speelgoed.",
+      "en": "In my childhood I had few toys.",
+      "hint": [
+        "jeugd",
+        "hebben",
+        "weinig",
+        "speelgoed"
+      ],
+      "note": "hebben is irregular in the past: ik had, wij hadden. In mijn jeugd stands first, so had comes before ik.",
+      "alt": [
+        "Ik had in mijn jeugd weinig speelgoed."
+      ]
+    },
+    {
+      "nl": "Elke zomer logeerde ik bij mijn tante.",
+      "en": "Every summer I stayed with my aunt.",
+      "hint": [
+        "elke",
+        "zomer",
+        "logeren",
+        "tante"
+      ],
+      "note": "logeren → stem logeer (the long e is written double), ending in r: + de. Elke zomer marks a repeated action.",
+      "alt": [
+        "Ik logeerde elke zomer bij mijn tante."
+      ]
+    },
+    {
+      "nl": "Mijn klasgenoten waren altijd heel aardig.",
+      "en": "My classmates were always very nice.",
+      "hint": [
+        "klasgenoot",
+        "zijn",
+        "altijd",
+        "heel",
+        "aardig"
+      ],
+      "note": "zijn is irregular: was in the singular, waren in the plural. Mijn klasgenoten is plural: waren."
+    },
+    {
+      "nl": "Ik groeide op in een groot gezin.",
+      "en": "I grew up in a big family.",
+      "hint": [
+        "opgroeien",
+        "groot",
+        "gezin"
+      ],
+      "note": "opgroeien is separable and splits in the simple past too: groeide … op. The phrase in een groot gezin may follow op or come before it.",
+      "alt": [
+        "Ik groeide in een groot gezin op."
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "type": "choose",
+      "nl": "De meester ___ ons nooit.",
+      "options": [
+        "strafde",
+        "strafte",
+        "straften"
+      ],
+      "correct": 1,
+      "en": "The teacher never punished us.",
+      "note": "The stem straf ends in f, a letter of 't kofschip, so + te. De meester is singular: strafte, not straften."
+    },
+    {
+      "type": "choose",
+      "nl": "Als kinderen ___ we veel buiten.",
+      "options": [
+        "speelde",
+        "speelten",
+        "speelden"
+      ],
+      "correct": 2,
+      "en": "As children we played outside a lot.",
+      "note": "The stem speel ends in l, so + de, and we needs the plural n: speelden. Speelten mixes up 't kofschip."
+    },
+    {
+      "type": "choose",
+      "nl": "Mijn opa ___ heel gezond.",
+      "options": [
+        "leefte",
+        "leefde",
+        "leefden"
+      ],
+      "correct": 1,
+      "en": "My grandfather lived very healthily.",
+      "note": "Look at the infinitive leven: the stem ends in v, not f. V is not in 't kofschip, so + de: leefde."
+    },
+    {
+      "type": "choose",
+      "nl": "Als kind ___ ik elke ochtend op de bus.",
+      "options": [
+        "wachte",
+        "wachtte",
+        "wachtten"
+      ],
+      "correct": 1,
+      "en": "As a child I waited for the bus every morning.",
+      "note": "The stem wacht already ends in t, and + te makes the t double: wachtte. Wachtten is the plural."
+    },
+    {
+      "type": "gap",
+      "nl": "De juf ___ (praten) veel over haar hond.",
+      "answers": [
+        "praatte"
+      ],
+      "en": "The teacher talked a lot about her dog.",
+      "note": "praten → stem praat, + te: praatte, with a double t. Praate does not exist."
+    },
+    {
+      "type": "gap",
+      "nl": "Ik ___ (verstoppen) me altijd achter de deur.",
+      "answers": [
+        "verstopte"
+      ],
+      "en": "I always hid behind the door.",
+      "note": "The stem verstop ends in p, a letter of 't kofschip: + te. Ver- is part of the verb, and the stem has one p."
+    },
+    {
+      "type": "gap",
+      "nl": "Mijn ouders ___ (verhuizen) vaak.",
+      "answers": [
+        "verhuisden"
+      ],
+      "en": "My parents often moved house.",
+      "note": "The z of verhuizen counts, so + de, and mijn ouders is plural: verhuisden. Not verhuisten."
+    },
+    {
+      "type": "gap",
+      "nl": "Wij ___ (hebben) vroeger een hond.",
+      "answers": [
+        "hadden"
+      ],
+      "en": "We used to have a dog.",
+      "note": "hebben is irregular in the past: had in the singular, hadden in the plural."
+    },
+    {
+      "type": "gap",
+      "nl": "Mijn eerste juf ___ (zijn) erg lief.",
+      "answers": [
+        "was"
+      ],
+      "en": "My first teacher was very kind.",
+      "note": "The past of zijn is was in the singular and waren in the plural. Mijn eerste juf is singular."
+    },
+    {
+      "type": "gap",
+      "nl": "Onze meester ___ (antwoorden) altijd heel rustig.",
+      "answers": [
+        "antwoordde"
+      ],
+      "en": "Our teacher always answered very calmly.",
+      "note": "The stem antwoord ends in d, so + de gives a double d: antwoordde. Every letter is written."
+    },
+    {
+      "type": "order",
+      "lead": "Vroeger",
+      "words": [
+        "verzamelde",
+        "ik",
+        "altijd",
+        "oude munten"
+      ],
+      "answers": [
+        "Vroeger verzamelde ik altijd oude munten."
+      ],
+      "en": "I always used to collect old coins.",
+      "note": "Vroeger takes the first place, so the verb comes second and ik follows it."
+    },
+    {
+      "type": "order",
+      "lead": "Mijn moeder",
+      "words": [
+        "haalde",
+        "mij",
+        "elke dag",
+        "van school",
+        "op"
+      ],
+      "answers": [
+        "Mijn moeder haalde mij elke dag van school op.",
+        "Mijn moeder haalde mij elke dag op van school."
+      ],
+      "en": "My mother picked me up from school every day.",
+      "note": "ophalen splits in the simple past: haalde stands second, op goes towards the end. Van school may come before or after op."
+    },
+    {
+      "type": "rewrite",
+      "task": "Put it in the simple past.",
+      "from": "Op woensdagmiddag knutselen we met de juf.",
+      "answers": [
+        "Op woensdagmiddag knutselden we met de juf."
+      ],
+      "en": "On Wednesday afternoons we did crafts with the teacher.",
+      "note": "The stem knutsel ends in l, not a letter of 't kofschip, so + de, and we needs the plural n: knutselden."
+    },
+    {
+      "type": "rewrite",
+      "task": "Put it in the simple past.",
+      "from": "Hij belt zijn moeder elke avond op.",
+      "answers": [
+        "Hij belde zijn moeder elke avond op."
+      ],
+      "en": "He called his mother every evening.",
+      "note": "opbellen splits in the past as in the present: belde … op. The stem bel ends in l, so + de."
+    },
+    {
+      "type": "fix",
+      "wrong": "Wij speelde vaak op het schoolplein.",
+      "answers": [
+        "Wij speelden vaak op het schoolplein."
+      ],
+      "en": "We often played in the school playground.",
+      "note": "Wij is plural, so the past form needs an n: speelden."
+    },
+    {
+      "type": "fix",
+      "wrong": "Op de kleuterschool huilte ik elke ochtend.",
+      "answers": [
+        "Op de kleuterschool huilde ik elke ochtend."
+      ],
+      "en": "At nursery school I cried every morning.",
+      "note": "The stem huil ends in l, which is not in 't kofschip, so + de: huilde."
+    }
+  ]
+}

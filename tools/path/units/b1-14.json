@@ -1,0 +1,218 @@
+{
+  "id": "b1-14",
+  "level": "B1",
+  "icon": "🥘",
+  "title": "Food and traditions",
+  "grammar": "More about adjectives: iets lekkers, de gesloten deur, de zieke",
+  "summary": "After iets, niets, wat, veel and weinig the adjective takes -s (iets lekkers). Adjectives in -en never take -e (houten, gebakken, eigen); weak participles do (gekookte). As a noun: de zieke, de rijken, het leuke.",
+  "explain": "You know the basic rule from unit A2 · 10: an adjective before a noun takes -e, except before a het-word in the singular after een, geen or no article at all (`een warm gerecht`). This unit is about the cases where the adjective does something else: it takes -s, it never changes, or it becomes a noun itself.\n\n### iets lekkers: -s after words of quantity\n\nAfter `iets`, `niets`, `wat` (informal for iets), `veel`, `weinig`, `genoeg` and `allerlei`, an adjective with **no noun after it** takes **-s**.\n\n| word | adjective | together |\n| iets | lekker | iets lekkers |\n| niets | bijzonder | niets bijzonders |\n| veel | goed | veel goeds |\n| iets | beter | iets beters |\n\n- An adjective that already ends in s gets no second s: `iets fris`, `niets vers`.\n- `iets anders` (something else) is a fixed form.\n- When a noun follows, the normal rule is back: `veel lekkere gerechten`, `weinig verse groente`.\n\n> Heb je iets zoets voor bij de koffie? — Do you have something sweet to go with the coffee?\n> Er stond niets bijzonders op het menu. — There was nothing special on the menu.\n> Ik heb veel goeds over dat restaurant gehoord. — I have heard a lot of good things about that restaurant.\n\n### Adjectives that never take -e\n\n**Adjectives ending in unstressed -en** stay the same in every position. These are materials, participles of strong verbs, and a few others like `eigen` and `open`.\n\n| type | examples |\n| material | houten, zilveren, gouden, wollen |\n| strong participle | gebakken, gebraden, gesneden, gesloten |\n| others | eigen, open, verlegen |\n\n> Het zilveren bestek gebruiken we alleen met kerst. — We only use the silver cutlery at Christmas.\n\nAlso unchanged: a few adjectives from other languages, such as `oranje`, `roze`, `lila`, `gratis`, `prima`, `plastic` and `extra` (`de roze taart`, `gratis koffie`). `rechter` and `linker` are written together with their noun: `de linkerhand`, `het rechteroog`.\n\nParticiples of **weak** verbs end in -d or -t and follow the normal rule: `de gekookte aardappelen`, `de bestelde pizza`, `de gestoofde peren`.\n\n> We aten gebraden kip met gekookte aardappelen. — We ate roast chicken with boiled potatoes.\n\nA few fixed combinations with a het-word have no -e even after het: `het openbaar vervoer`, `het voortgezet onderwijs`, `het Centraal Station`. Learn them as wholes.\n\n### The adjective as a noun\n\nWith de/het and the -e, an adjective can stand for a **person**: `de zieke` (the sick person), `de jarige` (the person whose birthday it is), `een blinde`. The plural takes **-n**: `de zieken`, `de rijken`, `de ouderen`.\n\nWith **het** it stands for a thing or an idea: `het goede`, `het ergste`, `het leuke is dat …`.\n\n> Vroeger konden alleen de rijken suiker betalen. — In the past only the rich could afford sugar.\n> Het leuke van deze traditie is dat iedereen iets meeneemt. — The nice thing about this tradition is that everyone brings something.\n\n### allerbeste: the strongest superlative\n\n`aller-` in front of a superlative makes it even stronger, written as one word: `de allerbeste`, `het allerleukste`. The comparative follows the normal rule before a noun: `een grotere taart`, `een groter feest`.\n\n> Mijn oma bakte de allerlekkerste appeltaart. — My grandmother baked the most delicious apple pie of all.\n\n### Watch out\n\n- *iets lekker or *iets lekkere → `iets lekkers`.\n- *iets friss → `iets fris`.\n- *de houtene plank → `de houten plank`; *het gebakkene ei → `het gebakken ei`.\n- *de gekookt aardappelen → `de gekookte aardappelen`: gekookt is a weak participle.\n- *de rijkes or *de rijke (for more people) → `de rijken`.\n\n### Compared with Ukrainian\n\nUkrainian also uses an adjective as a noun: `хворий` is `de zieke`. For \"something tasty\" Ukrainian puts the adjective in the neuter (`щось смачне`); Dutch adds -s instead: `iets lekkers`.",
+  "words": [
+    { "nl": "smaak", "art": "de", "pl": "smaken", "en": "taste / flavour", "pos": "n" },
+    { "nl": "traditie", "art": "de", "pl": "tradities", "en": "tradition", "pos": "n" },
+    { "nl": "gewoonte", "art": "de", "pl": "gewoonten", "en": "custom / habit", "pos": "n" },
+    { "nl": "gebak", "art": "het", "pl": "", "en": "pastries / cakes", "pos": "n", "tag": "no plural" },
+    { "nl": "kruid", "art": "het", "pl": "kruiden", "en": "herb", "pos": "n" },
+    { "nl": "ingrediënt", "art": "het", "pl": "ingrediënten", "en": "ingredient", "pos": "n" },
+    { "nl": "bijgerecht", "art": "het", "pl": "bijgerechten", "en": "side dish", "pos": "n" },
+    { "nl": "bestek", "art": "het", "pl": "", "en": "cutlery", "pos": "n", "tag": "no plural" },
+    { "nl": "jarige", "art": "de", "pl": "jarigen", "en": "person whose birthday it is", "pos": "n" },
+    { "nl": "kruidig", "en": "spicy / well-seasoned", "pos": "adj" },
+    { "nl": "pittig", "en": "hot (spicy) / lively", "pos": "adj" },
+    { "nl": "zelfgemaakt", "en": "homemade", "pos": "adj" },
+    { "nl": "overheerlijk", "en": "delicious", "pos": "adj" },
+    { "nl": "stoven", "past": "stoofde", "perf": "heeft gestoofd", "en": "to stew", "pos": "v" },
+    { "nl": "braden", "past": "braadde", "perf": "heeft gebraden", "en": "to roast / to fry (meat)", "pos": "v" },
+    { "nl": "smullen", "past": "smulde", "perf": "heeft gesmuld", "en": "to tuck in / to enjoy one's food", "pos": "v" }
+  ],
+  "sentences": [
+    {
+      "nl": "Heb je iets zoets voor bij de koffie?",
+      "en": "Do you have something sweet to go with the coffee?",
+      "hint": ["hebben", "iets", "zoet", "koffie"],
+      "note": "After iets an adjective with no noun after it takes -s: iets zoets. Not *iets zoete.",
+      "alt": ["Heb jij iets zoets voor bij de koffie?"]
+    },
+    {
+      "nl": "Er stond niets bijzonders op het menu, maar alles smaakte goed.",
+      "en": "There was nothing special on the menu, but everything tasted good.",
+      "hint": ["staan", "niets", "bijzonder", "menu", "smaken"],
+      "note": "Niets works like iets: niets bijzonders, with -s. Goed after smaakte stands on its own and gets nothing.",
+      "alt": ["Op het menu stond niets bijzonders, maar alles smaakte goed."]
+    },
+    {
+      "nl": "Bij ons op kantoor is het een gewoonte dat de jarige iets lekkers meeneemt.",
+      "en": "At our office it is a custom that the person whose birthday it is brings something tasty.",
+      "hint": ["kantoor", "gewoonte", "jarige", "iets", "lekker", "meenemen"],
+      "note": "De jarige is an adjective used as a noun for a person, with -e. Iets lekkers has the -s, because no noun follows.",
+      "alt": ["Het is bij ons op kantoor een gewoonte dat de jarige iets lekkers meeneemt."]
+    },
+    {
+      "nl": "Na al dat zoete gebak heb ik zin in iets fris.",
+      "en": "After all those sweet pastries I fancy something fresh.",
+      "hint": ["na", "zoet", "gebak", "zin hebben in", "iets", "fris"],
+      "note": "Fris already ends in s, so it gets no second s: iets fris. Dat zoete gebak follows the normal rule: after dat the adjective takes -e.",
+      "alt": ["Ik heb na al dat zoete gebak zin in iets fris."]
+    },
+    {
+      "nl": "We aten gebraden kip met gekookte aardappelen.",
+      "en": "We ate roast chicken with boiled potatoes.",
+      "hint": ["eten", "braden", "kip", "koken", "aardappel"],
+      "note": "Gebraden is the participle of a strong verb and ends in -en, so it never takes -e. Gekookt is weak (koken, kookte), so it does: gekookte."
+    },
+    {
+      "nl": "Het zilveren bestek gebruiken we alleen met kerst.",
+      "en": "We only use the silver cutlery at Christmas.",
+      "hint": ["zilveren", "bestek", "gebruiken", "alleen", "kerst"],
+      "note": "Zilveren ends in -en, so even after het there is no -e: het zilveren bestek, never *zilverene.",
+      "alt": ["We gebruiken het zilveren bestek alleen met kerst."]
+    },
+    {
+      "nl": "Het leuke van deze traditie is dat iedereen iets zelfgemaakts meeneemt.",
+      "en": "The nice thing about this tradition is that everyone brings something homemade.",
+      "hint": ["leuk", "traditie", "iedereen", "zelfgemaakt", "meenemen"],
+      "note": "Het leuke is an adjective used as a noun: the nice thing. Zelfgemaakt after iets takes -s like any adjective: iets zelfgemaakts.",
+      "alt": ["Het leuke aan deze traditie is dat iedereen iets zelfgemaakts meeneemt."]
+    },
+    {
+      "nl": "Vroeger konden alleen de rijken suiker betalen.",
+      "en": "In the past only the rich could afford sugar.",
+      "hint": ["vroeger", "kunnen", "alleen", "rijk", "suiker", "betalen"],
+      "note": "De rijken means 'the rich people'. An adjective used as a noun for more people takes -n, not -s.",
+      "alt": ["Alleen de rijken konden vroeger suiker betalen."]
+    },
+    {
+      "nl": "Mijn oma bakte de allerlekkerste appeltaart van het dorp.",
+      "en": "My grandmother baked the most delicious apple pie in the village.",
+      "hint": ["oma", "bakken", "lekker", "appeltaart", "dorp"],
+      "note": "Aller- makes the superlative even stronger and is written together with it: allerlekkerste, with -e after de.",
+      "alt": ["Mijn oma bakte de allerlekkerste appeltaart in het dorp."]
+    },
+    {
+      "nl": "De kinderen smulden van de gestoofde peren.",
+      "en": "The children tucked into the stewed pears.",
+      "hint": ["kind", "smullen", "stoven", "peer"],
+      "note": "Stoven is a weak verb (stoofde), so the participle gestoofd ends in d and takes -e before the noun: de gestoofde peren."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "choose",
+      "nl": "Heb je iets ___ voor de jarige gekocht?",
+      "options": ["leuk", "leuke", "leuks"],
+      "correct": 2,
+      "en": "Have you bought something nice for the birthday girl?",
+      "note": "After iets an adjective with no noun behind it takes -s: iets leuks. The -e is only for an adjective before a noun."
+    },
+    {
+      "type": "choose",
+      "nl": "De kaas ligt op een ___ plank.",
+      "options": ["houtene", "houten", "houts"],
+      "correct": 1,
+      "en": "The cheese is lying on a wooden board.",
+      "note": "Houten ends in -en, like all adjectives for materials, and never takes -e: een houten plank, de houten plank."
+    },
+    {
+      "type": "choose",
+      "nl": "We aten de ___ aardappelen met jus.",
+      "options": ["gekookt", "gekookte", "gekookten"],
+      "correct": 1,
+      "en": "We ate the boiled potatoes with gravy.",
+      "note": "Koken is a weak verb, so the participle gekookt ends in t and follows the normal rule: after de, -e. Only participles in -en stay unchanged."
+    },
+    {
+      "type": "choose",
+      "nl": "Wat is het ___ gerecht dat je ooit hebt gegeten?",
+      "options": ["allerlekkerst", "allerlekkerste", "aller lekkerste"],
+      "correct": 1,
+      "en": "What is the most delicious dish you have ever eaten?",
+      "note": "Aller- is written together with the superlative, and before a noun after het the superlative takes -e: het allerlekkerste gerecht."
+    },
+    {
+      "type": "gap",
+      "nl": "De smaak was goed, maar er stond niets ___ (nieuw) op het menu.",
+      "answers": ["nieuws"],
+      "en": "The taste was good, but there was nothing new on the menu.",
+      "note": "After niets the adjective takes -s when no noun follows: niets nieuws."
+    },
+    {
+      "type": "gap",
+      "nl": "Het ___ (bakken) ei ligt al op je bord.",
+      "answers": ["gebakken"],
+      "en": "The fried egg is already on your plate.",
+      "note": "Bakken is a strong verb: the participle gebakken ends in -en and never takes -e, not even after het."
+    },
+    {
+      "type": "gap",
+      "nl": "In de keuken lag het ___ (snijden) brood al klaar.",
+      "answers": ["gesneden"],
+      "en": "The sliced bread was already waiting in the kitchen.",
+      "note": "Snijden is a strong verb (sneed, gesneden). A participle in -en stays the same before the noun: het gesneden brood."
+    },
+    {
+      "type": "gap",
+      "nl": "Het ziekenhuis brengt de ___ (ziek) drie keer per dag een maaltijd.",
+      "answers": ["zieken"],
+      "en": "The hospital brings the sick a meal three times a day.",
+      "note": "Ziek used as a noun for people: de zieke for one, de zieken for more. The plural takes -n, not -s."
+    },
+    {
+      "type": "gap",
+      "nl": "Het ___ (erg) van een feest is de afwas.",
+      "answers": ["ergste"],
+      "en": "The worst thing about a party is the washing-up.",
+      "note": "Het + superlative + -e is used as a noun: het ergste, 'the worst thing'. Compare het leuke, het goede."
+    },
+    {
+      "type": "gap",
+      "nl": "Ik heb vanavond zin in iets ___ (kruidig).",
+      "answers": ["kruidigs"],
+      "en": "Tonight I fancy something spicy.",
+      "note": "Iets + adjective without a noun: the adjective takes -s, iets kruidigs."
+    },
+    {
+      "type": "order",
+      "lead": "Als bijgerecht",
+      "words": ["we", "iets", "serveren", "eenvoudigs"],
+      "answers": ["Als bijgerecht serveren we iets eenvoudigs."],
+      "en": "As a side dish we serve something simple.",
+      "note": "The verb stays second after Als bijgerecht. The adjective comes after iets and takes -s: iets eenvoudigs."
+    },
+    {
+      "type": "rewrite",
+      "task": "Use iets instead of een … gerecht.",
+      "from": "Ik maak een lekker gerecht.",
+      "answers": ["Ik maak iets lekkers."],
+      "en": "I am making something tasty.",
+      "note": "Without the noun, lekker follows iets and takes -s: iets lekkers."
+    },
+    {
+      "type": "rewrite",
+      "task": "Use niets instead of geen … ingrediënten.",
+      "from": "Je hebt geen bijzondere ingrediënten nodig.",
+      "answers": ["Je hebt niets bijzonders nodig."],
+      "en": "You do not need anything special.",
+      "note": "With the noun the adjective takes -e: bijzondere ingrediënten. After niets, with no noun, it takes -s: niets bijzonders."
+    },
+    {
+      "type": "fix",
+      "wrong": "Die kruiden geven de soep iets pittig.",
+      "answers": ["Die kruiden geven de soep iets pittigs."],
+      "en": "Those herbs give the soup something spicy.",
+      "note": "After iets an adjective without a noun takes -s: iets pittigs."
+    },
+    {
+      "type": "fix",
+      "wrong": "Je moeder heeft iets overheerlijk gemaakt.",
+      "answers": ["Je moeder heeft iets overheerlijks gemaakt."],
+      "en": "Your mother has made something delicious.",
+      "note": "Overheerlijk after iets, with no noun following, takes -s: iets overheerlijks."
+    },
+    {
+      "type": "fix",
+      "wrong": "Ze serveerde de gestoofde peren in een zilverene schaal.",
+      "answers": ["Ze serveerde de gestoofde peren in een zilveren schaal."],
+      "en": "She served the stewed pears in a silver dish.",
+      "note": "Zilveren ends in -en and never takes -e. Gestoofde is right: a weak participle follows the normal rule."
+    }
+  ]
+}

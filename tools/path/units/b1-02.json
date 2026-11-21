@@ -1,0 +1,219 @@
+{
+  "id": "b1-02",
+  "level": "B1",
+  "icon": "🏛️",
+  "title": "At the town hall",
+  "grammar": "Indirect speech and indirect questions",
+  "summary": "A reported statement starts with dat, a reported yes/no question with of, a reported question-word question with the question word. All three are sub-clauses: the verb goes to the end. Never als for whether.",
+  "explain": "When you tell what someone said or asked, or ask a question politely, Dutch puts the words in a sub-clause. This is called indirect speech (de indirecte rede). At a counter it is the normal way to ask: `Weet u waar het loket is?` sounds friendlier than `Waar is het loket?`\n\n### Three kinds\n\n| what was said | joined with |\n| a statement | dat |\n| a yes/no question | of |\n| a question with a question word | the question word |\n\nAll three are sub-clauses, so **every verb goes to the end**, as after `omdat` and `toen` (unit B1 · 1).\n\n### A statement: dat\n\n> Hij zegt: 'Ik kom morgen.' — He says: 'I am coming tomorrow.'\n> Hij zegt dat hij morgen komt. — He says that he is coming tomorrow.\n\nEnglish can leave *that* out (*He says he is coming*). Dutch cannot: `dat` is needed.\n\n### A yes/no question: of\n\nA question without a question word becomes a sub-clause with `of` (*whether, if*).\n\n> Ze vraagt: 'Heb je een afspraak?' — She asks: 'Do you have an appointment?'\n> Ze vraagt of ik een afspraak heb. — She asks whether I have an appointment.\n> Ik weet niet of het loket nog open is. — I do not know if the counter is still open.\n\nEnglish *if* is `of` here, **never** `als`. `Als` means *if* only in a condition: `Als het loket open is, ga ik erheen`.\n\n### A question with a question word\n\nThe question word (`waar`, `wanneer`, `hoe`, `hoe laat`, `hoeveel`, `waarom`, `wie`, `wat`) stays and starts the sub-clause. The verb goes to the end, so the order is **not** the order of the question.\n\n> Waar is de ingang? — Where is the entrance?\n> Kunt u mij vertellen waar de ingang is? — Can you tell me where the entrance is?\n> Weet jij hoe laat het gemeentehuis opengaat? — Do you know what time the town hall opens?\n\nWhen `wie` or `wat` is the subject, the verb is normally singular: `Weet u wie hier de aanvragen behandelt?`\n\nPolite openings at a counter: `Weet u …`, `Kunt u mij vertellen …`, `Mag ik vragen …`, `Ik wil graag weten …`. The question mark depends on the main clause: `Weet u waar het is?` is a question, `Ik vraag me af waar het is.` is not.\n\n### What changes\n\n**Persons.** Seen from the speaker who reports, `ik` often becomes `hij` or `zij`, and `mijn` becomes `zijn` or `haar`.\n\n> Anna zegt: 'Mijn paspoort is verlopen.' — Anna says: 'My passport has expired.'\n> Anna zegt dat haar paspoort verlopen is. — Anna says that her passport has expired.\n\n**Tense.** After a main verb in the past (`zei`, `vroeg`), the present tense in the sub-clause usually becomes the simple past. When something is still true, or always true, the present may stay.\n\n> Hij zei dat hij ziek was. — He said that he was ill.\n> Ze vroeg hoeveel een uittreksel kost. — She asked how much an extract costs.\n\n### Watch out\n\n- Question order in the sub-clause: *Ik weet niet waar is het loket → `Ik weet niet waar het loket is`.\n- `als` for whether: *Ik weet niet als hij komt → `Ik weet niet of hij komt`.\n- Leaving out dat: *Hij zegt hij komt morgen → `Hij zegt dat hij morgen komt`.\n- Forgetting the person: *Anna zegt dat mijn paspoort verlopen is → `Anna zegt dat haar paspoort verlopen is`.\n- English *what is your name* is `hoe`: `Mag ik vragen hoe u heet?`\n\n### Compared with Ukrainian\n\n`чи` is `of`: `Я не знаю, чи він прийде` is `Ik weet niet of hij komt`. Ukrainian keeps the tense of the original words (`Він сказав, що він хворий`), while Dutch usually moves it to the past: `Hij zei dat hij ziek was`.",
+  "words": [
+    { "nl": "gemeentehuis", "art": "het", "pl": "gemeentehuizen", "en": "town hall", "pos": "n" },
+    { "nl": "loket", "art": "het", "pl": "loketten", "en": "counter / desk (at an office)", "pos": "n" },
+    { "nl": "ambtenaar", "art": "de", "pl": "ambtenaren", "en": "civil servant / official", "pos": "n" },
+    { "nl": "verblijfsvergunning", "art": "de", "pl": "verblijfsvergunningen", "en": "residence permit", "pos": "n" },
+    { "nl": "uittreksel", "art": "het", "pl": "uittreksels", "en": "extract (from a register)", "pos": "n" },
+    { "nl": "aanvraag", "art": "de", "pl": "aanvragen", "en": "application / request", "pos": "n" },
+    { "nl": "burgerservicenummer", "art": "het", "pl": "burgerservicenummers", "en": "citizen service number (BSN)", "pos": "n" },
+    { "nl": "identiteitsbewijs", "art": "het", "pl": "identiteitsbewijzen", "en": "proof of identity / ID", "pos": "n" },
+    { "nl": "pasfoto", "art": "de", "pl": "pasfoto's", "en": "passport photo", "pos": "n" },
+    { "nl": "handtekening", "art": "de", "pl": "handtekeningen", "en": "signature", "pos": "n" },
+    { "nl": "aanvragen", "past": "vroeg aan", "perf": "heeft aangevraagd", "en": "to apply for", "pos": "v", "tag": "separable" },
+    { "nl": "verlengen", "past": "verlengde", "perf": "heeft verlengd", "en": "to renew / to extend", "pos": "v" },
+    { "nl": "verlopen", "past": "verliep", "perf": "is verlopen", "en": "to expire", "pos": "v" },
+    { "nl": "afhalen", "past": "haalde af", "perf": "heeft afgehaald", "en": "to collect / to pick up", "pos": "v", "tag": "separable" },
+    { "nl": "geldig", "en": "valid", "pos": "adj" },
+    { "nl": "verplicht", "en": "compulsory / required", "pos": "adj" }
+  ],
+  "sentences": [
+    {
+      "nl": "De ambtenaar zegt dat ik mijn verblijfsvergunning op tijd moet verlengen.",
+      "en": "The official says that I must renew my residence permit in time.",
+      "hint": ["ambtenaar", "zeggen", "verblijfsvergunning", "op tijd", "moeten", "verlengen"],
+      "note": "A reported statement starts with dat, and both verbs go to the end: moet verlengen (verlengen moet is also possible).",
+      "alt": ["De ambtenaar zegt dat ik mijn verblijfsvergunning op tijd verlengen moet.", "De ambtenaar zegt dat ik op tijd mijn verblijfsvergunning moet verlengen."]
+    },
+    {
+      "nl": "Weet u waar het loket voor paspoorten is?",
+      "en": "Do you (formal) know where the desk for passports is?",
+      "hint": ["weten", "waar", "loket", "paspoort"],
+      "note": "The question Waar is het loket? becomes a sub-clause after Weet u: waar stays at the front and is goes to the end."
+    },
+    {
+      "nl": "Kunt u mij vertellen hoe lang de aanvraag duurt?",
+      "en": "Can you (formal) tell me how long the application takes?",
+      "hint": ["kunnen", "vertellen", "hoe lang", "aanvraag", "duren"],
+      "note": "Hoe lang starts the sub-clause and duurt goes to the end. This is the polite way to ask at a counter.",
+      "alt": ["Kunt u me vertellen hoe lang de aanvraag duurt?"]
+    },
+    {
+      "nl": "Ik weet niet of mijn identiteitsbewijs nog geldig is.",
+      "en": "I do not know whether my ID is still valid.",
+      "hint": ["weten", "of", "identiteitsbewijs", "nog", "geldig"],
+      "note": "A yes/no question (Is het nog geldig?) is reported with of, never als. The verb is moves to the end."
+    },
+    {
+      "nl": "De vrouw achter het loket vraagt of ik mijn burgerservicenummer weet.",
+      "en": "The woman behind the counter asks if I know my citizen service number.",
+      "hint": ["vrouw", "loket", "vragen", "of", "burgerservicenummer", "weten"],
+      "note": "Her question was Weet u uw burgerservicenummer? Reported by me, u becomes ik and uw becomes mijn; of starts the clause and weet goes to the end."
+    },
+    {
+      "nl": "Mijn buurvrouw zegt dat haar paspoort volgende maand verloopt.",
+      "en": "My neighbour (a woman) says that her passport expires next month.",
+      "hint": ["buurvrouw", "zeggen", "paspoort", "volgende maand", "verlopen"],
+      "note": "She said: 'Mijn paspoort verloopt.' In the report mijn becomes haar, because she is the owner. Verloopt goes to the end."
+    },
+    {
+      "nl": "Gisteren zei de ambtenaar dat mijn uittreksel nog niet klaar was.",
+      "en": "Yesterday the official said that my extract was not ready yet.",
+      "hint": ["gisteren", "zeggen", "ambtenaar", "uittreksel", "klaar"],
+      "note": "The main verb zei is in the past, so the present of the original words (Het is nog niet klaar) becomes the past: was.",
+      "alt": ["De ambtenaar zei gisteren dat mijn uittreksel nog niet klaar was."]
+    },
+    {
+      "nl": "Ik wil graag weten wanneer ik mijn paspoort kan afhalen.",
+      "en": "I would like to know when I can collect my passport.",
+      "hint": ["willen", "graag", "weten", "wanneer", "paspoort", "afhalen"],
+      "note": "Wanneer starts the sub-clause, and the modal kan and the infinitive afhalen go to the end. You will also hear af kan halen; that is correct too.",
+      "alt": ["Ik wil graag weten wanneer ik mijn paspoort af kan halen.", "Ik wil graag weten wanneer ik mijn paspoort afhalen kan."]
+    },
+    {
+      "nl": "Mijn man vroeg de ambtenaar hoeveel een nieuw paspoort kost.",
+      "en": "My husband asked the official how much a new passport costs.",
+      "hint": ["man", "vragen", "ambtenaar", "hoeveel", "nieuw", "paspoort"],
+      "note": "After vroeg the tense usually moves to the past, but a price that is still the same may stay in the present: kost or kostte.",
+      "alt": ["Mijn man vroeg de ambtenaar hoeveel een nieuw paspoort kostte.", "Mijn man vroeg aan de ambtenaar hoeveel een nieuw paspoort kost.", "Mijn man vroeg aan de ambtenaar hoeveel een nieuw paspoort kostte."]
+    },
+    {
+      "nl": "Weet jij wie mijn aanvraag behandelt?",
+      "en": "Do you know who is dealing with my application?",
+      "hint": ["weten", "wie", "aanvraag", "behandelen"],
+      "note": "Wie is the subject of the sub-clause, so the verb is singular, behandelt, and stands at the end.",
+      "alt": ["Weet je wie mijn aanvraag behandelt?"]
+    }
+  ],
+  "exercises": [
+    {
+      "type": "choose",
+      "nl": "Ik weet niet ___ het gemeentehuis op zaterdag open is.",
+      "options": ["als", "of", "wat"],
+      "correct": 1,
+      "en": "I do not know whether the town hall is open on Saturday.",
+      "note": "A reported yes/no question takes of. Als only means if in a condition, and wat asks for a thing."
+    },
+    {
+      "type": "choose",
+      "nl": "Weet u waar ___?",
+      "options": ["is het loket", "het loket is", "het loket zijn"],
+      "correct": 1,
+      "en": "Do you (formal) know where the counter is?",
+      "note": "After Weet u the question becomes a sub-clause: the verb goes to the end. Is het loket is the order of a direct question."
+    },
+    {
+      "type": "choose",
+      "nl": "Anna zegt: 'Mijn paspoort is verlopen.' Anna zegt dat ___ paspoort verlopen is.",
+      "options": ["mijn", "haar", "zijn", "jouw"],
+      "correct": 1,
+      "en": "Anna says that her passport has expired.",
+      "note": "In the report you speak about Anna, so her mijn becomes haar. Mijn would mean that it is your own passport."
+    },
+    {
+      "type": "choose",
+      "nl": "Toen ik belde, zei de ambtenaar dat hij het druk ___.",
+      "options": ["heeft", "had", "hadden"],
+      "correct": 1,
+      "en": "When I called, the official said that he was busy.",
+      "note": "He said it in the past about that moment, so the present of his words (Ik heb het druk) becomes the past: had. Hadden is plural."
+    },
+    {
+      "type": "choose",
+      "nl": "Kunt u mij vertellen hoe laat ___?",
+      "options": ["begint mijn afspraak", "mijn afspraak begint", "mijn afspraak beginnen"],
+      "correct": 1,
+      "en": "Can you (formal) tell me what time my appointment starts?",
+      "note": "Hoe laat starts the sub-clause, so the verb begint goes to the end. The subject mijn afspraak is singular."
+    },
+    {
+      "type": "gap",
+      "nl": "Ze vraagt ___ ik een afspraak heb.",
+      "answers": ["of"],
+      "en": "She asks whether I have an appointment.",
+      "note": "Heeft u een afspraak? has no question word, so it is reported with of."
+    },
+    {
+      "type": "gap",
+      "nl": "Mag ik vragen ___ u heet?",
+      "answers": ["hoe"],
+      "en": "May I ask what your name is?",
+      "note": "Dutch asks for a name with hoe: Hoe heet u? So the indirect question also starts with hoe, not wat."
+    },
+    {
+      "type": "gap",
+      "nl": "De ambtenaar vraagt wanneer mijn verblijfsvergunning ___ (verlopen).",
+      "answers": ["verloopt"],
+      "en": "The official asks when my residence permit expires.",
+      "note": "The main verb vraagt is in the present, so the sub-clause stays in the present: verloopt, at the end."
+    },
+    {
+      "type": "gap",
+      "nl": "Weet u wie hier de pasfoto's ___ (maken)?",
+      "answers": ["maakt"],
+      "en": "Do you (formal) know who takes the passport photos here?",
+      "note": "Wie is the subject of the sub-clause, and wie takes a singular verb: maakt, at the end."
+    },
+    {
+      "type": "order",
+      "lead": "Weet",
+      "words": ["u", "of", "een afspraak", "verplicht", "is"],
+      "answers": ["Weet u of een afspraak verplicht is?"],
+      "en": "Do you (formal) know whether an appointment is compulsory?",
+      "note": "The main clause is a question, Weet u …? Then of starts the sub-clause and is goes to the end."
+    },
+    {
+      "type": "order",
+      "lead": "Ik",
+      "words": ["weet", "niet", "of", "ik", "hier", "mijn handtekening", "moet zetten"],
+      "answers": ["Ik weet niet of ik hier mijn handtekening moet zetten.", "Ik weet niet of ik mijn handtekening hier moet zetten."],
+      "en": "I do not know whether I have to sign here.",
+      "note": "After of the verbs moet zetten go to the end. Hier may stand before or after mijn handtekening."
+    },
+    {
+      "type": "rewrite",
+      "task": "Make it an indirect question, starting with Weet u.",
+      "from": "Waar is het gemeentehuis?",
+      "answers": ["Weet u waar het gemeentehuis is?"],
+      "en": "Do you (formal) know where the town hall is?",
+      "note": "Waar stays at the front of the sub-clause, and is moves to the end. The question mark stays, because Weet u …? is a question."
+    },
+    {
+      "type": "rewrite",
+      "task": "Report Mark's question, starting with Mark vraagt.",
+      "from": "Mark: 'Kan ik hier een uittreksel aanvragen?'",
+      "answers": ["Mark vraagt of hij hier een uittreksel kan aanvragen.", "Mark vraagt of hij hier een uittreksel aan kan vragen.", "Mark vraagt of hij hier een uittreksel aanvragen kan."],
+      "en": "Mark asks whether he can apply for an extract here.",
+      "note": "A yes/no question becomes of + sub-clause. Mark is now spoken about, so ik becomes hij, and kan aanvragen goes to the end."
+    },
+    {
+      "type": "rewrite",
+      "task": "Report it, starting with Ze zei.",
+      "from": "Lisa: 'Ik sta in de rij bij het loket.'",
+      "answers": ["Ze zei dat ze in de rij bij het loket stond.", "Ze zei dat zij in de rij bij het loket stond."],
+      "en": "She said that she was standing in the queue at the counter.",
+      "note": "Ik becomes ze, and after zei the present sta becomes the past stond, at the end of the sub-clause."
+    },
+    {
+      "type": "fix",
+      "wrong": "Ik weet niet als het gemeentehuis vandaag open is.",
+      "answers": ["Ik weet niet of het gemeentehuis vandaag open is."],
+      "en": "I do not know whether the town hall is open today.",
+      "note": "Whether is of. Als means if only in a condition (Als het open is, ga ik erheen)."
+    },
+    {
+      "type": "fix",
+      "wrong": "Kunt u mij vertellen waar is de ingang?",
+      "answers": ["Kunt u mij vertellen waar de ingang is?", "Kunt u me vertellen waar de ingang is?"],
+      "en": "Can you (formal) tell me where the entrance is?",
+      "note": "After waar in an indirect question the verb goes to the end: waar de ingang is. Waar is de ingang is the order of a direct question."
+    }
+  ]
+}

@@ -1,0 +1,220 @@
+{
+  "id": "b1-13",
+  "level": "B1",
+  "icon": "✉️",
+  "title": "Writing an e-mail",
+  "grammar": "D or t? The spelling of verb forms",
+  "summary": "Build the form, do not trust your ear. Present: stem + t for jij, u, hij (hij wordt), no t when jij/je follows (word je). Past and participle: -te/-t after 't kofschip, -de/-d after other sounds (praatte, antwoordde; gewerkt, gebeurd).",
+  "explain": "At the end of a Dutch word a d sounds exactly like a t, so `ik word`, `hij wordt` and `het werd` end in the same sound. Spelling does not follow the sound: it shows how the form is **built**, from the stem and the ending the rule asks for. Readers of your e-mails notice these mistakes first, so it pays to build every form on purpose.\n\n### Step 1: find the stem\n\nThe stem is the ik-form (unit A2 · 1). Keep the d of the stem, even though you hear a t: `worden` → `word`, `vinden` → `vind`, `antwoorden` → `antwoord`.\n\n### The present tense\n\n| | worden | praten |\n| ik | word | praat |\n| jij, u | wordt | praat |\n| hij, zij, het | wordt | praat |\n| wij, jullie, zij | worden | praten |\n\n- jij, u, hij, zij and het: stem + t, also after a d: `hij wordt`, `u vindt`, `zij verzendt`.\n- A stem that already ends in t gets no second t: `hij zit`, `zij praat`, `hij print`.\n- When jij or je comes directly after the verb, the t goes: `Word je`, `Vind jij`. After hij and u it stays: `Wordt hij`, `Vindt u`.\n\n> Mijn collega beantwoordt zijn mail altijd binnen een uur. — My colleague always answers his e-mail within an hour.\n> Vind je het onderwerp duidelijk? — Do you find the subject line clear?\n> In de bijlage vindt u het contract. — You will find the contract in the attachment.\n\n**The trick**: put `lopen` or `werken` in the same place. Where you hear a t, write one: `hij loopt` → `hij wordt`; `loop jij` → `word jij`; `ik loop` → `ik word`.\n\n### The simple past: -te or -de\n\nRegular verbs add **-te** when the stem ends in a sound of 't kofschip (t, k, f, s, ch, p) and **-de** after every other sound. Judge by the infinitive: `verhuizen` and `leven` have z and v, so they take -de, although the stem is written verhuis, leef.\n\n| infinitive | stem | past |\n| praten | praat | praatte |\n| antwoorden | antwoord | antwoordde |\n| mailen | mail | mailde |\n| verhuizen | verhuis | verhuisde |\n\nAfter a stem in t you write tt, after a stem in d you write dd: the letter of the stem plus the letter of the ending. Plural: `wij antwoordden`. Strong verbs change their vowel and add no ending: `werd`, `vond`, `verzond`.\n\n> Gisteren beantwoordde ik vijftig mails. — Yesterday I answered fifty e-mails.\n\n### The past participle: -t or -d\n\nThe same rule: if the past has -te, the participle ends in t; if it has -de, in d. A stem in t or d gets nothing extra: `gepraat`, `geantwoord`. Verbs that start with be-, ver-, ont-, her- or ge- get no ge- (`beantwoord`, `vermeld`).\n\n| past | participle |\n| werkte | gewerkt |\n| gebeurde | gebeurd |\n| verhuisde | verhuisd |\n\nIn many verbs the hij-form and the participle sound the same. Ask: is there a form of hebben, zijn or worden that goes with it? Then it is the participle. Or use the trick: `het loopt` is present, `het is gelopen` is a participle.\n\n> Dat gebeurt elke week. — That happens every week.\n> Wat is er gebeurd? — What has happened?\n\n### Participles before a noun, and the imperative\n\nBefore a noun a participle follows the adjective rule (unit A2 · 10): `de verhuisde collega`, `de gewenste datum`, `het gewijzigde rooster`, but `een gewijzigd rooster`. `vergroot` + e is `vergrote` (open syllable, one o): `de vergrote foto`.\n\nThe imperative is the stem, without t: `Word lid!`, `Antwoord snel.`\n\n### Watch out\n\n- *ik wordt → `ik word`; *hij antwoord → `hij antwoordt`.\n- *Wordt je teamleider? → `Word je teamleider?` But `Wordt je collega teamleider?` is right: there je means *your*, and the subject is je collega.\n- *hij printt → `hij print`.\n- *antwoorde → `antwoordde`; *verhuiste → `verhuisde`.\n- *het is gebeurt → `het is gebeurd`.\n\n### Compared with Ukrainian\n\nIn Ukrainian a final д stays voiced (`сад`, `мед`), so you can mostly write what you hear. In Dutch every final d sounds like t, so your ear cannot help you: build the form.",
+  "words": [
+    { "nl": "bijlage", "art": "de", "pl": "bijlagen", "en": "attachment (to an e-mail)", "pos": "n" },
+    { "nl": "onderwerp", "art": "het", "pl": "onderwerpen", "en": "subject / subject line", "pos": "n" },
+    { "nl": "ontvanger", "art": "de", "pl": "ontvangers", "en": "recipient", "pos": "n" },
+    { "nl": "afzender", "art": "de", "pl": "afzenders", "en": "sender", "pos": "n" },
+    { "nl": "verzoek", "art": "het", "pl": "verzoeken", "en": "request", "pos": "n" },
+    { "nl": "herinnering", "art": "de", "pl": "herinneringen", "en": "reminder / memory", "pos": "n" },
+    { "nl": "beantwoorden", "past": "beantwoordde", "perf": "heeft beantwoord", "en": "to answer / to reply to", "pos": "v" },
+    { "nl": "doorsturen", "past": "stuurde door", "perf": "heeft doorgestuurd", "en": "to forward", "pos": "v", "tag": "separable" },
+    { "nl": "bevestigen", "past": "bevestigde", "perf": "heeft bevestigd", "en": "to confirm", "pos": "v" },
+    { "nl": "vermelden", "past": "vermeldde", "perf": "heeft vermeld", "en": "to mention / to state", "pos": "v" },
+    { "nl": "verzenden", "past": "verzond", "perf": "heeft verzonden", "en": "to send / to dispatch", "pos": "v" },
+    { "nl": "dringend", "en": "urgent", "pos": "adj" },
+    { "nl": "alvast", "en": "in advance / already (for now)", "pos": "adv" },
+    { "nl": "hierbij", "en": "herewith / with this (in a letter)", "pos": "adv" },
+    { "nl": "zo spoedig mogelijk", "en": "as soon as possible", "pos": "expr" }
+  ],
+  "sentences": [
+    {
+      "nl": "Mijn collega beantwoordt zijn mail altijd binnen een uur.",
+      "en": "My colleague always answers his e-mail within an hour.",
+      "hint": ["collega", "beantwoorden", "mail", "altijd", "uur"],
+      "note": "The stem is beantwoord, with the d of the verb. Mijn collega is a hij-subject, so stem + t: beantwoordt.",
+      "alt": ["Mijn collega beantwoordt zijn e-mail altijd binnen een uur."]
+    },
+    {
+      "nl": "Vanaf maandag word ik jullie contactpersoon.",
+      "en": "From Monday I am becoming your (plural) contact person.",
+      "hint": ["vanaf", "maandag", "worden", "contactpersoon"],
+      "note": "Ik takes the bare stem: word, with no t. You hear a t, but the d belongs to the stem of worden.",
+      "alt": ["Ik word vanaf maandag jullie contactpersoon."]
+    },
+    {
+      "nl": "Vind je het onderwerp van deze mail duidelijk genoeg?",
+      "en": "Do you find the subject line of this e-mail clear enough?",
+      "hint": ["vinden", "onderwerp", "mail", "duidelijk", "genoeg"],
+      "note": "Je comes directly after the verb, so the t of jij vindt disappears: vind je. The d of the stem stays.",
+      "alt": ["Vind jij het onderwerp van deze mail duidelijk genoeg?", "Vind je het onderwerp van deze e-mail duidelijk genoeg?", "Vind jij het onderwerp van deze e-mail duidelijk genoeg?"]
+    },
+    {
+      "nl": "Vindt u het goed als ik u alvast een voorstel stuur?",
+      "en": "Is it all right with you (formal) if I send you a proposal in advance?",
+      "hint": ["vinden", "goed", "alvast", "voorstel", "sturen"],
+      "note": "Only jij and je lose the t after the verb. U keeps it, so vindt u, with dt.",
+      "alt": ["Vindt u het goed dat ik u alvast een voorstel stuur?"]
+    },
+    {
+      "nl": "De klant wordt boos als we niet snel antwoorden.",
+      "en": "The client gets angry if we do not reply quickly.",
+      "hint": ["klant", "worden", "boos", "snel", "antwoorden"],
+      "note": "De klant is a hij-subject: stem word + t = wordt. Antwoorden with we is the plural, the same as the infinitive.",
+      "alt": ["De klant wordt boos als we niet snel reageren."]
+    },
+    {
+      "nl": "Gisteren beantwoordde ik meer dan vijftig mails.",
+      "en": "Yesterday I answered more than fifty e-mails.",
+      "hint": ["gisteren", "beantwoorden", "meer dan", "vijftig", "mail"],
+      "note": "The stem beantwoord ends in d, which is not in 't kofschip, so the past ending is -de: beantwoord + de gives two d's.",
+      "alt": ["Ik beantwoordde gisteren meer dan vijftig mails.", "Gisteren beantwoordde ik meer dan vijftig e-mails.", "Ik beantwoordde gisteren meer dan vijftig e-mails."]
+    },
+    {
+      "nl": "Onze contactpersoon is vorige maand naar het buitenland verhuisd.",
+      "en": "Our contact person moved abroad last month.",
+      "hint": ["contactpersoon", "vorig", "maand", "buitenland", "verhuizen"],
+      "note": "Verhuizen has a z, which is not in 't kofschip: past verhuisde, participle verhuisd. It takes zijn, because it is a move from one place to another.",
+      "alt": ["Vorige maand is onze contactpersoon naar het buitenland verhuisd.", "Onze contactpersoon is vorige maand verhuisd naar het buitenland."]
+    },
+    {
+      "nl": "Ik weet niet wat er met de herinnering is gebeurd.",
+      "en": "I do not know what has happened to the reminder.",
+      "hint": ["weten", "gebeuren", "herinnering"],
+      "note": "Is goes with it, so this is the participle: gebeurde has -de, so gebeurd ends in d. The present would be het gebeurt.",
+      "alt": ["Ik weet niet wat er met de herinnering gebeurd is."]
+    },
+    {
+      "nl": "Wilt u de gewenste datum bevestigen?",
+      "en": "Would you (formal) confirm the desired date?",
+      "hint": ["willen", "wensen", "datum", "bevestigen"],
+      "note": "Wensen has an s, which is in 't kofschip: wenste, gewenst. Before de datum the participle takes -e like an adjective: de gewenste datum.",
+      "alt": ["Kunt u de gewenste datum bevestigen?", "Zou u de gewenste datum willen bevestigen?"]
+    },
+    {
+      "nl": "Antwoord zo spoedig mogelijk op dit verzoek.",
+      "en": "Reply to this request as soon as possible.",
+      "hint": ["antwoorden", "zo spoedig mogelijk", "verzoek"],
+      "note": "The imperative is the bare stem: antwoord, with d and without t. Never *antwoordt here.",
+      "alt": ["Antwoord op dit verzoek zo spoedig mogelijk.", "Beantwoord dit verzoek zo spoedig mogelijk."]
+    }
+  ],
+  "exercises": [
+    {
+      "type": "choose",
+      "nl": "Wanneer ___ je teamleider?",
+      "options": ["wordt", "word", "wort"],
+      "correct": 1,
+      "en": "When do you become team leader?",
+      "note": "Je comes directly after the verb, so the t of jij wordt disappears: word je. The d stays, because it belongs to the stem."
+    },
+    {
+      "type": "choose",
+      "nl": "___ je collega ook teamleider?",
+      "options": ["Word", "Worden", "Wordt"],
+      "correct": 2,
+      "en": "Is your colleague becoming team leader too?",
+      "note": "Here je means 'your', and the subject is je collega: a hij-subject, so stem + t. Only the pronoun jij/je after the verb takes away the t."
+    },
+    {
+      "type": "choose",
+      "nl": "Vorige week ___ ik alle mails van de klant door.",
+      "options": ["stuurde", "stuurte", "stuurden"],
+      "correct": 0,
+      "en": "Last week I forwarded all the client's e-mails.",
+      "note": "The stem stuur ends in r, which is not in 't kofschip, so -de: stuurde. Stuurden is the plural and does not go with ik."
+    },
+    {
+      "type": "choose",
+      "nl": "Het ___ vaak dat een ontvanger niet antwoordt.",
+      "options": ["gebeurd", "gebeurt", "gebeurdt"],
+      "correct": 1,
+      "en": "It often happens that a recipient does not reply.",
+      "note": "There is no hebben or zijn, so this is the present tense: het + stem + t = gebeurt. Gebeurd is the participle (het is gebeurd)."
+    },
+    {
+      "type": "gap",
+      "nl": "Hij ___ (verzenden) de herinneringen altijd op vrijdag.",
+      "answers": ["verzendt"],
+      "en": "He always sends out the reminders on Fridays.",
+      "note": "The stem verzend ends in d; hij adds t: verzendt. Replace it by loopt and you hear the t."
+    },
+    {
+      "type": "gap",
+      "nl": "In de bijlage ___ (vinden) u het contract.",
+      "answers": ["vindt"],
+      "en": "You (formal) will find the contract in the attachment.",
+      "note": "U takes stem + t, also when u comes after the verb: vindt u. Only jij and je lose the t there."
+    },
+    {
+      "type": "gap",
+      "nl": "Gisteren ___ (antwoorden) ik meteen, maar ik kreeg geen reactie.",
+      "answers": ["antwoordde"],
+      "en": "Yesterday I replied immediately, but I got no response.",
+      "note": "The stem antwoord ends in d, not a 't kofschip sound, so add -de: antwoordde, with two d's. *Antwoorde is missing the d of the stem."
+    },
+    {
+      "type": "gap",
+      "nl": "Heeft u de datum al ___ (bevestigen)?",
+      "answers": ["bevestigd"],
+      "en": "Have you (formal) already confirmed the date?",
+      "note": "Heeft goes with it, so this is the participle. The past is bevestigde (g is not in 't kofschip), so the participle ends in d. Be- verbs get no ge-."
+    },
+    {
+      "type": "gap",
+      "nl": "Hierbij stuur ik u het ___ (wijzigen) rooster.",
+      "answers": ["gewijzigde"],
+      "en": "Herewith I send you (formal) the changed schedule.",
+      "note": "The participle is gewijzigd (wijzigde has -de). Before a noun after het it follows the adjective rule and takes -e: het gewijzigde rooster."
+    },
+    {
+      "type": "gap",
+      "nl": "___ (worden) nu lid en ontvang elke maand onze nieuwsbrief!",
+      "answers": ["Word"],
+      "en": "Become a member now and receive our newsletter every month!",
+      "note": "The imperative is the bare stem, without t: Word lid! Ontvang is an imperative too."
+    },
+    {
+      "type": "rewrite",
+      "task": "Make it a yes/no question.",
+      "from": "Jij vindt de bijlage niet.",
+      "answers": ["Vind jij de bijlage niet?", "Vind je de bijlage niet?"],
+      "en": "Can't you find the attachment?",
+      "note": "In the question jij comes directly after the verb, so the t goes: vind jij. The d of the stem stays."
+    },
+    {
+      "type": "rewrite",
+      "task": "Make it a yes/no question.",
+      "from": "Hij wordt morgen gebeld.",
+      "answers": ["Wordt hij morgen gebeld?"],
+      "en": "Is he being called tomorrow?",
+      "note": "With hij the t stays, wherever hij stands: wordt hij. Only jij and je make it disappear."
+    },
+    {
+      "type": "rewrite",
+      "task": "Put it in the perfect.",
+      "from": "De klant wijzigt de afspraak.",
+      "answers": ["De klant heeft de afspraak gewijzigd."],
+      "en": "The client has changed the appointment.",
+      "note": "Wijzigt is the present: stem + t. The participle is built differently: wijzigde has -de, so gewijzigd ends in d."
+    },
+    {
+      "type": "rewrite",
+      "task": "Put it in the simple past.",
+      "from": "De afzender vermeldt het ordernummer niet.",
+      "answers": ["De afzender vermeldde het ordernummer niet."],
+      "en": "The sender did not mention the order number.",
+      "note": "The stem vermeld ends in d, so the past ending is -de: vermeldde. Both d's are written, the stem's and the ending's."
+    },
+    {
+      "type": "fix",
+      "wrong": "Ik wordt zenuwachtig van dringende mails.",
+      "answers": ["Ik word zenuwachtig van dringende mails."],
+      "en": "Urgent e-mails make me nervous.",
+      "note": "Ik takes only the stem: word. The t is for jij, u and hij (compare ik loop, hij loopt)."
+    },
+    {
+      "type": "fix",
+      "wrong": "Hij printt alle bijlagen voor de vergadering.",
+      "answers": ["Hij print alle bijlagen voor de vergadering."],
+      "en": "He prints all the attachments for the meeting.",
+      "note": "The stem print already ends in t, and Dutch never writes a second t in the present: hij print, like hij zit."
+    }
+  ]
+}

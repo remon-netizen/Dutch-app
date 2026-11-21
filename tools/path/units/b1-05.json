@@ -1,0 +1,223 @@
+{
+  "id": "b1-05",
+  "level": "B1",
+  "icon": "💶",
+  "title": "Money matters",
+  "grammar": "Er with a preposition: erop, ervan, ermee",
+  "summary": "After a preposition, 'it' or 'them' meaning a thing becomes er + preposition: erop, ervan, ermee (met → mee). Er stays near the verb, the preposition goes to the end: Ik heb er lang op gewacht.",
+  "explain": "In English you can put *it* or *them* after any preposition: *I am waiting for it, I pay with it*. Dutch cannot do this when *it* is a thing. Instead of preposition + `het`, `hem` or `ze`, Dutch uses **er + preposition**, written as one word: `erop`, `ervan`, `ermee`. The Dutch name is *het voornaamwoordelijk bijwoord*. You need these words in almost every conversation about bills, money and plans.\n\n### Preposition + a thing becomes er + preposition\n\n| preposition | + it / them | example |\n| op | erop | Ik wacht erop. |\n| aan | eraan | Ik denk eraan. |\n| van | ervan | Wat vind je ervan? |\n| voor | ervoor | Ik spaar ervoor. |\n| over | erover | We praten erover. |\n| met | **ermee** | Ik betaal ermee. |\n\n> Ik wacht op de factuur. Ik wacht erop. — I am waiting for the invoice. I am waiting for it.\n> Ik denk aan de rekeningen. Ik denk eraan. — I am thinking about the bills. I am thinking about them.\n\nThe er-word is the same for one thing and for more things, and for de-words and het-words: `erop` is \"on it\" and \"on them\".\n\nTwo prepositions change their form: `met` becomes **mee** and `tot` becomes **toe**. So it is `ermee` and `ertoe`, never *ermet or *ertot. The same goes for `daarmee`, `hiermee` and `waarmee` below.\n\n### People keep the pronoun\n\nThe er-word is for things. For a person the normal pronoun stays after the preposition.\n\n> Ik wacht op mijn broer. Ik wacht op hem. — I am waiting for my brother. I am waiting for him.\n> Je kunt altijd op haar rekenen. — You can always count on her.\n\nSo `Ik wacht erop` can only be about a thing, such as a bill, a letter or the bus.\n\n### Stressed: daar and hier\n\nWhen you point at something or stress it, use `daar` (that) or `hier` (this) instead of `er`: `daarmee`, `daarvoor`, `hiermee`, `hierop`. A preposition + `dat` or `dit` follows the same rule: not *met dat, but `daarmee`. Only `daar` and `hier` can be put first for emphasis: `Daar wacht ik op`, never *Erop wacht ik.\n\n> Hiermee kun je overal betalen. — You can pay everywhere with this.\n> Daar heb ik geen geld voor. — I have no money for that.\n\nIn speech `daar` is very common, also without much stress.\n\n### Questions: waar\n\nA question word works the same way: not *op wat, but `waar` + preposition. In speech the two parts are usually split, with the preposition at the end; joined is more written.\n\n> Waar wacht je op? — What are you waiting for?\n> Waarmee heb je betaald? — What did you pay with?\n\n### Splitting: er early, the preposition at the end\n\nAs soon as other words follow, the two parts usually split. `er` (or `daar`, `waar`) stays early, directly after the conjugated verb, or after the subject when that follows the verb (a short pronoun such as `het` comes before it). The preposition goes to the end of the sentence, before the infinitive or participle if there is one.\n\n| verb | er | middle | preposition + end |\n| Ik heb | er | lang | op gewacht. |\n| Ik denk | er | vaak | aan. |\n| Ik kan | er | niet | mee betalen. |\n\n> We hebben er een lening voor afgesloten. — We took out a loan for it.\n\n`niet`, time words and the object stand between the two parts. When nothing comes between them, they are one word again: `Ik heb erop gewacht`.\n\n### Pointing ahead to a clause\n\nThe er-word can also point forward to a `dat`-clause or an `om te`-clause (more on `om te` in unit B1 · 7). With verbs like `rekenen op` and `denken aan` you cannot leave it out.\n\n> Ik reken erop dat je de premie op tijd betaalt. — I am counting on you paying the premium on time.\n> We denken erover om een spaarrekening te openen. — We are thinking about opening a savings account.\n\n### Watch out\n\n- No preposition + `het` for a thing: *Ik betaal met het → `Ik betaal ermee`.\n- `met` becomes `mee`: *ermet → `ermee`, also when split: `Ik kan er niet mee betalen`.\n- Not for people: *Ik wacht erop (your brother) → `Ik wacht op hem`.\n- No *op wat: → `Waar wacht je op?` or `Waarop wacht je?`\n- Split in the right places: *Ik heb erop lang gewacht → `Ik heb er lang op gewacht`.\n- Do not drop er before a clause: *Ik reken op dat je komt → `Ik reken erop dat je komt`.\n\n### Compared with Ukrainian\n\nUkrainian uses the same pronoun for a thing and a person: `чекаю на нього` can be about a bus or about a friend. Dutch makes the difference: `op hem` for the friend, `erop` for the bus.",
+  "words": [
+    { "nl": "factuur", "art": "de", "pl": "facturen", "en": "invoice", "pos": "n" },
+    { "nl": "verzekering", "art": "de", "pl": "verzekeringen", "en": "insurance", "pos": "n" },
+    { "nl": "premie", "art": "de", "pl": "premies", "en": "premium (for insurance)", "pos": "n" },
+    { "nl": "schuld", "art": "de", "pl": "schulden", "en": "debt", "pos": "n" },
+    { "nl": "lening", "art": "de", "pl": "leningen", "en": "loan", "pos": "n" },
+    { "nl": "spaarrekening", "art": "de", "pl": "spaarrekeningen", "en": "savings account", "pos": "n" },
+    { "nl": "betaalpas", "art": "de", "pl": "betaalpassen", "en": "debit card", "pos": "n" },
+    { "nl": "aanmaning", "art": "de", "pl": "aanmaningen", "en": "payment reminder", "pos": "n" },
+    { "nl": "toeslag", "art": "de", "pl": "toeslagen", "en": "allowance (benefit from the state)", "pos": "n" },
+    { "nl": "overmaken", "past": "maakte over", "perf": "heeft overgemaakt", "en": "to transfer (money)", "pos": "v", "tag": "separable" },
+    { "nl": "sparen", "past": "spaarde", "perf": "heeft gespaard", "en": "to save (money)", "pos": "v" },
+    { "nl": "afsluiten", "past": "sloot af", "perf": "heeft afgesloten", "en": "to take out (a loan, insurance)", "pos": "v", "tag": "separable" },
+    { "nl": "vergoeden", "past": "vergoedde", "perf": "heeft vergoed", "en": "to reimburse / to cover (costs)", "pos": "v" },
+    { "nl": "aflossen", "past": "loste af", "perf": "heeft afgelost", "en": "to pay off (a debt)", "pos": "v", "tag": "separable" },
+    { "nl": "rekenen op", "past": "rekende op", "perf": "heeft gerekend op", "en": "to count on", "pos": "v" },
+    { "nl": "maandelijks", "en": "monthly", "pos": "adj" }
+  ],
+  "sentences": [
+    {
+      "nl": "Ik heb een nieuwe betaalpas, maar ik kan er nog niet mee betalen.",
+      "en": "I have a new debit card, but I cannot pay with it yet.",
+      "hint": ["nieuw", "betaalpas", "kunnen", "nog niet", "betalen"],
+      "note": "Met + it (the card) becomes er + mee. The two parts split: er directly after kan, mee at the end before the infinitive betalen.",
+      "alt": ["Ik heb een nieuwe betaalpas, maar ik kan daar nog niet mee betalen.", "Ik heb een nieuwe betaalpas, maar daar kan ik nog niet mee betalen."]
+    },
+    {
+      "nl": "We hebben een spaarrekening voor onze dochter en we zetten er elke maand geld op.",
+      "en": "We have a savings account for our daughter and we put money into it every month.",
+      "hint": ["spaarrekening", "dochter", "zetten", "elke maand", "geld"],
+      "note": "Dutch puts money op a rekening, so 'into it' is erop. Er comes right after zetten; the time and the object stand in between, and op goes last.",
+      "alt": ["We hebben een spaarrekening voor onze dochter en we zetten daar elke maand geld op.", "We hebben een spaarrekening voor onze dochter en elke maand zetten we er geld op."]
+    },
+    {
+      "nl": "Ik reken erop dat je de lening dit jaar aflost.",
+      "en": "I am counting on you paying off the loan this year.",
+      "hint": ["rekenen op", "lening", "dit jaar", "aflossen"],
+      "note": "Erop points forward to the dat-clause. With rekenen op it cannot be left out: never *Ik reken op dat. In the sub-clause aflost stays in one piece at the end.",
+      "alt": ["Ik reken erop dat jij de lening dit jaar aflost.", "Ik reken erop dat je dit jaar de lening aflost.", "Ik reken erop dat jij dit jaar de lening aflost."]
+    },
+    {
+      "nl": "Waar heb je dat geld voor nodig?",
+      "en": "What do you need that money for?",
+      "hint": ["waar", "hebben", "geld", "voor", "nodig"],
+      "note": "Not *voor wat: a question about a thing uses waar + preposition. In speech waar opens the question and voor moves to the end, before nodig.",
+      "alt": ["Waarvoor heb je dat geld nodig?", "Waar heb jij dat geld voor nodig?", "Waarvoor heb jij dat geld nodig?"]
+    },
+    {
+      "nl": "Mijn verzekering vergoedt de tandarts en daar ben ik heel blij mee.",
+      "en": "My insurance covers the dentist and I am very happy about that.",
+      "hint": ["verzekering", "vergoeden", "tandarts", "blij"],
+      "note": "Blij met + that becomes daar + mee. Daar points at the whole fact and stands first after en; mee goes to the end.",
+      "alt": ["Mijn verzekering vergoedt de tandarts en ik ben daar heel blij mee.", "Mijn verzekering vergoedt de tandarts en ik ben er heel blij mee."]
+    },
+    {
+      "nl": "Mijn man regelt de verzekeringen; ik kan altijd op hem rekenen.",
+      "en": "My husband arranges the insurance policies; I can always count on him.",
+      "hint": ["man", "regelen", "verzekering", "altijd", "rekenen op"],
+      "note": "Hem is a person, so the pronoun stays after the preposition: op hem. Erop would mean 'on it', a thing.",
+      "alt": ["Mijn man regelt de verzekeringen; op hem kan ik altijd rekenen."]
+    },
+    {
+      "nl": "Hiermee kun je in de hele wereld betalen.",
+      "en": "You can pay all over the world with this. (a card in your hand)",
+      "hint": ["hiermee", "kunnen", "wereld", "betalen"],
+      "note": "With this becomes hier + mee, never *met dit. Hiermee is stressed, so it can open the sentence; er could not.",
+      "alt": ["Je kunt hiermee in de hele wereld betalen.", "Hier kun je in de hele wereld mee betalen.", "Je kunt hier in de hele wereld mee betalen."]
+    },
+    {
+      "nl": "Waar heb je de factuur mee betaald?",
+      "en": "What did you pay the invoice with?",
+      "hint": ["waar", "factuur", "met", "betalen"],
+      "note": "Waar + met becomes waar … mee: waar first, mee at the end before the participle. Joined, waarmee, is also correct.",
+      "alt": ["Waarmee heb je de factuur betaald?", "Waar heb jij de factuur mee betaald?", "Waarmee heb jij de factuur betaald?"]
+    },
+    {
+      "nl": "We denken erover om onze schulden sneller af te lossen.",
+      "en": "We are thinking about paying off our debts faster.",
+      "hint": ["denken over", "schuld", "snel", "aflossen"],
+      "note": "Erover points forward to the om te-clause. Te goes inside the separable verb: af te lossen.",
+      "alt": ["We denken erover na om onze schulden sneller af te lossen."]
+    },
+    {
+      "nl": "De nieuwe keuken was duur, dus we hebben er een lening voor afgesloten.",
+      "en": "The new kitchen was expensive, so we took out a loan for it.",
+      "hint": ["nieuw", "keuken", "duur", "lening", "afsluiten"],
+      "note": "Voor + it becomes er + voor. Er stays right after hebben, the object een lening stands between, and voor comes just before the participle.",
+      "alt": ["De nieuwe keuken was duur, dus we hebben daar een lening voor afgesloten.", "De nieuwe keuken was duur, dus daar hebben we een lening voor afgesloten."]
+    }
+  ],
+  "exercises": [
+    {
+      "type": "choose",
+      "nl": "Ik heb de toeslag nog niet, maar ik wacht ___.",
+      "options": ["op het", "erop", "op hem", "eraan"],
+      "correct": 1,
+      "en": "I do not have the allowance yet, but I am waiting for it.",
+      "note": "De toeslag is a thing, so op + it becomes erop. Op het and op hem are not used for things, and wachten goes with op, not aan."
+    },
+    {
+      "type": "choose",
+      "nl": "Meneer De Vries van de bank komt om tien uur. We wachten ___.",
+      "options": ["erop", "op hem", "op het"],
+      "correct": 1,
+      "en": "Mr De Vries from the bank is coming at ten. We are waiting for him.",
+      "note": "Meneer De Vries is a person, and for people the pronoun stays: op hem. Erop is only for things."
+    },
+    {
+      "type": "choose",
+      "nl": "Dit is de nieuwe app van de bank. Je kunt er ook rekeningen ___ betalen.",
+      "options": ["met", "mee", "ermee"],
+      "correct": 1,
+      "en": "This is the bank's new app. You can also pay bills with it.",
+      "note": "Er is already there after kunt, so only the preposition is missing. Combined with er, met always becomes mee, also when the two parts are split."
+    },
+    {
+      "type": "choose",
+      "nl": "___ heb je dat geld overgemaakt?",
+      "options": ["Voor wat", "Waarvoor", "Ervoor"],
+      "correct": 1,
+      "en": "What did you transfer that money for?",
+      "note": "A question about a thing uses waar + preposition: waarvoor. Voor wat is not standard Dutch, and ervoor is not a question word."
+    },
+    {
+      "type": "gap",
+      "nl": "Ik heb geen geld voor een nieuwe fiets, maar ik spaar ___ (voor).",
+      "answers": ["ervoor", "daarvoor"],
+      "en": "I have no money for a new bike, but I am saving for it.",
+      "note": "Voor + it (the bike) becomes ervoor. With stress on 'that', daarvoor is also right."
+    },
+    {
+      "type": "gap",
+      "nl": "___ (met) betaal jij meestal: met je pas of met je telefoon?",
+      "answers": ["Waarmee"],
+      "en": "What do you usually pay with: your card or your phone?",
+      "note": "The question word for met + what is waarmee: waar + mee, because met becomes mee. Never *met wat."
+    },
+    {
+      "type": "gap",
+      "nl": "De maandelijkse premie is veertig euro. Wat vind jij ___ (van)?",
+      "answers": ["ervan", "daarvan"],
+      "en": "The monthly premium is forty euros. What do you think of it?",
+      "note": "Van + it (the premium) becomes ervan. Daarvan, with more stress, is also correct; van het is not."
+    },
+    {
+      "type": "order",
+      "lead": "Ik heb",
+      "words": ["er", "drie weken", "op", "gewacht"],
+      "answers": ["Ik heb er drie weken op gewacht."],
+      "en": "I waited three weeks for it.",
+      "note": "Er comes directly after the conjugated verb heb, the time stands in the middle, and op goes to the end, just before the participle."
+    },
+    {
+      "type": "order",
+      "lead": "Ik reken",
+      "words": ["er", "niet", "op", "dat", "de verzekering", "alles", "vergoedt"],
+      "answers": ["Ik reken er niet op dat de verzekering alles vergoedt."],
+      "en": "I am not counting on the insurance covering everything.",
+      "note": "Er … op points forward to the dat-clause. Niet goes between er and op, and the dat-clause comes after the main clause with its verb at the end."
+    },
+    {
+      "type": "order",
+      "lead": "Daar",
+      "words": ["heb", "ik", "geen", "tijd", "voor"],
+      "answers": ["Daar heb ik geen tijd voor."],
+      "en": "I have no time for that.",
+      "note": "Daar is stressed and opens the sentence, so the verb heb comes second and ik follows it. Voor goes to the end."
+    },
+    {
+      "type": "rewrite",
+      "task": "Replace op de aanmaning with er + preposition.",
+      "from": "Ik heb nog niet op de aanmaning gereageerd.",
+      "answers": ["Ik heb er nog niet op gereageerd."],
+      "en": "I have not responded to it yet.",
+      "note": "Er goes up to the place right after heb, and op stays at the end before the participle. Nog niet stands between the two parts."
+    },
+    {
+      "type": "rewrite",
+      "task": "Replace op mijn zus with a pronoun.",
+      "from": "Ik reken op mijn zus.",
+      "answers": ["Ik reken op haar."],
+      "en": "I am counting on her.",
+      "note": "Mijn zus is a person, so the pronoun stays after the preposition: op haar. Erop would turn her into a thing."
+    },
+    {
+      "type": "rewrite",
+      "task": "Put it in the perfect.",
+      "from": "Ik wacht er lang op.",
+      "answers": ["Ik heb er lang op gewacht."],
+      "en": "I waited for it for a long time.",
+      "note": "Er stays after the conjugated verb, now heb. The participle gewacht goes to the very end, and op stands directly before it."
+    },
+    {
+      "type": "fix",
+      "wrong": "Ik heb wat spaargeld, maar ik doe niets met het.",
+      "answers": ["Ik heb wat spaargeld, maar ik doe er niets mee.", "Ik heb wat spaargeld, maar ik doe daar niets mee.", "Ik heb wat spaargeld, maar daar doe ik niets mee."],
+      "en": "I have some savings, but I do nothing with them.",
+      "note": "Met + het is impossible for a thing: it becomes er + mee. Er goes after doe and mee to the end, with niets in between."
+    },
+    {
+      "type": "fix",
+      "wrong": "Ik heb erop lang gewacht.",
+      "answers": ["Ik heb er lang op gewacht."],
+      "en": "I waited for it for a long time.",
+      "note": "When something stands between them, er and the preposition split: er after heb, op just before the participle."
+    },
+    {
+      "type": "fix",
+      "wrong": "Op wat wacht je nog?",
+      "answers": ["Waar wacht je nog op?", "Waarop wacht je nog?", "Waar wacht jij nog op?", "Waarop wacht jij nog?"],
+      "en": "What are you still waiting for?",
+      "note": "Preposition + wat becomes waar + preposition. In speech waar opens the question and op goes to the end; waarop together is also correct."
+    }
+  ]
+}

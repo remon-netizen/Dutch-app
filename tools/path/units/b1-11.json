@@ -1,0 +1,451 @@
+{
+  "id": "b1-11",
+  "level": "B1",
+  "icon": "🚨",
+  "title": "Safety first",
+  "grammar": "The passive: is gedaan, and er wordt",
+  "summary": "Perfect passive: zijn + participle, without geworden (De dader is gearresteerd); past perfect: was / waren. For an activity without a subject: er wordt + participle (Er wordt gebeld; Er is ingebroken).",
+  "explain": "In unit B1 · 10 you met the passive with `worden`: `De dader wordt gearresteerd`, `De dader werd gearresteerd`. This unit adds the perfect and the past perfect of the passive, and the passive with `er` for an activity where nobody in particular is the subject.\n\n### The perfect: zijn + participle\n\nThe perfect of the passive is a form of `zijn` + the participle. There is **no** `geworden`.\n\n> De dader is gearresteerd. — The offender has been arrested.\n> De ramen zijn vervangen. — The windows have been replaced.\n> De brand was al geblust. — The fire had already been put out.\n\nThe auxiliary is always `zijn`, even when the active verb takes `hebben`: `De brandweer heeft de brand geblust`, but `De brand is geblust`.\n\nAll the forms together:\n\n| passive | English |\n| wordt gemaakt | is being made, gets made |\n| werd gemaakt | was being made, got made |\n| is gemaakt | has been made, was made |\n| was gemaakt | had been made |\n\nEnglish \"was made\" can be `werd gemaakt` or `is gemaakt`. The choice is the same as between the simple past and the perfect in an active sentence: news and short reports of a single event usually take the perfect (`Gisteren is er een man gearresteerd`), a story told step by step takes `werd`.\n\n### The same form as a state\n\n`is` + participle can also describe how something **is now**, the result: `De winkel is gesloten` (the shop is closed). Often both readings fit, and the meaning hardly differs: `De deur is op slot gedaan` (someone did it, and now it is locked).\n\n> Het terrein is goed beveiligd. — The site is well secured.\n\n### Er wordt: an activity without a subject\n\nSome sentences are only about an activity: there is no object that could become the subject. Dutch then puts `er` in the subject's place and uses `wordt` / `werd` / `is` + participle, always singular.\n\n> Er wordt gebeld. — Someone is ringing the doorbell.\n> Er wordt hier niet gerookt. — There is no smoking here.\n> Er is ingebroken. — There has been a break-in.\n> Er werd veel gelachen. — There was a lot of laughing.\n\nWhen another element comes first, `er` may be left out, and very often it is: `Hier wordt niet gerookt`. `Hier wordt er niet gerookt` is also correct. In a sub-clause `er` stays when nothing else takes its place: `Ik hoorde dat er was ingebroken`.\n\n### Er with an indefinite subject\n\nWhen the subject is indefinite (`een`, `veel`, a number, a plural without `de`), the passive usually starts with `er`, and the verb agrees with the subject that comes later:\n\n> Er worden hier veel fietsen gestolen. — A lot of bikes are stolen here.\n> Er is een man gearresteerd. — A man has been arrested.\n\nWhen something else comes first, `er` may stay or go: `In deze straat worden (er) veel fietsen gestolen`; both are correct.\n\n### Word order\n\nThe auxiliary stands second, the participle at the end. In a sub-clause both go to the end, in either order: `dat de dader is gearresteerd` or `dat de dader gearresteerd is`.\n\n### Watch out\n\n- No geworden: *De dader is gearresteerd geworden → `De dader is gearresteerd`. (You may see `geworden` in old texts and in Belgium, not in standard Netherlands Dutch.)\n- zijn, not hebben: *De brand heeft geblust → `De brand is geblust`.\n- Agreement after er: *Er wordt veel fietsen gestolen → `Er worden veel fietsen gestolen`.\n- Not het: *Het wordt hier niet gerookt → `Er wordt hier niet gerookt`.\n\n### Compared with Ukrainian\n\nUkrainian has a short form for a finished action: `Злочинця затримано`, `Вікна замінено`. Dutch says it with `is` / `zijn` + participle: `De dader is gearresteerd`. And where Ukrainian says `Тут не курять` without a subject, Dutch needs `er`: `Er wordt hier niet gerookt`.\n\nThe passive with a modal verb (`moet worden gedaan`) is unit B2 · 1.",
+  "words": [
+    {
+      "nl": "dader",
+      "art": "de",
+      "pl": "daders",
+      "en": "offender / culprit",
+      "pos": "n"
+    },
+    {
+      "nl": "inbraak",
+      "art": "de",
+      "pl": "inbraken",
+      "en": "burglary / break-in",
+      "pos": "n"
+    },
+    {
+      "nl": "getuige",
+      "art": "de",
+      "pl": "getuigen",
+      "en": "witness",
+      "pos": "n"
+    },
+    {
+      "nl": "aangifte",
+      "art": "de",
+      "pl": "aangiftes",
+      "en": "report (to the police)",
+      "pos": "n",
+      "tag": "aangifte doen"
+    },
+    {
+      "nl": "nooduitgang",
+      "art": "de",
+      "pl": "nooduitgangen",
+      "en": "emergency exit",
+      "pos": "n"
+    },
+    {
+      "nl": "rookmelder",
+      "art": "de",
+      "pl": "rookmelders",
+      "en": "smoke alarm",
+      "pos": "n"
+    },
+    {
+      "nl": "boete",
+      "art": "de",
+      "pl": "boetes",
+      "en": "fine (to pay)",
+      "pos": "n"
+    },
+    {
+      "nl": "verbod",
+      "art": "het",
+      "pl": "verboden",
+      "en": "ban / prohibition",
+      "pos": "n"
+    },
+    {
+      "nl": "arresteren",
+      "past": "arresteerde",
+      "perf": "heeft gearresteerd",
+      "en": "to arrest",
+      "pos": "v"
+    },
+    {
+      "nl": "blussen",
+      "past": "bluste",
+      "perf": "heeft geblust",
+      "en": "to put out (a fire)",
+      "pos": "v"
+    },
+    {
+      "nl": "ontruimen",
+      "past": "ontruimde",
+      "perf": "heeft ontruimd",
+      "en": "to evacuate (a building)",
+      "pos": "v"
+    },
+    {
+      "nl": "inbreken",
+      "past": "brak in",
+      "perf": "heeft ingebroken",
+      "en": "to break in / to burgle",
+      "pos": "v",
+      "tag": "separable"
+    },
+    {
+      "nl": "waarschuwen",
+      "past": "waarschuwde",
+      "perf": "heeft gewaarschuwd",
+      "en": "to warn / to alert",
+      "pos": "v"
+    },
+    {
+      "nl": "redden",
+      "past": "redde",
+      "perf": "heeft gered",
+      "en": "to rescue / to save",
+      "pos": "v"
+    },
+    {
+      "nl": "beveiligen",
+      "past": "beveiligde",
+      "perf": "heeft beveiligd",
+      "en": "to secure / to protect",
+      "pos": "v"
+    },
+    {
+      "nl": "gewond",
+      "en": "injured / wounded",
+      "pos": "adj"
+    }
+  ],
+  "sentences": [
+    {
+      "nl": "De dader is inmiddels door de politie gearresteerd.",
+      "en": "The offender has now been arrested by the police.",
+      "hint": [
+        "dader",
+        "inmiddels",
+        "politie",
+        "arresteren"
+      ],
+      "note": "The perfect of the passive is zijn + participle: is gearresteerd, without geworden. Arresteren itself takes hebben, but the passive always takes zijn.",
+      "alt": [
+        "De dader is inmiddels gearresteerd door de politie.",
+        "Inmiddels is de dader door de politie gearresteerd.",
+        "Inmiddels is de dader gearresteerd door de politie."
+      ]
+    },
+    {
+      "nl": "De brand was al geblust toen de bewoners thuiskwamen.",
+      "en": "The fire had already been put out when the residents came home.",
+      "hint": [
+        "brand",
+        "al",
+        "blussen",
+        "toen",
+        "bewoner",
+        "thuiskomen"
+      ],
+      "note": "Past perfect of the passive: was + participle. The fire was out before the residents came home.",
+      "alt": [
+        "Toen de bewoners thuiskwamen, was de brand al geblust."
+      ]
+    },
+    {
+      "nl": "Alle bewoners zijn op tijd gered.",
+      "en": "All the residents have been rescued in time.",
+      "hint": [
+        "alle",
+        "bewoner",
+        "op tijd",
+        "redden"
+      ],
+      "note": "Alle bewoners is plural, so zijn. The participle of redden is gered: the stem red ends in d, so no extra d is added."
+    },
+    {
+      "nl": "Het terrein is sinds de inbraak beter beveiligd.",
+      "en": "Since the break-in the site has been better secured.",
+      "hint": [
+        "terrein",
+        "sinds",
+        "inbraak",
+        "beter",
+        "beveiligen"
+      ],
+      "note": "Is beveiligd describes the result, how the site is now, and also that someone did it. Beveiligen has the unstressed prefix be-, so the participle has no ge.",
+      "alt": [
+        "Sinds de inbraak is het terrein beter beveiligd."
+      ]
+    },
+    {
+      "nl": "Vannacht is er bij onze buren ingebroken.",
+      "en": "There was a break-in at our neighbours' house last night.",
+      "hint": [
+        "vannacht",
+        "bij",
+        "buren",
+        "inbreken"
+      ],
+      "note": "Inbreken has no object that could become the subject, so the passive uses er. The perfect takes is, even though the active is heeft ingebroken.",
+      "alt": [
+        "Er is vannacht bij onze buren ingebroken.",
+        "Vannacht is bij onze buren ingebroken.",
+        "Er is bij onze buren vannacht ingebroken."
+      ]
+    },
+    {
+      "nl": "In dit gebouw wordt niet gerookt.",
+      "en": "There is no smoking in this building.",
+      "hint": [
+        "gebouw",
+        "niet",
+        "roken"
+      ],
+      "note": "An activity without a subject: wordt + participle. In dit gebouw comes first, so er may be left out; with er it is also correct.",
+      "alt": [
+        "In dit gebouw wordt er niet gerookt.",
+        "Er wordt in dit gebouw niet gerookt."
+      ]
+    },
+    {
+      "nl": "Er worden in deze straat veel fietsen gestolen.",
+      "en": "A lot of bikes are stolen in this street.",
+      "hint": [
+        "er",
+        "straat",
+        "veel",
+        "fiets",
+        "stelen"
+      ],
+      "note": "Veel fietsen is an indefinite subject, so the sentence starts with er. The verb agrees with fietsen, which come later: worden, plural.",
+      "alt": [
+        "In deze straat worden veel fietsen gestolen.",
+        "In deze straat worden er veel fietsen gestolen.",
+        "Er worden veel fietsen gestolen in deze straat."
+      ]
+    },
+    {
+      "nl": "Het gebouw is binnen tien minuten ontruimd.",
+      "en": "The building was evacuated within ten minutes.",
+      "hint": [
+        "gebouw",
+        "binnen",
+        "minuut",
+        "ontruimen"
+      ],
+      "note": "A short report of one event: the perfect is ontruimd. Werd ontruimd is also correct. Ontruimen has the prefix ont-, so there is no ge.",
+      "alt": [
+        "Het gebouw werd binnen tien minuten ontruimd.",
+        "Binnen tien minuten is het gebouw ontruimd.",
+        "Binnen tien minuten werd het gebouw ontruimd."
+      ]
+    },
+    {
+      "nl": "Is er al aangifte gedaan van de inbraak?",
+      "en": "Has the burglary been reported to the police yet?",
+      "hint": [
+        "er",
+        "al",
+        "aangifte",
+        "doen",
+        "inbraak"
+      ],
+      "note": "Aangifte has no article, so it is an indefinite subject and the sentence needs er. In the question the auxiliary is comes first.",
+      "alt": [
+        "Is er al aangifte van de inbraak gedaan?"
+      ]
+    },
+    {
+      "nl": "De politie zegt dat er al twee getuigen zijn ondervraagd.",
+      "en": "The police say that two witnesses have already been questioned.",
+      "hint": [
+        "politie",
+        "zeggen",
+        "al",
+        "getuige",
+        "ondervragen"
+      ],
+      "note": "Twee getuigen is indefinite, so er comes in. In the dat-clause zijn and ondervraagd stand at the end, in either order; de politie is singular in Dutch, so zegt.",
+      "alt": [
+        "De politie zegt dat er al twee getuigen ondervraagd zijn."
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "type": "choose",
+      "nl": "In het hele gebouw zijn nieuwe rookmelders ___.",
+      "options": [
+        "opgehangen geworden",
+        "opgehangen",
+        "ophangen"
+      ],
+      "correct": 1,
+      "en": "New smoke alarms have been put up in the whole building.",
+      "note": "The perfect of the passive is zijn + participle, with nothing else: zijn opgehangen. Geworden is not used in standard Netherlands Dutch."
+    },
+    {
+      "type": "choose",
+      "nl": "De brand ___ binnen een uur geblust.",
+      "options": [
+        "heeft",
+        "is",
+        "hebben"
+      ],
+      "correct": 1,
+      "en": "The fire was put out within an hour.",
+      "note": "The fire did not put anything out; it was put out, so this is a passive, and the passive perfect takes zijn. De brandweer heeft de brand geblust would be active."
+    },
+    {
+      "type": "choose",
+      "nl": "___ werd tijdens de brand hard geschreeuwd.",
+      "options": [
+        "Het",
+        "Er",
+        "Hij"
+      ],
+      "correct": 1,
+      "en": "During the fire there was a lot of loud shouting.",
+      "note": "Schreeuwen here has no object, so nothing can become the subject: er takes its place. Het and hij cannot stand there, because there is nothing that is shouted."
+    },
+    {
+      "type": "choose",
+      "nl": "Er ___ vorig jaar in deze stad veel boetes uitgedeeld.",
+      "options": [
+        "is",
+        "zijn",
+        "werd"
+      ],
+      "correct": 1,
+      "en": "A lot of fines were handed out in this city last year.",
+      "note": "After er the verb agrees with the real subject, veel boetes, which is plural: zijn. Is and werd are singular."
+    },
+    {
+      "type": "gap",
+      "nl": "De nooduitgang ___ (zijn) met dozen geblokkeerd, dus niemand kon naar buiten.",
+      "answers": [
+        "was"
+      ],
+      "en": "The emergency exit had been blocked with boxes, so nobody could get out.",
+      "note": "The story is in the past (kon), and the blocking had happened before: was + participle. Is would belong to a story in the present."
+    },
+    {
+      "type": "gap",
+      "nl": "Het verbod op vuurwerk is vorig jaar ___ (invoeren).",
+      "answers": [
+        "ingevoerd"
+      ],
+      "en": "The ban on fireworks was introduced last year.",
+      "note": "Invoeren is separable, so the participle is in + ge + voerd, one word. Is + participle is the perfect of the passive."
+    },
+    {
+      "type": "gap",
+      "nl": "Zijn de buren al ___ (waarschuwen)?",
+      "answers": [
+        "gewaarschuwd"
+      ],
+      "en": "Have the neighbours been warned yet?",
+      "note": "Zijn + participle, the perfect of the passive. Waarschuwen has no unstressed prefix, so the participle gets ge: gewaarschuwd."
+    },
+    {
+      "type": "order",
+      "lead": "Vannacht",
+      "words": [
+        "is",
+        "er",
+        "in de school",
+        "ingebroken"
+      ],
+      "answers": [
+        "Vannacht is er in de school ingebroken.",
+        "Vannacht is er ingebroken in de school."
+      ],
+      "en": "Last night there was a break-in at the school.",
+      "note": "Vannacht is the first element, so is comes second, then er. The participle ingebroken goes to the end; the place may also follow it."
+    },
+    {
+      "type": "order",
+      "lead": "Ik heb gehoord",
+      "words": [
+        "dat",
+        "de dader",
+        "is",
+        "gearresteerd"
+      ],
+      "answers": [
+        "Ik heb gehoord dat de dader is gearresteerd.",
+        "Ik heb gehoord dat de dader gearresteerd is."
+      ],
+      "en": "I have heard that the offender has been arrested.",
+      "note": "In a dat-clause both verbs go to the end, and both orders are correct: is gearresteerd or gearresteerd is."
+    },
+    {
+      "type": "order",
+      "lead": "Er",
+      "words": [
+        "zijn",
+        "twee gewonde fietsers",
+        "naar het ziekenhuis",
+        "gebracht"
+      ],
+      "answers": [
+        "Er zijn twee gewonde fietsers naar het ziekenhuis gebracht."
+      ],
+      "en": "Two injured cyclists have been taken to hospital.",
+      "note": "The subject twee gewonde fietsers is indefinite, so the sentence starts with er. Zijn agrees with the plural subject, and the participle closes the sentence."
+    },
+    {
+      "type": "rewrite",
+      "task": "Put it in the perfect.",
+      "from": "De dader werd door de politie gearresteerd.",
+      "answers": [
+        "De dader is door de politie gearresteerd.",
+        "De dader is gearresteerd door de politie."
+      ],
+      "en": "The offender has been arrested by the police.",
+      "note": "Werd becomes is, and the participle stays. Not *is gearresteerd geworden: the perfect of the passive has no geworden."
+    },
+    {
+      "type": "rewrite",
+      "task": "Make it passive, starting with Er.",
+      "from": "Mensen roken hier niet.",
+      "answers": [
+        "Er wordt hier niet gerookt."
+      ],
+      "en": "There is no smoking here.",
+      "note": "Roken here has no object, so there is nothing to become the subject: er + wordt + participle. Wordt is always singular in this kind of sentence."
+    },
+    {
+      "type": "rewrite",
+      "task": "Start with In deze wijk.",
+      "from": "Er worden in deze wijk veel fietsen gestolen.",
+      "answers": [
+        "In deze wijk worden veel fietsen gestolen.",
+        "In deze wijk worden er veel fietsen gestolen."
+      ],
+      "en": "A lot of bikes are stolen in this neighbourhood.",
+      "note": "In deze wijk takes the first place, so worden comes second. Er may stay or go; both are correct."
+    },
+    {
+      "type": "fix",
+      "wrong": "De gewonde man is door een buurman gered geworden.",
+      "answers": [
+        "De gewonde man is door een buurman gered.",
+        "De gewonde man werd door een buurman gered."
+      ],
+      "en": "The injured man was rescued by a neighbour.",
+      "note": "The perfect of the passive is zijn + participle, without geworden: is gered. Werd gered is also correct."
+    },
+    {
+      "type": "fix",
+      "wrong": "Er wordt in de zomer veel fietsen gestolen.",
+      "answers": [
+        "Er worden in de zomer veel fietsen gestolen."
+      ],
+      "en": "A lot of bikes are stolen in the summer.",
+      "note": "Er is not the subject. The verb agrees with veel fietsen, which is plural: worden."
+    }
+  ]
+}

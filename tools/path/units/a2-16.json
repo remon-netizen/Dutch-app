@@ -101,9 +101,11 @@
       "pos": "v"
     },
     {
-      "nl": "kwijt",
-      "en": "lost / gone (kwijt zijn)",
-      "pos": "adj"
+      "nl": "struikelen",
+      "past": "struikelde",
+      "perf": "is gestruikeld",
+      "en": "to trip / to stumble",
+      "pos": "v"
     },
     {
       "nl": "per ongeluk",
@@ -201,16 +203,17 @@
       ]
     },
     {
-      "nl": "Mijn collega viel van de trap en brak haar pols.",
-      "en": "My colleague fell down the stairs and broke her wrist. (simple past)",
+      "nl": "Mijn collega struikelde, viel van de trap en brak haar pols.",
+      "en": "My colleague tripped, fell down the stairs and broke her wrist. (simple past)",
       "hint": [
         "collega",
+        "struikelen",
         "vallen",
         "trap",
         "breken",
         "pols"
       ],
-      "note": "A chain of events, so the simple past. Viel and brak have no ending in the singular; the plural would be vielen and braken."
+      "note": "A chain of events, so the simple past. Struikelen is regular (struikelde); vallen and breken are strong: viel, brak, with no ending."
     },
     {
       "nl": "Ik moest een pleister op mijn knie plakken.",

@@ -1,0 +1,466 @@
+{
+  "id": "b2-09",
+  "level": "B2",
+  "icon": "🎙️",
+  "title": "Media and journalism",
+  "grammar": "Reported speech: tenses, zou, and what is only claimed",
+  "summary": "After a past verb of saying the tense moves back (ik ben → hij was; ik heb → hij had) and the future becomes zou. zou also marks a claim that is not confirmed; volgens is followed by the verb.",
+  "explain": "You can quote someone's words (direct speech, *de directe rede*) or build them into a sub-clause with `dat`, `of` or a question word (indirect speech, *de indirecte rede*). In that sub-clause the verbs go to the end (unit B1 · 02). Journalists also have their own tools to show that something is only a claim.\n\n### Tenses after a past verb of saying\n\nWhen the verb of saying is in the present (`Hij zegt dat …`), the tense of the words stays as it was. When it is in the past (`zei`, `vertelde`, `meldde`), the tense usually moves one step back:\n\n| said | reported after zei dat … |\n| ik ben ziek | hij ziek **was** |\n| ik heb gebeld | hij **had** gebeld |\n| ik belde | hij **had** gebeld |\n| ik zal komen / ik kom morgen | hij **zou** komen |\n\n> De woordvoerder zei dat de minister ziek was. — The spokesperson said that the minister was ill.\n> De verslaggever vertelde dat hij drie keer had gebeld. — The reporter said that he had called three times.\n> Hij zei dat hij naar de persconferentie zou komen. — He said that he would come to the press conference.\n\nAt the end of the clause both orders of the two verbs are standard Dutch: `dat hij had gebeld` and `dat hij gebeld had`. With `zou` + infinitive, `zou komen` is the usual order; `komen zou` also occurs.\n\nThe present stays when the statement is still true or is a general fact. Dutch is less strict than English here, and in speech the present is heard more widely; in careful writing, move the tense back.\n\n> Hij zei dat Amsterdam de hoofdstad is. — He said that Amsterdam is the capital.\n\n### Person, time and place\n\nPersons move to the reporter's point of view (`ik` → `hij`/`zij`, `jij` → `ik`), and time and place words change when that moment or place lies behind you:\n\n- `vandaag` → `die dag`; `nu` → `toen`, `op dat moment`\n- `morgen` → `de volgende dag`, `de dag erna`; `gisteren` → `de dag ervoor`\n- `volgende week` → `de week erna`; `hier` → `daar`\n\n> Ze zei dat ze me de volgende dag zou bellen. — She said that she would call me the next day.\n\n### Questions and orders\n\nA yes/no question is reported with `of`; a question word stays. An order becomes `dat … moest`, or `vragen` + `(om) te` + infinitive.\n\n> De verslaggever vroeg of de minister zou aftreden. — The reporter asked whether the minister would resign.\n> De redactie zei dat ik moest wachten. — The editors said that I had to wait.\n> De redactie vroeg me te wachten. — The editors asked me to wait.\n\n### zou: only claimed\n\nIn the news, `zou` / `zouden` + infinitive also marks something as **unconfirmed**: the journalist passes it on without vouching for it (English *is said to*, *allegedly*). For the past: `zou hebben` / `zou zijn` + participle. So `De minister zou aftreden` is either \"was going to resign\" or \"is said to be resigning\": context decides.\n\n> Er zouden tien gewonden zijn. — There are said to be ten injured.\n> De burgemeester zou van de fraude hebben geweten. — The mayor allegedly knew about the fraud.\n\nOther ways to mark a claim:\n\n- `volgens` + source, often first, with the verb straight after it.\n- `naar verluidt` (reportedly), `naar eigen zeggen` (by his or her own account).\n- `beweren dat`, `stellen dat`.\n- `aldus` + source after a quotation or a summary of one, with no verb.\n- `schijnen te` (is said to): `Hij schijnt ziek te zijn` (more in B2 · 14).\n\n> Volgens de politie is de dader gevlucht. — According to the police the offender has fled.\n> De brand is onder controle, aldus de brandweer. — The fire is under control, according to the fire brigade.\n\n### Verbs of saying\n\n- `zeggen`, `vertellen`: neutral. `melden`: report news. `stellen`: state firmly.\n- `beweren`: claim; it hints that the claim may be untrue.\n- `benadrukken`: stress. `toegeven`: admit something unpleasant. `ontkennen`: deny.\n- `suggereren`: imply without saying it outright. To propose a plan is `voorstellen`.\n\n### Watch out\n\n- **Inversion after volgens**: `Volgens de politie is de man gevlucht`, not *Volgens de politie de man is gevlucht.\n- **of** for a yes/no question: `Hij vroeg of ik kwam`, not *Hij vroeg dat ik kwam or *als ik kwam.\n- **ontkennen already says no**: `Hij ontkende dat hij had gelogen` means he said he had not lied. A `niet` in the clause turns the meaning around.\n- **aldus takes no verb**: not *aldus zei de woordvoerder.\n\n### Compared with Ukrainian\n\nUkrainian keeps the tense of the original words: `Він сказав, що він хворий`. Dutch moves it back: `Hij zei dat hij ziek was`. The Ukrainian `чи` in a reported question is Dutch `of`.",
+  "words": [
+    {
+      "nl": "verslaggever",
+      "art": "de",
+      "pl": "verslaggevers",
+      "en": "reporter",
+      "pos": "n"
+    },
+    {
+      "nl": "woordvoerder",
+      "art": "de",
+      "pl": "woordvoerders",
+      "en": "spokesperson",
+      "pos": "n"
+    },
+    {
+      "nl": "bron",
+      "art": "de",
+      "pl": "bronnen",
+      "en": "source (of information)",
+      "pos": "n"
+    },
+    {
+      "nl": "persbericht",
+      "art": "het",
+      "pl": "persberichten",
+      "en": "press release",
+      "pos": "n"
+    },
+    {
+      "nl": "persconferentie",
+      "art": "de",
+      "pl": "persconferenties",
+      "en": "press conference",
+      "pos": "n"
+    },
+    {
+      "nl": "redactie",
+      "art": "de",
+      "pl": "redacties",
+      "en": "editorial staff / newsroom",
+      "pos": "n"
+    },
+    {
+      "nl": "bewering",
+      "art": "de",
+      "pl": "beweringen",
+      "en": "claim / assertion",
+      "pos": "n"
+    },
+    {
+      "nl": "verklaring",
+      "art": "de",
+      "pl": "verklaringen",
+      "en": "statement (official)",
+      "pos": "n"
+    },
+    {
+      "nl": "beweren",
+      "past": "beweerde",
+      "perf": "heeft beweerd",
+      "en": "to claim",
+      "pos": "v"
+    },
+    {
+      "nl": "ontkennen",
+      "past": "ontkende",
+      "perf": "heeft ontkend",
+      "en": "to deny",
+      "pos": "v"
+    },
+    {
+      "nl": "toegeven",
+      "past": "gaf toe",
+      "perf": "heeft toegegeven",
+      "en": "to admit",
+      "pos": "v",
+      "tag": "separable"
+    },
+    {
+      "nl": "benadrukken",
+      "past": "benadrukte",
+      "perf": "heeft benadrukt",
+      "en": "to stress / to emphasise",
+      "pos": "v"
+    },
+    {
+      "nl": "suggereren",
+      "past": "suggereerde",
+      "perf": "heeft gesuggereerd",
+      "en": "to imply / to hint",
+      "pos": "v"
+    },
+    {
+      "nl": "anoniem",
+      "en": "anonymous",
+      "pos": "adj"
+    },
+    {
+      "nl": "naar verluidt",
+      "en": "reportedly",
+      "pos": "expr"
+    },
+    {
+      "nl": "aldus",
+      "en": "according to (after a quotation)",
+      "pos": "adv"
+    }
+  ],
+  "sentences": [
+    {
+      "nl": "Tijdens de persconferentie benadrukte de woordvoerder dat het onderzoek nog niet klaar was.",
+      "en": "During the press conference the spokesperson stressed that the investigation was not finished yet.",
+      "hint": [
+        "persconferentie",
+        "benadrukken",
+        "woordvoerder",
+        "onderzoek",
+        "klaar"
+      ],
+      "note": "The words were 'Het onderzoek is nog niet klaar'; after the past verb benadrukte the present is moves back to was, at the end of the dat-clause.",
+      "alt": [
+        "De woordvoerder benadrukte tijdens de persconferentie dat het onderzoek nog niet klaar was."
+      ]
+    },
+    {
+      "nl": "De verslaggever vertelde ons dat hij de minister al drie keer had gebeld.",
+      "en": "The reporter told us that he had already called the minister three times.",
+      "hint": [
+        "verslaggever",
+        "vertellen",
+        "minister",
+        "drie keer",
+        "bellen"
+      ],
+      "note": "His words were 'Ik heb al drie keer gebeld': the perfect becomes the past perfect, had gebeld. Gebeld had is just as correct.",
+      "alt": [
+        "De verslaggever vertelde ons dat hij de minister al drie keer gebeld had."
+      ]
+    },
+    {
+      "nl": "Onze docent zei dat een goede journalist altijd twee bronnen controleert.",
+      "en": "Our teacher said that a good journalist always checks two sources.",
+      "hint": [
+        "docent",
+        "zeggen",
+        "journalist",
+        "bron",
+        "controleren"
+      ],
+      "note": "A general rule that is still true keeps the present after zei: controleert, not controleerde."
+    },
+    {
+      "nl": "De minister beloofde dat hij de volgende dag zou reageren.",
+      "en": "The minister promised that he would respond the next day.",
+      "hint": [
+        "minister",
+        "beloven",
+        "volgende",
+        "dag",
+        "reageren"
+      ],
+      "note": "He said 'Ik reageer morgen'. A future becomes zou + infinitive, and morgen becomes de volgende dag because that day has passed.",
+      "alt": [
+        "De minister beloofde dat hij de volgende dag reageren zou.",
+        "De minister beloofde dat hij de dag erna zou reageren.",
+        "De minister beloofde dat hij de dag erna reageren zou."
+      ]
+    },
+    {
+      "nl": "Bij de explosie zouden tien mensen gewond zijn geraakt.",
+      "en": "Ten people are said to have been injured in the explosion.",
+      "hint": [
+        "explosie",
+        "zullen",
+        "mens",
+        "gewond raken"
+      ],
+      "note": "zouden marks a report that is not confirmed. For something in the past it is zou(den) + zijn/hebben + participle: zouden … gewond zijn geraakt.",
+      "alt": [
+        "Bij de explosie zouden tien mensen gewond geraakt zijn.",
+        "Tien mensen zouden bij de explosie gewond zijn geraakt.",
+        "Tien mensen zouden bij de explosie gewond geraakt zijn.",
+        "Bij de explosie zouden er tien mensen gewond zijn geraakt.",
+        "Bij de explosie zouden er tien mensen gewond geraakt zijn.",
+        "Er zouden bij de explosie tien mensen gewond zijn geraakt.",
+        "Er zouden bij de explosie tien mensen gewond geraakt zijn."
+      ]
+    },
+    {
+      "nl": "Volgens een anonieme bron wist de redactie al maanden van de fraude.",
+      "en": "According to an anonymous source the editorial staff had known about the fraud for months.",
+      "hint": [
+        "volgens",
+        "anoniem",
+        "bron",
+        "redactie",
+        "weten",
+        "fraude"
+      ],
+      "note": "Volgens een anonieme bron is the first element, so the verb wist comes straight after it, before the subject de redactie. Al maanden + past: had known for months.",
+      "alt": [
+        "De redactie wist volgens een anonieme bron al maanden van de fraude.",
+        "Volgens een anonieme bron had de redactie al maanden van de fraude geweten."
+      ]
+    },
+    {
+      "nl": "De verslaggever had de bron naar eigen zeggen nooit ontmoet.",
+      "en": "By his own account, the reporter had never met the source.",
+      "hint": [
+        "verslaggever",
+        "bron",
+        "naar eigen zeggen",
+        "nooit",
+        "ontmoeten"
+      ],
+      "note": "naar eigen zeggen says that only he himself claims this. It stands in the middle like an adverb, or first: Naar eigen zeggen had de verslaggever …",
+      "alt": [
+        "Naar eigen zeggen had de verslaggever de bron nooit ontmoet."
+      ]
+    },
+    {
+      "nl": "Ze vroeg de woordvoerder of de minister zou aftreden.",
+      "en": "She asked the spokesperson whether the minister would resign.",
+      "hint": [
+        "vragen",
+        "woordvoerder",
+        "minister",
+        "aftreden"
+      ],
+      "note": "A yes/no question is reported with of. The question was about the future, so it becomes zou + infinitive at the end of the clause.",
+      "alt": [
+        "Ze vroeg de woordvoerder of de minister af zou treden.",
+        "Ze vroeg de woordvoerder of de minister aftreden zou.",
+        "Ze vroeg aan de woordvoerder of de minister zou aftreden."
+      ]
+    },
+    {
+      "nl": "De redactie zei dat ik het artikel moest inkorten.",
+      "en": "The editors said that I had to shorten the article.",
+      "hint": [
+        "redactie",
+        "zeggen",
+        "artikel",
+        "moeten",
+        "inkorten"
+      ],
+      "note": "The order 'Kort het artikel in!' is reported as dat … moest + infinitive. In the clause the separable verb may stay whole (moest inkorten) or split (in moest korten).",
+      "alt": [
+        "De redactie zei dat ik het artikel in moest korten.",
+        "De redactie zei dat ik het artikel inkorten moest."
+      ]
+    },
+    {
+      "nl": "De minister gaf toe dat hij met de verslaggever had gesproken.",
+      "en": "The minister admitted that he had spoken to the reporter.",
+      "hint": [
+        "minister",
+        "toegeven",
+        "verslaggever",
+        "spreken"
+      ],
+      "note": "toegeven: he admits something he would rather not say. In the main clause the separable verb splits: gaf … toe; the perfect in the clause becomes had gesproken.",
+      "alt": [
+        "De minister gaf toe dat hij met de verslaggever gesproken had.",
+        "De minister gaf toe dat hij de verslaggever had gesproken.",
+        "De minister gaf toe dat hij de verslaggever gesproken had."
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "type": "choose",
+      "nl": "Volgens de woordvoerder ___ geen sprake van fraude.",
+      "options": [
+        "er is",
+        "is er",
+        "er"
+      ],
+      "correct": 1,
+      "en": "According to the spokesperson there is no question of fraud.",
+      "note": "Volgens de woordvoerder is the first element, so the verb comes next: is er. *Volgens de woordvoerder er is breaks the verb-second rule."
+    },
+    {
+      "type": "choose",
+      "nl": "De verslaggever vroeg ___ de minister het persbericht had gelezen.",
+      "options": [
+        "dat",
+        "als",
+        "of",
+        "wat"
+      ],
+      "correct": 2,
+      "en": "The reporter asked whether the minister had read the press release.",
+      "note": "A reported yes/no question starts with of. Dat would make it a statement, and als for 'whether' is not standard Dutch."
+    },
+    {
+      "type": "choose",
+      "nl": "Bij de brand ___ drie mensen gewond zijn geraakt, maar de politie heeft dat nog niet bevestigd.",
+      "options": [
+        "zou",
+        "werden",
+        "zouden"
+      ],
+      "correct": 2,
+      "en": "Three people are said to have been injured in the fire, but the police have not confirmed that yet.",
+      "note": "zou(den) marks an unconfirmed report. The subject drie mensen is plural, so zouden; werden does not go with zijn geraakt."
+    },
+    {
+      "type": "choose",
+      "nl": "De krant ___ dat de minister iets te verbergen had, maar schreef het niet letterlijk.",
+      "options": [
+        "benadrukte",
+        "suggereerde",
+        "gaf toe"
+      ],
+      "correct": 1,
+      "en": "The newspaper implied that the minister had something to hide, but did not write it in so many words.",
+      "note": "suggereren is saying something without saying it outright. Benadrukken (to stress) does not fit with 'niet letterlijk', and a newspaper cannot admit something on the minister's behalf."
+    },
+    {
+      "type": "gap",
+      "nl": "Vorige week beweerde de politicus dat hij ziek ___ (zijn), maar die avond stond hij gewoon op een feest.",
+      "answers": [
+        "was"
+      ],
+      "en": "Last week the politician claimed that he was ill, but that evening he was simply at a party.",
+      "note": "After the past verb beweerde, 'ik ben ziek' becomes was. Beweren also shows that the claim was doubtful."
+    },
+    {
+      "type": "gap",
+      "nl": "Op maandag zei de woordvoerder dat de minister de volgende dag een verklaring ___ (zullen) afleggen.",
+      "answers": [
+        "zou"
+      ],
+      "en": "On Monday the spokesperson said that the minister would make a statement the next day.",
+      "note": "A future reported after a past verb becomes zou + infinitive. Zal belongs to the moment of speaking, which lies in the past."
+    },
+    {
+      "type": "gap",
+      "nl": "'Ik bel je morgen,' zei de bron vorige week. Hij zei dat hij me ___ zou bellen.",
+      "answers": [
+        "de volgende dag",
+        "de dag erna",
+        "de dag daarna"
+      ],
+      "en": "He said that he would call me the next day.",
+      "note": "Morgen was seen from last week, so it becomes de volgende dag (or de dag erna). Morgen now would mean a different day."
+    },
+    {
+      "type": "gap",
+      "nl": "'Ik heb de bron gisteren gesproken.' Ze vertelde dat ze de bron de dag ervoor ___ (hebben) gesproken.",
+      "answers": [
+        "had"
+      ],
+      "en": "She said that she had spoken to the source the day before.",
+      "note": "The perfect heb gesproken becomes the past perfect had gesproken after vertelde, and gisteren becomes de dag ervoor."
+    },
+    {
+      "type": "order",
+      "lead": "Volgens de politie",
+      "words": [
+        "zijn",
+        "er",
+        "bij de brand",
+        "twee mensen",
+        "gewond geraakt"
+      ],
+      "answers": [
+        "Volgens de politie zijn er bij de brand twee mensen gewond geraakt.",
+        "Volgens de politie zijn er twee mensen bij de brand gewond geraakt.",
+        "Volgens de politie zijn er twee mensen gewond geraakt bij de brand."
+      ],
+      "en": "According to the police two people were injured in the fire.",
+      "note": "After Volgens de politie comes the verb zijn, then er. Bij de brand may stand before or after twee mensen, or after the participle."
+    },
+    {
+      "type": "order",
+      "lead": "De verslaggever vroeg",
+      "words": [
+        "of",
+        "de woordvoerder",
+        "het nieuws",
+        "kon",
+        "bevestigen"
+      ],
+      "answers": [
+        "De verslaggever vroeg of de woordvoerder het nieuws kon bevestigen.",
+        "De verslaggever vroeg of de woordvoerder het nieuws bevestigen kon."
+      ],
+      "en": "The reporter asked whether the spokesperson could confirm the news.",
+      "note": "of starts the reported question and the verbs go to the end. Kon bevestigen is the usual order; bevestigen kon is also correct."
+    },
+    {
+      "type": "rewrite",
+      "task": "The spokesperson (he) said this. Report it with ontkennen: start with De woordvoerder ontkende dat.",
+      "from": "Ik heb het persbericht niet geschreven.",
+      "answers": [
+        "De woordvoerder ontkende dat hij het persbericht had geschreven.",
+        "De woordvoerder ontkende dat hij het persbericht geschreven had."
+      ],
+      "en": "The spokesperson denied that he had written the press release.",
+      "note": "ontkennen already contains the 'not', so niet goes. With niet the sentence would mean that he claims he did write it. Heb geschreven becomes had geschreven."
+    },
+    {
+      "type": "rewrite",
+      "task": "A journalist asked the spokesperson (he) this. Report it: start with De journalist vroeg de woordvoerder.",
+      "from": "Waarom heeft u de bron niet genoemd?",
+      "answers": [
+        "De journalist vroeg de woordvoerder waarom hij de bron niet had genoemd.",
+        "De journalist vroeg de woordvoerder waarom hij de bron niet genoemd had."
+      ],
+      "en": "The journalist asked the spokesperson why he had not named the source.",
+      "note": "The question word waarom stays and starts the clause; u becomes hij, and heeft genoemd becomes had genoemd at the end."
+    },
+    {
+      "type": "rewrite",
+      "task": "The press officer said this to us. Report it later, somewhere else: start with De persvoorlichter vroeg ons, and use te.",
+      "from": "Wacht hier, alstublieft.",
+      "answers": [
+        "De persvoorlichter vroeg ons daar te wachten.",
+        "De persvoorlichter vroeg ons om daar te wachten."
+      ],
+      "en": "The press officer asked us to wait there.",
+      "note": "A request becomes vragen + (om) te + infinitive. We are no longer in that place, so hier becomes daar."
+    },
+    {
+      "type": "rewrite",
+      "task": "Say the same with zou instead of naar verluidt. Start with De minister.",
+      "from": "Naar verluidt heeft de minister gelogen.",
+      "answers": [
+        "De minister zou hebben gelogen.",
+        "De minister zou gelogen hebben."
+      ],
+      "en": "The minister allegedly lied.",
+      "note": "For an unconfirmed claim about the past use zou + hebben + participle. Both orders of hebben and gelogen are correct."
+    },
+    {
+      "type": "fix",
+      "wrong": "Volgens de redactie de bewering klopt niet.",
+      "answers": [
+        "Volgens de redactie klopt de bewering niet."
+      ],
+      "en": "According to the editors the claim is not correct.",
+      "note": "Volgens de redactie fills the first place, so the verb klopt must come second, before the subject de bewering."
+    },
+    {
+      "type": "fix",
+      "wrong": "Het onderzoek is afgerond, aldus zei de woordvoerder.",
+      "answers": [
+        "Het onderzoek is afgerond, aldus de woordvoerder.",
+        "Het onderzoek is afgerond, zei de woordvoerder."
+      ],
+      "en": "The investigation has been completed, according to the spokesperson.",
+      "note": "aldus + source already means 'so says': it takes no verb. Either aldus de woordvoerder or zei de woordvoerder, not both."
+    }
+  ]
+}

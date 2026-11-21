@@ -1,0 +1,435 @@
+{
+  "id": "a2-14",
+  "level": "A2",
+  "icon": "✈️",
+  "title": "On holiday",
+  "grammar": "The perfect tense: irregular verbs, hebben or zijn",
+  "summary": "Strong verbs: ge + stem + en, often with a new vowel (gelezen, gedronken). zijn for movement to a place and for a change of state (ben gegaan, is begonnen, ben gebleven, ben geweest); hebben for the rest.",
+  "explain": "Unit A2 · 13 built the perfect tense with `hebben` and a regular participle (`gewerkt`, `gespeeld`). Two things are still missing: many of the most common verbs have an **irregular participle**, and some verbs take **zijn** instead of `hebben`.\n\n### Strong verbs: ge + stem + en\n\nStrong verbs (*sterke werkwoorden*) end their participle in **-en**, and the vowel often changes. There are patterns, but in the end you learn each verb. More: `blijven → gebleven`, `krijgen → gekregen`, `zwemmen → gezwommen`, `eten → gegeten`, `zien → gezien`.\n\n| pattern | infinitive | participle |\n| ij → e | schrijven, rijden | geschreven, gereden |\n| i → o | drinken, vinden | gedronken, gevonden |\n| e → o | nemen, spreken | genomen, gesproken |\n| ie → o | vliegen | gevlogen |\n| no change | lezen, slapen | gelezen, geslapen |\n\nSome verbs are irregular in other ways: `doen → gedaan`, `hebben → gehad`, `zijn → geweest`, `gaan → gegaan`, `komen → gekomen`. And a few end in **-cht**: `brengen → gebracht`, `kopen → gekocht`, `denken → gedacht`, `zoeken → gezocht`.\n\nThe prefixes work as with regular verbs: `meenemen → meegenomen`, `aankomen → aangekomen`, but `vertrekken → vertrokken` and `beginnen → begonnen`, without ge. The app has a separate irregular-verbs course for learning these forms by heart.\n\n> We hebben veel Spaans gesproken. — We spoke a lot of Spanish.\n> Ik heb op het strand een boek gelezen. — I read a book on the beach.\n\n### zijn instead of hebben\n\nMost verbs take `hebben`. A verb takes `zijn` (ik ben, jij bent, hij is, wij zijn) when it means **movement to somewhere** or a **change of state**:\n\n- `gaan, komen, vertrekken, aankomen, terugkomen, vallen`\n- `worden, beginnen, stoppen, gebeuren, opstaan, groeien, sterven, verhuizen, slagen, trouwen`\n- and two that you simply learn: `blijven` (ben gebleven) and `zijn` itself (ben geweest).\n\n> De trein is om zes uur vertrokken. — The train left at six o'clock.\n> Wij zijn in een mooi hotel gebleven. — We stayed in a nice hotel.\n\n### Movement verbs: where to, or the activity?\n\n`lopen, fietsen, rijden, vliegen, zwemmen, reizen` can take either. Use **zijn** when a destination or direction is given (`naar`, `naar huis`, `naar de overkant`). Use **hebben** when it is about the activity itself: how long, how much, how often.\n\n> Ik ben naar Parijs gevlogen. — I flew to Paris.\n> Ik heb nog nooit gevlogen. — I have never flown.\n> We hebben de hele ochtend gefietst. — We cycled all morning.\n\n### vergeten: both\n\n`vergeten` takes `zijn` or `hebben`, and both are correct: `Ik ben mijn paspoort vergeten`, `Ik heb mijn paspoort vergeten`. With `zijn` it is more common.\n\n### Word order\n\nNothing changes: `ben` or `heb` stands second (first in a yes/no question), the participle goes to the end, and `niet` stands before the participle.\n\n> Ben je wel eens in Italië geweest? — Have you ever been to Italy?\n\n### Watch out\n\n- **I have been** is `Ik ben geweest`, not *Ik heb geweest. English \"have been\" pulls the wrong way here.\n- Going somewhere takes zijn: `Wij zijn vertrokken`, not *Wij hebben vertrokken.\n- No regular ending on a strong verb: `gedronken`, not *gedrinkt; `gekocht`, not *gekoopt; `gebracht`, not *gebrengd.\n- With a destination, a movement verb takes zijn: `Ik ben naar huis gelopen`, but `Ik heb veel gelopen`.\n\n### Compared with Ukrainian\n\nUkrainian has no helping verb in the past at all, and English always uses \"have\". Dutch makes you choose, and the choice depends on the meaning of the verb, not on the person. `Я поїхала до Львова` becomes `Ik ben naar Lviv gegaan`, with `ben`.",
+  "words": [
+    {
+      "nl": "koffer",
+      "art": "de",
+      "pl": "koffers",
+      "en": "suitcase",
+      "pos": "n"
+    },
+    {
+      "nl": "vliegveld",
+      "art": "het",
+      "pl": "vliegvelden",
+      "en": "airport",
+      "pos": "n"
+    },
+    {
+      "nl": "camping",
+      "art": "de",
+      "pl": "campings",
+      "en": "campsite",
+      "pos": "n"
+    },
+    {
+      "nl": "tent",
+      "art": "de",
+      "pl": "tenten",
+      "en": "tent",
+      "pos": "n"
+    },
+    {
+      "nl": "bestemming",
+      "art": "de",
+      "pl": "bestemmingen",
+      "en": "destination",
+      "pos": "n"
+    },
+    {
+      "nl": "uitzicht",
+      "art": "het",
+      "pl": "uitzichten",
+      "en": "view",
+      "pos": "n"
+    },
+    {
+      "nl": "taxi",
+      "art": "de",
+      "pl": "taxi's",
+      "en": "taxi",
+      "pos": "n"
+    },
+    {
+      "nl": "paspoort",
+      "art": "het",
+      "pl": "paspoorten",
+      "en": "passport",
+      "pos": "n"
+    },
+    {
+      "nl": "rugzak",
+      "art": "de",
+      "pl": "rugzakken",
+      "en": "rucksack / backpack",
+      "pos": "n"
+    },
+    {
+      "nl": "vertrekken",
+      "past": "vertrok",
+      "perf": "is vertrokken",
+      "en": "to leave / to depart",
+      "pos": "v"
+    },
+    {
+      "nl": "aankomen",
+      "past": "kwam aan",
+      "perf": "is aangekomen",
+      "en": "to arrive",
+      "pos": "v",
+      "tag": "separable"
+    },
+    {
+      "nl": "vliegen",
+      "past": "vloog",
+      "perf": "heeft/is gevlogen",
+      "en": "to fly",
+      "pos": "v"
+    },
+    {
+      "nl": "terugkomen",
+      "past": "kwam terug",
+      "perf": "is teruggekomen",
+      "en": "to come back",
+      "pos": "v",
+      "tag": "separable"
+    },
+    {
+      "nl": "huren",
+      "past": "huurde",
+      "perf": "heeft gehuurd",
+      "en": "to rent / to hire",
+      "pos": "v"
+    },
+    {
+      "nl": "genieten",
+      "past": "genoot",
+      "perf": "heeft genoten",
+      "en": "to enjoy",
+      "pos": "v",
+      "tag": "genieten van"
+    },
+    {
+      "nl": "onderweg",
+      "en": "on the way",
+      "pos": "adv"
+    }
+  ],
+  "sentences": [
+    {
+      "nl": "Vorig jaar zijn we naar Portugal gevlogen.",
+      "en": "Last year we flew to Portugal.",
+      "hint": [
+        "vorig",
+        "jaar",
+        "zijn",
+        "vliegen"
+      ],
+      "note": "naar Portugal gives a destination, so vliegen takes zijn here. The participle gevlogen is strong: ie becomes o.",
+      "alt": [
+        "We zijn vorig jaar naar Portugal gevlogen."
+      ]
+    },
+    {
+      "nl": "Ik heb nog nooit in een tent geslapen.",
+      "en": "I have never slept in a tent.",
+      "hint": [
+        "hebben",
+        "nog nooit",
+        "tent",
+        "slapen"
+      ],
+      "note": "slapen is a strong verb whose vowel stays the same: geslapen, with -en. Sleeping is not a movement, so hebben."
+    },
+    {
+      "nl": "Hoe laat is de trein vertrokken?",
+      "en": "What time did the train leave?",
+      "hint": [
+        "hoe laat",
+        "trein",
+        "vertrekken"
+      ],
+      "note": "vertrekken means going away from a place, so it takes zijn. The prefix ver- means there is no ge: vertrokken."
+    },
+    {
+      "nl": "Na tien uur zijn we eindelijk op onze bestemming aangekomen.",
+      "en": "After ten hours we finally arrived at our destination.",
+      "hint": [
+        "na",
+        "uur",
+        "eindelijk",
+        "bestemming",
+        "aankomen"
+      ],
+      "note": "aankomen takes zijn (movement to a place). It is separable, so ge goes in the middle: aangekomen.",
+      "alt": [
+        "We zijn na tien uur eindelijk op onze bestemming aangekomen."
+      ]
+    },
+    {
+      "nl": "Op vakantie hebben we elke dag gezwommen.",
+      "en": "On holiday we swam every day.",
+      "hint": [
+        "vakantie",
+        "hebben",
+        "elke dag",
+        "zwemmen"
+      ],
+      "note": "No destination, just the activity, so hebben. Zwemmen is strong: i becomes o, gezwommen.",
+      "alt": [
+        "We hebben op vakantie elke dag gezwommen."
+      ]
+    },
+    {
+      "nl": "Ik ben mijn paspoort vergeten!",
+      "en": "I have forgotten my passport!",
+      "hint": [
+        "zijn",
+        "paspoort",
+        "vergeten"
+      ],
+      "note": "vergeten can take zijn or hebben; ben is the more common choice. The participle looks like the infinitive: vergeten.",
+      "alt": [
+        "Ik heb mijn paspoort vergeten!"
+      ]
+    },
+    {
+      "nl": "Wat heb je in je koffer meegenomen?",
+      "en": "What did you bring in your suitcase?",
+      "hint": [
+        "wat",
+        "hebben",
+        "koffer",
+        "meenemen"
+      ],
+      "note": "nemen → genomen (e becomes o), and the separable prefix mee goes in front: meegenomen. Taking something is not moving to a place: hebben.",
+      "alt": [
+        "Wat heb jij in je koffer meegenomen?"
+      ]
+    },
+    {
+      "nl": "Ben je wel eens in het buitenland geweest?",
+      "en": "Have you ever been abroad?",
+      "hint": [
+        "zijn",
+        "wel eens",
+        "buitenland"
+      ],
+      "note": "zijn takes zijn: ben … geweest. English \"have been\" tempts you to say heb, but that is wrong.",
+      "alt": [
+        "Ben jij wel eens in het buitenland geweest?",
+        "Ben je weleens in het buitenland geweest?",
+        "Ben jij weleens in het buitenland geweest?",
+        "Ben je ooit in het buitenland geweest?",
+        "Ben jij ooit in het buitenland geweest?"
+      ]
+    },
+    {
+      "nl": "In Kroatië hebben we een auto gehuurd.",
+      "en": "In Croatia we rented a car.",
+      "hint": [
+        "Kroatië",
+        "hebben",
+        "auto",
+        "huren"
+      ],
+      "note": "huren is a regular verb with hebben: ge + huur + d. Not every travel verb takes zijn, only movement to somewhere.",
+      "alt": [
+        "We hebben in Kroatië een auto gehuurd."
+      ]
+    },
+    {
+      "nl": "Ze zijn gisteren uit Spanje teruggekomen.",
+      "en": "They came back from Spain yesterday.",
+      "hint": [
+        "zijn",
+        "gisteren",
+        "Spanje",
+        "terugkomen"
+      ],
+      "note": "terugkomen is movement, so zijn. Komen keeps its vowel (gekomen), and ge goes after the prefix terug.",
+      "alt": [
+        "Gisteren zijn ze uit Spanje teruggekomen."
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "type": "choose",
+      "nl": "Wij ___ naar Spanje gereden.",
+      "options": [
+        "hebben",
+        "zijn",
+        "worden"
+      ],
+      "correct": 1,
+      "en": "We drove to Spain.",
+      "note": "naar Spanje is a destination, so rijden takes zijn. Without a destination it would be hebben: We hebben veel gereden."
+    },
+    {
+      "type": "choose",
+      "nl": "Ik heb vandaag zes uur ___.",
+      "options": [
+        "gerijd",
+        "gereden",
+        "gerijden"
+      ],
+      "correct": 1,
+      "en": "I drove for six hours today.",
+      "note": "rijden is a strong verb: ij becomes e and the participle ends in -en, gereden. It is about the activity, so hebben."
+    },
+    {
+      "type": "choose",
+      "nl": "Heb je op vakantie veel boeken ___?",
+      "options": [
+        "geleesd",
+        "gelezen",
+        "gelezd"
+      ],
+      "correct": 1,
+      "en": "Did you read a lot of books on holiday?",
+      "note": "lezen is strong: the participle is ge + lez + en, gelezen. The regular d or t ending does not exist for it."
+    },
+    {
+      "type": "choose",
+      "nl": "De bus ___ om acht uur vertrokken.",
+      "options": [
+        "heeft",
+        "hebben",
+        "is"
+      ],
+      "correct": 2,
+      "en": "The bus left at eight o'clock.",
+      "note": "vertrekken is movement away from a place, so it takes zijn. De bus is singular: is."
+    },
+    {
+      "type": "gap",
+      "nl": "We hebben een taxi naar het vliegveld ___ (nemen).",
+      "answers": [
+        "genomen"
+      ],
+      "en": "We took a taxi to the airport.",
+      "note": "nemen is strong: e becomes o, genomen. The destination belongs to the taxi ride; the verb itself is nemen, which always takes hebben."
+    },
+    {
+      "type": "gap",
+      "nl": "Ik ___ (zijn) twee keer in Rome geweest.",
+      "answers": [
+        "ben"
+      ],
+      "en": "I have been to Rome twice.",
+      "note": "zijn makes its perfect with zijn: ik ben geweest. Never heb geweest."
+    },
+    {
+      "type": "gap",
+      "nl": "Zij zijn een week langer ___ (blijven).",
+      "answers": [
+        "gebleven"
+      ],
+      "en": "They stayed a week longer.",
+      "note": "blijven is strong: ij becomes e, gebleven. It is one of the verbs that take zijn although nothing moves."
+    },
+    {
+      "type": "gap",
+      "nl": "Hebben jullie onderweg een goed hotel ___ (vinden)?",
+      "answers": [
+        "gevonden"
+      ],
+      "en": "Did you (plural) find a good hotel on the way?",
+      "note": "vinden is strong: i becomes o, gevonden. Not gevind or gevindt."
+    },
+    {
+      "type": "gap",
+      "nl": "We hebben erg van het uitzicht ___ (genieten).",
+      "answers": [
+        "genoten"
+      ],
+      "en": "We really enjoyed the view.",
+      "note": "genieten starts with the prefix ge-, so no second ge is added. It is strong: ie becomes o, genoten."
+    },
+    {
+      "type": "order",
+      "lead": "Gisteren",
+      "words": [
+        "heb",
+        "ik",
+        "mijn rugzak",
+        "ingepakt"
+      ],
+      "answers": [
+        "Gisteren heb ik mijn rugzak ingepakt."
+      ],
+      "en": "Yesterday I packed my rucksack.",
+      "note": "heb stands second after Gisteren, the subject follows, and the participle ingepakt goes last."
+    },
+    {
+      "type": "order",
+      "lead": "Hoe laat",
+      "words": [
+        "zijn",
+        "jullie",
+        "in het hotel",
+        "aangekomen"
+      ],
+      "answers": [
+        "Hoe laat zijn jullie in het hotel aangekomen?"
+      ],
+      "en": "What time did you (plural) arrive at the hotel?",
+      "note": "After the question words comes the auxiliary zijn (aankomen takes zijn), then the subject. The participle closes the question."
+    },
+    {
+      "type": "rewrite",
+      "task": "Put it in the perfect tense.",
+      "from": "We gaan met de trein naar Berlijn.",
+      "answers": [
+        "We zijn met de trein naar Berlijn gegaan."
+      ],
+      "en": "We went to Berlin by train.",
+      "note": "gaan takes zijn and has the participle gegaan. The participle goes to the very end."
+    },
+    {
+      "type": "rewrite",
+      "task": "Put it in the perfect tense.",
+      "from": "Ik zwem elke ochtend in het meer.",
+      "answers": [
+        "Ik heb elke ochtend in het meer gezwommen."
+      ],
+      "en": "I swam in the lake every morning.",
+      "note": "in het meer says where, not where to: it is about the activity, so hebben. Zwemmen → gezwommen."
+    },
+    {
+      "type": "rewrite",
+      "task": "Put it in the perfect tense.",
+      "from": "Wij fietsen naar de camping.",
+      "answers": [
+        "Wij zijn naar de camping gefietst."
+      ],
+      "en": "We cycled to the campsite.",
+      "note": "naar de camping is a destination, so zijn. Fietsen itself is regular: the stem fiets ends in s, so gefietst."
+    },
+    {
+      "type": "fix",
+      "wrong": "Ik heb vorig jaar in Griekenland geweest.",
+      "answers": [
+        "Ik ben vorig jaar in Griekenland geweest."
+      ],
+      "en": "I was in Greece last year.",
+      "note": "The perfect of zijn takes zijn: ik ben geweest. \"Heb geweest\" is a very common mistake, because English says \"have been\"."
+    },
+    {
+      "type": "fix",
+      "wrong": "Ze heeft een nieuwe tent gekoopt.",
+      "answers": [
+        "Ze heeft een nieuwe tent gekocht."
+      ],
+      "en": "She bought a new tent.",
+      "note": "kopen is irregular: gekocht, with -cht. The regular form gekoopt does not exist."
+    }
+  ]
+}

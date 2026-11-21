@@ -1,0 +1,408 @@
+{
+  "id": "a2-10",
+  "level": "A2",
+  "icon": "👕",
+  "title": "Clothes and colours",
+  "grammar": "Adjectives: with or without -e",
+  "summary": "After the verb an adjective never changes: de trui is rood. Before a noun it gets -e (een rode trui, het rode vest), except with a het-word in the singular after een, geen or no article: een rood vest.",
+  "explain": "An adjective (*bijvoeglijk naamwoord*) describes a noun: red, warm, tight. Dutch adjectives have only two forms, with and without `-e`: `rood` and `rode`. Which one you need depends on where the adjective stands and, before a noun, on the noun.\n\n### After the verb: no change\n\nAfter `zijn`, `worden` and `blijven` the adjective says something about the subject and never changes, whatever the noun is.\n\n> Mijn nieuwe trui is paars. — My new sweater is purple.\n> Het witte overhemd is te groot. — The white shirt is too big.\n\n### Before the noun: -e, with one exception\n\nBefore a noun the adjective gets `-e`. The **one exception**: a het-word in the singular after `een`, `geen` or no article at all. Then there is no `-e`.\n\n| | de, het, mijn, dit … | een, geen, no article |\n| de-word | de rode trui | een rode trui |\n| het-word | het rode vest | een rood vest |\n| plural | de rode truien | rode truien |\n\nSo only one box in the table has no `-e`; with no article that is a het-word like `mooi weer` or `koud water`. That means:\n\n- a **de-word** always gets `-e`: `een warme trui`, `de warme trui`.\n- a **plural** always gets `-e`: `warme truien`, `geen warme truien`.\n- `het`, `dit`, `dat` and every possessive (`mijn`, `jouw`, `ons` …) bring the `-e` back, also with a het-word: `het nieuwe pak`, `dit oude vest`, `mijn nieuwe overhemd`.\n\n> Hij draagt een wit overhemd en een grijs pak. — He is wearing a white shirt and a grey suit.\n> Ik zoek een warm vest voor de winter. — I am looking for a warm cardigan for the winter.\n> Ze draagt een strakke spijkerbroek en een wijde trui. — She is wearing tight jeans and a loose sweater.\n\nThe same exception holds after `elk`, `ieder`, `veel`, `weinig`, `welk`, `zo'n` and `wat voor (een)`: `zo'n lelijk vest`, `elk klein kind`. With a de-word or a plural the `-e` stays: `zo'n lelijke trui`.\n\n### Spelling when -e is added\n\nThe `-e` adds a syllable, and the spelling follows the same rules as with verbs (unit A2 · 1):\n\n- a double vowel loses one letter when it ends the syllable: `groot → gro-te`, `geel → ge-le`. Before two consonants it stays: `paars → paarse`.\n- a short vowel doubles the consonant: `wit → witte`, `dun → dunne`, `strak → strakke`.\n- in some words f becomes v and s becomes z, as you hear it: `lief → lieve`, `vies → vieze`, `grijs → grijze`. Many others keep their f or s: `paars → paarse`, `fris → frisse`.\n\n### Adjectives that never get -e\n\n- materials ending in `-en`: `wollen`, `leren`, `houten`, `gouden`, `zijden`. The same goes for `eigen` and `open`.\n- `oranje`, `roze`, `lila`, `plastic` and `nylon`.\n\n> Mijn oma breit een wollen sjaal voor me. — My grandmother is knitting a woollen scarf for me.\n> Ze draagt een roze jurk met een oranje sjaal. — She is wearing a pink dress with an orange scarf.\n\nAfter the verb you name the material with `van`: `Mijn laarzen zijn van leer`; before the noun it is `leren laarzen`.\n\n### Watch out\n\n- After the verb, no `-e`: `De trui is rood`, never *De trui is rode.\n- A het-word after `een`: `een zwart pak`, not *een zwarte pak.\n- With `het` or a possessive the `-e` returns: `het rode vest`, `mijn nieuwe pak`, not *het rood vest or *mijn nieuw pak.\n- A material in `-en` stays as it is: `een wollen sjaal`, not *een wollene sjaal.\n- Check the spelling: `witte`, `grote`, not *wite or *groote.\n\n### Compared with Ukrainian\n\nUkrainian adjectives agree with the noun in gender, number and case: `червоний, червона, червоне, червоні` and all their case forms. Dutch has only this one choice, with or without `-e`, and the only thing that can take the `-e` away is a het-word in the singular after `een`, `geen` or nothing. Comparing (`groter`, `het grootst`) is unit A2 · 19.",
+  "words": [
+    {
+      "nl": "trui",
+      "art": "de",
+      "pl": "truien",
+      "en": "sweater / jumper",
+      "pos": "n"
+    },
+    {
+      "nl": "spijkerbroek",
+      "art": "de",
+      "pl": "spijkerbroeken",
+      "en": "jeans",
+      "pos": "n"
+    },
+    {
+      "nl": "jurk",
+      "art": "de",
+      "pl": "jurken",
+      "en": "dress",
+      "pos": "n"
+    },
+    {
+      "nl": "overhemd",
+      "art": "het",
+      "pl": "overhemden",
+      "en": "shirt (with buttons)",
+      "pos": "n"
+    },
+    {
+      "nl": "vest",
+      "art": "het",
+      "pl": "vesten",
+      "en": "cardigan",
+      "pos": "n"
+    },
+    {
+      "nl": "sjaal",
+      "art": "de",
+      "pl": "sjaals",
+      "en": "scarf",
+      "pos": "n"
+    },
+    {
+      "nl": "laars",
+      "art": "de",
+      "pl": "laarzen",
+      "en": "boot",
+      "pos": "n"
+    },
+    {
+      "nl": "stof",
+      "art": "de",
+      "pl": "stoffen",
+      "en": "fabric / material",
+      "pos": "n"
+    },
+    {
+      "nl": "wol",
+      "art": "de",
+      "pl": "",
+      "en": "wool",
+      "pos": "n",
+      "tag": "no plural"
+    },
+    {
+      "nl": "leer",
+      "art": "het",
+      "pl": "",
+      "en": "leather",
+      "pos": "n",
+      "tag": "no plural"
+    },
+    {
+      "nl": "paars",
+      "en": "purple",
+      "pos": "adj"
+    },
+    {
+      "nl": "strak",
+      "en": "tight",
+      "pos": "adj"
+    },
+    {
+      "nl": "wijd",
+      "en": "loose / wide",
+      "pos": "adj"
+    },
+    {
+      "nl": "gestreept",
+      "en": "striped",
+      "pos": "adj"
+    },
+    {
+      "nl": "lelijk",
+      "en": "ugly",
+      "pos": "adj"
+    },
+    {
+      "nl": "dun",
+      "en": "thin",
+      "pos": "adj"
+    }
+  ],
+  "sentences": [
+    {
+      "nl": "Mijn nieuwe trui is paars.",
+      "en": "My new sweater is purple.",
+      "hint": [
+        "nieuw",
+        "trui",
+        "paars"
+      ],
+      "note": "Before the noun: nieuwe, with -e after mijn. After is: paars, which never changes."
+    },
+    {
+      "nl": "Ze draagt een strakke spijkerbroek en een wijde trui.",
+      "en": "She is wearing tight jeans and a loose sweater.",
+      "hint": [
+        "dragen",
+        "strak",
+        "spijkerbroek",
+        "wijd",
+        "trui"
+      ],
+      "note": "Both nouns are de-words, so both adjectives get -e, also after een. Strak has a short a, so the k is doubled: strakke."
+    },
+    {
+      "nl": "Hij draagt een wit overhemd en een grijs pak.",
+      "en": "He is wearing a white shirt and a grey suit.",
+      "hint": [
+        "dragen",
+        "wit",
+        "overhemd",
+        "grijs",
+        "pak"
+      ],
+      "note": "Overhemd and pak are het-words in the singular after een: the one case without -e."
+    },
+    {
+      "nl": "Het witte overhemd is te groot.",
+      "en": "The white shirt is too big.",
+      "hint": [
+        "wit",
+        "overhemd",
+        "te",
+        "groot"
+      ],
+      "note": "With het the -e comes back: het witte overhemd, with tt for the short i. Groot after is does not change."
+    },
+    {
+      "nl": "Ik zoek een warm vest voor de winter.",
+      "en": "I am looking for a warm cardigan for the winter.",
+      "hint": [
+        "zoeken",
+        "warm",
+        "vest",
+        "winter"
+      ],
+      "note": "Vest is a het-word, singular, after een: warm without -e. With a de-word it would be een warme trui."
+    },
+    {
+      "nl": "Mijn laarzen zijn van leer.",
+      "en": "My boots are made of leather.",
+      "hint": [
+        "laars",
+        "zijn",
+        "van",
+        "leer"
+      ],
+      "note": "After the verb the material is van leer. Before the noun it would be leren laarzen, and leren never gets -e."
+    },
+    {
+      "nl": "Mijn oma breit een wollen sjaal voor me.",
+      "en": "My grandmother is knitting a woollen scarf for me.",
+      "hint": [
+        "oma",
+        "breien",
+        "wollen",
+        "sjaal"
+      ],
+      "note": "Sjaal is a de-word, but wollen is a material in -en and never gets an -e.",
+      "alt": [
+        "Mijn oma breit een wollen sjaal voor mij."
+      ]
+    },
+    {
+      "nl": "Ze draagt een roze jurk met een oranje sjaal.",
+      "en": "She is wearing a pink dress with an orange scarf.",
+      "hint": [
+        "dragen",
+        "roze",
+        "jurk",
+        "met",
+        "oranje",
+        "sjaal"
+      ],
+      "note": "Roze and oranje already end in -e and never change: never rozee or oranjee."
+    },
+    {
+      "nl": "De gestreepte stof is mooi, maar te dun.",
+      "en": "The striped fabric is nice, but too thin.",
+      "hint": [
+        "gestreept",
+        "stof",
+        "mooi",
+        "te",
+        "dun"
+      ],
+      "note": "Before the noun: gestreepte. After is, mooi and dun stay as they are; before a noun dun would become dunne."
+    },
+    {
+      "nl": "Zo'n lelijk vest draag ik nooit.",
+      "en": "I never wear an ugly cardigan like that.",
+      "hint": [
+        "zo'n",
+        "lelijk",
+        "vest",
+        "dragen",
+        "nooit"
+      ],
+      "note": "Zo'n works like een: with a het-word in the singular the adjective has no -e. With a de-word: zo'n lelijke trui.",
+      "alt": [
+        "Ik draag nooit zo'n lelijk vest."
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "type": "choose",
+      "nl": "De jurk is ___.",
+      "options": [
+        "rode",
+        "rood",
+        "roode"
+      ],
+      "correct": 1,
+      "en": "The dress is red.",
+      "note": "After the verb the adjective never changes: rood. Roode is wrong spelling: the oo is only needed when the syllable is closed."
+    },
+    {
+      "type": "choose",
+      "nl": "Ik zoek ___ voor mijn zoon.",
+      "options": [
+        "een warme vest",
+        "een warm vest",
+        "het warm vest",
+        "de warme vest"
+      ],
+      "correct": 1,
+      "en": "I am looking for a warm cardigan for my son.",
+      "note": "Vest is a het-word: so not de, and after een there is no -e. After het it would be het warme vest."
+    },
+    {
+      "type": "choose",
+      "nl": "Hij draagt vandaag het ___ overhemd.",
+      "options": [
+        "wit",
+        "wite",
+        "witte"
+      ],
+      "correct": 2,
+      "en": "He is wearing the white shirt today.",
+      "note": "After het the adjective gets -e. The i in wit is short, so the t is doubled: witte."
+    },
+    {
+      "type": "choose",
+      "nl": "Oma geeft me een ___ sjaal.",
+      "options": [
+        "wollen",
+        "wollene",
+        "wol"
+      ],
+      "correct": 0,
+      "en": "Grandma is giving me a woollen scarf.",
+      "note": "Adjectives of material in -en never get -e: een wollen sjaal. Wol is the noun (wool)."
+    },
+    {
+      "type": "choose",
+      "nl": "Mijn ___ spijkerbroek is te strak.",
+      "options": [
+        "oud",
+        "oude",
+        "ouden"
+      ],
+      "correct": 1,
+      "en": "My old jeans are too tight.",
+      "note": "Spijkerbroek is a de-word, and after mijn the adjective always gets -e: oude."
+    },
+    {
+      "type": "gap",
+      "nl": "Ik zoek ___ (lang) laarzen voor de winter.",
+      "answers": [
+        "lange"
+      ],
+      "en": "I am looking for long boots for the winter.",
+      "note": "A plural always gets -e, also without an article: lange laarzen."
+    },
+    {
+      "type": "gap",
+      "nl": "Hij draagt zijn ___ (nieuw) pak op de bruiloft.",
+      "answers": [
+        "nieuwe"
+      ],
+      "en": "He is wearing his new suit at the wedding.",
+      "note": "Pak is a het-word, but after a possessive like zijn the adjective gets -e. The exception is only after een, geen or no article."
+    },
+    {
+      "type": "gap",
+      "nl": "Zo'n ___ (dun) overhemd is te koud voor de winter.",
+      "answers": [
+        "dun"
+      ],
+      "en": "A thin shirt like that is too cold for the winter.",
+      "note": "Zo'n works like een: overhemd is a het-word in the singular, so no -e."
+    },
+    {
+      "type": "gap",
+      "nl": "Ze draagt een ___ (grijs) trui.",
+      "answers": [
+        "grijze"
+      ],
+      "en": "She is wearing a grey sweater.",
+      "note": "Trui is a de-word, so -e. In grijs the s becomes z when -e is added: grijze, as you hear it."
+    },
+    {
+      "type": "gap",
+      "nl": "Dit is geen ___ (goedkoop) overhemd.",
+      "answers": [
+        "goedkoop"
+      ],
+      "en": "This is not a cheap shirt.",
+      "note": "Geen works like een: a het-word in the singular after geen has no -e."
+    },
+    {
+      "type": "order",
+      "lead": "Vandaag",
+      "words": [
+        "draagt",
+        "ze",
+        "een",
+        "paarse",
+        "jurk"
+      ],
+      "answers": [
+        "Vandaag draagt ze een paarse jurk."
+      ],
+      "en": "Today she is wearing a purple dress.",
+      "note": "The adjective stands between een and the noun. Jurk is a de-word, so paarse, with -e."
+    },
+    {
+      "type": "rewrite",
+      "task": "Join the two sentences into one, with the adjective before the noun.",
+      "from": "Ik koop een vest. Het vest is groen.",
+      "answers": [
+        "Ik koop een groen vest."
+      ],
+      "en": "I am buying a green cardigan.",
+      "note": "After is the adjective is groen. Before a het-word after een it stays groen: een groen vest."
+    },
+    {
+      "type": "rewrite",
+      "task": "Replace een by mijn.",
+      "from": "Ik draag vandaag een gestreept overhemd.",
+      "answers": [
+        "Ik draag vandaag mijn gestreepte overhemd."
+      ],
+      "en": "Today I am wearing my striped shirt.",
+      "note": "After een a het-word has no -e, but after mijn it does: mijn gestreepte overhemd."
+    },
+    {
+      "type": "rewrite",
+      "task": "Make it plural.",
+      "from": "Dat is een lelijk vest.",
+      "answers": [
+        "Dat zijn lelijke vesten."
+      ],
+      "en": "Those are ugly cardigans.",
+      "note": "In the plural een disappears, the verb becomes zijn, and a plural always gets -e: lelijke vesten."
+    },
+    {
+      "type": "fix",
+      "wrong": "Ik zoek een zwarte pak voor het feest.",
+      "answers": [
+        "Ik zoek een zwart pak voor het feest."
+      ],
+      "en": "I am looking for a black suit for the party.",
+      "note": "Pak is a het-word, singular, after een: no -e. Zwarte would be right with de, het or a plural."
+    },
+    {
+      "type": "fix",
+      "wrong": "Mijn spijkerbroek is te wijde.",
+      "answers": [
+        "Mijn spijkerbroek is te wijd."
+      ],
+      "en": "My jeans are too loose.",
+      "note": "After the verb the adjective never gets -e: te wijd."
+    }
+  ]
+}

@@ -1,0 +1,482 @@
+{
+  "id": "b2-13",
+  "level": "B2",
+  "icon": "💹",
+  "title": "Money and the economy",
+  "grammar": "Infinitive clauses: door te, zonder te, na te hebben",
+  "summary": "door / zonder / in plaats van / alvorens / om … te + infinitive, and na … te hebben or te zijn + participle: a short clause with the subject of the main clause. Another subject needs doordat, zonder dat, nadat.",
+  "explain": "News and formal Dutch often use a short clause without a subject of its own, built on `te` + infinitive: `door te sparen`, `zonder te betalen`, `na te hebben gekeken`. Dutch grammar calls it a *shortened sub-clause* (*de beknopte bijzin*). It can leave the subject out because the doer is **the subject of the main clause**.\n\n### The words that start it\n\n| word | meaning | example |\n| door … te | by doing | door te sparen |\n| zonder … te | without doing | zonder te betalen |\n| in plaats van … te | instead of doing | in plaats van te lenen |\n| alvorens … te | before doing (formal) | alvorens te tekenen |\n| om … te | in order to | om te investeren |\n| na … te hebben / te zijn | after doing | na te hebben gelezen |\n\nEverything that belongs to the verb comes between the first word and `te`; `te` + infinitive closes the clause. A separable verb takes `te` between its parts (unit B1 · 17): `zonder iets uit te geven`.\n\n> Door minder uit te geven, betaalde ze haar schulden af. — By spending less, she paid off her debts.\n> Hij tekende het contract zonder de kleine letters te lezen. — He signed the contract without reading the small print.\n> In plaats van te bezuinigen, nam de onderneming meer personeel aan. — Instead of cutting costs, the business took on more staff.\n\n### na: always te hebben or te zijn\n\nAfter `na` the action is finished, so Dutch uses the perfect: `te hebben` or `te zijn` + participle, with the auxiliary of the perfect (`heeft gelezen`, `is gegaan`). The participle may stand before or after `te hebben`; both are correct.\n\n> Na de cijfers te hebben bekeken, besloot hij te verkopen. — After looking at the figures, he decided to sell.\n> Na failliet gegaan te zijn, werd het bedrijf overgenomen. — After going bankrupt, the company was taken over.\n\n### om: required, optional or wrong\n\n- **Purpose** (in order to): `om` is required. `Ze leent geld om een huis te kopen`.\n- **After te + adjective**: also `om`: `Die aandelen zijn te riskant om te kopen`.\n- **After proberen, besluiten, beloven, vergeten, weigeren**: optional. `Hij besloot (om) te verkopen`: both are correct.\n- **After schijnen, lijken, blijken, hoeven** (next unit): never. `U hoeft niets te betalen`.\n\n### zijn, hebben, vallen, staan, geven + te\n\n- `zijn te`: can be done. `Dat is niet te betalen` (that is unaffordable); `Het is te hopen dat …` (it is to be hoped that …).\n- `hebben te`: have something to do. `Ik heb nog veel te doen`; `Je hebt niets te vrezen`.\n- `vallen te`, often with `er`: `Er valt weinig te verdienen`; `Dat valt nog te bezien` (that remains to be seen).\n- `staan te wachten`: lie ahead. `Ons staat een moeilijk jaar te wachten`.\n- `te denken geven`: `Die cijfers geven te denken` (those figures are a cause for concern).\n\n### The noun variant: door het + infinitive\n\n> Door het verhogen van de rente wil de centrale bank de inflatie remmen. — By raising interest rates the central bank wants to curb inflation.\n\n### Another subject: a full sub-clause\n\nWith `door`, `zonder`, `in plaats van`, `na` and `alvorens` the short clause only works when the doer is the subject of the main clause. Otherwise use a sub-clause with the verb at the end: `doordat`, `zonder dat`, `nadat`, `voordat`, `in plaats van dat`.\n\n> De koers daalde zonder dat iemand het had verwacht. — The share price fell without anyone having expected it.\n\n### Where the clause goes\n\nFirst or last. First, it fills the first place, so the conjugated verb follows and then the subject: `Door te sparen kun je later beleggen`. Last, it comes after the final verbs: `Hij heeft veel verloren door slecht te beleggen`. A comma after a clause at the start is common but not required. A short one can stand in the middle (`Hij is zonder te betalen vertrokken`), but first or last is the safe choice.\n\n### Watch out\n\n- *Na de cijfers te bekijken → `Na de cijfers te hebben bekeken`.\n- *Voordat te tekenen does not exist: `alvorens te tekenen` or `voordat je tekent`.\n- Another subject: *Door de koers te dalen → `Doordat de koers daalde`.\n- *Hij spaart een huis te kopen → `om een huis te kopen`.\n- *zonder te overnemen → `zonder over te nemen`.\n\n### Compared with Ukrainian\n\nUkrainian often uses an adverbial participle (дієприслівник): `Переглянувши цифри, він вирішив продати`. Dutch has no such form: it uses `na` + `te hebben` + participle, or `door` / `zonder` + `te` + infinitive.",
+  "words": [
+    {
+      "nl": "aandeel",
+      "art": "het",
+      "pl": "aandelen",
+      "en": "share (in a company)",
+      "pos": "n"
+    },
+    {
+      "nl": "aandeelhouder",
+      "art": "de",
+      "pl": "aandeelhouders",
+      "en": "shareholder",
+      "pos": "n"
+    },
+    {
+      "nl": "belegger",
+      "art": "de",
+      "pl": "beleggers",
+      "en": "investor",
+      "pos": "n"
+    },
+    {
+      "nl": "beleggen",
+      "past": "belegde",
+      "perf": "heeft belegd",
+      "en": "to invest",
+      "pos": "v"
+    },
+    {
+      "nl": "verlies",
+      "art": "het",
+      "pl": "verliezen",
+      "en": "loss",
+      "pos": "n"
+    },
+    {
+      "nl": "concurrent",
+      "art": "de",
+      "pl": "concurrenten",
+      "en": "competitor",
+      "pos": "n"
+    },
+    {
+      "nl": "koers",
+      "art": "de",
+      "pl": "koersen",
+      "en": "share price / exchange rate",
+      "pos": "n"
+    },
+    {
+      "nl": "investering",
+      "art": "de",
+      "pl": "investeringen",
+      "en": "investment",
+      "pos": "n"
+    },
+    {
+      "nl": "bezuinigen",
+      "past": "bezuinigde",
+      "perf": "heeft bezuinigd",
+      "en": "to cut costs / to economise",
+      "pos": "v"
+    },
+    {
+      "nl": "overnemen",
+      "past": "nam over",
+      "perf": "heeft overgenomen",
+      "en": "to take over (a company)",
+      "pos": "v",
+      "tag": "separable"
+    },
+    {
+      "nl": "onderneming",
+      "art": "de",
+      "pl": "ondernemingen",
+      "en": "business / enterprise",
+      "pos": "n"
+    },
+    {
+      "nl": "winstgevend",
+      "en": "profitable",
+      "pos": "adj"
+    },
+    {
+      "nl": "failliet",
+      "en": "bankrupt",
+      "pos": "adj"
+    },
+    {
+      "nl": "prijsverhoging",
+      "art": "de",
+      "pl": "prijsverhogingen",
+      "en": "price increase",
+      "pos": "n"
+    },
+    {
+      "nl": "consument",
+      "art": "de",
+      "pl": "consumenten",
+      "en": "consumer",
+      "pos": "n"
+    },
+    {
+      "nl": "inflatie",
+      "art": "de",
+      "pl": "",
+      "en": "inflation",
+      "pos": "n",
+      "tag": "no plural"
+    }
+  ],
+  "sentences": [
+    {
+      "nl": "Door elke maand een vast bedrag te beleggen, spreid je het risico.",
+      "en": "By investing a fixed amount every month, you spread the risk.",
+      "hint": [
+        "door",
+        "vast",
+        "bedrag",
+        "beleggen",
+        "spreiden",
+        "risico"
+      ],
+      "note": "door … te + infinitive says how: the doer is je, the subject of the main clause. The clause stands first, so the verb spreid comes next, then je (no t: spreid je).",
+      "alt": [
+        "Je spreidt het risico door elke maand een vast bedrag te beleggen."
+      ]
+    },
+    {
+      "nl": "Het bedrijf heeft de concurrent overgenomen zonder de risico's goed te onderzoeken.",
+      "en": "The company took over the competitor without examining the risks properly.",
+      "hint": [
+        "bedrijf",
+        "concurrent",
+        "overnemen",
+        "zonder",
+        "risico",
+        "onderzoeken"
+      ],
+      "note": "English -ing after without becomes zonder … te + infinitive. The clause comes after the final verb overgenomen; the object de risico's stands between zonder and te.",
+      "alt": [
+        "Het bedrijf nam de concurrent over zonder de risico's goed te onderzoeken.",
+        "Zonder de risico's goed te onderzoeken, heeft het bedrijf de concurrent overgenomen.",
+        "Zonder de risico's goed te onderzoeken, nam het bedrijf de concurrent over."
+      ]
+    },
+    {
+      "nl": "Na de cijfers te hebben bekeken, besloot de belegger zijn aandelen te verkopen.",
+      "en": "After looking at the figures, the investor decided to sell his shares.",
+      "hint": [
+        "na",
+        "cijfer",
+        "bekijken",
+        "besluiten",
+        "belegger",
+        "aandeel"
+      ],
+      "note": "After na the looking is finished, so te hebben + participle. After besluiten om is optional: besloot (om) zijn aandelen te verkopen.",
+      "alt": [
+        "Na de cijfers bekeken te hebben, besloot de belegger zijn aandelen te verkopen.",
+        "Na de cijfers te hebben bekeken, besloot de belegger om zijn aandelen te verkopen.",
+        "Na de cijfers bekeken te hebben, besloot de belegger om zijn aandelen te verkopen."
+      ]
+    },
+    {
+      "nl": "Na failliet te zijn gegaan, werd de onderneming door een concurrent overgenomen.",
+      "en": "After going bankrupt, the business was taken over by a competitor.",
+      "hint": [
+        "na",
+        "failliet",
+        "gaan",
+        "onderneming",
+        "concurrent",
+        "overnemen"
+      ],
+      "note": "Gaan takes zijn in the perfect (is failliet gegaan), so the na-clause has te zijn. Its doer is de onderneming, the subject of the main clause.",
+      "alt": [
+        "Na failliet gegaan te zijn, werd de onderneming door een concurrent overgenomen.",
+        "Na failliet te zijn gegaan, werd de onderneming overgenomen door een concurrent.",
+        "Na failliet gegaan te zijn, werd de onderneming overgenomen door een concurrent."
+      ]
+    },
+    {
+      "nl": "In plaats van te bezuinigen, leende de onderneming nog meer geld.",
+      "en": "Instead of cutting costs, the business borrowed even more money.",
+      "hint": [
+        "in plaats van",
+        "bezuinigen",
+        "onderneming",
+        "lenen",
+        "geld"
+      ],
+      "note": "in plaats van … te + infinitive. The clause fills the first place, so leende comes straight after it and the subject follows.",
+      "alt": [
+        "De onderneming leende nog meer geld in plaats van te bezuinigen.",
+        "In plaats van te bezuinigen, heeft de onderneming nog meer geld geleend.",
+        "De onderneming heeft nog meer geld geleend in plaats van te bezuinigen."
+      ]
+    },
+    {
+      "nl": "Het bedrijf leende geld om een nieuwe fabriek te bouwen.",
+      "en": "The company borrowed money to build a new factory.",
+      "hint": [
+        "bedrijf",
+        "lenen",
+        "geld",
+        "nieuw",
+        "fabriek",
+        "bouwen"
+      ],
+      "note": "Purpose (in order to) always needs om … te. Without om the sentence is wrong.",
+      "alt": [
+        "Het bedrijf heeft geld geleend om een nieuwe fabriek te bouwen."
+      ]
+    },
+    {
+      "nl": "Door de inflatie is een eigen huis voor veel consumenten niet meer te betalen.",
+      "en": "Because of inflation, a home of their own is no longer affordable for many consumers.",
+      "hint": [
+        "door",
+        "inflatie",
+        "eigen",
+        "huis",
+        "consument",
+        "betalen"
+      ],
+      "note": "zijn + te + infinitive means that something can (or here cannot) be done: is niet te betalen. Door here is an ordinary preposition before a noun, without te.",
+      "alt": [
+        "Een eigen huis is door de inflatie voor veel consumenten niet meer te betalen.",
+        "Door de inflatie is een eigen huis niet meer te betalen voor veel consumenten."
+      ]
+    },
+    {
+      "nl": "Kleine beleggers hebben voorlopig niets te vrezen.",
+      "en": "Small investors have nothing to fear for the time being.",
+      "hint": [
+        "klein",
+        "belegger",
+        "voorlopig",
+        "niets",
+        "vrezen"
+      ],
+      "note": "hebben + te + infinitive: have something to do (here: nothing to fear). The infinitive with te goes to the end.",
+      "alt": [
+        "Voorlopig hebben kleine beleggers niets te vrezen."
+      ]
+    },
+    {
+      "nl": "Over de gevolgen van de overname valt nog weinig te zeggen.",
+      "en": "Little can be said yet about the consequences of the takeover.",
+      "hint": [
+        "gevolg",
+        "overname",
+        "vallen",
+        "weinig",
+        "zeggen"
+      ],
+      "note": "vallen + te + infinitive: something can (hardly) be done. When another part stands first, er is optional; when nothing else stands first, er fills that place: Er valt nog weinig te zeggen.",
+      "alt": [
+        "Over de gevolgen van de overname valt er nog weinig te zeggen.",
+        "Er valt nog weinig te zeggen over de gevolgen van de overname.",
+        "Er valt over de gevolgen van de overname nog weinig te zeggen."
+      ]
+    },
+    {
+      "nl": "De directeur verkocht zijn aandelen zonder dat de aandeelhouders het wisten.",
+      "en": "The director sold his shares without the shareholders knowing.",
+      "hint": [
+        "directeur",
+        "verkopen",
+        "aandeel",
+        "zonder dat",
+        "aandeelhouder",
+        "weten"
+      ],
+      "note": "The knowing is done by the shareholders, not by the director, so zonder … te is impossible: it has to be zonder dat with a full sub-clause and the verb at the end.",
+      "alt": [
+        "De directeur heeft zijn aandelen verkocht zonder dat de aandeelhouders het wisten.",
+        "De directeur verkocht zijn aandelen zonder dat de aandeelhouders ervan wisten.",
+        "De directeur heeft zijn aandelen verkocht zonder dat de aandeelhouders ervan wisten."
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "type": "choose",
+      "nl": "___ de prijzen te verhogen, maakte het bedrijf meer winst.",
+      "options": [
+        "Doordat",
+        "Na",
+        "Door"
+      ],
+      "correct": 2,
+      "en": "By raising its prices, the company made more profit.",
+      "note": "Door … te + infinitive: by doing. Doordat needs a full sub-clause with its own subject and verb, and na needs te hebben + participle (na de prijzen te hebben verhoogd)."
+    },
+    {
+      "type": "choose",
+      "nl": "Het bedrijf leent geld ___ een nieuwe winkel te openen.",
+      "options": [
+        "om",
+        "–",
+        "voor"
+      ],
+      "correct": 0,
+      "en": "The company is borrowing money to open a new shop.",
+      "note": "Purpose needs om … te. Leaving om out is wrong, and voor … te is Flemish, not standard Netherlands Dutch."
+    },
+    {
+      "type": "choose",
+      "nl": "Voor dit advies hoeft u niets ___ te betalen.",
+      "options": [
+        "om",
+        "voor",
+        "–"
+      ],
+      "correct": 2,
+      "en": "You (formal) do not have to pay anything for this advice.",
+      "note": "After hoeven (and schijnen, lijken, blijken) te follows directly; om is never used there."
+    },
+    {
+      "type": "choose",
+      "nl": "Na jarenlang verlies te ___ geleden, is de onderneming nu eindelijk winstgevend.",
+      "options": [
+        "zijn",
+        "hebben",
+        "worden"
+      ],
+      "correct": 1,
+      "en": "After making a loss for years, the business is finally profitable now.",
+      "note": "Verlies lijden takes hebben in the perfect (heeft verlies geleden), so the na-clause has te hebben. Te zijn is for verbs that take zijn, such as gaan or vertrekken."
+    },
+    {
+      "type": "gap",
+      "nl": "Ze willen de concurrent kopen zonder alle schulden ___ (overnemen).",
+      "answers": [
+        "over te nemen"
+      ],
+      "en": "They want to buy the competitor without taking over all its debts.",
+      "note": "Overnemen is separable, so te goes between the parts: over te nemen, written as three words."
+    },
+    {
+      "type": "gap",
+      "nl": "Deze investering ___ (vallen) niet binnen vijf jaar terug te verdienen.",
+      "answers": [
+        "valt"
+      ],
+      "en": "This investment cannot be earned back within five years.",
+      "note": "vallen + te + infinitive means that something can or cannot be done. De investering is singular, so valt."
+    },
+    {
+      "type": "gap",
+      "nl": "Door de prijsverhogingen is benzine voor veel gezinnen bijna niet ___ (betalen).",
+      "answers": [
+        "te betalen"
+      ],
+      "en": "Because of the price increases, petrol is almost unaffordable for many families.",
+      "note": "zijn + te + infinitive: is niet te betalen, it cannot be paid. Without te (is niet betalen) the sentence is wrong."
+    },
+    {
+      "type": "gap",
+      "nl": "De lage koersen van dit jaar geven ___ (denken).",
+      "answers": [
+        "te denken"
+      ],
+      "en": "This year's low share prices give food for thought.",
+      "note": "The fixed expression is te denken geven: something makes you worried or thoughtful. Te comes before the infinitive."
+    },
+    {
+      "type": "order",
+      "lead": "Zonder de risico's te kennen,",
+      "words": [
+        "heeft",
+        "hij",
+        "al zijn geld",
+        "in aandelen",
+        "belegd"
+      ],
+      "answers": [
+        "Zonder de risico's te kennen, heeft hij al zijn geld in aandelen belegd."
+      ],
+      "en": "Without knowing the risks, he invested all his money in shares.",
+      "note": "The zonder-clause fills the first place, so the conjugated verb heeft follows, then the subject hij. The participle belegd goes to the end."
+    },
+    {
+      "type": "order",
+      "lead": "Het bedrijf leende geld",
+      "words": [
+        "om",
+        "de concurrent",
+        "over",
+        "te",
+        "nemen"
+      ],
+      "answers": [
+        "Het bedrijf leende geld om de concurrent over te nemen."
+      ],
+      "en": "The company borrowed money to take over the competitor.",
+      "note": "Om opens the clause, the object follows, and the separable verb closes it with te between its parts: over te nemen."
+    },
+    {
+      "type": "order",
+      "lead": "De koers daalde",
+      "words": [
+        "zonder dat",
+        "de beleggers",
+        "het",
+        "hadden",
+        "verwacht"
+      ],
+      "answers": [
+        "De koers daalde zonder dat de beleggers het hadden verwacht.",
+        "De koers daalde zonder dat de beleggers het verwacht hadden."
+      ],
+      "en": "The share price fell without the investors having expected it.",
+      "note": "The investors are not the subject of the main clause, so it must be zonder dat with a full sub-clause. Both verbs go to the end, in either order."
+    },
+    {
+      "type": "rewrite",
+      "task": "Join the two sentences with door … te, starting with Door. Leave out zo.",
+      "from": "Het bedrijf bezuinigde op personeel. Zo voorkwam het een groot verlies.",
+      "answers": [
+        "Door op personeel te bezuinigen, voorkwam het bedrijf een groot verlies.",
+        "Door te bezuinigen op personeel, voorkwam het bedrijf een groot verlies."
+      ],
+      "en": "By cutting staff costs, the company prevented a big loss.",
+      "note": "The company does both things, so door … te works. The clause stands first, so voorkwam comes next and then het bedrijf, which replaces het."
+    },
+    {
+      "type": "rewrite",
+      "task": "Use na … te hebben instead of the nadat-clause.",
+      "from": "Nadat de belegger het jaarverslag had gelezen, kocht hij extra aandelen.",
+      "answers": [
+        "Na het jaarverslag te hebben gelezen, kocht de belegger extra aandelen.",
+        "Na het jaarverslag gelezen te hebben, kocht de belegger extra aandelen."
+      ],
+      "en": "After reading the annual report, the investor bought extra shares.",
+      "note": "The na-clause has no subject, so de belegger moves into the main clause. Lezen takes hebben; te hebben may stand before or after gelezen."
+    },
+    {
+      "type": "rewrite",
+      "task": "Replace the voordat-clause with alvorens … te.",
+      "from": "Voordat u belegt, moet u de risico's kennen.",
+      "answers": [
+        "Alvorens te beleggen, moet u de risico's kennen."
+      ],
+      "en": "Before investing, you (formal) need to know the risks.",
+      "note": "Alvorens … te is the formal short form of a voordat-clause with the same subject. Voordat itself cannot take te."
+    },
+    {
+      "type": "fix",
+      "wrong": "Door de koers te dalen, verloren veel beleggers geld.",
+      "answers": [
+        "Doordat de koers daalde, verloren veel beleggers geld.",
+        "Omdat de koers daalde, verloren veel beleggers geld."
+      ],
+      "en": "Because the share price fell, many investors lost money.",
+      "note": "The price falls, the investors lose: two different subjects. Door … te is only possible when the doer is the subject of the main clause, so it must be a full sub-clause: Doordat de koers daalde."
+    },
+    {
+      "type": "fix",
+      "wrong": "Na de cijfers te bekijken, besloot hij zijn aandelen te houden.",
+      "answers": [
+        "Na de cijfers te hebben bekeken, besloot hij zijn aandelen te houden.",
+        "Na de cijfers bekeken te hebben, besloot hij zijn aandelen te houden.",
+        "Na de cijfers te hebben bekeken, besloot hij om zijn aandelen te houden.",
+        "Na de cijfers bekeken te hebben, besloot hij om zijn aandelen te houden."
+      ],
+      "en": "After looking at the figures, he decided to keep his shares.",
+      "note": "After na the action is finished, so Dutch uses te hebben + participle: na de cijfers te hebben bekeken. Na + te + a plain infinitive is not standard Dutch."
+    }
+  ]
+}

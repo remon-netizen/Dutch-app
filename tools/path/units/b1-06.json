@@ -1,0 +1,220 @@
+{
+  "id": "b1-06",
+  "level": "B1",
+  "icon": "🧾",
+  "title": "Ordering online",
+  "grammar": "Er with numbers and amounts",
+  "summary": "When the noun after a number or amount is left out, er takes its place: Ik heb er drie. Er zijn er geen meer. Not when the noun is there, and not for things already known: Ik stuur ze allebei terug.",
+  "explain": "In English you can simply say *I have three* or *I ordered two*. Dutch cannot leave the noun out just like that: when a number or an amount stands without its noun, Dutch adds **er**. This er means roughly \"of them\" and is never translated.\n\n> Hoeveel pakketten heb je? Ik heb er drie. — How many parcels have you got? I have three.\n\n### Which words need er\n\nEr is needed after every word that says **how many** or **how much**, when the noun after it is left out:\n\n- numbers: `Ik heb er twee besteld.`\n- `veel`, `weinig`, `genoeg`, `een paar`, `meer`: `We krijgen er weinig.`\n- `geen`: `Er zijn er geen meer.`\n- `een` (often written `één`) and `nog een`: `Ze sturen me er nog een.`\n- `hoeveel` in a question: `Hoeveel heb je er besteld?`\n\n> Die mokken zijn mooi. Ik neem er vier. — Those mugs are nice. I will take four.\n> Heeft u er nog een op voorraad? — Do you have another one in stock?\n> We hebben dozen genoeg; je mag er een paar meenemen. — We have plenty of boxes; you can take a few.\n\n### When there is no er\n\n- When the noun is there: `Ik heb drie pakketten`, not *Ik heb er drie pakketten.\n- When you mean all of the things you were talking about. Then it is a normal pronoun, `ze` or `het`, often with `allebei` or `alle drie`.\n\n> Ik heb twee jurken ontvangen en ik stuur ze allebei terug. — I received two dresses and I am sending them both back.\n\n`Ik heb er twee` means two of a larger number or of a kind; `Ik heb ze` means exactly those things.\n\n### Where er goes\n\nThis er is never stressed and **never stands first**. It goes in the middle of the sentence:\n\n- directly after the conjugated verb: `Ik heb er drie besteld.`\n- after the subject when the subject follows the verb: `Gisteren heb ik er drie besteld.`\n- after a short pronoun object: `Ze sturen me er nog een.`\n- in a sub-clause, after the subject: `Ik weet niet hoeveel ik er heb besteld.`\n\nThe number keeps its own place, so other words can stand between er and the number: `Ik heb er gisteren drie besteld.`\n\n### Two kinds of er in one sentence\n\nYou know `er` from *there is, there are* (unit A2 · 26). When a sentence starts with that er and the noun after the number is left out, you need **both**:\n\n> Er zitten er twee in de doos. — There are two in the box.\n> De schoenen zijn uitverkocht; er zijn er geen meer. — The shoes are sold out; there are none left.\n\nWhen the two would stand side by side, because something else comes first, you say er only **once**: `Morgen komen er nog twee`, never *er er.\n\n### The kinds of er so far\n\n| kind | example | meaning |\n| place | Ik woon er al jaren. | there (unstressed) |\n| there is | Er ligt een pakket voor de deur. | there is / are |\n| + preposition | Ik wacht erop. | it, after a preposition |\n| + number | Ik heb er drie. | of them |\n\nUnit B2 · 10 puts all of them together.\n\n### Watch out\n\n- Do not drop er: *Ik heb twee besteld → `Ik heb er twee besteld`.\n- No er when the noun is there: *Ik heb er twee pakketten → `Ik heb twee pakketten`.\n- Things you already named are `ze`: *Ik stuur er allebei terug → `Ik stuur ze allebei terug`.\n- Er never first: *Er heb ik drie → `Ik heb er drie`.\n- After *there is* a second er: *Er zijn twee beschadigd → `Er zijn er twee beschadigd`.\n\n### Compared with Ukrainian\n\nUkrainian can simply say the number: `У мене три.` Dutch must add er, much as English adds *one* in *I want another one*: `Ik heb er drie`, `Ik wil er nog een`.",
+  "words": [
+    { "nl": "bestelling", "art": "de", "pl": "bestellingen", "en": "order", "pos": "n" },
+    { "nl": "pakket", "art": "het", "pl": "pakketten", "en": "parcel", "pos": "n" },
+    { "nl": "bezorger", "art": "de", "pl": "bezorgers", "en": "delivery person", "pos": "n" },
+    { "nl": "webwinkel", "art": "de", "pl": "webwinkels", "en": "online shop", "pos": "n" },
+    { "nl": "winkelmandje", "art": "het", "pl": "winkelmandjes", "en": "shopping basket (online)", "pos": "n" },
+    { "nl": "verzendkosten", "art": "de", "pl": "", "en": "shipping costs", "pos": "n", "tag": "always plural" },
+    { "nl": "voorraad", "art": "de", "pl": "voorraden", "en": "stock / supply", "pos": "n" },
+    { "nl": "exemplaar", "art": "het", "pl": "exemplaren", "en": "copy / item (one of a kind)", "pos": "n" },
+    { "nl": "recensie", "art": "de", "pl": "recensies", "en": "review", "pos": "n" },
+    { "nl": "klacht", "art": "de", "pl": "klachten", "en": "complaint", "pos": "n" },
+    { "nl": "bezorgen", "past": "bezorgde", "perf": "heeft bezorgd", "en": "to deliver", "pos": "v" },
+    { "nl": "ontvangen", "past": "ontving", "perf": "heeft ontvangen", "en": "to receive", "pos": "v" },
+    { "nl": "terugsturen", "past": "stuurde terug", "perf": "heeft teruggestuurd", "en": "to send back / to return", "pos": "v", "tag": "separable" },
+    { "nl": "beschadigd", "en": "damaged", "pos": "adj" },
+    { "nl": "uitverkocht", "en": "sold out", "pos": "adj" }
+  ],
+  "sentences": [
+    {
+      "nl": "Ik verwacht twee pakketten, maar ze hebben er pas één bezorgd.",
+      "en": "I am expecting two parcels, but so far they have delivered only one.",
+      "hint": ["verwachten", "pakket", "pas", "een", "bezorgen"],
+      "note": "Eén stands without its noun pakket, so er takes its place, directly after hebben. Without er, *ze hebben pas één bezorgd sounds unfinished.",
+      "alt": ["Ik verwacht twee pakketten, maar ze hebben er pas een bezorgd."]
+    },
+    {
+      "nl": "Hoeveel heeft u er nog op voorraad?",
+      "en": "How many do you (formal) still have in stock?",
+      "hint": ["hoeveel", "hebben", "nog", "voorraad"],
+      "note": "Hoeveel without a noun needs er. Er stands after the subject u, because in a question the subject follows the verb.",
+      "alt": ["Hoeveel hebt u er nog op voorraad?"]
+    },
+    {
+      "nl": "Er zitten er twee in de doos, maar ik heb er drie besteld.",
+      "en": "There are two in the box, but I ordered three.",
+      "hint": ["zitten", "twee", "doos", "drie", "bestellen"],
+      "note": "The first er is 'there are', the second one stands for the missing noun after twee. Both are needed. In the second half er comes right after heb.",
+      "alt": ["Er zitten er twee in de doos, maar ik had er drie besteld."]
+    },
+    {
+      "nl": "De schoenen zijn uitverkocht; er zijn er geen meer.",
+      "en": "The shoes are sold out; there are none left.",
+      "hint": ["schoen", "uitverkocht", "geen", "meer"],
+      "note": "Geen without a noun also needs er. Together with er for 'there are' that makes two: er zijn er geen."
+    },
+    {
+      "nl": "Ik heb de twee boeken ontvangen en ik stuur ze allebei terug.",
+      "en": "I have received the two books and I am sending them both back.",
+      "hint": ["twee", "boek", "ontvangen", "allebei", "terugsturen"],
+      "note": "These are the books you already named, all of them, so a normal pronoun: ze allebei. Er would mean 'some of them'.",
+      "alt": ["Ik heb de twee boeken ontvangen en ik stuur ze alle twee terug."]
+    },
+    {
+      "nl": "We hebben genoeg lege dozen in de schuur; je mag er een paar meenemen.",
+      "en": "We have plenty of empty boxes in the shed; you can take a few.",
+      "hint": ["genoeg", "leeg", "doos", "schuur", "een paar", "meenemen"],
+      "note": "Een paar without its noun dozen needs er, after the modal verb mag. Meenemen stays in one piece at the end.",
+      "alt": ["We hebben genoeg lege dozen in de schuur; je kunt er een paar meenemen.", "We hebben genoeg lege dozen in de schuur; jij mag er een paar meenemen."]
+    },
+    {
+      "nl": "Het eerste exemplaar was beschadigd, dus ze sturen me er nog een.",
+      "en": "The first copy was damaged, so they are sending me another one.",
+      "hint": ["eerste", "exemplaar", "beschadigd", "sturen", "nog een"],
+      "note": "Nog een without a noun needs er, the Dutch version of 'one' in 'another one'. A short pronoun object comes before er: me er.",
+      "alt": ["Het eerste exemplaar was beschadigd, dus ze sturen me er nog één.", "Het eerste exemplaar was beschadigd, dus ze sturen mij er nog een."]
+    },
+    {
+      "nl": "Ik weet niet meer hoeveel ik er heb besteld.",
+      "en": "I no longer know how many I ordered.",
+      "hint": ["weten", "niet meer", "hoeveel", "bestellen"],
+      "note": "In a sub-clause er comes directly after the subject ik. The two verbs at the end can stand in either order.",
+      "alt": ["Ik weet niet meer hoeveel ik er besteld heb."]
+    },
+    {
+      "nl": "Ik bestel vaak jurken online; vorige maand heb ik er drie teruggestuurd.",
+      "en": "I often order dresses online; last month I sent three back.",
+      "hint": ["bestellen", "vaak", "jurk", "online", "vorige maand", "terugsturen"],
+      "note": "Vorige maand stands first, so heb comes second and ik follows it. Er goes directly after the subject; drie keeps its place before the participle.",
+      "alt": ["Ik bestel vaak jurken online; ik heb er vorige maand drie teruggestuurd."]
+    },
+    {
+      "nl": "Vandaag zijn er drie pakketten gekomen en morgen komen er nog twee.",
+      "en": "Three parcels came today and two more are coming tomorrow.",
+      "hint": ["vandaag", "pakket", "komen", "morgen", "nog"],
+      "note": "In the first half the noun is there, so er only means 'there'. In the second half er 'there' and er 'of them' would stand side by side, so there is just one er.",
+      "alt": ["Vandaag zijn er drie pakketten gekomen en er komen er morgen nog twee."]
+    }
+  ],
+  "exercises": [
+    {
+      "type": "choose",
+      "nl": "Hoeveel pakketten verwacht je vandaag? Ik verwacht ___ drie.",
+      "options": ["ze", "er", "het", "–"],
+      "correct": 1,
+      "en": "How many parcels are you expecting today? I am expecting three.",
+      "note": "Drie stands without its noun, so er must take its place. Ze would mean particular parcels you already know about, and drie alone is not complete Dutch."
+    },
+    {
+      "type": "choose",
+      "nl": "Ik heb de twee jurken ontvangen, maar ik stuur ___ allebei terug.",
+      "options": ["er", "het", "ze"],
+      "correct": 2,
+      "en": "I have received the two dresses, but I am sending them both back.",
+      "note": "De twee jurken are known things and you mean all of them, so the pronoun ze. Er is for some of them, a number out of a larger group."
+    },
+    {
+      "type": "choose",
+      "nl": "Er zitten ___ drie in de doos.",
+      "options": ["–", "ze", "er"],
+      "correct": 2,
+      "en": "There are three in the box.",
+      "note": "The first er means 'there are'; the noun after drie is left out, so a second er is needed: er zitten er drie."
+    },
+    {
+      "type": "choose",
+      "nl": "Die mokken zijn mooi en er zijn geen verzendkosten, dus ik heb ___ besteld.",
+      "options": ["vier er", "er vier", "vier"],
+      "correct": 1,
+      "en": "Those mugs are nice and there are no shipping costs, so I ordered four.",
+      "note": "Er goes before the number, directly after the conjugated verb heb. Vier alone, without er, is not complete."
+    },
+    {
+      "type": "gap",
+      "nl": "Ik heb ___ (vijf) in mijn winkelmandje.",
+      "answers": ["er vijf"],
+      "en": "I have five in my shopping basket.",
+      "note": "The noun after vijf is left out, so er stands before it, right after the verb heb."
+    },
+    {
+      "type": "gap",
+      "nl": "Krijgt u veel klachten? Nee, we krijgen ___ (weinig).",
+      "answers": ["er weinig"],
+      "en": "Do you get many complaints? No, we get few.",
+      "note": "Amount words such as weinig, veel and genoeg also need er when their noun is left out."
+    },
+    {
+      "type": "gap",
+      "nl": "Ik wil die lamp graag hebben. Heeft u ___ (nog een) op voorraad?",
+      "answers": ["er nog een", "er nog één"],
+      "en": "I would like that lamp. Do you (formal) have another one in stock?",
+      "note": "English says 'one', Dutch says er + nog een. Er comes after the subject u, because the subject follows the verb in a question."
+    },
+    {
+      "type": "gap",
+      "nl": "Hoeveel bestellingen heb je deze maand al geplaatst? Ik heb ___ (al vier) geplaatst.",
+      "answers": ["er al vier"],
+      "en": "How many orders have you placed this month? I have already placed four.",
+      "note": "Er stands directly after heb; al and the number come after it. Never *al er vier."
+    },
+    {
+      "type": "order",
+      "lead": "Vandaag",
+      "words": ["heeft", "de bezorger", "er", "al", "veertig", "gebracht"],
+      "answers": ["Vandaag heeft de bezorger er al veertig gebracht."],
+      "en": "Today the delivery man has already brought forty.",
+      "note": "Vandaag stands first, so heeft comes second and the subject de bezorger follows. Er goes directly after the subject, then al and the number."
+    },
+    {
+      "type": "order",
+      "lead": "Ze",
+      "words": ["sturen", "me", "er", "morgen", "nog een"],
+      "answers": ["Ze sturen me er morgen nog een."],
+      "en": "They are sending me another one tomorrow.",
+      "note": "A short pronoun object like me comes before er. The time word stands between er and nog een."
+    },
+    {
+      "type": "order",
+      "lead": "Ik weet niet",
+      "words": ["hoeveel", "ik", "er", "besteld", "heb"],
+      "answers": ["Ik weet niet hoeveel ik er besteld heb.", "Ik weet niet hoeveel ik er heb besteld."],
+      "en": "I do not know how many I ordered.",
+      "note": "In the sub-clause er follows the subject ik and the verbs go to the end, in either order."
+    },
+    {
+      "type": "rewrite",
+      "task": "Leave out pakketten and use er.",
+      "from": "Ik heb drie pakketten ontvangen.",
+      "answers": ["Ik heb er drie ontvangen."],
+      "en": "I have received three.",
+      "note": "Without the noun drie needs er. Er takes the place right after the conjugated verb heb, before the number."
+    },
+    {
+      "type": "rewrite",
+      "task": "Start with Er zijn and leave out exemplaren.",
+      "from": "Twee exemplaren zijn beschadigd.",
+      "answers": ["Er zijn er twee beschadigd."],
+      "en": "Two are damaged.",
+      "note": "The first er is 'there are'; the second stands for the missing noun after twee. You need both."
+    },
+    {
+      "type": "fix",
+      "wrong": "De webwinkel had nog vijf lampen en ik heb drie gekocht.",
+      "answers": ["De webwinkel had nog vijf lampen en ik heb er drie gekocht."],
+      "en": "The online shop had five lamps left and I bought three.",
+      "note": "Drie stands without its noun lampen, so er is needed, directly after heb."
+    },
+    {
+      "type": "fix",
+      "wrong": "Ik heb twee recensies gelezen en ik vond er allebei goed.",
+      "answers": ["Ik heb twee recensies gelezen en ik vond ze allebei goed."],
+      "en": "I read two reviews and I thought they were both good.",
+      "note": "You mean both of the reviews you just named, so the pronoun ze. Er only goes with a number or amount out of a larger group."
+    },
+    {
+      "type": "fix",
+      "wrong": "Er heb ik drie besteld.",
+      "answers": ["Ik heb er drie besteld."],
+      "en": "I ordered three.",
+      "note": "This er can never stand first. Put the subject first and er directly after the verb heb."
+    }
+  ]
+}

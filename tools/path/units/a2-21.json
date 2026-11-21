@@ -15,10 +15,10 @@
       "pos": "n"
     },
     {
-      "nl": "rooster",
+      "nl": "tijdstip",
       "art": "het",
-      "pl": "roosters",
-      "en": "timetable / schedule",
+      "pl": "tijdstippen",
+      "en": "time (point in time)",
       "pos": "n"
     },
     {
@@ -252,15 +252,15 @@
   "exercises": [
     {
       "type": "choose",
-      "nl": "Volgens het rooster begint de les ___ tien uur.",
+      "nl": "Op welk tijdstip begint de les? ___ tien uur.",
       "options": [
-        "op",
-        "om",
-        "in"
+        "Op",
+        "Om",
+        "In"
       ],
       "correct": 1,
-      "en": "According to the timetable the lesson starts at ten o'clock.",
-      "note": "A clock time takes om. Op is for days and dates, in for months, seasons and years."
+      "en": "At what time does the lesson start? At ten o'clock.",
+      "note": "A clock time takes om. The word tijdstip itself takes op (op welk tijdstip, op dit tijdstip), but tien uur needs om."
     },
     {
       "type": "choose",

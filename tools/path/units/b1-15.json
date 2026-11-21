@@ -1,0 +1,217 @@
+{
+  "id": "b1-15",
+  "level": "B1",
+  "icon": "🤝",
+  "title": "Neighbours and community",
+  "grammar": "Indefinite words: iemand, alles, elk, sommige, men",
+  "summary": "iemand/niemand, iets/niets, ergens/nergens, ooit/nooit: one negation only. elk huis, elke straat. de meeste with de. allemaal and allebei in the middle. iedereen, niemand and men take a singular verb.",
+  "explain": "Indefinite words talk about people, things or amounts without naming them: someone, everything, every, some, most. Dutch has fixed pairs and fixed places for them, and a few traps for English and Ukrainian speakers.\n\n### Someone and no one\n\n| | positive | negative |\n| person | iemand | niemand |\n| thing | iets | niets |\n| place | ergens | nergens |\n| time | ooit | nooit |\n\nEnglish *anyone, anything, anywhere, ever* in a question is the positive word: `Heeft iemand…?` In a negative sentence Dutch uses **one** negative word, and nothing more.\n\n> Weet iemand of de bijeenkomst doorgaat? — Does anyone know whether the meeting is going ahead?\n> Niemand heeft ooit over overlast geklaagd. — Nobody has ever complained about nuisance.\n> Ik kon nergens een parkeerplek vinden. — I could not find a parking space anywhere.\n\n### All and every\n\n- `alles` stands alone: `Alles is klaar.`\n- `alle` goes with a plural or uncountable noun: `alle buren`, `alle hulp`. Before an article or dit/dat/die: `al het werk`, `al die mensen`.\n- `allemaal` (all of them) stands in the **middle**, after the conjugated verb: `We gaan allemaal mee.` `Ze zijn allemaal gekomen.` In formal writing, for people: `allen` (`Ik dank u allen`).\n- `elk` and `ieder` follow the -e rule of de and het: `elke straat`, `iedere straat`, but `elk huis`, `ieder huis`.\n- `iedereen` is everyone.\n\n> Elke bewoner krijgt een brief van het bestuur. — Every resident gets a letter from the board.\n> De bewoners hebben allemaal geld ingezameld. — The residents all collected money.\n\n### Part of a group\n\n- `sommige` + plural: some, but not all: `Sommige buren helpen altijd.`\n- `enkele`, `een paar`: a few. `verschillende`: several. `meerdere`: more than one.\n- `de meeste`: most, **always with de**: `de meeste mensen`.\n- `veel`, `weinig`: many/much, few/little.\n\n> De meeste vrijwilligers zijn met pensioen. — Most volunteers are retired.\n\n### Two: beide and allebei\n\n`beide` stands before a noun: `beide buren`. `allebei` stands in the middle, like allemaal: `Ze komen allebei.` Never *allebei buren.\n\n> Mijn buurvrouw en ik doen allebei vrijwilligerswerk. — My neighbour and I both do volunteer work.\n\n### People in general: je, men, ze\n\n- `je` is the normal word in speech and most writing: `Als je je aanmeldt, krijg je een gesprek.`\n- `men` is formal and written: `Vroeger hielp men elkaar meer.`\n- `ze` means *they*, the people in charge: `Ze bouwen hier een nieuwe school.`\n\n### wat\n\nIn speech `wat` means \"some\" before an uncountable noun (`wat koffie`) and \"something\" on its own (`Wil je wat drinken?`).\n\n### The verb\n\n`iedereen`, `niemand`, `iemand`, `alles`, `iets` and `men` take a **singular** verb: `iedereen is`, `niemand heeft`. With a plural noun the verb is plural: `de meeste mensen zijn`, `sommige buren helpen`.\n\n### Watch out\n\n- *Niemand heeft niets gezegd → `Niemand heeft iets gezegd`.\n- *Ik heb niet iemand gezien → `Ik heb niemand gezien`.\n- *Iedereen zijn welkom → `Iedereen is welkom`.\n- *Meeste buren → `De meeste buren`.\n- *elke huis → `elk huis`.\n- *Alle is klaar → `Alles is klaar`.\n- For two people: `allebei`, not allemaal.\n\n### Compared with Ukrainian\n\nUkrainian stacks the negatives: `Ніхто нічого не сказав`. Dutch allows only one: `Niemand heeft iets gezegd`. Translate the first negative word and turn the others into iets, iemand, ergens or ooit.",
+  "words": [
+    { "nl": "vrijwilliger", "art": "de", "pl": "vrijwilligers", "en": "volunteer", "pos": "n" },
+    { "nl": "vrijwilligerswerk", "art": "het", "pl": "", "en": "volunteer work", "pos": "n", "tag": "no plural" },
+    { "nl": "bewoner", "art": "de", "pl": "bewoners", "en": "resident", "pos": "n" },
+    { "nl": "bijeenkomst", "art": "de", "pl": "bijeenkomsten", "en": "meeting / gathering", "pos": "n" },
+    { "nl": "initiatief", "art": "het", "pl": "initiatieven", "en": "initiative", "pos": "n" },
+    { "nl": "bestuur", "art": "het", "pl": "besturen", "en": "board (of a club) / committee", "pos": "n" },
+    { "nl": "voedselbank", "art": "de", "pl": "voedselbanken", "en": "food bank", "pos": "n" },
+    { "nl": "buurtapp", "art": "de", "pl": "buurtapps", "en": "neighbourhood chat group", "pos": "n" },
+    { "nl": "overlast", "art": "de", "pl": "", "en": "nuisance / disturbance", "pos": "n", "tag": "no plural" },
+    { "nl": "zich inzetten voor", "past": "zette zich in", "perf": "heeft zich ingezet", "en": "to work hard for / to commit oneself to", "pos": "v", "tag": "separable" },
+    { "nl": "ondersteunen", "past": "ondersteunde", "perf": "heeft ondersteund", "en": "to support", "pos": "v" },
+    { "nl": "inzamelen", "past": "zamelde in", "perf": "heeft ingezameld", "en": "to collect (money, goods)", "pos": "v", "tag": "separable" },
+    { "nl": "zich aanmelden", "past": "meldde zich aan", "perf": "heeft zich aangemeld", "en": "to sign up / to register", "pos": "v", "tag": "separable" },
+    { "nl": "behulpzaam", "en": "helpful", "pos": "adj" },
+    { "nl": "betrokken", "en": "involved / engaged", "pos": "adj" }
+  ],
+  "sentences": [
+    {
+      "nl": "Weet iemand of de bijeenkomst vanavond doorgaat?",
+      "en": "Does anyone know whether the meeting is going ahead tonight?",
+      "hint": ["weten", "iemand", "bijeenkomst", "vanavond", "doorgaan"],
+      "note": "English 'anyone' in a question is iemand in Dutch. Iemand takes a singular verb: weet."
+    },
+    {
+      "nl": "Niemand heeft ooit over overlast geklaagd.",
+      "en": "Nobody has ever complained about nuisance.",
+      "hint": ["niemand", "ooit", "overlast", "klagen"],
+      "note": "One negative word is enough: niemand. 'Ever' is ooit, not nooit, because the sentence is already negative.",
+      "alt": ["Niemand heeft ooit geklaagd over overlast."]
+    },
+    {
+      "nl": "Iedereen is welkom, ook bewoners die geen lid zijn.",
+      "en": "Everyone is welcome, including residents who are not members.",
+      "hint": ["iedereen", "welkom", "ook", "bewoner", "lid"],
+      "note": "Iedereen means many people, but it takes a singular verb: iedereen is, never *iedereen zijn."
+    },
+    {
+      "nl": "Elke bewoner krijgt een brief van het bestuur.",
+      "en": "Every resident gets a letter from the board.",
+      "hint": ["elk", "bewoner", "krijgen", "brief", "bestuur"],
+      "note": "De bewoner is a de-word, so elke, with -e. With a het-word it would be elk: elk huis.",
+      "alt": ["Iedere bewoner krijgt een brief van het bestuur."]
+    },
+    {
+      "nl": "Sommige buren zetten zich elke week in voor de voedselbank.",
+      "en": "Some neighbours work hard for the food bank every week.",
+      "hint": ["sommige", "buur", "zich inzetten voor", "week", "voedselbank"],
+      "note": "Sommige means some, but not all, and goes with a plural noun; the verb is plural too: zetten.",
+      "alt": ["Sommige buren zetten zich elke week voor de voedselbank in."]
+    },
+    {
+      "nl": "De meeste vrijwilligers zijn met pensioen.",
+      "en": "Most volunteers are retired.",
+      "hint": ["meest", "vrijwilliger", "zijn", "pensioen"],
+      "note": "Most is de meeste, always with de. The subject is plural, so the verb is plural: zijn."
+    },
+    {
+      "nl": "De bewoners hebben allemaal geld ingezameld.",
+      "en": "The residents all collected money.",
+      "hint": ["bewoner", "allemaal", "geld", "inzamelen"],
+      "note": "Allemaal stands in the middle, directly after the conjugated verb hebben, not before the subject as English 'all the residents'."
+    },
+    {
+      "nl": "Mijn buurvrouw en ik doen allebei vrijwilligerswerk.",
+      "en": "My neighbour and I both do volunteer work.",
+      "hint": ["buurvrouw", "allebei", "vrijwilligerswerk"],
+      "note": "For two people: allebei, in the middle after the verb. Allemaal would mean more than two.",
+      "alt": ["Mijn buurvrouw en ik doen beiden vrijwilligerswerk."]
+    },
+    {
+      "nl": "Als je je aanmeldt als vrijwilliger, krijg je eerst een gesprek.",
+      "en": "If you sign up as a volunteer, you first get an interview.",
+      "hint": ["als", "zich aanmelden", "vrijwilliger", "krijgen", "eerst", "gesprek"],
+      "note": "Je here means people in general, not one person you are talking to. This is the normal way to say it; men would be formal.",
+      "alt": ["Als je je als vrijwilliger aanmeldt, krijg je eerst een gesprek."]
+    },
+    {
+      "nl": "Kun je wat koffie meenemen voor de vrijwilligers?",
+      "en": "Can you bring some coffee for the volunteers?",
+      "hint": ["kunnen", "wat", "koffie", "meenemen", "vrijwilliger"],
+      "note": "Before an uncountable noun, wat means 'some' in everyday Dutch: wat koffie.",
+      "alt": ["Kun jij wat koffie meenemen voor de vrijwilligers?", "Kun je voor de vrijwilligers wat koffie meenemen?", "Kun jij voor de vrijwilligers wat koffie meenemen?"]
+    }
+  ],
+  "exercises": [
+    {
+      "type": "choose",
+      "nl": "Heeft ___ mijn kat gezien?",
+      "options": ["niemand", "iemand", "iets"],
+      "correct": 1,
+      "en": "Has anyone seen my cat?",
+      "note": "English 'anyone' in a question is iemand. Niemand would mean 'nobody', and iets is a thing, not a person."
+    },
+    {
+      "type": "choose",
+      "nl": "___ huis in deze straat heeft een tuin.",
+      "options": ["Elke", "Elk", "Alle"],
+      "correct": 1,
+      "en": "Every house in this street has a garden.",
+      "note": "Het huis is a het-word, so elk without -e. Alle needs a plural: alle huizen hebben."
+    },
+    {
+      "type": "choose",
+      "nl": "Iedereen in de straat ___ erg betrokken.",
+      "options": ["zijn", "is", "ben"],
+      "correct": 1,
+      "en": "Everyone in the street is very involved.",
+      "note": "Iedereen takes a singular verb: iedereen is."
+    },
+    {
+      "type": "choose",
+      "nl": "___ bewoners ondersteunen het plan voor een nieuwe speeltuin.",
+      "options": ["Meeste", "Het meeste", "De meeste"],
+      "correct": 2,
+      "en": "Most residents support the plan for a new playground.",
+      "note": "Most + plural noun is always de meeste, with de. Het meeste is for an uncountable amount: het meeste geld."
+    },
+    {
+      "type": "choose",
+      "nl": "Mijn broer en ik zijn ___ lid van de tennisclub.",
+      "options": ["allemaal", "allebei", "alle"],
+      "correct": 1,
+      "en": "My brother and I are both members of the tennis club.",
+      "note": "Two people: allebei. Allemaal is for three or more, and alle needs a noun after it."
+    },
+    {
+      "type": "gap",
+      "nl": "Ik kon ___ (nowhere) een parkeerplek vinden.",
+      "answers": ["nergens"],
+      "en": "I could not find a parking space anywhere.",
+      "note": "Nowhere / not anywhere is nergens. The sentence needs no niet as well: one negation is enough."
+    },
+    {
+      "type": "gap",
+      "nl": "Heb je ___ (ever) vrijwilligerswerk gedaan?",
+      "answers": ["ooit"],
+      "en": "Have you ever done volunteer work?",
+      "note": "Ever is ooit. Nooit means never and would make it a negative question."
+    },
+    {
+      "type": "gap",
+      "nl": "___ (elk) straat heeft een eigen buurtapp.",
+      "answers": ["Elke"],
+      "en": "Every street has its own neighbourhood chat group.",
+      "note": "De straat is a de-word, so elk takes -e: elke straat."
+    },
+    {
+      "type": "gap",
+      "nl": "We hebben ___ (all) hulp nodig die we kunnen krijgen.",
+      "answers": ["alle"],
+      "en": "We need all the help we can get.",
+      "note": "Alle goes with a plural or uncountable noun such as hulp. Alles stands on its own and never before a noun."
+    },
+    {
+      "type": "gap",
+      "nl": "Vroeger hielp ___ (one, formal) elkaar meer dan nu.",
+      "answers": ["men"],
+      "en": "In the past people helped each other more than now.",
+      "note": "Men is the formal, written word for people in general. In speech you would usually say je or mensen."
+    },
+    {
+      "type": "order",
+      "lead": "Gisteren",
+      "words": ["zijn", "de vrijwilligers", "allemaal", "gekomen"],
+      "answers": ["Gisteren zijn de vrijwilligers allemaal gekomen."],
+      "en": "Yesterday the volunteers all came.",
+      "note": "After Gisteren come the verb and the subject. Allemaal stands after the subject in the middle, and the participle goes last."
+    },
+    {
+      "type": "rewrite",
+      "task": "Make it negative with niemand.",
+      "from": "Iemand heeft het initiatief genomen.",
+      "answers": ["Niemand heeft het initiatief genomen."],
+      "en": "Nobody took the initiative.",
+      "note": "Niemand replaces iemand and is the only negative word. The verb stays singular: heeft."
+    },
+    {
+      "type": "rewrite",
+      "task": "Make it negative with nergens.",
+      "from": "Ik heb de folder ergens gezien.",
+      "answers": ["Ik heb de folder nergens gezien."],
+      "en": "I have not seen the leaflet anywhere.",
+      "note": "Ergens becomes nergens, and that is the whole negation. Do not add niet."
+    },
+    {
+      "type": "rewrite",
+      "task": "Say it with de bewoners … allemaal instead of alle bewoners.",
+      "from": "Alle bewoners zijn naar de bijeenkomst gekomen.",
+      "answers": ["De bewoners zijn allemaal naar de bijeenkomst gekomen."],
+      "en": "The residents all came to the meeting.",
+      "note": "Alle stands before the noun, allemaal in the middle: after the conjugated verb zijn and before the rest."
+    },
+    {
+      "type": "fix",
+      "wrong": "Niemand heeft niets gezegd over de overlast.",
+      "answers": ["Niemand heeft iets gezegd over de overlast.", "Niemand heeft iets over de overlast gezegd."],
+      "en": "Nobody said anything about the nuisance.",
+      "note": "Dutch has only one negation per sentence. Niemand is negative already, so 'anything' is iets."
+    },
+    {
+      "type": "fix",
+      "wrong": "Meeste buren zijn erg behulpzaam.",
+      "answers": ["De meeste buren zijn erg behulpzaam."],
+      "en": "Most neighbours are very helpful.",
+      "note": "Most is always de meeste, with de, unlike English 'most'."
+    }
+  ]
+}

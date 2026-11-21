@@ -1,0 +1,480 @@
+{
+  "id": "b2-01",
+  "level": "B2",
+  "icon": "🗳️",
+  "title": "How the country is run",
+  "grammar": "The passive with modal verbs, and ways around the passive",
+  "summary": "Modal + passive: the modal is conjugated, participle + worden go to the end in either order (moet worden goedgekeurd / goedgekeurd worden). Ways around it: men, zijn te, vallen te, zich laten, krijgen + participle.",
+  "explain": "You know the passive from units B1 · 10 and B1 · 11: `Het plan wordt besproken`. In the news and in government letters it is often combined with a modal verb: something **must**, **can** or **should have been** done. Dutch also has several ways around the passive, and a good writer knows when to use which.\n\n### A modal verb with the passive\n\nThe modal verb is the conjugated verb and stands in second place. `worden` becomes an infinitive and goes to the end together with the participle. There is **no te** after a modal verb.\n\n| tense | example |\n| present | Het voorstel moet worden goedgekeurd. |\n| past | Het voorstel moest worden goedgekeurd. |\n| perfect | Het voorstel heeft moeten worden goedgekeurd. |\n| past perfect | Het voorstel had moeten worden goedgekeurd. |\n| zou | Het voorstel zou kunnen worden goedgekeurd. |\n\n> De wet had al lang moeten worden aangepast. — The law should have been changed long ago.\n> Dit probleem zou door de gemeente kunnen worden opgelost. — This problem could be solved by the municipality.\n\nIn the perfect the modal takes **hebben** and is an infinitive, not a participle (unit B1 · 26): `heeft moeten worden`, never *heeft gemoeten worden. `had moeten worden` + participle means **should have been**: it did not happen. `had kunnen worden` means **could have been**.\n\n### The order of the verbs at the end\n\nThe participle may stand **before or after** `worden`: `moet worden goedgekeurd` and `moet goedgekeurd worden` are both standard Dutch, in writing and in speech.\n\nWith three verbs the participle stands either **last** or **first** in the group: `had moeten worden aangepast` or `had aangepast moeten worden`. In the middle (*had moeten aangepast worden) it is heard mainly in Belgium; avoid it. In a sub-clause the conjugated modal joins the group at the end, with the same two orders, and nothing else may come between the verbs:\n\n> Ik lees dat de wet moet worden aangepast. — I read that the law must be changed.\n> Ik lees dat de wet aangepast moet worden. — I read that the law must be changed.\n\n### The passive without a subject\n\nFormal texts use `er` + passive: `Er wordt verwacht dat …` (it is expected), `Er is besloten om …` (it has been decided to), `Er moet worden gestemd` (a vote must be held). In newspaper style the participle can even come first, without `er`: `Verwacht wordt dat …`, `Besloten is om …`.\n\n> Er wordt verwacht dat de minister vandaag aftreedt. — It is expected that the minister will resign today.\n\n### Ways around the passive\n\n- **men** (formal): `Men verwacht dat …` = it is expected. In speech `je`, `ze` or `we`: `Ze gaan de belasting verhogen` (they, the authorities).\n- **zijn + te + infinitive** = can be done: `De uitslag is op de website te vinden`, `Dat is niet te doen`. In official letters it can mean *must be*: `Het bedrag is binnen dertig dagen te betalen`. A separable verb takes te in the middle: `in te zien`.\n- **vallen te**, mostly with niets, weinig, veel: `Er valt niets te zeggen`.\n- **zich laten** + infinitive (formal) = can be done: `Dat laat zich makkelijk verklaren`.\n- **krijgen + participle**: the person who receives something is the subject. `Hij kreeg een boete opgelegd`, `Ze kregen het formulier toegestuurd`.\n\n> Aan de uitslag valt niets meer te veranderen. — Nothing more can be changed about the result.\n> De kiezers krijgen hun stempas thuis toegestuurd. — The voters are sent their polling card at home.\n\n### Passive or active?\n\nThe passive suits formal writing and a doer who is unknown, unimportant or obvious. Use the active when the doer is the news (`De gemeenteraad heeft het plan afgewezen`) and in conversation.\n\n### Watch out\n\n- Do not forget worden: *Het plan moet goedgekeurd → `Het plan moet worden goedgekeurd`.\n- hebben in the perfect: *De wet is moeten worden aangepast → `De wet heeft moeten worden aangepast`.\n- No te after a modal: *Het moet te worden betaald → `Het moet worden betaald`. Only `hoeven` takes te: `Het hoeft niet te worden betaald` (unit B2 · 14).\n- The receiver is not the subject of worden: *De kiezers worden een brief gestuurd → `De kiezers krijgen een brief gestuurd`, or formally `Aan de kiezers wordt een brief gestuurd`.\n- `moet worden goedgekeurd` is a process still to come; `moet zijn goedgekeurd` means it must be done by a certain moment.\n\n### Compared with Ukrainian\n\nUkrainian can say `вирішено` or `кажуть, що …` with no subject at all. Dutch needs something in that slot: `Er is besloten`, `Men zegt dat …`, `Ze zeggen dat …`.",
+  "words": [
+    {
+      "nl": "verkiezing",
+      "art": "de",
+      "pl": "verkiezingen",
+      "en": "election",
+      "pos": "n"
+    },
+    {
+      "nl": "kabinet",
+      "art": "het",
+      "pl": "kabinetten",
+      "en": "cabinet (the government)",
+      "pos": "n"
+    },
+    {
+      "nl": "wetsvoorstel",
+      "art": "het",
+      "pl": "wetsvoorstellen",
+      "en": "bill (a proposed law)",
+      "pos": "n"
+    },
+    {
+      "nl": "coalitie",
+      "art": "de",
+      "pl": "coalities",
+      "en": "coalition",
+      "pos": "n"
+    },
+    {
+      "nl": "oppositie",
+      "art": "de",
+      "pl": "",
+      "en": "opposition",
+      "pos": "n"
+    },
+    {
+      "nl": "kiezer",
+      "art": "de",
+      "pl": "kiezers",
+      "en": "voter",
+      "pos": "n"
+    },
+    {
+      "nl": "stempas",
+      "art": "de",
+      "pl": "stempassen",
+      "en": "polling card",
+      "pos": "n"
+    },
+    {
+      "nl": "uitslag",
+      "art": "de",
+      "pl": "uitslagen",
+      "en": "result (of a vote or test)",
+      "pos": "n"
+    },
+    {
+      "nl": "maatregel",
+      "art": "de",
+      "pl": "maatregelen",
+      "en": "measure (a step taken)",
+      "pos": "n"
+    },
+    {
+      "nl": "begroting",
+      "art": "de",
+      "pl": "begrotingen",
+      "en": "budget",
+      "pos": "n"
+    },
+    {
+      "nl": "gemeenteraad",
+      "art": "de",
+      "pl": "gemeenteraden",
+      "en": "municipal council",
+      "pos": "n"
+    },
+    {
+      "nl": "goedkeuren",
+      "past": "keurde goed",
+      "perf": "heeft goedgekeurd",
+      "en": "to approve",
+      "pos": "v"
+    },
+    {
+      "nl": "invoeren",
+      "past": "voerde in",
+      "perf": "heeft ingevoerd",
+      "en": "to introduce (a rule or system)",
+      "pos": "v"
+    },
+    {
+      "nl": "afschaffen",
+      "past": "schafte af",
+      "perf": "heeft afgeschaft",
+      "en": "to abolish",
+      "pos": "v"
+    },
+    {
+      "nl": "aftreden",
+      "past": "trad af",
+      "perf": "is afgetreden",
+      "en": "to resign (from office)",
+      "pos": "v"
+    },
+    {
+      "nl": "aannemen",
+      "past": "nam aan",
+      "perf": "heeft aangenomen",
+      "en": "to pass (a law) / to accept",
+      "pos": "v"
+    }
+  ],
+  "sentences": [
+    {
+      "nl": "Het wetsvoorstel moet door beide Kamers worden goedgekeurd.",
+      "en": "The bill has to be approved by both Houses (of parliament).",
+      "hint": [
+        "wetsvoorstel",
+        "moeten",
+        "beide",
+        "Kamer",
+        "worden",
+        "goedkeuren"
+      ],
+      "note": "Moet is the conjugated verb in second place; worden and the participle goedgekeurd go to the end, in either order.",
+      "alt": [
+        "Het wetsvoorstel moet door beide Kamers goedgekeurd worden."
+      ]
+    },
+    {
+      "nl": "Volgens de oppositie had de begroting veel eerder moeten worden aangepast.",
+      "en": "According to the opposition the budget should have been adjusted much earlier.",
+      "hint": [
+        "volgens",
+        "oppositie",
+        "begroting",
+        "eerder",
+        "moeten",
+        "aanpassen"
+      ],
+      "note": "Should have been = had moeten worden + participle: it did not happen. Moeten is an infinitive here, not a participle, and the participle may also stand first: aangepast moeten worden.",
+      "alt": [
+        "Volgens de oppositie had de begroting veel eerder aangepast moeten worden.",
+        "De begroting had volgens de oppositie veel eerder moeten worden aangepast.",
+        "De begroting had volgens de oppositie veel eerder aangepast moeten worden."
+      ]
+    },
+    {
+      "nl": "De kiezers willen weten of de maatregel kan worden afgeschaft.",
+      "en": "The voters want to know whether the measure can be abolished.",
+      "hint": [
+        "kiezer",
+        "willen",
+        "weten",
+        "maatregel",
+        "kunnen",
+        "afschaffen"
+      ],
+      "note": "In the of-clause the conjugated kan joins the verb group at the end. The participle stands last or first in the group: kan worden afgeschaft or afgeschaft kan worden.",
+      "alt": [
+        "De kiezers willen weten of de maatregel afgeschaft kan worden."
+      ]
+    },
+    {
+      "nl": "Er wordt verwacht dat de minister vandaag aftreedt.",
+      "en": "It is expected that the minister will resign today.",
+      "hint": [
+        "verwachten",
+        "minister",
+        "vandaag",
+        "aftreden"
+      ],
+      "note": "A passive without a subject: er fills the first place. Aftreden is not passive itself; in the dat-clause the separable verb stays in one piece at the end: aftreedt.",
+      "alt": [
+        "Verwacht wordt dat de minister vandaag aftreedt.",
+        "Er wordt verwacht dat de minister vandaag zal aftreden.",
+        "Er wordt verwacht dat de minister vandaag af zal treden.",
+        "Verwacht wordt dat de minister vandaag zal aftreden.",
+        "Verwacht wordt dat de minister vandaag af zal treden."
+      ]
+    },
+    {
+      "nl": "Er is besloten om de verkiezingen een maand uit te stellen.",
+      "en": "It has been decided to postpone the elections by a month.",
+      "hint": [
+        "besluiten",
+        "verkiezing",
+        "maand",
+        "uitstellen"
+      ],
+      "note": "Er is besloten: the impersonal passive in the perfect, typical of official texts. Om may be left out; uit te stellen has te between the prefix and the verb.",
+      "alt": [
+        "Er is besloten de verkiezingen een maand uit te stellen."
+      ]
+    },
+    {
+      "nl": "Men zegt dat het kabinet binnenkort zal vallen.",
+      "en": "It is said that the cabinet will fall soon. (with men)",
+      "hint": [
+        "men",
+        "zeggen",
+        "kabinet",
+        "binnenkort",
+        "vallen"
+      ],
+      "note": "Men replaces a passive (Er wordt gezegd dat …) and takes a singular verb: men zegt. It is formal; in speech you would say ze zeggen.",
+      "alt": [
+        "Men zegt dat het kabinet binnenkort valt."
+      ]
+    },
+    {
+      "nl": "De uitslag van de verkiezingen is vanaf morgen op de website te vinden.",
+      "en": "The result of the elections can be found on the website from tomorrow. (with zijn te)",
+      "hint": [
+        "uitslag",
+        "verkiezing",
+        "vanaf",
+        "morgen",
+        "website",
+        "vinden"
+      ],
+      "note": "zijn + te + infinitive means 'can be done': is te vinden = can be found. It replaces kan worden gevonden.",
+      "alt": [
+        "Vanaf morgen is de uitslag van de verkiezingen op de website te vinden."
+      ]
+    },
+    {
+      "nl": "Aan de uitslag valt niets meer te veranderen.",
+      "en": "Nothing more can be changed about the result. (with vallen te)",
+      "hint": [
+        "uitslag",
+        "vallen",
+        "niets",
+        "meer",
+        "veranderen"
+      ],
+      "note": "vallen te + infinitive means 'can be done', mostly with niets, weinig or veel. Valt stays singular, and the infinitive veranderen goes to the end with te.",
+      "alt": [
+        "Er valt aan de uitslag niets meer te veranderen.",
+        "Er valt niets meer aan de uitslag te veranderen."
+      ]
+    },
+    {
+      "nl": "De winst van de oppositie laat zich makkelijk verklaren.",
+      "en": "The opposition's win can easily be explained. (with zich laten)",
+      "hint": [
+        "winst",
+        "oppositie",
+        "zich laten",
+        "makkelijk",
+        "verklaren"
+      ],
+      "note": "zich laten + infinitive is a formal way of saying 'can be done': laat zich verklaren = kan worden verklaard. Zich refers back to the subject, de winst.",
+      "alt": [
+        "De winst van de oppositie laat zich gemakkelijk verklaren."
+      ]
+    },
+    {
+      "nl": "Alle kiezers krijgen hun stempas thuis toegestuurd.",
+      "en": "All voters are sent their polling card at home. (with krijgen)",
+      "hint": [
+        "kiezer",
+        "krijgen",
+        "stempas",
+        "thuis",
+        "toesturen"
+      ],
+      "note": "krijgen + participle makes the receiver the subject. With worden that is impossible: never *De kiezers worden hun stempas toegestuurd.",
+      "alt": [
+        "Alle kiezers krijgen thuis hun stempas toegestuurd."
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "type": "choose",
+      "nl": "Het wetsvoorstel moet eerst door de Tweede Kamer worden ___.",
+      "options": [
+        "goedkeuren",
+        "goedgekeurd",
+        "goedgekeurt",
+        "te goedkeuren"
+      ],
+      "correct": 1,
+      "en": "The bill must first be approved by the House of Representatives.",
+      "note": "After worden comes the participle: goedgekeurd. It ends in d, because keuren has the stem keur (not in 't kofschip)."
+    },
+    {
+      "type": "choose",
+      "nl": "Vanwege de storm ___ de verkiezingen moeten worden uitgesteld.",
+      "options": [
+        "zijn",
+        "hebben",
+        "werden"
+      ],
+      "correct": 1,
+      "en": "Because of the storm the elections have had to be postponed.",
+      "note": "The perfect of a modal verb is always formed with hebben: hebben moeten. That stays so in the passive: *zijn moeten worden is wrong."
+    },
+    {
+      "type": "choose",
+      "nl": "Alle leden van de gemeenteraad ___ het rapport vooraf toegestuurd.",
+      "options": [
+        "worden",
+        "zijn",
+        "krijgen"
+      ],
+      "correct": 2,
+      "en": "All members of the municipal council are sent the report in advance.",
+      "note": "The members receive the report, so krijgen + participle. Dutch cannot make the receiver the subject of worden: *De leden worden het rapport toegestuurd."
+    },
+    {
+      "type": "choose",
+      "nl": "Het plan hoeft niet door de gemeenteraad ___ worden goedgekeurd.",
+      "options": [
+        "–",
+        "te",
+        "om te"
+      ],
+      "correct": 1,
+      "en": "The plan does not need to be approved by the municipal council.",
+      "note": "Hoeven is the one modal-like verb that takes te: hoeft niet te worden. After moeten, kunnen, mogen and willen there is no te."
+    },
+    {
+      "type": "gap",
+      "nl": "De maatregel zal waarschijnlijk worden ___ (afschaffen).",
+      "answers": [
+        "afgeschaft"
+      ],
+      "en": "The measure will probably be abolished.",
+      "note": "zal … worden + participle. Afschaffen: ge comes after the prefix, and schaf ends in f, so the participle ends in t: afgeschaft."
+    },
+    {
+      "type": "gap",
+      "nl": "Er ___ (worden) verwacht dat de coalitie zetels verliest.",
+      "answers": [
+        "wordt"
+      ],
+      "en": "It is expected that the coalition will lose seats.",
+      "note": "The impersonal passive has er in first place and a singular verb: er wordt. What is expected follows in the dat-clause."
+    },
+    {
+      "type": "gap",
+      "nl": "Tijdens de crisis ___ (moeten) veel maatregelen snel worden ingevoerd.",
+      "answers": [
+        "moesten"
+      ],
+      "en": "During the crisis many measures had to be introduced quickly.",
+      "note": "The subject is veel maatregelen, plural, and the story is in the past: moesten. Worden and ingevoerd stay at the end."
+    },
+    {
+      "type": "gap",
+      "nl": "De uitslag ___ (laten) zich moeilijk voorspellen.",
+      "answers": [
+        "laat"
+      ],
+      "en": "The result is hard to predict.",
+      "note": "zich laten + infinitive: can be done. De uitslag is singular: laat, stem without t because the stem already ends in t."
+    },
+    {
+      "type": "order",
+      "lead": "De oppositie vindt",
+      "words": [
+        "dat",
+        "de begroting",
+        "moet",
+        "worden",
+        "aangepast"
+      ],
+      "answers": [
+        "De oppositie vindt dat de begroting moet worden aangepast.",
+        "De oppositie vindt dat de begroting aangepast moet worden."
+      ],
+      "en": "The opposition thinks that the budget must be adjusted.",
+      "note": "In the sub-clause all three verbs stand together at the end. The participle stands last (moet worden aangepast) or first (aangepast moet worden); both are standard."
+    },
+    {
+      "type": "order",
+      "lead": "Volgens de krant",
+      "words": [
+        "had",
+        "het wetsvoorstel",
+        "veel eerder",
+        "moeten",
+        "worden",
+        "aangenomen"
+      ],
+      "answers": [
+        "Volgens de krant had het wetsvoorstel veel eerder moeten worden aangenomen.",
+        "Volgens de krant had het wetsvoorstel veel eerder aangenomen moeten worden."
+      ],
+      "en": "According to the newspaper the bill should have been passed much earlier.",
+      "note": "Volgens de krant is first, so had comes second and the subject follows. Should have been = had moeten worden + participle; the participle goes last or first in the group."
+    },
+    {
+      "type": "order",
+      "lead": "Dit probleem",
+      "words": [
+        "zou",
+        "door de gemeenteraad",
+        "kunnen",
+        "worden",
+        "opgelost"
+      ],
+      "answers": [
+        "Dit probleem zou door de gemeenteraad kunnen worden opgelost.",
+        "Dit probleem zou door de gemeenteraad opgelost kunnen worden.",
+        "Dit probleem zou kunnen worden opgelost door de gemeenteraad.",
+        "Dit probleem zou opgelost kunnen worden door de gemeenteraad."
+      ],
+      "en": "This problem could be solved by the municipal council.",
+      "note": "Zou is conjugated and stands second; kunnen, worden and the participle form the group at the end. The door-phrase normally stands before the group, but may also follow it."
+    },
+    {
+      "type": "rewrite",
+      "task": "Make it passive and leave out the doer. Keep the modal verb.",
+      "from": "De regering moet de wet aanpassen.",
+      "answers": [
+        "De wet moet worden aangepast.",
+        "De wet moet aangepast worden."
+      ],
+      "en": "The law must be changed.",
+      "note": "The object de wet becomes the subject. Moet stays in second place; aanpassen becomes worden + aangepast at the end."
+    },
+    {
+      "type": "rewrite",
+      "task": "Say it with zijn + te + infinitive.",
+      "from": "Een nieuwe stempas kan op het stadhuis worden aangevraagd.",
+      "answers": [
+        "Een nieuwe stempas is op het stadhuis aan te vragen.",
+        "Een nieuwe stempas is aan te vragen op het stadhuis."
+      ],
+      "en": "A new polling card can be applied for at the town hall.",
+      "note": "kan worden + participle becomes is te + infinitive. Aanvragen is separable, so te goes between the prefix and the verb: aan te vragen."
+    },
+    {
+      "type": "rewrite",
+      "task": "Say that it should have happened but did not: use had moeten.",
+      "from": "Het plan moet eerder worden besproken.",
+      "answers": [
+        "Het plan had eerder moeten worden besproken.",
+        "Het plan had eerder besproken moeten worden."
+      ],
+      "en": "The plan should have been discussed earlier.",
+      "note": "Had takes the second place, moeten becomes an infinitive in the group at the end. Not *had gemoeten: with another verb the modal is an infinitive."
+    },
+    {
+      "type": "fix",
+      "wrong": "De wet is moeten worden aangepast.",
+      "answers": [
+        "De wet heeft moeten worden aangepast.",
+        "De wet heeft aangepast moeten worden."
+      ],
+      "en": "The law has had to be changed.",
+      "note": "The perfect of moeten takes hebben, also when worden follows. The is of an ordinary passive perfect (is aangepast) does not apply here."
+    },
+    {
+      "type": "fix",
+      "wrong": "De kiezers werden een brief toegestuurd.",
+      "answers": [
+        "De kiezers kregen een brief toegestuurd.",
+        "De kiezers werd een brief toegestuurd.",
+        "Aan de kiezers werd een brief toegestuurd.",
+        "Er werd de kiezers een brief toegestuurd."
+      ],
+      "en": "The voters were sent a letter.",
+      "note": "The receiver cannot be the subject of worden. Make it the subject of krijgen (kregen … toegestuurd), or keep een brief as the subject: then the verb is singular, werd."
+    }
+  ]
+}

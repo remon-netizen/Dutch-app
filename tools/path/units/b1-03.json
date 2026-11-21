@@ -1,0 +1,217 @@
+{
+  "id": "b1-03",
+  "level": "B1",
+  "icon": "🧑‍💼",
+  "title": "People at work",
+  "grammar": "Relative clauses: die and dat",
+  "summary": "A relative clause says more about a noun and has the verb at the end. die for de-words and all plurals, dat for het-words in the singular. It is never left out: de man die ik zag.",
+  "explain": "A relative clause (de betrekkelijke bijzin) tells you more about a noun: *the colleague **who sits next to me***, *the team **that I lead***. In Dutch it starts with `die` or `dat`, and like every sub-clause it has **all its verbs at the end**.\n\n> De collega die naast mij zit, komt uit Polen. — The colleague who sits next to me is from Poland.\n> Het team dat ik leid, is klein. — The team that I lead is small.\n\n### die or dat?\n\nThe choice depends only on the noun it refers to: its article and whether it is plural. It does not matter whether the noun is a person or a thing.\n\n| | singular | plural |\n| de-word | de afdeling die | de afdelingen die |\n| het-word | het team dat | de teams die |\n\n- `die` for every de-word and for **every plural**, also the plural of a het-word: `het team dat`, but `de teams die`.\n- `dat` only for a het-word in the singular. Watch the het-words for people: `het meisje dat`, `het personeel dat`.\n\n> Het meisje dat bij ons stage loopt, is pas achttien. — The girl who is doing an internship with us is only eighteen.\n> De stagiairs die we dit jaar hebben, zijn erg goed. — The interns we have this year are very good.\n\n### Subject or object: the same word\n\nEnglish has *who* and *whom*, Ukrainian has `який`, `якого`, `якому`. Dutch has no case here: `die` is the same whether it is the subject or the object of the relative clause.\n\n> de collega die mij helpt — the colleague who helps me\n> de collega die ik help — the colleague whom I help\n\nThe context decides, and a plural verb can show it. In `de stagiairs die mijn collega begeleidt`, the singular `begeleidt` belongs to `mijn collega`, so the colleague supervises the interns. With `begeleiden` the interns would supervise the colleague.\n\n### Never left out\n\nEnglish can drop *who* or *that*: *the intern **we** trained*. Dutch never can.\n\n> De stagiair die we hebben ingewerkt, doet het goed. — The intern we trained is doing well.\n\n### Where the clause goes\n\nThe relative clause comes **directly after its noun**. If the main clause then goes on, its verb follows the relative clause; a comma there is common in writing.\n\nThere is one exception: when only the final verb of the main clause (a participle or an infinitive) would follow the noun, the relative clause usually moves **behind** that verb. Both orders are correct, but the first is the normal one:\n\n> Ik heb een collega ontmoet die in Gent woont. — I met a colleague who lives in Ghent.\n> Ik heb een collega die in Gent woont ontmoet. — I met a colleague who lives in Ghent.\n\n### Commas\n\nA relative clause that tells you **which** person or thing you mean gets no comma in front: `de collega die naast mij zit`. A clause that only adds extra information about someone already known stands between two commas:\n\n> Onze leidinggevende, die erg collegiaal is, helpt ons vaak. — Our manager, who is very supportive, often helps us.\n\n### Watch out\n\n- dat with a de-word: *de afdeling dat → `de afdeling die`.\n- die with a het-word: *het team die → `het team dat`.\n- The plural of a het-word: *de teams dat → `de teams die`.\n- wie for *who*: *de collega wie hier werkt → `de collega die hier werkt`. (After a noun, `wie` comes only after a preposition: unit B1 · 4.)\n- wat for a het-word: you will hear *het werk wat ik doe, but standard Dutch is `het werk dat ik doe` (`wat` has its own uses, unit B1 · 4).\n- The verb in the middle: *de collega die werkt hier → `de collega die hier werkt`.\n- Leaving it out: *de vervanger ik heb gekozen → `de vervanger die ik heb gekozen`.\n\n### Compared with Ukrainian\n\n`який`, `яка`, `яке`, `які` change for gender, number and case. Dutch has only two forms, and only the noun decides: de-word or plural `die`, het-word `dat`. The case question (`якого`? `якому`?) does not exist.",
+  "words": [
+    { "nl": "afdeling", "art": "de", "pl": "afdelingen", "en": "department", "pos": "n" },
+    { "nl": "leidinggevende", "art": "de", "pl": "leidinggevenden", "en": "manager / supervisor", "pos": "n" },
+    { "nl": "medewerker", "art": "de", "pl": "medewerkers", "en": "employee / staff member", "pos": "n" },
+    { "nl": "stagiair", "art": "de", "pl": "stagiairs", "en": "intern / trainee", "pos": "n" },
+    { "nl": "vervanger", "art": "de", "pl": "vervangers", "en": "replacement / stand-in", "pos": "n" },
+    { "nl": "functie", "art": "de", "pl": "functies", "en": "position / job (role)", "pos": "n" },
+    { "nl": "verantwoordelijkheid", "art": "de", "pl": "verantwoordelijkheden", "en": "responsibility", "pos": "n" },
+    { "nl": "personeel", "art": "het", "pl": "", "en": "staff / personnel", "pos": "n", "tag": "no plural" },
+    { "nl": "werkplek", "art": "de", "pl": "werkplekken", "en": "workplace / desk", "pos": "n" },
+    { "nl": "werkdruk", "art": "de", "pl": "", "en": "pressure of work / workload", "pos": "n", "tag": "no plural" },
+    { "nl": "samenwerken", "past": "werkte samen", "perf": "heeft samengewerkt", "en": "to work together / to cooperate", "pos": "v", "tag": "separable" },
+    { "nl": "inwerken", "past": "werkte in", "perf": "heeft ingewerkt", "en": "to train (a new colleague) / to show the ropes", "pos": "v", "tag": "separable" },
+    { "nl": "begeleiden", "past": "begeleidde", "perf": "heeft begeleid", "en": "to supervise / to guide", "pos": "v" },
+    { "nl": "overleggen", "past": "overlegde", "perf": "heeft overlegd", "en": "to consult / to discuss", "pos": "v" },
+    { "nl": "verantwoordelijk", "en": "responsible", "pos": "adj" },
+    { "nl": "collegiaal", "en": "supportive (as a colleague) / helpful", "pos": "adj" }
+  ],
+  "sentences": [
+    {
+      "nl": "De collega die naast mij zit, werkt al tien jaar op deze afdeling.",
+      "en": "The colleague who sits next to me has worked in this department for ten years.",
+      "hint": ["collega", "naast", "zitten", "werken", "jaar", "afdeling"],
+      "note": "Collega is a de-word, so die. The verb zit goes to the end of the relative clause, and then the main clause goes on with its verb werkt.",
+      "alt": ["De collega die naast me zit, werkt al tien jaar op deze afdeling."]
+    },
+    {
+      "nl": "Het team dat ik leid, bestaat uit vijf medewerkers.",
+      "en": "The team that I lead consists of five staff members.",
+      "hint": ["team", "leiden", "bestaan uit", "medewerker"],
+      "note": "Team is a het-word in the singular, so dat. Dat is the object here (I lead the team), but the form is the same as for a subject."
+    },
+    {
+      "nl": "De stagiair die we vorige week hebben ingewerkt, doet het heel goed.",
+      "en": "The intern we trained last week is doing very well.",
+      "hint": ["stagiair", "vorige week", "inwerken", "goed"],
+      "note": "English can leave out who, Dutch cannot: die must be there. Both verbs go to the end: hebben ingewerkt or ingewerkt hebben.",
+      "alt": ["De stagiair die we vorige week ingewerkt hebben, doet het heel goed."]
+    },
+    {
+      "nl": "Mijn leidinggevende is iemand die altijd tijd voor je maakt.",
+      "en": "My manager is someone who always makes time for you.",
+      "hint": ["leidinggevende", "iemand", "altijd", "tijd", "maken"],
+      "note": "Iemand takes die, like a de-word. Maakt goes to the end of the relative clause.",
+      "alt": ["Mijn leidinggevende is iemand die altijd tijd voor jou maakt."]
+    },
+    {
+      "nl": "De medewerkers die op deze afdeling werken, overleggen elke maandag.",
+      "en": "The employees who work in this department consult each other every Monday.",
+      "hint": ["medewerker", "afdeling", "werken", "overleggen", "maandag"],
+      "note": "A plural always takes die. The plural verb werken at the end shows that die (the employees) is the subject."
+    },
+    {
+      "nl": "Het overleg dat we elke week hebben, duurt vaak te lang.",
+      "en": "The meeting we have every week often goes on too long.",
+      "hint": ["overleg", "week", "hebben", "duren", "lang"],
+      "note": "Overleg is a het-word, so dat. Without the relative pronoun the sentence would be wrong, although English leaves it out."
+    },
+    {
+      "nl": "Vandaag hebben we een vervanger gevonden die mijn taken kan overnemen.",
+      "en": "Today we found a replacement who can take over my tasks.",
+      "hint": ["vandaag", "vervanger", "vinden", "taak", "kunnen", "overnemen"],
+      "note": "Only the participle gevonden would follow the noun, so the relative clause moves behind it. Inside it, kan overnemen stands at the end.",
+      "alt": ["We hebben vandaag een vervanger gevonden die mijn taken kan overnemen.", "Vandaag hebben we een vervanger gevonden die mijn taken over kan nemen.", "We hebben vandaag een vervanger gevonden die mijn taken over kan nemen."]
+    },
+    {
+      "nl": "Dit is de collega die mij heeft ingewerkt.",
+      "en": "This is the colleague who trained me.",
+      "hint": ["collega", "inwerken"],
+      "note": "Here die is the subject: the colleague trained me. Compare de collega die ik heb ingewerkt, where die is the object. Same word, different meaning.",
+      "alt": ["Dit is de collega die me heeft ingewerkt.", "Dit is de collega die mij ingewerkt heeft.", "Dit is de collega die me ingewerkt heeft."]
+    },
+    {
+      "nl": "Onze leidinggevende, die erg collegiaal is, helpt ons als het druk is.",
+      "en": "Our manager, who is very supportive, helps us when it is busy.",
+      "hint": ["leidinggevende", "erg", "collegiaal", "helpen", "druk"],
+      "note": "We have only one manager, so the clause just adds information and stands between commas. Is goes to the end of it."
+    },
+    {
+      "nl": "De teams die goed samenwerken, hebben minder last van werkdruk.",
+      "en": "The teams that work well together suffer less from pressure of work.",
+      "hint": ["team", "goed", "samenwerken", "last", "werkdruk"],
+      "note": "Het team, but in the plural de teams, so die. The separable verb samenwerken stays in one piece at the end of the clause."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "choose",
+      "nl": "Het werk ___ ik doe, geeft me veel verantwoordelijkheid.",
+      "options": ["die", "dat", "wat"],
+      "correct": 1,
+      "en": "The work I do gives me a lot of responsibility.",
+      "note": "Werk is a het-word in the singular, so dat. Het werk wat ik doe is often heard, but it is not standard Dutch."
+    },
+    {
+      "type": "choose",
+      "nl": "De afdeling ___ dit project leidt, zit op de derde verdieping.",
+      "options": ["dat", "die", "wie"],
+      "correct": 1,
+      "en": "The department that is running this project is on the third floor.",
+      "note": "Afdeling is a de-word, so die. After a noun, wie is only used with a preposition (met wie)."
+    },
+    {
+      "type": "choose",
+      "nl": "De teams ___ aan dit project werken, overleggen elke week.",
+      "options": ["dat", "wie", "die"],
+      "correct": 2,
+      "en": "The teams that are working on this project consult each other every week.",
+      "note": "Het team is a het-word, but every plural takes die: de teams die."
+    },
+    {
+      "type": "choose",
+      "nl": "Ik ken de vrouw ___.",
+      "options": ["die heeft deze functie", "die deze functie heeft", "dat deze functie heeft"],
+      "correct": 1,
+      "en": "I know the woman who has this position.",
+      "note": "A relative clause is a sub-clause, so heeft goes to the end. Vrouw is a de-word, so die, not dat."
+    },
+    {
+      "type": "gap",
+      "nl": "Dit is het meisje ___ bij ons stage loopt.",
+      "answers": ["dat"],
+      "en": "This is the girl who is doing an internship with us.",
+      "note": "Meisje is a het-word, so dat, even though it is a person. The article decides, not the meaning."
+    },
+    {
+      "type": "gap",
+      "nl": "De stagiairs die mijn collega ___ (begeleiden), zijn erg tevreden.",
+      "answers": ["begeleidt"],
+      "en": "The interns that my colleague supervises are very satisfied.",
+      "note": "My colleague is the subject, so the verb is singular: stem begeleid + t = begeleidt. Begeleiden would mean that the interns supervise the colleague."
+    },
+    {
+      "type": "gap",
+      "nl": "Het personeel ___ hier werkt, krijgt een eigen werkplek.",
+      "answers": ["dat"],
+      "en": "The staff who work here get their own desk.",
+      "note": "Personeel is a het-word and grammatically singular, so dat and a singular verb, werkt, even though it means a group of people."
+    },
+    {
+      "type": "order",
+      "lead": "De collega",
+      "words": ["die", "mij", "heeft ingewerkt", "gaat", "met pensioen"],
+      "answers": ["De collega die mij heeft ingewerkt, gaat met pensioen."],
+      "en": "The colleague who trained me is retiring.",
+      "note": "The relative clause comes right after its noun and ends with its verbs. Then the main clause continues with its own verb gaat."
+    },
+    {
+      "type": "order",
+      "lead": "Ik",
+      "words": ["heb", "gisteren", "de vrouw", "ontmoet", "die", "mijn functie", "overneemt"],
+      "answers": ["Ik heb gisteren de vrouw ontmoet die mijn functie overneemt.", "Ik heb de vrouw gisteren ontmoet die mijn functie overneemt.", "Ik heb gisteren de vrouw die mijn functie overneemt ontmoet.", "Ik heb de vrouw die mijn functie overneemt gisteren ontmoet."],
+      "en": "Yesterday I met the woman who is taking over my position.",
+      "note": "The usual order puts the relative clause behind the participle ontmoet. Directly after de vrouw is also correct. Overneemt stays one word at the end."
+    },
+    {
+      "type": "rewrite",
+      "task": "Join the two sentences with die or dat.",
+      "from": "Dat is de stagiair. Hij begint morgen.",
+      "answers": ["Dat is de stagiair die morgen begint."],
+      "en": "That is the intern who starts tomorrow.",
+      "note": "Hij is replaced by die (stagiair is a de-word), and begint moves to the end."
+    },
+    {
+      "type": "rewrite",
+      "task": "Join the two sentences with die or dat.",
+      "from": "Ik heb een nieuwe werkplek. Ik deel hem met een collega.",
+      "answers": ["Ik heb een nieuwe werkplek die ik met een collega deel.", "Ik heb een nieuwe werkplek die ik deel met een collega."],
+      "en": "I have a new desk that I share with a colleague.",
+      "note": "Werkplek is a de-word, so die; here it is the object of deel. The verb deel goes to the end of the relative clause."
+    },
+    {
+      "type": "rewrite",
+      "task": "Make the second sentence a relative clause after De medewerker.",
+      "from": "De medewerker heeft veel ervaring. Hij begeleidt de stagiairs.",
+      "answers": ["De medewerker die de stagiairs begeleidt, heeft veel ervaring."],
+      "en": "The staff member who supervises the interns has a lot of experience.",
+      "note": "The relative clause comes directly after de medewerker, with begeleidt at its end. Then the main clause continues with heeft."
+    },
+    {
+      "type": "fix",
+      "wrong": "Het team die ik leid, is erg collegiaal.",
+      "answers": ["Het team dat ik leid, is erg collegiaal."],
+      "en": "The team that I lead is very supportive.",
+      "note": "Team is a het-word in the singular, so the relative pronoun is dat."
+    },
+    {
+      "type": "fix",
+      "wrong": "De vervanger ik heb gekozen, begint maandag.",
+      "answers": ["De vervanger die ik heb gekozen, begint maandag.", "De vervanger die ik gekozen heb, begint maandag."],
+      "en": "The replacement I chose starts on Monday.",
+      "note": "English can leave out who or that, but Dutch always needs die or dat. Vervanger is a de-word: die."
+    },
+    {
+      "type": "fix",
+      "wrong": "Ik zoek de collega wie verantwoordelijk is voor het rooster.",
+      "answers": ["Ik zoek de collega die verantwoordelijk is voor het rooster.", "Ik zoek de collega die voor het rooster verantwoordelijk is."],
+      "en": "I am looking for the colleague who is responsible for the schedule.",
+      "note": "Who in a relative clause is die (or dat), never wie. After a noun, wie is used only with a preposition."
+    },
+    {
+      "type": "fix",
+      "wrong": "De medewerkers die werken hier, zijn erg collegiaal.",
+      "answers": ["De medewerkers die hier werken, zijn erg collegiaal."],
+      "en": "The staff members who work here are very supportive.",
+      "note": "A relative clause is a sub-clause, so its verb goes to the end: die hier werken."
+    }
+  ]
+}

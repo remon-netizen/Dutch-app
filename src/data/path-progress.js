@@ -11,21 +11,37 @@ import { UNITS } from './path/index.js';
 // A unit's words and sentences in the shape the cards want.
 //   word      shown: the word as it is learned, a noun with its article (het kantoor)
 //             accepted: every form that is right when it is typed
-const cache = new Map();
-export function unitItems(unit) {
-  if (cache.has(unit.id)) return cache.get(unit.id);
-  const words = unit.words.map(w => {
-    const arts = w.pos === 'n' ? String(w.art || 'de').split('/') : null;
-    return { ...w, key: `w:${w.pos}:${w.nl}`, kind: 'word', unitId: unit.id, arts,
-             shown: arts ? `${arts.join('/')} ${w.nl}` : w.nl,
-             accepted: arts ? arts.map(a => `${a} ${w.nl}`) : [w.nl] };
-  });
-  const sentences = unit.sentences.map((s, i) => ({ ...s, key: `s:${unit.id}:${i}`, kind: 'sentence', unitId: unit.id, accepted: [s.nl, ...(s.alt || [])] }));
-  const items = { words, sentences, all: [...words, ...sentences] };
-  cache.set(unit.id, items);
-  return items;
+// A word has one item, whichever unit lists it: a word that two units share (it
+// should not happen, tools/path/dedupe.mjs takes those out) is learned once. The
+// same spelling with another article (de stof, het stof) or with another meaning
+// (het recept: a prescription, a recipe) is another word, with an item of its own.
+const cores = en => new Set(String(en).toLowerCase().replace(/\([^)]*\)/g, ' ').split(/[^a-z]+/).filter(w => w.length > 2 && w !== 'the'));
+const sameMeaning = (a, b) => { const x = cores(a), y = cores(b); return [...x].some(w => y.has(w)) || !x.size || !y.size; };
+let built = null;
+function build() {
+  const byUnit = new Map(), all = [], firstOf = new Map();
+  for (const unit of UNITS) {
+    const words = unit.words.map(w => {
+      const arts = w.pos === 'n' ? String(w.art || 'de').split('/') : null;
+      const base = `w:${w.pos}:${arts ? arts.join('/') + ' ' : ''}${w.nl}`;
+      const first = firstOf.get(base);
+      const key = first && !sameMeaning(first.en, w.en) ? `${base}#${unit.id}` : base;
+      const item = { ...w, key, kind: 'word', unitId: unit.id, arts,
+                     shown: arts ? `${arts.join('/')} ${w.nl}` : w.nl,
+                     accepted: arts ? arts.map(a => `${a} ${w.nl}`) : [w.nl] };
+      if (!first) firstOf.set(base, item);
+      return item;
+    });
+    const sentences = unit.sentences.map((s, i) => ({ ...s, key: `s:${unit.id}:${i}`, kind: 'sentence', unitId: unit.id, accepted: [s.nl, ...(s.alt || [])] }));
+    byUnit.set(unit.id, { words, sentences, all: [...words, ...sentences] });
+  }
+  const seen = new Set();
+  for (const it of [...byUnit.values()].flatMap(x => x.all)) if (!seen.has(it.key)) { seen.add(it.key); all.push(it); }
+  return { byUnit, all };
 }
-const allItems = () => UNITS.flatMap(u => unitItems(u).all);
+export const unitItems = unit => (built ||= build()).byUnit.get(unit.id);
+// Every item once, in the order of the course.
+const allItems = () => (built ||= build()).all;
 
 const progress = makeProgress('pathProgress', () => allItems().map(i => i.key));
 

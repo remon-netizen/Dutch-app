@@ -1,0 +1,466 @@
+{
+  "id": "a2-23",
+  "level": "A2",
+  "icon": "💼",
+  "title": "Work and study",
+  "grammar": "Sub-clauses: omdat, dat, als",
+  "summary": "In a sub-clause the conjugated verb goes to the end: omdat ik ziek ben. dat is never left out. A sub-clause that comes first is the first element, so the main clause starts with its verb.",
+  "explain": "A sub-clause (*de bijzin*) is a sentence inside a sentence. It cannot stand on its own and starts with a word like `omdat` (because), `dat` (that) or `als` (if, when). Dutch marks it clearly: in a sub-clause the conjugated verb goes to the **end**.\n\n### The verb goes to the end\n\n| main clause | sub-clause |\n| Ik ben ziek. | … omdat ik ziek ben. |\n| De cursus is nuttig. | … dat de cursus nuttig is. |\n| Je hebt een diploma. | Als je een diploma hebt, … |\n\nAfter the conjunction comes the subject, then everything else, and the verb closes the clause.\n\n> Ik blijf thuis omdat ik ziek ben. — I am staying at home because I am ill.\n> Mijn baas zegt dat de cursus erg nuttig is. — My boss says that the course is very useful.\n\n### Two verbs at the end\n\nWith a modal verb or the perfect, both verbs go to the end. Both orders are right. The order with the conjugated verb first is always correct, so make that your default:\n\n> Ik doe deze opleiding omdat ik verpleegkundige wil worden. — I am doing this course because I want to become a nurse.\n> Ik weet dat hij rechten heeft gestudeerd. — I know that he studied law.\n\nYou will also hear and read `omdat ik verpleegkundige worden wil` and `dat hij rechten gestudeerd heeft`. Those are right too.\n\n### Separable verbs\n\nAt the end of a sub-clause a separable verb is written as one word again: `Hij belt me morgen op` becomes `… dat hij me morgen opbelt`.\n\n> Ik denk dat ik volgend jaar afstudeer. — I think I am graduating next year.\n\n### niet\n\n`niet` comes before the verbs at the end: `… omdat ik niet kan komen`, `… dat ik het niet weet`.\n\n### dat is never left out\n\nEnglish often drops \"that\": *I think it is a good job*. Dutch never does. After `zeggen`, `denken`, `weten`, `hopen`, `vinden` and `geloven` the sub-clause starts with `dat`:\n\n> Ik hoop dat ik voor het examen slaag. — I hope I pass the exam.\n\n### als: if, and when\n\n`als` means \"if\", and also \"when\" for the present and the future. For one moment in the past Dutch uses a different word, `toen` (unit B1 · 1).\n\n### The sub-clause first\n\nA sub-clause can also come first. Then the whole sub-clause is the first element of the sentence, so the main clause starts with its **verb**, and the subject follows it. A comma separates the two.\n\n> Als je dit diploma hebt, verdien je meer. — If you have this diploma, you earn more.\n> Omdat het salaris laag was, zocht ik een andere baan. — Because the salary was low, I looked for another job.\n\n### omdat or want\n\nThey mean the same. `omdat` sends the verb to the end; `want` keeps the normal order (unit A2 · 22). An omdat-clause can come first; a want-clause cannot.\n\n- `Ik stop, omdat het werk te zwaar is.`\n- `Ik stop, want het werk is te zwaar.`\n\nOne more word works like this: `of` meaning \"whether\" (`Ik weet niet of hij komt`). More about it in unit B1 · 2.\n\n### Watch out\n\n- The verb at the end: `omdat ik ziek ben`, not *omdat ik ben ziek.\n- Do not drop dat: `Ik denk dat het goed is`, not *Ik denk het is goed.\n- After a sub-clause, the verb first: `Als het regent, blijf ik thuis`, not *Als het regent, ik blijf thuis.\n- A separable verb in one piece: `dat hij me opbelt`, not *dat hij me belt op.\n\n### Compared with Ukrainian\n\nUkrainian keeps `що` too (`Я думаю, що це добре`), so `dat` should feel natural. What is new is the verb at the end: Ukrainian has nothing like it, so check it every time you write `omdat`, `dat` or `als`.",
+  "words": [
+    {
+      "nl": "opleiding",
+      "art": "de",
+      "pl": "opleidingen",
+      "en": "course of training / education",
+      "pos": "n"
+    },
+    {
+      "nl": "cursus",
+      "art": "de",
+      "pl": "cursussen",
+      "en": "course (classes)",
+      "pos": "n"
+    },
+    {
+      "nl": "diploma",
+      "art": "het",
+      "pl": "diploma's",
+      "en": "diploma / certificate",
+      "pos": "n"
+    },
+    {
+      "nl": "vak",
+      "art": "het",
+      "pl": "vakken",
+      "en": "trade / profession / school subject",
+      "pos": "n"
+    },
+    {
+      "nl": "ervaring",
+      "art": "de",
+      "pl": "ervaringen",
+      "en": "experience",
+      "pos": "n"
+    },
+    {
+      "nl": "stage",
+      "art": "de",
+      "pl": "stages",
+      "en": "internship / work placement",
+      "pos": "n"
+    },
+    {
+      "nl": "salaris",
+      "art": "het",
+      "pl": "salarissen",
+      "en": "salary",
+      "pos": "n"
+    },
+    {
+      "nl": "baan",
+      "art": "de",
+      "pl": "banen",
+      "en": "job",
+      "pos": "n"
+    },
+    {
+      "nl": "studeren",
+      "past": "studeerde",
+      "perf": "heeft gestudeerd",
+      "en": "to study (at college or university)",
+      "pos": "v"
+    },
+    {
+      "nl": "slagen",
+      "past": "slaagde",
+      "perf": "is geslaagd",
+      "en": "to pass (an exam: slagen voor)",
+      "pos": "v"
+    },
+    {
+      "nl": "kiezen",
+      "past": "koos",
+      "perf": "heeft gekozen",
+      "en": "to choose",
+      "pos": "v"
+    },
+    {
+      "nl": "verdienen",
+      "past": "verdiende",
+      "perf": "heeft verdiend",
+      "en": "to earn",
+      "pos": "v"
+    },
+    {
+      "nl": "afstuderen",
+      "past": "studeerde af",
+      "perf": "is afgestudeerd",
+      "en": "to graduate",
+      "pos": "v",
+      "tag": "separable"
+    },
+    {
+      "nl": "beslissen",
+      "past": "besliste",
+      "perf": "heeft beslist",
+      "en": "to decide",
+      "pos": "v"
+    },
+    {
+      "nl": "hopen",
+      "past": "hoopte",
+      "perf": "heeft gehoopt",
+      "en": "to hope",
+      "pos": "v"
+    },
+    {
+      "nl": "nuttig",
+      "en": "useful",
+      "pos": "adj"
+    }
+  ],
+  "sentences": [
+    {
+      "nl": "Ik doe deze opleiding omdat ik verpleegkundige wil worden.",
+      "en": "I am doing this course because I want to become a nurse.",
+      "hint": [
+        "doen",
+        "opleiding",
+        "verpleegkundige",
+        "willen",
+        "worden"
+      ],
+      "note": "After omdat both verbs go to the end, conjugated verb first: wil worden. Worden wil is also right.",
+      "alt": [
+        "Ik doe deze opleiding omdat ik verpleegkundige worden wil."
+      ]
+    },
+    {
+      "nl": "Mijn baas zegt dat de cursus erg nuttig is.",
+      "en": "My boss says that the course is very useful.",
+      "hint": [
+        "baas",
+        "zeggen",
+        "cursus",
+        "erg",
+        "nuttig"
+      ],
+      "note": "In the dat-clause the verb is goes to the very end, after nuttig.",
+      "alt": [
+        "Mijn baas zegt dat de cursus heel nuttig is."
+      ]
+    },
+    {
+      "nl": "Ik denk dat ik volgend jaar afstudeer.",
+      "en": "I think I am graduating next year.",
+      "hint": [
+        "denken",
+        "volgend jaar",
+        "afstuderen"
+      ],
+      "note": "English can drop 'that', Dutch cannot. At the end of the sub-clause the separable verb is one word again: afstudeer."
+    },
+    {
+      "nl": "Als je dit diploma hebt, verdien je meer.",
+      "en": "If you have this diploma, you earn more.",
+      "hint": [
+        "als",
+        "diploma",
+        "hebben",
+        "verdienen",
+        "meer"
+      ],
+      "note": "The sub-clause is the first element, so the main clause starts with the verb: verdien je. Je after the verb loses the t.",
+      "alt": [
+        "Je verdient meer als je dit diploma hebt."
+      ]
+    },
+    {
+      "nl": "Hij koos dit vak omdat hij graag met mensen werkt.",
+      "en": "He chose this profession because he likes working with people.",
+      "hint": [
+        "kiezen",
+        "vak",
+        "graag",
+        "mens",
+        "werken"
+      ],
+      "note": "In the omdat-clause the verb werkt closes the clause. With want it would be: want hij werkt graag met mensen.",
+      "alt": [
+        "Hij heeft dit vak gekozen omdat hij graag met mensen werkt."
+      ]
+    },
+    {
+      "nl": "Ik hoop dat ik voor het examen slaag.",
+      "en": "I hope that I pass the exam.",
+      "hint": [
+        "hopen",
+        "examen",
+        "slagen"
+      ],
+      "note": "After hopen comes dat, and the verb slaag goes to the end.",
+      "alt": [
+        "Ik hoop dat ik slaag voor het examen."
+      ]
+    },
+    {
+      "nl": "Ik weet dat hij rechten heeft gestudeerd.",
+      "en": "I know that he studied law.",
+      "hint": [
+        "weten",
+        "rechten",
+        "studeren"
+      ],
+      "note": "In the sub-clause the auxiliary and the participle both go to the end: heeft gestudeerd, or gestudeerd heeft.",
+      "alt": [
+        "Ik weet dat hij rechten gestudeerd heeft.",
+        "Ik weet dat hij rechten studeerde."
+      ]
+    },
+    {
+      "nl": "Omdat het salaris laag was, zocht ik een andere baan.",
+      "en": "Because the salary was low, I looked for another job.",
+      "hint": [
+        "omdat",
+        "salaris",
+        "laag",
+        "zoeken",
+        "baan"
+      ],
+      "note": "The omdat-clause comes first and counts as one element, so the main clause starts with its verb: zocht ik.",
+      "alt": [
+        "Omdat het salaris laag was, heb ik een andere baan gezocht.",
+        "Ik zocht een andere baan omdat het salaris laag was.",
+        "Ik heb een andere baan gezocht omdat het salaris laag was."
+      ]
+    },
+    {
+      "nl": "Ze zegt dat ze morgen niet naar de cursus kan komen.",
+      "en": "She says that she cannot come to the course tomorrow.",
+      "hint": [
+        "zeggen",
+        "morgen",
+        "cursus",
+        "kunnen",
+        "komen"
+      ],
+      "note": "niet stands before the verbs at the end of the sub-clause: niet … kan komen.",
+      "alt": [
+        "Ze zegt dat zij morgen niet naar de cursus kan komen.",
+        "Ze zegt dat ze morgen niet naar de cursus komen kan.",
+        "Ze zegt dat zij morgen niet naar de cursus komen kan."
+      ]
+    },
+    {
+      "nl": "Als ik klaar ben met mijn studie, wil ik in een ziekenhuis werken.",
+      "en": "When I have finished my studies, I want to work in a hospital.",
+      "hint": [
+        "als",
+        "klaar",
+        "studie",
+        "willen",
+        "ziekenhuis",
+        "werken"
+      ],
+      "note": "als also means 'when' for the future. After the sub-clause the main clause starts with its verb: wil ik.",
+      "alt": [
+        "Als ik met mijn studie klaar ben, wil ik in een ziekenhuis werken.",
+        "Ik wil in een ziekenhuis werken als ik klaar ben met mijn studie.",
+        "Ik wil in een ziekenhuis werken als ik met mijn studie klaar ben."
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "type": "choose",
+      "nl": "Ik doe een stage, omdat ik ervaring ___.",
+      "options": [
+        "heb nodig",
+        "nodig heb",
+        "nodig hebben"
+      ],
+      "correct": 1,
+      "en": "I am doing an internship because I need experience.",
+      "note": "In an omdat-clause the conjugated verb heb goes to the end, after nodig. Heb nodig is main-clause order."
+    },
+    {
+      "type": "choose",
+      "nl": "Mijn docent zegt ___ ik goed Nederlands spreek.",
+      "options": [
+        "–",
+        "of",
+        "dat"
+      ],
+      "correct": 2,
+      "en": "My teacher says that I speak Dutch well.",
+      "note": "After zeggen the sub-clause starts with dat, and Dutch never leaves it out. Of means whether, which does not fit after zegt here."
+    },
+    {
+      "type": "choose",
+      "nl": "Als je dit diploma hebt, ___ meer.",
+      "options": [
+        "je verdient",
+        "verdien je",
+        "je verdien"
+      ],
+      "correct": 1,
+      "en": "If you have this diploma, you earn more.",
+      "note": "The als-clause is the first element, so the verb comes next and then the subject. Je after the verb loses its t: verdien je."
+    },
+    {
+      "type": "choose",
+      "nl": "Ik denk dat de school me morgen ___.",
+      "options": [
+        "belt op",
+        "opbelt",
+        "op belt"
+      ],
+      "correct": 1,
+      "en": "I think that the school will call me tomorrow.",
+      "note": "At the end of a sub-clause a separable verb is one word again: opbelt."
+    },
+    {
+      "type": "gap",
+      "nl": "Ze zegt dat ze de cursus heel nuttig ___ (vinden).",
+      "answers": [
+        "vindt"
+      ],
+      "en": "She says that she finds the course very useful.",
+      "note": "The verb goes to the end of the dat-clause, and it still agrees with its subject: ze vindt, with d + t."
+    },
+    {
+      "type": "gap",
+      "nl": "Ik hoop dat ik volgende maand ___ (afstuderen).",
+      "answers": [
+        "afstudeer"
+      ],
+      "en": "I hope that I graduate next month.",
+      "note": "In a sub-clause the separable verb comes together at the end: afstudeer, one word, with the ik-form."
+    },
+    {
+      "type": "gap",
+      "nl": "Ik kies deze opleiding ___ ik graag met kinderen werk.",
+      "answers": [
+        "omdat",
+        "aangezien"
+      ],
+      "en": "I am choosing this course because I like working with children.",
+      "note": "The verb werk stands at the end, so this is a sub-clause: omdat. Want would need the normal order: want ik werk graag met kinderen."
+    },
+    {
+      "type": "order",
+      "lead": "Ik blijf vanavond thuis",
+      "words": [
+        "omdat",
+        "ik",
+        "moet",
+        "leren",
+        "voor mijn examen"
+      ],
+      "answers": [
+        "Ik blijf vanavond thuis omdat ik voor mijn examen moet leren.",
+        "Ik blijf vanavond thuis omdat ik voor mijn examen leren moet.",
+        "Ik blijf vanavond thuis omdat ik moet leren voor mijn examen."
+      ],
+      "en": "I am staying at home this evening because I have to study for my exam.",
+      "note": "Both verbs go to the end of the omdat-clause, best with the conjugated verb first: moet leren. A phrase like voor mijn examen may also follow the verbs."
+    },
+    {
+      "type": "order",
+      "lead": "Als",
+      "words": [
+        "ik",
+        "de baan",
+        "krijg",
+        "verhuis",
+        "ik",
+        "naar Utrecht"
+      ],
+      "answers": [
+        "Als ik de baan krijg, verhuis ik naar Utrecht."
+      ],
+      "en": "If I get the job, I will move to Utrecht.",
+      "note": "In the als-clause krijg goes to the end. Then the main clause starts with its verb, verhuis, and ik follows."
+    },
+    {
+      "type": "order",
+      "lead": "Ze vertelt",
+      "words": [
+        "dat",
+        "ze",
+        "haar diploma",
+        "heeft",
+        "gehaald"
+      ],
+      "answers": [
+        "Ze vertelt dat ze haar diploma heeft gehaald.",
+        "Ze vertelt dat ze haar diploma gehaald heeft."
+      ],
+      "en": "She says that she has got her diploma.",
+      "note": "In the perfect both verbs go to the end of the dat-clause. Heeft gehaald and gehaald heeft are both right."
+    },
+    {
+      "type": "rewrite",
+      "task": "Join the two sentences with omdat.",
+      "from": "Ik wil een andere baan. Het salaris is te laag.",
+      "answers": [
+        "Ik wil een andere baan omdat het salaris te laag is.",
+        "Omdat het salaris te laag is, wil ik een andere baan."
+      ],
+      "en": "I want another job because the salary is too low.",
+      "note": "omdat makes the second sentence a sub-clause, so is moves to the end: omdat het salaris te laag is."
+    },
+    {
+      "type": "rewrite",
+      "task": "Start with the sub-clause.",
+      "from": "Ik ga studeren als ik genoeg geld heb.",
+      "answers": [
+        "Als ik genoeg geld heb, ga ik studeren."
+      ],
+      "en": "If I have enough money, I will go and study.",
+      "note": "The als-clause becomes the first element, so the main clause starts with its verb: ga ik studeren."
+    },
+    {
+      "type": "rewrite",
+      "task": "Start with Ik denk dat …",
+      "from": "Ze heeft nog niet beslist.",
+      "answers": [
+        "Ik denk dat ze nog niet heeft beslist.",
+        "Ik denk dat zij nog niet heeft beslist.",
+        "Ik denk dat ze nog niet beslist heeft.",
+        "Ik denk dat zij nog niet beslist heeft."
+      ],
+      "en": "I think she has not decided yet.",
+      "note": "In the dat-clause heeft moves to the end, next to beslist; nog niet stays in front of the verbs."
+    },
+    {
+      "type": "fix",
+      "wrong": "Ik denk het examen moeilijk is.",
+      "answers": [
+        "Ik denk dat het examen moeilijk is."
+      ],
+      "en": "I think the exam is difficult.",
+      "note": "English can leave out 'that', Dutch cannot: Ik denk dat … The verb at the end only makes sense after dat."
+    },
+    {
+      "type": "fix",
+      "wrong": "Ik doe deze opleiding omdat het is een goed vak.",
+      "answers": [
+        "Ik doe deze opleiding omdat het een goed vak is.",
+        "Ik doe deze opleiding, want het is een goed vak."
+      ],
+      "en": "I am doing this course because it is a good profession.",
+      "note": "After omdat the verb goes to the end: omdat het een goed vak is. If you keep the normal order, the word must be want."
+    },
+    {
+      "type": "fix",
+      "wrong": "Het is jammer dat ik kan niet komen.",
+      "answers": [
+        "Het is jammer dat ik niet kan komen.",
+        "Het is jammer dat ik niet komen kan."
+      ],
+      "en": "It is a pity that I cannot come.",
+      "note": "In a sub-clause the verbs go to the end, and niet stands in front of them: dat ik niet kan komen."
+    }
+  ]
+}

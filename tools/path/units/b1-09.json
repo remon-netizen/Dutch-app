@@ -1,0 +1,223 @@
+{
+  "id": "b1-09",
+  "level": "B1",
+  "icon": "🧳",
+  "title": "A journey with surprises",
+  "grammar": "The past perfect: had gewerkt, was gegaan",
+  "summary": "had / hadden or was / waren + past participle, with the same auxiliary as the perfect. Use it for what had already happened before another moment in the past: Toen we aankwamen, was de trein al vertrokken.",
+  "explain": "The past perfect (*de voltooid verleden tijd*) is the Dutch \"had done\". You use it when you are already telling something in the past and want to look **one step further back**: to something that was already finished before that moment.\n\n### The form\n\nTake the perfect and put the auxiliary in the simple past: `heeft` becomes `had` / `hadden`, `is` becomes `was` / `waren`. The past participle stays at the end, exactly as in the perfect.\n\n| | boeken | vertrekken |\n| ik, jij / je, u | had geboekt | was vertrokken |\n| hij, zij / ze, het | had geboekt | was vertrokken |\n| wij / we, jullie, zij / ze | hadden geboekt | waren vertrokken |\n\n> Ik had de kamer al geboekt. — I had already booked the room.\n> De bus was net vertrokken. — The bus had just left.\n\nThe choice between `hebben` and `zijn` is the same as in the perfect (unit A2 · 14). If the perfect is `heeft gewijzigd`, the past perfect is `had gewijzigd`; if it is `is vertrokken`, it is `was vertrokken`. Verbs of a change of place or state take `zijn`: `gaan`, `komen`, `vertrekken`, `aankomen`, `beginnen`, `worden`, `blijven`, `verlopen`, `uitvallen`. And `zijn` itself: `ik was er al eens geweest`.\n\n> Mijn paspoort was verlopen. — My passport had expired.\n\n### When to use it\n\nThere are two moments in the past, and the one that came **first** gets the past perfect. Compare:\n\n> Toen we aankwamen, was de trein al vertrokken. — When we arrived, the train had already left.\n> Toen we aankwamen, vertrok de trein. — When we arrived, the train left.\n\nIn the first sentence we missed the train; in the second it left just as we got there. Words that often go with the past perfect: `al` (already), `net` (just), `nog niet` (not yet), `nog nooit` (never before).\n\n> Ik had nog nooit gevlogen. — I had never flown before.\n\nAfter `nadat` (after) the past perfect is the normal form when the main clause is in the past. With `voordat` (before) it is the other way round: the voordat-clause has the simple past, and the main clause may take the past perfect. The simple past is also fine there, because `voordat` already shows the order.\n\n> Nadat we hadden gegeten, gingen we terug naar het hotel. — After we had eaten, we went back to the hotel.\n> Hij had zijn reis al omgeboekt voordat de staking begon. — He had already rebooked his trip before the strike began.\n\nDo **not** use it for a row of events that you tell in the order they happened: `Ik stond op, ontbeet en ging naar het station`. Each step is simple past. The past perfect is only for a jump back.\n\n### Word order\n\nIn a main clause `had` or `was` stands in second place (first in a yes/no question), and the participle goes to the end. A separable verb stays one word: `omgeboekt`, `uitgevallen`.\n\nIn a sub-clause both verbs go to the end, and both orders are correct:\n\n> We misten de bus, omdat we ons hadden verslapen. — We missed the bus because we had overslept.\n\nThe same clause can end in `verslapen hadden`. When a sub-clause comes first, the main clause starts with its verb: `Toen we aankwamen, was …`.\n\n### Watch out\n\n- The auxiliary: *De trein had vertrokken → `De trein was vertrokken`.\n- No t after jij: *jij hadt → `jij had`.\n- English has one \"had\", Dutch two forms: *We had geboekt → `We hadden geboekt`.\n- After nadat, not the perfect: *Nadat we hebben gegeten, gingen we → `Nadat we hadden gegeten, gingen we`.\n- The participle goes last: *Ik had vergeten mijn paspoort → `Ik had mijn paspoort vergeten`.\n\n### Compared with Ukrainian\n\nUkrainian has no separate tense for this; it uses the ordinary past, often with `уже`: `Коли ми приїхали, потяг уже поїхав`. Dutch has to show the step back in the verb: `was al vertrokken`. A Ukrainian perfective verb is not automatically a Dutch past perfect: use it only when the event lies before another moment in the past.\n\nYou will also meet `had` + participle in unreal sentences such as `Als ik dat had geweten …`; that is unit B2 · 2.",
+  "words": [
+    { "nl": "boeking", "art": "de", "pl": "boekingen", "en": "booking", "pos": "n" },
+    { "nl": "bevestiging", "art": "de", "pl": "bevestigingen", "en": "confirmation", "pos": "n" },
+    { "nl": "reisverzekering", "art": "de", "pl": "reisverzekeringen", "en": "travel insurance", "pos": "n" },
+    { "nl": "staking", "art": "de", "pl": "stakingen", "en": "strike (by workers)", "pos": "n" },
+    { "nl": "accommodatie", "art": "de", "pl": "accommodaties", "en": "accommodation / place to stay", "pos": "n" },
+    { "nl": "bezienswaardigheid", "art": "de", "pl": "bezienswaardigheden", "en": "sight (worth seeing)", "pos": "n" },
+    { "nl": "rondleiding", "art": "de", "pl": "rondleidingen", "en": "guided tour", "pos": "n" },
+    { "nl": "omweg", "art": "de", "pl": "omwegen", "en": "detour", "pos": "n" },
+    { "nl": "gids", "art": "de", "pl": "gidsen", "en": "guide (person or book)", "pos": "n" },
+    { "nl": "omboeken", "past": "boekte om", "perf": "heeft omgeboekt", "en": "to rebook", "pos": "v", "tag": "separable" },
+    { "nl": "uitvallen", "past": "viel uit", "perf": "is uitgevallen", "en": "to be cancelled (train, bus, lesson)", "pos": "v", "tag": "separable" },
+    { "nl": "verlopen", "past": "verliep", "perf": "is verlopen", "en": "to expire (passport, ticket)", "pos": "v" },
+    { "nl": "wijzigen", "past": "wijzigde", "perf": "heeft gewijzigd", "en": "to change / to alter", "pos": "v" },
+    { "nl": "geldig", "en": "valid", "pos": "adj" },
+    { "nl": "volgeboekt", "en": "fully booked", "pos": "adj" },
+    { "nl": "inmiddels", "en": "by then / by now", "pos": "adv" }
+  ],
+  "sentences": [
+    {
+      "nl": "Toen we op het station aankwamen, was de trein al vertrokken.",
+      "en": "When we arrived at the station, the train had already left.",
+      "hint": ["toen", "station", "aankomen", "trein", "al", "vertrekken"],
+      "note": "The train left before we arrived, so it gets the past perfect. Vertrekken takes zijn, so was vertrokken; the toen-clause comes first, so was stands right after it.",
+      "alt": ["De trein was al vertrokken toen we op het station aankwamen.", "Toen we bij het station aankwamen, was de trein al vertrokken.", "De trein was al vertrokken toen we bij het station aankwamen."]
+    },
+    {
+      "nl": "Mijn paspoort was verlopen, dus ik mocht niet aan boord.",
+      "en": "My passport had expired, so I was not allowed on board.",
+      "hint": ["paspoort", "verlopen", "dus", "mogen", "aan boord"],
+      "note": "Verlopen is a change of state and takes zijn: is verlopen, so in the past perfect was verlopen. It had happened before the moment at the gate.",
+      "alt": ["Mijn paspoort was verlopen, dus ik mocht niet aan boord gaan."]
+    },
+    {
+      "nl": "We konden niet vertrekken, omdat alle treinen door een staking waren uitgevallen.",
+      "en": "We could not leave, because all the trains had been cancelled because of a strike.",
+      "hint": ["kunnen", "vertrekken", "omdat", "trein", "staking", "uitvallen"],
+      "note": "Uitvallen takes zijn, and the subject alle treinen is plural: waren uitgevallen. In the omdat-clause both verbs stand at the end, in either order.",
+      "alt": ["We konden niet vertrekken, omdat alle treinen door een staking uitgevallen waren.", "We konden niet vertrekken, omdat alle treinen vanwege een staking waren uitgevallen.", "We konden niet vertrekken, omdat alle treinen vanwege een staking uitgevallen waren."]
+    },
+    {
+      "nl": "Nadat we de bevestiging hadden ontvangen, boekten we ook een rondleiding.",
+      "en": "After we had received the confirmation, we also booked a guided tour.",
+      "hint": ["nadat", "bevestiging", "ontvangen", "boeken", "ook", "rondleiding"],
+      "note": "After nadat the past perfect is the normal form: hadden ontvangen. The main clause is in the simple past and starts with its verb, because the nadat-clause comes first.",
+      "alt": ["Nadat we de bevestiging ontvangen hadden, boekten we ook een rondleiding.", "We boekten ook een rondleiding nadat we de bevestiging hadden ontvangen.", "We boekten ook een rondleiding nadat we de bevestiging ontvangen hadden.", "Nadat we de bevestiging hadden gekregen, boekten we ook een rondleiding.", "Nadat we de bevestiging gekregen hadden, boekten we ook een rondleiding."]
+    },
+    {
+      "nl": "Had je nog nooit eerder gevlogen?",
+      "en": "Had you never flown before?",
+      "hint": ["hebben", "nog nooit", "eerder", "vliegen"],
+      "note": "A yes/no question starts with the auxiliary. It is jij had, without t, so had je stays the same. Vliegen without a destination takes hebben.",
+      "alt": ["Had jij nog nooit eerder gevlogen?", "Had je nog nooit gevlogen?", "Had jij nog nooit gevlogen?"]
+    },
+    {
+      "nl": "De rondleiding was net begonnen toen we bij het museum aankwamen.",
+      "en": "The guided tour had just started when we arrived at the museum.",
+      "hint": ["rondleiding", "net", "beginnen", "toen", "museum", "aankomen"],
+      "note": "Beginnen always takes zijn: is begonnen, so was begonnen. Net (just) shows that it started a moment before we arrived.",
+      "alt": ["Toen we bij het museum aankwamen, was de rondleiding net begonnen."]
+    },
+    {
+      "nl": "Bij aankomst zagen we dat het hotel onze boeking had gewijzigd.",
+      "en": "On arrival we saw that the hotel had changed our booking.",
+      "hint": ["aankomst", "zien", "hotel", "boeking", "wijzigen"],
+      "note": "The change happened before we saw it, so had gewijzigd. In the dat-clause had and gewijzigd both stand at the end, in either order.",
+      "alt": ["Bij aankomst zagen we dat het hotel onze boeking gewijzigd had.", "We zagen bij aankomst dat het hotel onze boeking had gewijzigd.", "We zagen bij aankomst dat het hotel onze boeking gewijzigd had."]
+    },
+    {
+      "nl": "Omdat we de afslag hadden gemist, moesten we een lange omweg maken.",
+      "en": "Because we had missed the exit, we had to make a long detour.",
+      "hint": ["omdat", "afslag", "missen", "moeten", "lang", "omweg"],
+      "note": "Missing the exit came first, so hadden gemist. The omdat-clause is the first element, so the main clause starts with moesten.",
+      "alt": ["Omdat we de afslag gemist hadden, moesten we een lange omweg maken.", "We moesten een lange omweg maken, omdat we de afslag hadden gemist.", "We moesten een lange omweg maken, omdat we de afslag gemist hadden."]
+    },
+    {
+      "nl": "Mijn ouders hadden de bezienswaardigheden nog niet gezien, maar ze moesten al naar huis.",
+      "en": "My parents had not seen the sights yet, but they already had to go home.",
+      "hint": ["ouders", "bezienswaardigheid", "nog niet", "zien", "moeten", "huis"],
+      "note": "Mijn ouders is plural, so hadden, not had. Nog niet stands before the participle at the end.",
+      "alt": ["Mijn ouders hadden de bezienswaardigheden nog niet gezien, maar zij moesten al naar huis."]
+    },
+    {
+      "nl": "Hij had zijn reis al omgeboekt voordat de staking begon.",
+      "en": "He had already rebooked his trip before the strike began.",
+      "hint": ["reis", "al", "omboeken", "voordat", "staking", "beginnen"],
+      "note": "With voordat the main clause can take the past perfect: had omgeboekt. The participle of a separable verb is one word, with ge in the middle: omgeboekt.",
+      "alt": ["Voordat de staking begon, had hij zijn reis al omgeboekt."]
+    }
+  ],
+  "exercises": [
+    {
+      "type": "choose",
+      "nl": "Ze waren erg moe, want ze ___ in het vliegtuig niet geslapen.",
+      "options": ["hadden", "waren", "was"],
+      "correct": 0,
+      "en": "They were very tired, because they had not slept on the plane.",
+      "note": "Slapen takes hebben (heeft geslapen), so the past perfect uses had or hadden. Ze is plural here (ze waren), so hadden."
+    },
+    {
+      "type": "choose",
+      "nl": "Toen ik je belde, ___ jij de boeking al gewijzigd.",
+      "options": ["hadt", "was", "had"],
+      "correct": 2,
+      "en": "When I called you, you had already changed the booking.",
+      "note": "Wijzigen takes hebben, and jij had has no t: hadt is an old form that is not used any more. Was would need a verb that takes zijn."
+    },
+    {
+      "type": "choose",
+      "nl": "Ik dacht dat mijn paspoort nog geldig was, maar toen ik keek, ___ het al verlopen.",
+      "options": ["had", "was", "is"],
+      "correct": 1,
+      "en": "I thought my passport was still valid, but when I looked, it had already expired.",
+      "note": "Verlopen takes zijn: is verlopen. It had expired before the moment I looked, so the past perfect: was verlopen. Is belongs to the present, not to a story in the past."
+    },
+    {
+      "type": "choose",
+      "nl": "Ik stond om zes uur op, ___ snel en ging naar het vliegveld.",
+      "options": ["had ontbeten", "ontbeet", "was ontbeten"],
+      "correct": 1,
+      "en": "I got up at six, had a quick breakfast and went to the airport.",
+      "note": "These are steps told in the order they happened, so each one is simple past. The past perfect is only for something that happened before another past moment."
+    },
+    {
+      "type": "gap",
+      "nl": "De laatste trein was ___ (uitvallen), dus we namen een taxi.",
+      "answers": ["uitgevallen"],
+      "en": "The last train had been cancelled, so we took a taxi.",
+      "note": "The participle of a separable verb is one word with ge between the parts: uit + ge + vallen. Uitvallen takes zijn, which is why the sentence has was."
+    },
+    {
+      "type": "gap",
+      "nl": "Nadat de gids alles ___ (hebben) uitgelegd, mochten we zelf rondkijken.",
+      "answers": ["had"],
+      "en": "After the guide had explained everything, we were allowed to look around by ourselves.",
+      "note": "After nadat the past perfect is the normal form when the main clause is in the past. De gids is one person, so had; heeft would be the perfect and does not fit a story in the past."
+    },
+    {
+      "type": "gap",
+      "nl": "Toen we eindelijk een hotel vonden, was het inmiddels donker ___ (worden).",
+      "answers": ["geworden"],
+      "en": "When we finally found a hotel, it had got dark by then.",
+      "note": "Worden is a change of state and takes zijn: is geworden, so was geworden. Its participle is irregular: geworden."
+    },
+    {
+      "type": "order",
+      "lead": "Toen we aankwamen,",
+      "words": ["was", "de bus", "al", "vertrokken"],
+      "answers": ["Toen we aankwamen, was de bus al vertrokken."],
+      "en": "When we arrived, the bus had already left.",
+      "note": "The toen-clause is the first element, so the main clause starts with the verb was, then the subject. Al comes before the participle at the end."
+    },
+    {
+      "type": "order",
+      "lead": "Het hotel was al volgeboekt,",
+      "words": ["omdat", "we", "te laat", "hadden", "geboekt"],
+      "answers": ["Het hotel was al volgeboekt, omdat we te laat hadden geboekt.", "Het hotel was al volgeboekt, omdat we te laat geboekt hadden."],
+      "en": "The hotel was already fully booked, because we had booked too late.",
+      "note": "In an omdat-clause both verbs go to the end, and both orders are correct: hadden geboekt or geboekt hadden."
+    },
+    {
+      "type": "order",
+      "lead": "Voordat we vertrokken,",
+      "words": ["hadden", "we", "de route", "al", "goed", "bekeken"],
+      "answers": ["Voordat we vertrokken, hadden we de route al goed bekeken."],
+      "en": "Before we left, we had already had a good look at the route.",
+      "note": "The voordat-clause is in the simple past, and the main clause takes the past perfect. It starts with hadden, because the voordat-clause fills the first place."
+    },
+    {
+      "type": "rewrite",
+      "task": "Put it in the past perfect.",
+      "from": "Ik sloot een reisverzekering af.",
+      "answers": ["Ik had een reisverzekering afgesloten."],
+      "en": "I had taken out travel insurance.",
+      "note": "Afsluiten takes hebben (heeft afgesloten), so had afgesloten. The participle of the separable verb is one word and goes to the end."
+    },
+    {
+      "type": "rewrite",
+      "task": "Join the two sentences with omdat. The second thing happened first.",
+      "from": "Ik kon niet betalen. Ik verloor mijn portemonnee.",
+      "answers": ["Ik kon niet betalen, omdat ik mijn portemonnee had verloren.", "Ik kon niet betalen, omdat ik mijn portemonnee verloren had."],
+      "en": "I could not pay, because I had lost my wallet.",
+      "note": "Losing the wallet came before the moment of paying, so it gets the past perfect: had verloren. In the omdat-clause both verbs go to the end, in either order."
+    },
+    {
+      "type": "rewrite",
+      "task": "Join the two sentences, starting with Nadat. Leave out daarna.",
+      "from": "We bekeken de bezienswaardigheden. Daarna gingen we terug naar de accommodatie.",
+      "answers": ["Nadat we de bezienswaardigheden hadden bekeken, gingen we terug naar de accommodatie.", "Nadat we de bezienswaardigheden bekeken hadden, gingen we terug naar de accommodatie."],
+      "en": "After we had seen the sights, we went back to our accommodation.",
+      "note": "What happened first goes into the nadat-clause in the past perfect: hadden bekeken. The main clause then starts with its verb: gingen we."
+    },
+    {
+      "type": "fix",
+      "wrong": "De trein had al vertrokken toen ik op het perron kwam.",
+      "answers": ["De trein was al vertrokken toen ik op het perron kwam."],
+      "en": "The train had already left when I got to the platform.",
+      "note": "Vertrekken takes zijn in the perfect (is vertrokken), so in the past perfect it takes was, not had."
+    },
+    {
+      "type": "fix",
+      "wrong": "We waren moe, omdat we hadden slecht geslapen.",
+      "answers": ["We waren moe, omdat we slecht hadden geslapen.", "We waren moe, omdat we slecht geslapen hadden."],
+      "en": "We were tired because we had slept badly.",
+      "note": "In a sub-clause the auxiliary does not stand second; it goes to the end together with the participle: slecht hadden geslapen or slecht geslapen hadden."
+    },
+    {
+      "type": "fix",
+      "wrong": "Nadat we hebben ingecheckt, gingen we de stad in.",
+      "answers": ["Nadat we hadden ingecheckt, gingen we de stad in.", "Nadat we ingecheckt hadden, gingen we de stad in."],
+      "en": "After we had checked in, we went into town.",
+      "note": "The main clause is in the past (gingen), so the nadat-clause needs the past perfect: hadden ingecheckt, not the perfect hebben ingecheckt."
+    }
+  ]
+}

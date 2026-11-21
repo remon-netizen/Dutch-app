@@ -1,0 +1,478 @@
+{
+  "id": "b2-05",
+  "level": "B2",
+  "icon": "📄",
+  "title": "Official letters",
+  "grammar": "Noun style: het + infinitive, -ing, and turning it back into verbs",
+  "summary": "Formal Dutch turns actions into nouns: het + infinitive (het indienen van een aanvraag), -ing nouns, always de (de betaling), and phrases like na ontvangst van. The object follows van.",
+  "explain": "Official letters are full of nouns where everyday Dutch would use a verb: `Na ontvangst van uw aanvraag …` instead of `Nadat wij uw aanvraag hebben ontvangen …`. This is called noun style (*de naamwoordstijl*). You need to read it, write it where a formal text asks for it, and turn it back into verbs.\n\n### 1. het + infinitive\n\nAlmost any verb becomes a noun when you put `het` in front of the infinitive. It is **always a het-word** and has no plural. The object of the verb follows with `van`; the doer, if it is mentioned at all, follows with `door`.\n\n> Het invullen van het formulier duurt ongeveer tien minuten. — Filling in the form takes about ten minutes.\n> Bij het indienen van een bezwaar moet u een kopie van het besluit meesturen. — When submitting an objection you must enclose a copy of the decision.\n\n`bij het …` means \"when …, while …\", `na het …` \"after …\", `voor het …` \"before …\". A separable verb stays in one word: `het indienen`, `het intrekken`.\n\nAn adverb that goes with the verb may stay an adverb or become an adjective with -e: `het snel groeien` and `het snelle groeien` van de stad are both standard Dutch. Official letters usually keep the form without -e, especially with a phrase like `te laat`:\n\n> Het tijdig indienen van de aanvraag is uw eigen verantwoordelijkheid. — Submitting the application on time is your own responsibility.\n\n### 2. Nouns in -ing and other action nouns\n\nMany verbs make a noun with stem + `-ing`:\n\n| verb | noun |\n| betalen | de betaling |\n| behandelen | de behandeling |\n| verlengen | de verlenging |\n| afwijzen | de afwijzing |\n| indienen | de indiening |\n\n**Every -ing noun is a de-word**, with the plural in -en: `de betalingen`. Not every verb has an -ing noun. Many have a noun of their own, and then that is the one to use; its article has to be learned: `ontvangen → de ontvangst`, `aanvragen → de aanvraag`, `besluiten → het besluit`, `vertrekken → het vertrek`, `uitstellen → het uitstel`.\n\n> De behandeling van uw aanvraag duurt ongeveer acht weken. — The processing of your application takes about eight weeks.\n\n### 3. A preposition and a noun instead of a sub-clause\n\n| noun style | with a verb |\n| na ontvangst van uw brief | nadat wij uw brief hebben ontvangen |\n| bij vertrek | als u vertrekt |\n| wegens ziekte | omdat iemand ziek is |\n| ter voorkoming van fraude | om fraude te voorkomen |\n| in afwachting van het besluit | terwijl u op het besluit wacht |\n| op verzoek van uw werkgever | omdat uw werkgever erom heeft gevraagd |\n\nSeveral have no article: `na ontvangst`, `bij vertrek`. `ter` is an old form that only survives in fixed phrases (more in B2 · 21). `wegens` is a preposition: it takes a noun, never a sub-clause.\n\n> Wegens ziekte gaat het spreekuur vandaag niet door. — Because of illness the surgery hours are cancelled today.\n\n### Word order\n\nThe whole phrase counts as **one element**. When it stands first, the conjugated verb follows it directly, and then the subject.\n\n> Na ontvangst van uw brief nemen wij contact met u op. — After receipt of your letter we will contact you.\n\n### Reading it: find the action and the doer\n\nNoun style hides who does what, and when. Find the verb inside the noun (`behandeling → behandelen`) and the doer (often the authority), then say it with a verb:\n\n- `de behandeling van uw aanvraag` → wij behandelen uw aanvraag\n- `wegens te late indiening` → omdat u de aanvraag te laat hebt ingediend\n\n`te laat` becomes `te late` because it now stands before a de-noun.\n\n### Writing it yourself\n\nVerbs are clearer, so use them where you can; noun style fits forms and formal letters. Avoid chains of `van`: `de datum van de behandeling van de aanvraag van uw werkgever` is correct but hard to read; `de datum waarop wij de aanvraag van uw werkgever behandelen` is better.\n\n### Watch out\n\n- **het** with the infinitive, **de** with -ing: `het verlengen`, `de verlenging`; never *het verlenging or *de verlengen.\n- The object needs `van`: `het intrekken van uw aanvraag`, not *het intrekken uw aanvraag.\n- After the phrase at the start comes the verb: `Na ontvangst van uw brief hebben wij …`, not *Na ontvangst van uw brief wij hebben …\n- `wegens` + noun, `omdat` + sub-clause: `Omdat ik ziek was, …`, never *Wegens ik ziek was, …\n\n### Compared with Ukrainian\n\nUkrainian official style does the same: `подання заяви`, `розгляд заяви`. Where Ukrainian puts the object in the genitive, Dutch uses `van`: `het indienen van een aanvraag`, `de behandeling van de aanvraag`.",
+  "words": [
+    {
+      "nl": "aanvraag",
+      "art": "de",
+      "pl": "aanvragen",
+      "en": "application (for a permit, benefit)",
+      "pos": "n"
+    },
+    {
+      "nl": "indienen",
+      "past": "diende in",
+      "perf": "heeft ingediend",
+      "en": "to submit / to file",
+      "pos": "v",
+      "tag": "separable"
+    },
+    {
+      "nl": "ontvangst",
+      "art": "de",
+      "pl": "",
+      "en": "receipt (of a letter, payment)",
+      "pos": "n",
+      "tag": "no plural in this sense"
+    },
+    {
+      "nl": "behandeling",
+      "art": "de",
+      "pl": "behandelingen",
+      "en": "processing (of a case) / treatment",
+      "pos": "n"
+    },
+    {
+      "nl": "verlenging",
+      "art": "de",
+      "pl": "verlengingen",
+      "en": "extension / renewal",
+      "pos": "n"
+    },
+    {
+      "nl": "termijn",
+      "art": "de",
+      "pl": "termijnen",
+      "en": "period allowed / time limit",
+      "pos": "n"
+    },
+    {
+      "nl": "besluit",
+      "art": "het",
+      "pl": "besluiten",
+      "en": "decision",
+      "pos": "n"
+    },
+    {
+      "nl": "bezwaar",
+      "art": "het",
+      "pl": "bezwaren",
+      "en": "objection",
+      "pos": "n"
+    },
+    {
+      "nl": "afwijzing",
+      "art": "de",
+      "pl": "afwijzingen",
+      "en": "rejection / refusal",
+      "pos": "n"
+    },
+    {
+      "nl": "uitstel",
+      "art": "het",
+      "pl": "",
+      "en": "postponement / extra time",
+      "pos": "n",
+      "tag": "no plural"
+    },
+    {
+      "nl": "vaststellen",
+      "past": "stelde vast",
+      "perf": "heeft vastgesteld",
+      "en": "to fix / to determine",
+      "pos": "v",
+      "tag": "separable"
+    },
+    {
+      "nl": "verstrekken",
+      "past": "verstrekte",
+      "perf": "heeft verstrekt",
+      "en": "to provide (information)",
+      "pos": "v"
+    },
+    {
+      "nl": "intrekken",
+      "past": "trok in",
+      "perf": "heeft ingetrokken",
+      "en": "to withdraw (an application)",
+      "pos": "v",
+      "tag": "separable"
+    },
+    {
+      "nl": "tijdig",
+      "en": "timely / in time",
+      "pos": "adj",
+      "tag": "formal"
+    },
+    {
+      "nl": "wegens",
+      "en": "because of / owing to",
+      "pos": "prep",
+      "tag": "formal"
+    },
+    {
+      "nl": "in afwachting van",
+      "en": "pending / awaiting",
+      "pos": "expr"
+    }
+  ],
+  "sentences": [
+    {
+      "nl": "Na ontvangst van uw aanvraag sturen wij u binnen twee weken een bevestiging.",
+      "en": "After receipt of your application we will send you a confirmation within two weeks.",
+      "hint": [
+        "na",
+        "ontvangst",
+        "aanvraag",
+        "sturen",
+        "bevestiging"
+      ],
+      "note": "Na ontvangst van stands for nadat wij … hebben ontvangen. The whole phrase is the first element, so the verb sturen follows directly and then wij.",
+      "alt": [
+        "Wij sturen u na ontvangst van uw aanvraag binnen twee weken een bevestiging."
+      ]
+    },
+    {
+      "nl": "Bij het indienen van een bezwaar moet u een kopie van het besluit meesturen.",
+      "en": "When submitting an objection you must enclose a copy of the decision.",
+      "hint": [
+        "bij",
+        "indienen",
+        "bezwaar",
+        "moeten",
+        "kopie",
+        "meesturen"
+      ],
+      "note": "het + infinitive: het indienen, always a het-word. Its object, een bezwaar, follows with van. Bij het … means \"when …\".",
+      "alt": [
+        "U moet bij het indienen van een bezwaar een kopie van het besluit meesturen."
+      ]
+    },
+    {
+      "nl": "Wegens ziekte heb ik niet binnen de termijn kunnen reageren.",
+      "en": "Because of illness I was not able to respond within the time limit.",
+      "hint": [
+        "wegens",
+        "ziekte",
+        "termijn",
+        "kunnen",
+        "reageren"
+      ],
+      "note": "Wegens is a preposition and takes a noun without an article: wegens ziekte, the noun-style version of omdat ik ziek was.",
+      "alt": [
+        "Wegens ziekte kon ik niet binnen de termijn reageren.",
+        "Ik heb wegens ziekte niet binnen de termijn kunnen reageren.",
+        "Ik kon wegens ziekte niet binnen de termijn reageren."
+      ]
+    },
+    {
+      "nl": "De behandeling van uw aanvraag duurt langer als u niet alle gegevens verstrekt.",
+      "en": "The processing of your application takes longer if you do not provide all the details.",
+      "hint": [
+        "behandeling",
+        "aanvraag",
+        "duren",
+        "gegevens",
+        "verstrekken"
+      ],
+      "note": "behandelen → de behandeling: an -ing noun is always de. The action is behandelen and the doer, the authority, is not mentioned.",
+      "alt": [
+        "De behandeling van uw aanvraag duurt langer wanneer u niet alle gegevens verstrekt."
+      ]
+    },
+    {
+      "nl": "Het tijdig indienen van de aanvraag is uw eigen verantwoordelijkheid.",
+      "en": "Submitting the application on time is your own responsibility.",
+      "hint": [
+        "tijdig",
+        "indienen",
+        "aanvraag",
+        "eigen",
+        "verantwoordelijkheid"
+      ],
+      "note": "tijdig goes with the verb inside het indienen. Official texts keep it without -e; het tijdige indienen is also correct.",
+      "alt": [
+        "Het tijdige indienen van de aanvraag is uw eigen verantwoordelijkheid."
+      ]
+    },
+    {
+      "nl": "Op verzoek van uw werkgever hebben wij de termijn met een maand verlengd.",
+      "en": "At the request of your employer we have extended the time limit by one month.",
+      "hint": [
+        "op verzoek van",
+        "werkgever",
+        "termijn",
+        "maand",
+        "verlengen"
+      ],
+      "note": "Op verzoek van uw werkgever replaces a clause like omdat uw werkgever erom heeft gevraagd. It is one element, so hebben comes straight after it.",
+      "alt": [
+        "Wij hebben de termijn op verzoek van uw werkgever met een maand verlengd."
+      ]
+    },
+    {
+      "nl": "In afwachting van ons besluit mag u in Nederland blijven.",
+      "en": "Pending our decision you may stay in the Netherlands.",
+      "hint": [
+        "in afwachting van",
+        "besluit",
+        "mogen",
+        "Nederland",
+        "blijven"
+      ],
+      "note": "In afwachting van packs \"while you wait for\" into a noun phrase. It stands first, so the verb mag follows and then u.",
+      "alt": [
+        "U mag in afwachting van ons besluit in Nederland blijven.",
+        "U mag in Nederland blijven in afwachting van ons besluit."
+      ]
+    },
+    {
+      "nl": "Omdat u het formulier te laat hebt ingediend, wordt uw aanvraag afgewezen.",
+      "en": "Because you submitted the form too late, your application is being rejected.",
+      "hint": [
+        "omdat",
+        "formulier",
+        "te laat",
+        "indienen",
+        "aanvraag",
+        "afwijzen"
+      ],
+      "note": "This is the verb version of wegens te late indiening: the doer (u) and the tense are visible again. Hebt or heeft are both correct with u.",
+      "alt": [
+        "Omdat u het formulier te laat heeft ingediend, wordt uw aanvraag afgewezen.",
+        "Omdat u het formulier te laat ingediend hebt, wordt uw aanvraag afgewezen.",
+        "Omdat u het formulier te laat ingediend heeft, wordt uw aanvraag afgewezen.",
+        "Uw aanvraag wordt afgewezen omdat u het formulier te laat hebt ingediend.",
+        "Uw aanvraag wordt afgewezen omdat u het formulier te laat heeft ingediend."
+      ]
+    },
+    {
+      "nl": "Wegens te late indiening is uw aanvraag afgewezen.",
+      "en": "Because of late submission your application has been rejected.",
+      "hint": [
+        "wegens",
+        "te laat",
+        "indiening",
+        "aanvraag",
+        "afwijzen"
+      ],
+      "note": "indienen → de indiening. Te laat now stands before a de-noun, so it becomes an adjective with -e: te late indiening.",
+      "alt": [
+        "Uw aanvraag is wegens te late indiening afgewezen.",
+        "Wegens late indiening is uw aanvraag afgewezen.",
+        "Uw aanvraag is wegens late indiening afgewezen."
+      ]
+    },
+    {
+      "nl": "Na het ontvangen van het besluit hebt u zes weken de tijd om bezwaar te maken.",
+      "en": "After receiving the decision you have six weeks to lodge an objection.",
+      "hint": [
+        "na",
+        "ontvangen",
+        "besluit",
+        "tijd",
+        "bezwaar maken"
+      ],
+      "note": "het ontvangen van het besluit: het + infinitive with the object after van. Na ontvangst van het besluit says the same with the noun of ontvangen.",
+      "alt": [
+        "Na het ontvangen van het besluit heeft u zes weken de tijd om bezwaar te maken.",
+        "Na ontvangst van het besluit hebt u zes weken de tijd om bezwaar te maken.",
+        "Na ontvangst van het besluit heeft u zes weken de tijd om bezwaar te maken.",
+        "U hebt na het ontvangen van het besluit zes weken de tijd om bezwaar te maken.",
+        "U heeft na het ontvangen van het besluit zes weken de tijd om bezwaar te maken."
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "type": "choose",
+      "nl": "___ invullen van het formulier kost ongeveer tien minuten.",
+      "options": [
+        "De",
+        "Het",
+        "Een"
+      ],
+      "correct": 1,
+      "en": "Filling in the form takes about ten minutes.",
+      "note": "An infinitive used as a noun is always a het-word: het invullen. De goes with -ing nouns, not with an infinitive."
+    },
+    {
+      "type": "choose",
+      "nl": "De ___ van uw verblijfsvergunning is alleen mogelijk op afspraak.",
+      "options": [
+        "verlengen",
+        "verleng",
+        "verlenging",
+        "verlengd"
+      ],
+      "correct": 2,
+      "en": "The renewal of your residence permit is only possible by appointment.",
+      "note": "With de in front only the -ing noun fits: de verlenging. The infinitive would need het: het verlengen."
+    },
+    {
+      "type": "choose",
+      "nl": "Na ___ van uw brief nemen wij contact met u op.",
+      "options": [
+        "ontvangen",
+        "ontvangst",
+        "ontvanging",
+        "het ontvangst"
+      ],
+      "correct": 1,
+      "en": "After receipt of your letter we will contact you.",
+      "note": "ontvangen has its own noun, de ontvangst; there is no ontvanging. Ontvangen without het cannot stand after na, and ontvangst is a de-word."
+    },
+    {
+      "type": "choose",
+      "nl": "___ ziekte gaat de cursus deze week niet door.",
+      "options": [
+        "Omdat",
+        "Wegens",
+        "Doordat"
+      ],
+      "correct": 1,
+      "en": "Because of illness the course is not going ahead this week.",
+      "note": "Ziekte is a noun, so a preposition is needed: wegens. Omdat and doordat are conjunctions and need a full sub-clause with a verb."
+    },
+    {
+      "type": "gap",
+      "nl": "Tegen de ___ (afwijzen) van uw aanvraag kunt u bezwaar maken.",
+      "answers": [
+        "afwijzing"
+      ],
+      "en": "You can lodge an objection against the rejection of your application.",
+      "note": "De in front asks for the -ing noun: afwijzen → de afwijzing. Het afwijzen would need het."
+    },
+    {
+      "type": "gap",
+      "nl": "De ___ (wijzigen) van uw adres moet u binnen vijf dagen doorgeven.",
+      "answers": [
+        "wijziging"
+      ],
+      "en": "You must report the change of your address within five days.",
+      "note": "wijzigen → de wijziging. Every -ing noun is a de-word, which matches the de in front."
+    },
+    {
+      "type": "gap",
+      "nl": "Na ___ (betalen) van het bedrag ontvangt u een bevestiging.",
+      "answers": [
+        "betaling",
+        "het betalen",
+        "de betaling"
+      ],
+      "en": "After payment of the amount you will receive a confirmation.",
+      "note": "Both noun forms are correct: na betaling (the usual fixed phrase, no article), na de betaling, or na het betalen. Na betalen without het is not."
+    },
+    {
+      "type": "gap",
+      "nl": "Het ___ (snel) behandelen van aanvragen is ons belangrijkste doel.",
+      "answers": [
+        "snel",
+        "snelle"
+      ],
+      "en": "Processing applications quickly is our most important aim.",
+      "note": "An adverb with het + infinitive may stay an adverb (het snel behandelen) or become an adjective with -e (het snelle behandelen). Both are standard."
+    },
+    {
+      "type": "order",
+      "lead": "Na ontvangst van uw brief",
+      "words": [
+        "nemen",
+        "wij",
+        "zo snel mogelijk",
+        "contact met u",
+        "op"
+      ],
+      "answers": [
+        "Na ontvangst van uw brief nemen wij zo snel mogelijk contact met u op."
+      ],
+      "en": "After receipt of your letter we will contact you as soon as possible.",
+      "note": "The noun phrase at the start is one element, so the verb nemen comes second and wij third. The particle op closes the sentence."
+    },
+    {
+      "type": "order",
+      "lead": "Wegens financiële problemen",
+      "words": [
+        "heeft",
+        "zij",
+        "uitstel van betaling",
+        "aangevraagd"
+      ],
+      "answers": [
+        "Wegens financiële problemen heeft zij uitstel van betaling aangevraagd."
+      ],
+      "en": "Because of financial problems she has applied for a postponement of payment.",
+      "note": "Wegens + noun phrase is the first element; heeft follows directly, then zij. Uitstel van betaling is itself noun style: she wants to pay later."
+    },
+    {
+      "type": "rewrite",
+      "task": "Replace the sub-clause with na + the noun of ontvangen.",
+      "from": "Nadat wij uw aanvraag hebben ontvangen, sturen wij u een bevestiging.",
+      "answers": [
+        "Na ontvangst van uw aanvraag sturen wij u een bevestiging.",
+        "Wij sturen u na ontvangst van uw aanvraag een bevestiging."
+      ],
+      "en": "After receipt of your application we will send you a confirmation.",
+      "note": "ontvangen → de ontvangst, with no article in this fixed phrase. The doer wij disappears from the phrase, and the verb sturen comes straight after it."
+    },
+    {
+      "type": "rewrite",
+      "task": "Replace the omdat-clause with wegens + an -ing noun.",
+      "from": "Omdat de aanvraag te laat is ingediend, wordt deze niet behandeld.",
+      "answers": [
+        "Wegens te late indiening wordt de aanvraag niet behandeld.",
+        "De aanvraag wordt wegens te late indiening niet behandeld.",
+        "Wegens de te late indiening wordt de aanvraag niet behandeld."
+      ],
+      "en": "Because of late submission the application is not being processed.",
+      "note": "indienen → de indiening, and te laat becomes te late before the noun. The noun aanvraag now has to be named in the main clause."
+    },
+    {
+      "type": "rewrite",
+      "task": "Turn the noun phrase into a sub-clause with omdat.",
+      "from": "Wegens het ontbreken van uw handtekening kunnen wij uw aanvraag niet behandelen.",
+      "answers": [
+        "Omdat uw handtekening ontbreekt, kunnen wij uw aanvraag niet behandelen.",
+        "Wij kunnen uw aanvraag niet behandelen, omdat uw handtekening ontbreekt."
+      ],
+      "en": "Because your signature is missing, we cannot process your application.",
+      "note": "The action is ontbreken and its subject is uw handtekening, which was hidden behind van. In the sub-clause the verb goes to the end: ontbreekt."
+    },
+    {
+      "type": "rewrite",
+      "task": "Write it with verbs: use wij and nadat.",
+      "from": "De vaststelling van het bedrag vindt plaats na ontvangst van alle gegevens.",
+      "answers": [
+        "Wij stellen het bedrag vast nadat wij alle gegevens hebben ontvangen.",
+        "Wij stellen het bedrag vast nadat wij alle gegevens ontvangen hebben.",
+        "Nadat wij alle gegevens hebben ontvangen, stellen wij het bedrag vast.",
+        "Nadat wij alle gegevens ontvangen hebben, stellen wij het bedrag vast."
+      ],
+      "en": "We determine the amount after we have received all the details.",
+      "note": "vaststelling → vaststellen, ontvangst → ontvangen. With verbs the doer (wij) appears. At the end of the sub-clause both hebben ontvangen and ontvangen hebben are correct."
+    },
+    {
+      "type": "fix",
+      "wrong": "Na ontvangst van uw brief wij hebben uw gegevens gecontroleerd.",
+      "answers": [
+        "Na ontvangst van uw brief hebben wij uw gegevens gecontroleerd."
+      ],
+      "en": "After receipt of your letter we checked your details.",
+      "note": "Na ontvangst van uw brief is the first element, so the conjugated verb hebben must come second, before the subject wij."
+    },
+    {
+      "type": "fix",
+      "wrong": "Het intrekken uw aanvraag is kosteloos.",
+      "answers": [
+        "Het intrekken van uw aanvraag is kosteloos."
+      ],
+      "en": "Withdrawing your application is free of charge.",
+      "note": "With het + infinitive the object cannot follow directly; it needs van: het intrekken van uw aanvraag."
+    }
+  ]
+}

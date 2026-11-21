@@ -1,0 +1,457 @@
+{
+  "id": "b2-21",
+  "level": "B2",
+  "icon": "🏰",
+  "title": "History and tradition",
+  "grammar": "Fixed formal phrases: old case forms and the subjunctive",
+  "summary": "Old case forms live on in fixed phrases: 's avonds, des te beter, ten slotte, ter ere van, wiens / wier. The old subjunctive lives on in wishes: Leve de koning!, Het ga je goed, Moge … Learn each one whole; never build new ones.",
+  "explain": "Old Dutch had cases, as Ukrainian still has, and a verb form for wishes, the subjunctive (*de aanvoegende wijs*). Modern Dutch has lost both, but they survive in fixed phrases. Some are everyday Dutch, others belong to ceremonies and laws. You do not build them: you learn each one as one piece.\n\n### The old genitive: 's, des, der\n\n`'s` is short for `des`, the old 'of the' (the genitive, *de tweede naamval*) for masculine and neuter words; `der` was the form for feminine and plural words.\n\n| phrase | meaning | where |\n| 's morgens, 's avonds, 's nachts | in the morning, evening, at night | everyday |\n| 's zomers, 's winters | in summer, in winter | everyday |\n| een dezer dagen | one of these days | everyday |\n| hoe …, des te … | the …, the … | everyday |\n| 's werelds oudste | the world's oldest | news |\n| het Koninkrijk der Nederlanden | the Kingdom of the Netherlands | official |\n| de heer des huizes | the master of the house | ceremonial, jokey |\n\n> 's Avonds is het paleis verlicht. — In the evening the palace is lit up.\n> Hoe ouder het gebouw is, des te strenger zijn de regels. — The older the building, the stricter the rules.\n\n`'s` is always lower case; at the start of a sentence the next word gets the capital: `'s Avonds`. Place names add a hyphen: `'s-Hertogenbosch` (the duke's forest).\n\n`wiens` and `wier` are formal 'whose': `wiens` after a masculine or neuter singular word, `wier` after a feminine word or a plural. In speech: `van wie` (unit B2 · 8).\n\n> Het zijn families wier namen iedereen kent. — They are families whose names everyone knows.\n\n### The old dative: ten and ter\n\nAfter `te` the old dative article (*de derde naamval*) merged with it: `ten` = te + den (masculine and neuter), `ter` = te + der (feminine). Modern Dutch no longer tells masculine from feminine de-words, so you cannot work out which one a phrase takes: `ten tijde van` but `ter wereld`. Learn them as they are.\n\n- **Everyday**: `ten eerste` (firstly), `ten slotte` (finally), `ten minste` (at least), `ter plaatse` (on the spot), `ter wereld` (in the world), `van harte` (sincerely), `met name` (especially).\n- **Formal**: `ten gevolge van` (as a result of), `ten behoeve van` (for the benefit of), `ten opzichte van` (compared with), `ter gelegenheid van` (on the occasion of), `ter ere van` (in honour of), `ter attentie van` (for the attention of), `te allen tijde` (at all times).\n- **Ceremonial**: `in dier voege` (in such a way), `in den beginne` (in the beginning).\n\n> Ter ere van de bevrijding is er een concert. — There is a concert in honour of the liberation.\n\nTwo pairs differ in meaning. `ten minste` = not less than; `tenminste` = at least, that is (correcting yourself). `ten slotte` = finally; `tenslotte` = after all. People mix them up, but the official word list keeps them apart.\n\n### The subjunctive: wishes in set formulas\n\nThe old subjunctive is the stem + `-e` (of `zijn`: `zij`). Only fixed formulas survive:\n\n| formula | meaning |\n| Leve de koning! / Lang leve … | Long live the king! |\n| Het ga je goed! | All the best! |\n| God zij dank. | Thank God. |\n| Moge het nieuwe jaar … | May the new year … |\n| koste wat het kost | at any price |\n| als het ware / zij het | as it were / albeit |\n| hetzij … hetzij / het zij zo | either … or / so be it |\n| Wat er ook gebeure / Men neme … | Whatever may happen / Take … |\n\n`Als het ware`, `koste wat het kost` (also `koste wat kost`), `God zij dank` and `Het ga je goed` are everyday Dutch, and `Leve` is used freely: `Leve de vakantie!` `Moge`, `zij het` and `hetzij … hetzij` are formal; `Men neme` (old recipes) and `Wat er ook gebeure` sound old or jokey. `dankzij` was once `dank zij`, 'thanks be': so it only goes with a good cause.\n\n> Moge dit monument ons altijd aan de oorlog herinneren. — May this monument always remind us of the war.\n> Het was een succes, zij het een klein succes. — It was a success, albeit a small one.\n\n### Word order\n\nEach phrase is one element; in first place the verb follows it: `Ten slotte legde de koning een krans`. After `des te` + comparative the verb follows too. A `wat … ook` clause stands outside the sentence, and the main clause keeps its normal order: `Wat er ook gebeurt, wij blijven.`\n\n### Watch out\n\n- *Dankzij de storm is het beschadigd: a bad cause takes `door`, `vanwege` or `ten gevolge van`.\n- No new forms: not *Hij kome morgen or *ten auto, but `Hij komt morgen`, `met de auto`.\n- *de prinses, wiens moeder: for a woman it is `wier`.\n- `'s avonds`, never *s'avonds.\n- No t in a wish: `Het ga je goed!` *Het gaat je goed is a statement: 'you are doing well'.\n\n### Compared with Ukrainian\n\n`Хай живе король!` is `Leve de koning!`, but outside these formulas Dutch has no `хай` form: say `Ik hoop dat …`.",
+  "words": [
+    {
+      "nl": "vorstenhuis",
+      "art": "het",
+      "pl": "vorstenhuizen",
+      "en": "royal house / dynasty",
+      "pos": "n"
+    },
+    {
+      "nl": "troon",
+      "art": "de",
+      "pl": "tronen",
+      "en": "throne",
+      "pos": "n"
+    },
+    {
+      "nl": "inhuldiging",
+      "art": "de",
+      "pl": "inhuldigingen",
+      "en": "inauguration (of a monarch)",
+      "pos": "n"
+    },
+    {
+      "nl": "staatshoofd",
+      "art": "het",
+      "pl": "staatshoofden",
+      "en": "head of state",
+      "pos": "n"
+    },
+    {
+      "nl": "opvolger",
+      "art": "de",
+      "pl": "opvolgers",
+      "en": "successor",
+      "pos": "n"
+    },
+    {
+      "nl": "regeren",
+      "past": "regeerde",
+      "perf": "heeft geregeerd",
+      "en": "to reign / to govern",
+      "pos": "v"
+    },
+    {
+      "nl": "herdenking",
+      "art": "de",
+      "pl": "herdenkingen",
+      "en": "commemoration",
+      "pos": "n"
+    },
+    {
+      "nl": "herdenken",
+      "past": "herdacht",
+      "perf": "heeft herdacht",
+      "en": "to commemorate",
+      "pos": "v"
+    },
+    {
+      "nl": "gedenkteken",
+      "art": "het",
+      "pl": "gedenktekens",
+      "en": "memorial",
+      "pos": "n"
+    },
+    {
+      "nl": "onthullen",
+      "past": "onthulde",
+      "perf": "heeft onthuld",
+      "en": "to unveil / to reveal",
+      "pos": "v"
+    },
+    {
+      "nl": "plechtigheid",
+      "art": "de",
+      "pl": "plechtigheden",
+      "en": "ceremony",
+      "pos": "n"
+    },
+    {
+      "nl": "plechtig",
+      "en": "solemn",
+      "pos": "adj"
+    },
+    {
+      "nl": "bevrijding",
+      "art": "de",
+      "pl": "bevrijdingen",
+      "en": "liberation",
+      "pos": "n"
+    },
+    {
+      "nl": "erfgoed",
+      "art": "het",
+      "pl": "",
+      "en": "heritage",
+      "pos": "n",
+      "tag": "no plural"
+    },
+    {
+      "nl": "overlevering",
+      "art": "de",
+      "pl": "overleveringen",
+      "en": "tradition (passed down) / legend",
+      "pos": "n"
+    }
+  ],
+  "sentences": [
+    {
+      "nl": "Ter gelegenheid van de inhuldiging was de hele stad oranje versierd.",
+      "en": "On the occasion of the inauguration the whole city was decorated in orange.",
+      "hint": [
+        "gelegenheid",
+        "inhuldiging",
+        "stad",
+        "oranje",
+        "versieren"
+      ],
+      "note": "ter = te + der, the old dative of a feminine word (de gelegenheid). The whole phrase is one element in first place, so the verb was follows it.",
+      "alt": [
+        "De hele stad was ter gelegenheid van de inhuldiging oranje versierd."
+      ]
+    },
+    {
+      "nl": "Op 4 mei herdenken we 's avonds de slachtoffers van de oorlog.",
+      "en": "On 4 May we commemorate the victims of the war in the evening.",
+      "hint": [
+        "4 mei",
+        "herdenken",
+        "avond",
+        "slachtoffer",
+        "oorlog"
+      ],
+      "note": "'s avonds is the old genitive des avonds. The apostrophe stands before the s, and inside the sentence the word stays lower case.",
+      "alt": [
+        "We herdenken op 4 mei 's avonds de slachtoffers van de oorlog.",
+        "Op 4 mei 's avonds herdenken we de slachtoffers van de oorlog."
+      ]
+    },
+    {
+      "nl": "Het gedenkteken werd ter ere van de gevallen soldaten onthuld.",
+      "en": "The memorial was unveiled in honour of the fallen soldiers.",
+      "hint": [
+        "gedenkteken",
+        "ere",
+        "gevallen",
+        "soldaat",
+        "onthullen"
+      ],
+      "note": "ter ere van: ter + the old dative ere (from de eer). Never *ten ere or *te eer.",
+      "alt": [
+        "Het gedenkteken werd onthuld ter ere van de gevallen soldaten.",
+        "Ter ere van de gevallen soldaten werd het gedenkteken onthuld.",
+        "Het gedenkteken is ter ere van de gevallen soldaten onthuld.",
+        "Het gedenkteken is onthuld ter ere van de gevallen soldaten.",
+        "Ter ere van de gevallen soldaten is het gedenkteken onthuld."
+      ]
+    },
+    {
+      "nl": "De koning, wiens opvolger nog een kind was, regeerde veertig jaar.",
+      "en": "The king, whose successor was still a child, reigned for forty years.",
+      "hint": [
+        "koning",
+        "opvolger",
+        "kind",
+        "regeren",
+        "jaar"
+      ],
+      "note": "wiens is formal 'whose' for a masculine word: de koning. In speech you would also hear van wie de opvolger.",
+      "alt": [
+        "De koning, wiens opvolger nog een kind was, heeft veertig jaar geregeerd.",
+        "De koning, van wie de opvolger nog een kind was, regeerde veertig jaar."
+      ]
+    },
+    {
+      "nl": "Dit is een van de oudste vorstenhuizen ter wereld.",
+      "en": "This is one of the oldest royal houses in the world.",
+      "hint": [
+        "oud",
+        "vorstenhuis",
+        "wereld"
+      ],
+      "note": "ter wereld is the fixed phrase for 'in the world' after a superlative. The genitive 's werelds oudste vorstenhuizen says the same in the style of the news.",
+      "alt": [
+        "Dit is een van 's werelds oudste vorstenhuizen.",
+        "Dit is een van de oudste vorstenhuizen van de wereld.",
+        "Dit is één van de oudste vorstenhuizen ter wereld."
+      ]
+    },
+    {
+      "nl": "Moge het nieuwe jaar u veel geluk en gezondheid brengen.",
+      "en": "May the new year bring you (formal) much happiness and health.",
+      "hint": [
+        "mogen",
+        "nieuw",
+        "jaar",
+        "geluk",
+        "gezondheid",
+        "brengen"
+      ],
+      "note": "Moge is the old subjunctive of mogen: a wish, typical of greeting cards and speeches. It stands first, and brengen goes to the end."
+    },
+    {
+      "nl": "Ten gevolge van de oorlog werd de plechtigheid een jaar uitgesteld.",
+      "en": "As a result of the war (ten …) the ceremony was postponed for a year.",
+      "hint": [
+        "gevolg",
+        "oorlog",
+        "plechtigheid",
+        "jaar",
+        "uitstellen"
+      ],
+      "note": "ten = te + den, the old dative of a neuter word (het gevolg). Ten gevolge van is the formal way to name a cause, often a bad one.",
+      "alt": [
+        "De plechtigheid werd ten gevolge van de oorlog een jaar uitgesteld.",
+        "Ten gevolge van de oorlog is de plechtigheid een jaar uitgesteld.",
+        "De plechtigheid is ten gevolge van de oorlog een jaar uitgesteld."
+      ]
+    },
+    {
+      "nl": "Dankzij de bevrijding werd het feest na vijf jaar weer gevierd.",
+      "en": "Thanks to the liberation the festival was celebrated again after five years.",
+      "hint": [
+        "dankzij",
+        "bevrijding",
+        "feest",
+        "jaar",
+        "vieren"
+      ],
+      "note": "dankzij comes from dank zij, 'thanks be': it is only used for a good cause, like the liberation.",
+      "alt": [
+        "Dankzij de bevrijding werd het feest na vijf jaar opnieuw gevierd.",
+        "Het feest werd dankzij de bevrijding na vijf jaar weer gevierd.",
+        "Dankzij de bevrijding is het feest na vijf jaar weer gevierd."
+      ]
+    },
+    {
+      "nl": "Het staatshoofd was zelf ter plaatse om de nabestaanden te steunen.",
+      "en": "The head of state was on the spot in person to support the bereaved.",
+      "hint": [
+        "staatshoofd",
+        "zelf",
+        "plaats",
+        "nabestaande",
+        "steunen"
+      ],
+      "note": "ter plaatse: ter because de plaats was feminine, plaatse with the old dative -e. It means 'there, where it happened', a phrase of the news.",
+      "alt": [
+        "Het staatshoofd was zelf ter plekke om de nabestaanden te steunen."
+      ]
+    },
+    {
+      "nl": "Ons erfgoed moet te allen tijde beschermd worden.",
+      "en": "Our heritage must be protected at all times.",
+      "hint": [
+        "erfgoed",
+        "moeten",
+        "allen",
+        "tijd",
+        "beschermen"
+      ],
+      "note": "te allen tijde keeps two old dative endings, allen and tijde. It belongs to formal writing; in speech you say altijd.",
+      "alt": [
+        "Ons erfgoed moet te allen tijde worden beschermd."
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "type": "choose",
+      "nl": "Hoe plechtiger de ceremonie is, ___ te stiller wordt het publiek.",
+      "options": [
+        "des",
+        "de",
+        "dan",
+        "hoe"
+      ],
+      "correct": 0,
+      "en": "The more solemn the ceremony, the quieter the audience becomes.",
+      "note": "des te is a fixed pair: des is the old genitive. You can say hoe … hoe stiller (without te), but before te only des fits. The verb follows straight after the comparative."
+    },
+    {
+      "type": "choose",
+      "nl": "Na de herdenking werd geld ingezameld ___ behoeve van de nabestaanden.",
+      "options": [
+        "ter",
+        "ten",
+        "te",
+        "voor"
+      ],
+      "correct": 1,
+      "en": "After the commemoration money was collected for the benefit of the bereaved.",
+      "note": "The fixed phrase is ten behoeve van. You cannot work out ten or ter from modern de and het; learn the phrase whole."
+    },
+    {
+      "type": "choose",
+      "nl": "___ de storm is het oude gedenkteken zwaar beschadigd.",
+      "options": [
+        "Dankzij",
+        "Ter ere van",
+        "Door"
+      ],
+      "correct": 2,
+      "en": "Because of the storm the old memorial has been badly damaged.",
+      "note": "Damage is a bad result, so door. Dankzij (from 'thanks be') only goes with a good cause."
+    },
+    {
+      "type": "choose",
+      "nl": "De troon is ___ driehonderd jaar oud.",
+      "options": [
+        "tenminste",
+        "ten minste",
+        "ter minste"
+      ],
+      "correct": 1,
+      "en": "The throne is at least three hundred years old.",
+      "note": "'Not less than' is ten minste, two words. Tenminste, one word, corrects what you just said: 'at least, that is what I think'."
+    },
+    {
+      "type": "choose",
+      "nl": "We moeten het oude centrum beschermen; het is ___ ons erfgoed.",
+      "options": [
+        "ten slotte",
+        "ter slotte",
+        "tenslotte"
+      ],
+      "correct": 2,
+      "en": "We must protect the old centre; it is our heritage, after all.",
+      "note": "'After all' is tenslotte, one word. Ten slotte, two words, means 'finally, as the last step'. Ter slotte does not exist."
+    },
+    {
+      "type": "choose",
+      "nl": "U kunt de kaartjes voor het paleis ___ online, hetzij aan de kassa kopen.",
+      "options": [
+        "het zij",
+        "zowel",
+        "of",
+        "hetzij"
+      ],
+      "correct": 3,
+      "en": "You can buy the tickets for the palace either online or at the ticket office.",
+      "note": "hetzij … hetzij is a fixed formal pair: either … or. The second hetzij needs a first one; zowel would need als, and of … of would need of twice."
+    },
+    {
+      "type": "gap",
+      "nl": "Volgens de overlevering verscheen de geest van de graaf 's ___ (nacht) in het kasteel.",
+      "answers": [
+        "nachts"
+      ],
+      "en": "According to tradition the count's ghost appeared in the castle at night.",
+      "note": "'s nachts is the old genitive des nachts, so the noun gets an s: nacht becomes nachts."
+    },
+    {
+      "type": "gap",
+      "nl": "Het ___ (gaan) je goed in je nieuwe land!",
+      "answers": [
+        "ga"
+      ],
+      "en": "All the best in your new country!",
+      "note": "A wish in the old subjunctive: the stem + e, which for gaan is ga. Het gaat je goed would be a statement: 'you are doing well'."
+    },
+    {
+      "type": "gap",
+      "nl": "Lang ___ (leven) de koningin!",
+      "answers": [
+        "leve"
+      ],
+      "en": "Long live the queen!",
+      "note": "leve is the subjunctive: the stem leef + e, with f becoming v. No t: it is a wish, not a statement."
+    },
+    {
+      "type": "gap",
+      "nl": "De koningen, ___ portretten hier hangen, hebben allemaal lang geregeerd.",
+      "answers": [
+        "wier"
+      ],
+      "en": "The kings, whose portraits hang here, all reigned for a long time.",
+      "note": "'whose' after a plural is wier. wiens is only for a masculine or neuter singular word."
+    },
+    {
+      "type": "order",
+      "lead": "Ten slotte",
+      "words": [
+        "legde",
+        "het staatshoofd",
+        "een krans",
+        "bij het gedenkteken"
+      ],
+      "answers": [
+        "Ten slotte legde het staatshoofd een krans bij het gedenkteken.",
+        "Ten slotte legde het staatshoofd bij het gedenkteken een krans."
+      ],
+      "en": "Finally the head of state laid a wreath at the memorial.",
+      "note": "Ten slotte (finally) is one element in first place, so the verb legde comes next and then the subject."
+    },
+    {
+      "type": "rewrite",
+      "task": "Make it formal: replace Door with ten gevolge van.",
+      "from": "Door de brand was het paleis maandenlang gesloten.",
+      "answers": [
+        "Ten gevolge van de brand was het paleis maandenlang gesloten."
+      ],
+      "en": "As a result of the fire the palace was closed for months.",
+      "note": "Ten gevolge van takes the place of door as one element, so the inversion stays: was het paleis."
+    },
+    {
+      "type": "rewrite",
+      "task": "Say it in everyday Dutch: replace the old subjunctive by the present tense.",
+      "from": "Wat er ook gebeure, de traditie blijft.",
+      "answers": [
+        "Wat er ook gebeurt, de traditie blijft."
+      ],
+      "en": "Whatever happens, the tradition stays.",
+      "note": "gebeure is the old subjunctive; today it is gebeurt. The wat … ook clause stands outside the sentence, so the main clause keeps its normal order."
+    },
+    {
+      "type": "rewrite",
+      "task": "Turn it into a ceremonial wish that starts with Moge.",
+      "from": "Wij hopen dat de nieuwe koning lang en wijs zal regeren.",
+      "answers": [
+        "Moge de nieuwe koning lang en wijs regeren!"
+      ],
+      "en": "May the new king reign long and wisely!",
+      "note": "Moge is the subjunctive of mogen and takes the first place; the infinitive regeren goes to the end. The subject de nieuwe koning follows moge."
+    },
+    {
+      "type": "fix",
+      "wrong": "Dankzij de oorlog werd de inhuldiging een jaar uitgesteld.",
+      "answers": [
+        "Door de oorlog werd de inhuldiging een jaar uitgesteld.",
+        "Ten gevolge van de oorlog werd de inhuldiging een jaar uitgesteld.",
+        "Als gevolg van de oorlog werd de inhuldiging een jaar uitgesteld.",
+        "Vanwege de oorlog werd de inhuldiging een jaar uitgesteld.",
+        "Wegens de oorlog werd de inhuldiging een jaar uitgesteld."
+      ],
+      "en": "Because of the war the inauguration was postponed for a year.",
+      "note": "A war is not something to be thankful for, so dankzij is wrong. Use door, vanwege, wegens or the formal ten gevolge van."
+    },
+    {
+      "type": "fix",
+      "wrong": "De koningin, wiens zoon nu regeert, woont nog altijd in het paleis.",
+      "answers": [
+        "De koningin, wier zoon nu regeert, woont nog altijd in het paleis.",
+        "De koningin, van wie de zoon nu regeert, woont nog altijd in het paleis."
+      ],
+      "en": "The queen, whose son now reigns, still lives in the palace.",
+      "note": "'whose' refers to de koningin, a woman, so it is wier. wiens is for a man or a masculine or neuter word."
+    }
+  ]
+}

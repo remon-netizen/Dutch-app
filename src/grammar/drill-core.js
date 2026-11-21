@@ -17,7 +17,9 @@ export const normalise = s => String(s).toLowerCase().replace(/[’ʼ`´‘]/g, 
 // where they cannot be anything else: wij / we anywhere, zij / ze as the first word.
 // (jij / je is not on the list: je is also "you" as an object and "your".)
 export const clean = s => normalise(s).replace(/[.,!?;:"()«»…]/g, ' ').replace(/\s[-–—]+\s/g, ' ').replace(/\s+/g, ' ').trim()
-  .replace(/\bwij\b/g, 'we').replace(/^zij\b/, 'ze');
+  .replace(/\bwij\b/g, 'we').replace(/^zij\b/, 'ze')
+  // hoelang and hoe lang are both right for a length of time
+  .replace(/\bhoelang\b/g, 'hoe lang');
 // Without accents and trema: één → een, geïnteresseerd → geinteresseerd.
 export const fold = s => s.normalize('NFD').replace(/[̀-ͯ]/g, '');
 

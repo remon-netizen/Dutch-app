@@ -1,0 +1,222 @@
+{
+  "id": "b1-01",
+  "level": "B1",
+  "icon": "📦",
+  "title": "Moving house",
+  "grammar": "Sub-clauses: toen, terwijl, voordat, nadat, hoewel, zodat",
+  "summary": "After toen, terwijl, voordat, nadat, hoewel, zodat and the other subordinating conjunctions every verb goes to the end. Toen: once in the past; als/wanneer: now, later or repeatedly. Sub-clause first: the main clause starts with its verb.",
+  "explain": "A sub-clause (de bijzin) cannot stand on its own: it hangs on a main clause and starts with a conjunction. You know `omdat`, `dat` and `als` from unit A2 · 23. This unit adds the others you need to say when something happened, why, and in spite of what. The rule is the same for all of them: **every verb goes to the end** of the sub-clause.\n\n### The conjunctions\n\n| conjunction | meaning |\n| toen | when (once, in the past) |\n| als / wanneer | when, whenever; if |\n| terwijl | while; whereas |\n| voordat / nadat | before / after |\n| totdat / zodra | until / as soon as |\n| sinds | since (time) |\n| omdat / doordat | because |\n| zodat | so that |\n| hoewel | although |\n| tenzij | unless |\n\n> We pakken de dozen in terwijl de kinderen slapen. — We pack the boxes while the children are asleep.\n> Hoewel de huur hoog is, willen we hier blijven. — Although the rent is high, we want to stay here.\n\n### Toen or als?\n\nEnglish *when* has three Dutch words, and the choice depends on time:\n\n- `toen`: **one** moment or **one** period in the past, with the past tense: `toen we in Delft woonden`.\n- `als`: the present and the future, and something that happened **again and again** in the past (*whenever*).\n- `wanneer`: the same as `als`, a little more formal.\n\n> Toen we de woning bezichtigden, was het er koud. — When we viewed the flat, it was cold there.\n> Als de cv-ketel kapot is, bel je de huisbaas. — When the boiler is broken, you call the landlord.\n> Als het hard regende, lekte het dak. — Whenever it rained hard, the roof leaked.\n\n`Als` also means *if*; the context tells you which. Do not confuse the conjunction `toen` with the adverb `toen` (*then*): after the adverb the verb comes second, `Toen belde ik de huisbaas` (Then I called the landlord).\n\n### Words with a catch\n\n- `terwijl` means *while* (at the same time) and also *whereas*: `Ik betaal meer, terwijl mijn kamer kleiner is.`\n- `omdat` gives a reason or a cause and is always correct. `doordat` gives only a cause, something that simply happened, never a person's reason or intention.\n- `zodat` gives the result or the purpose: *so that*.\n- `sinds` with the present tense means something is still going on: `sinds we hier wonen` (since we have lived here).\n- `nadat`: in a story about the past it is mostly followed by `had` or `was` + participle (unit B1 · 9). Here we use it about now and later, with the perfect tense.\n- In speech `totdat` and `voordat` are often shortened to `tot` and `voor`.\n\n### The verbs at the end\n\n| | the end of the sub-clause |\n| one verb | … dat ik **verhuis** |\n| perfect | … dat ik **ben verhuisd** / **verhuisd ben** |\n| modal | … dat ik **moet verhuizen** |\n| separable | … dat hij me **opbelt** |\n\n- With the perfect, both orders are correct and both are common.\n- A modal verb normally comes **before** its infinitive. You will also hear `verhuizen moet`; that is correct, but less usual.\n- A separable verb is **one word** at the end: `opbelt`, `inpakte`, `opzegt`. Only with `te` are the parts split: `om de huisbaas op te bellen` (unit B1 · 17).\n\n> Je krijgt de sleutel zodra je het contract hebt ondertekend. — You get the key as soon as you have signed the contract.\n> We bellen de makelaar voordat we de huur opzeggen. — We will call the estate agent before we give notice.\n\n### Sub-clause first\n\nThe sub-clause can come first. Then the whole sub-clause is the first element of the sentence, so the main clause starts with **its verb**, followed by the subject. A comma separates the two clauses. When the sub-clause comes second, the comma may be left out.\n\n> Toen we verhuisden, regende het de hele dag. — When we moved, it rained all day.\n> Zodra de makelaar belt, gaan we kijken. — As soon as the estate agent calls, we will go and have a look.\n\n### Watch out\n\n- The verb stays in the middle: *hoewel het huis is klein → `hoewel het huis klein is`.\n- The subject first after a sub-clause: *Toen we aankwamen, de huisbaas wachtte al → `Toen we aankwamen, wachtte de huisbaas al`.\n- toen for now or later: *Toen ik tijd heb, bel ik → `Als ik tijd heb, bel ik`.\n- als for one event in the past: *Als we in Delft aankwamen, … → `Toen we in Delft aankwamen, …`.\n- A split separable verb: *dat hij me belt op → `dat hij me opbelt`.\n\n### Compared with Ukrainian\n\nUkrainian `коли` covers both `toen` and `als`; in Dutch you choose by the time: once in the past is `toen`. And after `коли`, `хоча` or `тому що` Ukrainian keeps the normal order, while Dutch sends every verb to the end.",
+  "words": [
+    { "nl": "huurder", "art": "de", "pl": "huurders", "en": "tenant", "pos": "n" },
+    { "nl": "huisbaas", "art": "de", "pl": "huisbazen", "en": "landlord", "pos": "n" },
+    { "nl": "huurcontract", "art": "het", "pl": "huurcontracten", "en": "tenancy agreement / lease", "pos": "n" },
+    { "nl": "huurprijs", "art": "de", "pl": "huurprijzen", "en": "rent (the amount)", "pos": "n" },
+    { "nl": "servicekosten", "art": "de", "pl": "", "en": "service charges", "pos": "n", "tag": "always plural" },
+    { "nl": "opzegtermijn", "art": "de", "pl": "opzegtermijnen", "en": "notice period", "pos": "n" },
+    { "nl": "makelaar", "art": "de", "pl": "makelaars", "en": "estate agent", "pos": "n" },
+    { "nl": "bezichtiging", "art": "de", "pl": "bezichtigingen", "en": "viewing (of a house)", "pos": "n" },
+    { "nl": "verhuisdoos", "art": "de", "pl": "verhuisdozen", "en": "moving box", "pos": "n" },
+    { "nl": "lekkage", "art": "de", "pl": "lekkages", "en": "leak", "pos": "n" },
+    { "nl": "schimmel", "art": "de", "pl": "schimmels", "en": "mould", "pos": "n" },
+    { "nl": "cv-ketel", "art": "de", "pl": "cv-ketels", "en": "boiler (central heating)", "pos": "n" },
+    { "nl": "ondertekenen", "past": "ondertekende", "perf": "heeft ondertekend", "en": "to sign", "pos": "v" },
+    { "nl": "opzeggen", "past": "zei op", "perf": "heeft opgezegd", "en": "to give notice / to cancel (a contract)", "pos": "v", "tag": "separable" },
+    { "nl": "inpakken", "past": "pakte in", "perf": "heeft ingepakt", "en": "to pack", "pos": "v", "tag": "separable" },
+    { "nl": "gemeubileerd", "en": "furnished", "pos": "adj" }
+  ],
+  "sentences": [
+    {
+      "nl": "Toen we de verhuisdozen inpakten, vonden we oude foto's.",
+      "en": "When we were packing the moving boxes, we found old photos.",
+      "hint": ["toen", "verhuisdoos", "inpakken", "vinden", "oud", "foto"],
+      "note": "One period in the past, so toen with the past tense. The separable verb inpakten stands at the end as one word, and the main clause starts with its verb: vonden we.",
+      "alt": ["We vonden oude foto's toen we de verhuisdozen inpakten."]
+    },
+    {
+      "nl": "Als de cv-ketel kapot is, moet de huisbaas hem repareren.",
+      "en": "If the boiler is broken, the landlord has to repair it.",
+      "hint": ["als", "cv-ketel", "kapot", "moeten", "huisbaas", "repareren"],
+      "note": "Als for a condition in the present. Is goes to the end of the sub-clause; then the main clause begins with its verb moet, and repareren closes the sentence.",
+      "alt": ["Wanneer de cv-ketel kapot is, moet de huisbaas hem repareren.", "De huisbaas moet de cv-ketel repareren als hij kapot is.", "De huisbaas moet de cv-ketel repareren als die kapot is."]
+    },
+    {
+      "nl": "De buren betalen minder huur, terwijl hun woning groter is.",
+      "en": "The neighbours pay less rent, whereas their home is bigger.",
+      "hint": ["buren", "betalen", "huur", "terwijl", "woning", "groot"],
+      "note": "Here terwijl does not mean 'while' in time but 'whereas': it sets two facts against each other. The verb is stands at the end of the sub-clause."
+    },
+    {
+      "nl": "Hoewel de woning gemeubileerd is, nemen we onze eigen bank mee.",
+      "en": "Although the flat is furnished, we are bringing our own sofa.",
+      "hint": ["hoewel", "woning", "gemeubileerd", "meenemen", "eigen", "bank"],
+      "note": "Hoewel sends is to the end. The sub-clause comes first, so the main clause starts with the verb nemen, then we; the separable verb is split in the main clause as usual.",
+      "alt": ["We nemen onze eigen bank mee, hoewel de woning gemeubileerd is."]
+    },
+    {
+      "nl": "Ik krijg de sleutel nadat ik het huurcontract heb ondertekend.",
+      "en": "I get the key after I have signed the tenancy agreement.",
+      "hint": ["krijgen", "sleutel", "nadat", "huurcontract", "ondertekenen"],
+      "note": "Two verbs at the end of the sub-clause: heb ondertekend or ondertekend heb, both are correct. Nadat with the perfect, because the signing comes first.",
+      "alt": ["Ik krijg de sleutel nadat ik het huurcontract ondertekend heb.", "Nadat ik het huurcontract heb ondertekend, krijg ik de sleutel.", "Nadat ik het huurcontract ondertekend heb, krijg ik de sleutel."]
+    },
+    {
+      "nl": "Er zit schimmel in de badkamer, doordat het dak al maanden lekt.",
+      "en": "There is mould in the bathroom because the roof has been leaking for months.",
+      "hint": ["schimmel", "badkamer", "doordat", "dak", "maand", "lekken"],
+      "note": "Doordat gives a cause: nobody wanted the roof to leak. Omdat is also correct here. Lekt goes to the end; al + present tense says it is still going on.",
+      "alt": ["Er zit schimmel in de badkamer omdat het dak al maanden lekt.", "Doordat het dak al maanden lekt, zit er schimmel in de badkamer.", "Omdat het dak al maanden lekt, zit er schimmel in de badkamer."]
+    },
+    {
+      "nl": "We zeggen vandaag de huur op, zodat we op 1 juni kunnen verhuizen.",
+      "en": "We are giving notice today, so that we can move on 1 June.",
+      "hint": ["opzeggen", "vandaag", "huur", "zodat", "kunnen", "verhuizen"],
+      "note": "Zodat gives the purpose. The modal kunnen normally stands before its infinitive at the end: kunnen verhuizen (verhuizen kunnen is possible but less usual).",
+      "alt": ["We zeggen de huur vandaag op, zodat we op 1 juni kunnen verhuizen.", "We zeggen vandaag de huur op, zodat we op 1 juni verhuizen kunnen.", "We zeggen de huur vandaag op, zodat we op 1 juni verhuizen kunnen."]
+    },
+    {
+      "nl": "Zodra de huisbaas terugbelt, stuur ik je een bericht.",
+      "en": "As soon as the landlord calls back, I will send you a message.",
+      "hint": ["zodra", "huisbaas", "terugbellen", "sturen", "bericht"],
+      "note": "The separable verb terugbellen stays in one piece at the end of the sub-clause: terugbelt. The main clause then begins with stuur, and ik follows.",
+      "alt": ["Zodra de huisbaas terugbelt, stuur ik jou een bericht.", "Ik stuur je een bericht zodra de huisbaas terugbelt.", "Ik stuur jou een bericht zodra de huisbaas terugbelt."]
+    },
+    {
+      "nl": "Sinds we hier wonen, hebben we geen problemen met de huisbaas gehad.",
+      "en": "Since we have lived here, we have not had any problems with the landlord.",
+      "hint": ["sinds", "hier", "wonen", "probleem", "huisbaas", "hebben"],
+      "note": "Sinds + present tense: we still live here, so wonen, not a perfect as in English. The sub-clause is the first element, so hebben comes next and then we.",
+      "alt": ["We hebben geen problemen met de huisbaas gehad sinds we hier wonen."]
+    },
+    {
+      "nl": "Voordat de nieuwe huurder komt, moeten we de woning schoonmaken.",
+      "en": "Before the new tenant comes, we have to clean the flat.",
+      "hint": ["voordat", "huurder", "komen", "moeten", "woning", "schoonmaken"],
+      "note": "Komt goes to the end of the sub-clause. The main clause starts with its verb moeten, and the infinitive schoonmaken goes to the end.",
+      "alt": ["We moeten de woning schoonmaken voordat de nieuwe huurder komt."]
+    }
+  ],
+  "exercises": [
+    {
+      "type": "choose",
+      "nl": "___ we in Rotterdam woonden, hadden we een kleine tuin.",
+      "options": ["Als", "Toen", "Wanneer"],
+      "correct": 1,
+      "en": "When we lived in Rotterdam, we had a small garden.",
+      "note": "One period in the past, so toen. Als and wanneer are for the present, the future, or something that happened again and again."
+    },
+    {
+      "type": "choose",
+      "nl": "We nemen de woning, hoewel ___.",
+      "options": ["de servicekosten zijn hoog", "zijn de servicekosten hoog", "de servicekosten hoog zijn"],
+      "correct": 2,
+      "en": "We are taking the flat, although the service charges are high.",
+      "note": "Hoewel starts a sub-clause, so the verb zijn goes to the very end. The order of a main clause is wrong here."
+    },
+    {
+      "type": "choose",
+      "nl": "___ de cv-ketel kapot is, bellen we de huisbaas.",
+      "options": ["Toen", "Hoewel", "Als"],
+      "correct": 2,
+      "en": "When the boiler is broken, we call the landlord.",
+      "note": "This is about now and every time it happens, in the present tense, so als. Toen is only for the past, and hoewel (although) makes no sense here."
+    },
+    {
+      "type": "choose",
+      "nl": "Ik heb de dozen al ingepakt, ___ we morgen vroeg kunnen beginnen.",
+      "options": ["doordat", "zodat", "hoewel"],
+      "correct": 1,
+      "en": "I have already packed the boxes, so that we can start early tomorrow.",
+      "note": "Zodat gives the result or the purpose of packing early. Doordat would make the early start the cause of the packing, which is the wrong way round."
+    },
+    {
+      "type": "choose",
+      "nl": "Toen we bij de bezichtiging aankwamen, ___ al voor de deur.",
+      "options": ["de makelaar stond", "stond de makelaar", "de makelaar staat"],
+      "correct": 1,
+      "en": "When we arrived at the viewing, the estate agent was already standing at the door.",
+      "note": "The sub-clause is the first element, so the main clause begins with its verb: stond de makelaar. Staat is the present and does not fit a story in the past."
+    },
+    {
+      "type": "gap",
+      "nl": "Als het hard ___ (regenen), lekte het dak altijd.",
+      "answers": ["regende"],
+      "en": "Whenever it rained hard, the roof always leaked.",
+      "note": "It happened again and again in the past, so als with the past tense, not toen. Regende goes to the end of the sub-clause."
+    },
+    {
+      "type": "gap",
+      "nl": "We blijven in deze woning ___ de opzegtermijn voorbij is.",
+      "answers": ["totdat", "tot"],
+      "en": "We are staying in this flat until the notice period is over.",
+      "note": "Until is totdat, often shortened to tot. It is a conjunction, so the verb is goes to the end."
+    },
+    {
+      "type": "gap",
+      "nl": "Ik bel je zodra de verhuizers ___ (aankomen).",
+      "answers": ["aankomen"],
+      "en": "I will call you as soon as the movers arrive.",
+      "note": "At the end of a sub-clause a separable verb is one word: aankomen, never komen … aan."
+    },
+    {
+      "type": "gap",
+      "nl": "Sinds we in deze woning ___ (wonen), hebben we last van schimmel.",
+      "answers": ["wonen"],
+      "en": "Since we have been living in this flat, we have had problems with mould.",
+      "note": "We still live there, so sinds takes the present tense: wonen. English uses a perfect here, Dutch does not."
+    },
+    {
+      "type": "order",
+      "lead": "Zodra",
+      "words": ["ik", "het huurcontract", "heb", "ondertekend", "krijg", "ik", "de sleutel"],
+      "answers": ["Zodra ik het huurcontract heb ondertekend, krijg ik de sleutel.", "Zodra ik het huurcontract ondertekend heb, krijg ik de sleutel."],
+      "en": "As soon as I have signed the tenancy agreement, I get the key.",
+      "note": "Both verbs of the perfect go to the end of the sub-clause, in either order. Then the main clause starts with its verb krijg, and ik follows."
+    },
+    {
+      "type": "order",
+      "lead": "We",
+      "words": ["pakken", "de dozen", "in", "terwijl", "de kinderen", "slapen"],
+      "answers": ["We pakken de dozen in terwijl de kinderen slapen."],
+      "en": "We pack the boxes while the children are asleep.",
+      "note": "In the main clause the separable verb is split: pakken … in. After terwijl the verb slapen goes to the end."
+    },
+    {
+      "type": "rewrite",
+      "task": "Put the sub-clause first.",
+      "from": "De makelaar belde toen we net thuis waren.",
+      "answers": ["Toen we net thuis waren, belde de makelaar."],
+      "en": "When we had just got home, the estate agent called.",
+      "note": "The sub-clause takes the first place, so the main clause must begin with its verb: belde de makelaar."
+    },
+    {
+      "type": "rewrite",
+      "task": "Join the two sentences, starting with Hoewel.",
+      "from": "De huurprijs is hoog. We willen de woning graag huren.",
+      "answers": ["Hoewel de huurprijs hoog is, willen we de woning graag huren.", "Hoewel de huurprijs hoog is, willen we graag de woning huren."],
+      "en": "Although the rent is high, we would like to rent the flat.",
+      "note": "In the sub-clause is moves to the end. The main clause then starts with its verb willen, followed by we."
+    },
+    {
+      "type": "rewrite",
+      "task": "Join the two sentences with zodat.",
+      "from": "We ondertekenen vandaag het huurcontract. We kunnen volgende week verhuizen.",
+      "answers": ["We ondertekenen vandaag het huurcontract, zodat we volgende week kunnen verhuizen.", "We ondertekenen vandaag het huurcontract, zodat we volgende week verhuizen kunnen."],
+      "en": "We are signing the tenancy agreement today, so that we can move next week.",
+      "note": "After zodat both verbs go to the end. The usual order is the modal first: kunnen verhuizen."
+    },
+    {
+      "type": "fix",
+      "wrong": "Toen ik morgen tijd heb, bel ik de makelaar.",
+      "answers": ["Als ik morgen tijd heb, bel ik de makelaar.", "Wanneer ik morgen tijd heb, bel ik de makelaar.", "Zodra ik morgen tijd heb, bel ik de makelaar."],
+      "en": "When I have time tomorrow, I will call the estate agent.",
+      "note": "Toen is only for one moment in the past. For the present and the future, when is als or wanneer."
+    },
+    {
+      "type": "fix",
+      "wrong": "Doordat er een lekkage was, de keuken stond onder water.",
+      "answers": ["Doordat er een lekkage was, stond de keuken onder water."],
+      "en": "Because there was a leak, the kitchen was under water.",
+      "note": "The sub-clause is the first element, so the main clause starts with its verb: stond de keuken, not de keuken stond."
+    }
+  ]
+}

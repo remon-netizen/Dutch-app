@@ -1,0 +1,442 @@
+{
+  "id": "a2-22",
+  "level": "A2",
+  "icon": "🎨",
+  "title": "Free time",
+  "grammar": "Linking sentences: en, maar, of, want, dus",
+  "summary": "en, maar, of and want stand outside the next sentence: normal order after them. After dus both orders are right (dus ik blijf, dus blijf ik). A comma before maar, want and dus.",
+  "explain": "Five short words join two sentences into one: `en` (and), `maar` (but), `of` (or), `want` (because) and `dus` (so). For four of them the word order is easy: they stand **outside** the second sentence, and that sentence keeps the order it would have on its own. `dus` is different, because it can also be part of the sentence.\n\n### en, maar, of, want: nothing changes\n\nThe conjunction does not count as the first element of the second sentence (you will also see this called *position 0*). After it comes a complete sentence, with the verb in second place as usual.\n\n| first sentence | link | second sentence |\n| Ik ben moe | en | ik ga naar huis. |\n| Ik wil wel | maar | ik heb geen tijd. |\n| We gaan zwemmen | of | we gaan fietsen. |\n| Ik blijf thuis | want | ik ben ziek. |\n\n> Ik zing in een koor en mijn man speelt gitaar. — I sing in a choir and my husband plays the guitar.\n> Ik train graag, maar ik ben niet fanatiek. — I like training, but I am not a fanatic.\n\nWhen the second sentence starts with something other than the subject, it has inversion, exactly as it would on its own:\n\n> Ons team heeft gewonnen, maar morgen spelen we weer. — Our team has won, but tomorrow we play again.\n\n### want and omdat\n\nBoth give a reason. `want` joins two main clauses, so the order stays normal. `omdat` starts a sub-clause, and there the verb goes to the end (unit A2 · 23):\n\n> Ik kom niet, want ik heb training. — I am not coming, because I have training.\n> Ik kom niet, omdat ik training heb. — I am not coming, because I have training.\n\nThe part with `want` always comes second. A sentence never starts with it: not *Want ik heb training, ik kom niet.\n\n### dus: three right orders\n\n`dus` can be a conjunction, with normal order after it, or an adverb. As an adverb it can take the first place, and then the verb comes before the subject; or it can stand in the middle of the sentence. All of these are correct:\n\n> Het regent, dus ik blijf thuis. — It is raining, so I am staying at home.\n> Het regent, dus blijf ik thuis. — It is raining, so I am staying at home.\n> Het regent. Ik blijf dus thuis. — It is raining. So I am staying at home.\n\n### of: or\n\n`of` joins two words or two sentences: `Wil je thee of koffie?`, `Ga je mee, of blijf je thuis?` (Later you will also meet `of` meaning \"whether\"; that is a different use.)\n\n### Leaving out what is repeated\n\nAfter `en`, `maar` and `of` you can leave out a subject that is the same in both parts, when the first sentence starts with that subject:\n\n> Ik brei een trui en luister naar de radio. — I knit a jumper and listen to the radio.\n\nWith `ik` repeated (`en ik luister`) it is also correct. After `want` and `dus` the subject must stay: `…, dus ik blijf thuis`, never *dus blijf thuis.\n\n### Commas\n\nPut a comma before `maar`, `want` and `dus`. Before `en` and `of` there is normally no comma, except to make a long sentence easier to read.\n\n### Watch out\n\n- No inversion after want: `want ik ben moe`, not *want ben ik moe.\n- Do not mix want and omdat: `want ik ben moe` or `omdat ik moe ben`, not *omdat ik ben moe.\n- Do not drop the subject after want or dus.\n\n### Compared with Ukrainian\n\nUkrainian `бо` works like `want`: it gives a reason and changes nothing in the order after it. The difference is that Dutch order is fixed: after these words comes a normal Dutch sentence, with its verb in second place.",
+  "words": [
+    {
+      "nl": "hobby",
+      "art": "de",
+      "pl": "hobby's",
+      "en": "hobby",
+      "pos": "n"
+    },
+    {
+      "nl": "vereniging",
+      "art": "de",
+      "pl": "verenigingen",
+      "en": "club / association",
+      "pos": "n"
+    },
+    {
+      "nl": "lid",
+      "art": "het",
+      "pl": "leden",
+      "en": "member",
+      "pos": "n"
+    },
+    {
+      "nl": "training",
+      "art": "de",
+      "pl": "trainingen",
+      "en": "training session / practice",
+      "pos": "n"
+    },
+    {
+      "nl": "wedstrijd",
+      "art": "de",
+      "pl": "wedstrijden",
+      "en": "match / competition",
+      "pos": "n"
+    },
+    {
+      "nl": "klimmen",
+      "past": "klom",
+      "perf": "heeft/is geklommen",
+      "en": "to climb",
+      "pos": "v"
+    },
+    {
+      "nl": "contributie",
+      "art": "de",
+      "pl": "contributies",
+      "en": "membership fee",
+      "pos": "n"
+    },
+    {
+      "nl": "tekenen",
+      "past": "tekende",
+      "perf": "heeft getekend",
+      "en": "to draw",
+      "pos": "v"
+    },
+    {
+      "nl": "schilderen",
+      "past": "schilderde",
+      "perf": "heeft geschilderd",
+      "en": "to paint",
+      "pos": "v"
+    },
+    {
+      "nl": "breien",
+      "past": "breide",
+      "perf": "heeft gebreid",
+      "en": "to knit",
+      "pos": "v"
+    },
+    {
+      "nl": "trainen",
+      "past": "trainde",
+      "perf": "heeft getraind",
+      "en": "to train",
+      "pos": "v"
+    },
+    {
+      "nl": "winnen",
+      "past": "won",
+      "perf": "heeft gewonnen",
+      "en": "to win",
+      "pos": "v"
+    },
+    {
+      "nl": "fotograferen",
+      "past": "fotografeerde",
+      "perf": "heeft gefotografeerd",
+      "en": "to take photographs",
+      "pos": "v"
+    },
+    {
+      "nl": "sportief",
+      "en": "sporty / athletic",
+      "pos": "adj"
+    },
+    {
+      "nl": "fanatiek",
+      "en": "keen / fanatical",
+      "pos": "adj"
+    },
+    {
+      "nl": "liever",
+      "en": "rather (would rather)",
+      "pos": "adv"
+    }
+  ],
+  "sentences": [
+    {
+      "nl": "Ik zing in een koor en mijn man speelt gitaar.",
+      "en": "I sing in a choir and my husband plays the guitar.",
+      "hint": [
+        "zingen",
+        "koor",
+        "man",
+        "spelen",
+        "gitaar"
+      ],
+      "note": "en does not count as the first element: after it comes a normal sentence, subject first, then the verb."
+    },
+    {
+      "nl": "Ik schilder graag, maar ik heb weinig tijd.",
+      "en": "I like painting, but I have little time.",
+      "hint": [
+        "schilderen",
+        "graag",
+        "weinig",
+        "tijd"
+      ],
+      "note": "A comma before maar, and after it the normal order: ik heb."
+    },
+    {
+      "nl": "Mijn zoon is lid van een voetbalvereniging, want hij voetbalt graag.",
+      "en": "My son is a member of a football club, because he likes playing football.",
+      "hint": [
+        "zoon",
+        "lid",
+        "voetbalvereniging",
+        "voetballen",
+        "graag"
+      ],
+      "note": "want gives a reason with normal order: hij voetbalt. With omdat the verb would go to the end: omdat hij graag voetbalt."
+    },
+    {
+      "nl": "We hebben vanavond training, dus ik kan niet komen.",
+      "en": "We have training this evening, so I cannot come.",
+      "hint": [
+        "vanavond",
+        "training",
+        "kunnen",
+        "komen"
+      ],
+      "note": "After dus both orders are right: dus ik kan, with dus as a conjunction, or dus kan ik, with dus in the first place.",
+      "alt": [
+        "We hebben vanavond training, dus kan ik niet komen.",
+        "Vanavond hebben we training, dus ik kan niet komen.",
+        "Vanavond hebben we training, dus kan ik niet komen."
+      ]
+    },
+    {
+      "nl": "Wil je liever tennissen of zwemmen?",
+      "en": "Would you rather play tennis or go swimming?",
+      "hint": [
+        "willen",
+        "liever",
+        "tennissen",
+        "zwemmen"
+      ],
+      "note": "of joins two words here, two infinitives at the end of the question. Liever is the comparative of graag.",
+      "alt": [
+        "Wil jij liever tennissen of zwemmen?"
+      ]
+    },
+    {
+      "nl": "Ons team heeft gewonnen, maar morgen spelen we weer.",
+      "en": "Our team has won, but tomorrow we play again.",
+      "hint": [
+        "team",
+        "winnen",
+        "morgen",
+        "spelen",
+        "weer"
+      ],
+      "note": "After maar the second sentence starts with morgen, so it has inversion, as it would on its own: morgen spelen we.",
+      "alt": [
+        "Ons team heeft gewonnen, maar we spelen morgen weer."
+      ]
+    },
+    {
+      "nl": "Ik brei een trui en luister naar de radio.",
+      "en": "I knit a jumper and listen to the radio.",
+      "hint": [
+        "breien",
+        "trui",
+        "luisteren",
+        "radio"
+      ],
+      "note": "Both parts have the same subject, and the sentence starts with it, so after en ik can be left out.",
+      "alt": [
+        "Ik brei een trui en ik luister naar de radio."
+      ]
+    },
+    {
+      "nl": "Hij is heel sportief, want hij traint vijf keer per week.",
+      "en": "He is very sporty, because he trains five times a week.",
+      "hint": [
+        "sportief",
+        "trainen",
+        "keer",
+        "week"
+      ],
+      "note": "want + normal order: hij traint. The subject cannot be left out after want.",
+      "alt": [
+        "Hij is erg sportief, want hij traint vijf keer per week."
+      ]
+    },
+    {
+      "nl": "Ik ben niet fanatiek, dus ik doe niet mee aan wedstrijden.",
+      "en": "I am not a fanatic, so I do not take part in competitions.",
+      "hint": [
+        "fanatiek",
+        "meedoen",
+        "wedstrijd"
+      ],
+      "note": "dus as a conjunction keeps the normal order. Dus doe ik niet mee is just as right.",
+      "alt": [
+        "Ik ben niet fanatiek, dus doe ik niet mee aan wedstrijden."
+      ]
+    },
+    {
+      "nl": "De contributie is vrij hoog, maar de trainers zijn goed.",
+      "en": "The membership fee is quite high, but the coaches are good.",
+      "hint": [
+        "contributie",
+        "vrij",
+        "hoog",
+        "trainer",
+        "goed"
+      ],
+      "note": "maar joins two complete sentences, each with its own subject and verb, and a comma in front of maar."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "choose",
+      "nl": "Tekenen is mijn hobby, ___ ik heb weinig tijd.",
+      "options": [
+        "want",
+        "maar",
+        "dus"
+      ],
+      "correct": 1,
+      "en": "Drawing is my hobby, but I have little time.",
+      "note": "The second part goes against the first, so maar. Want would give a reason and dus a result, and neither makes sense here."
+    },
+    {
+      "type": "choose",
+      "nl": "Ik ga vanavond niet naar het koor, ___ ik ben verkouden.",
+      "options": [
+        "maar",
+        "dus",
+        "want"
+      ],
+      "correct": 2,
+      "en": "I am not going to the choir this evening, because I have a cold.",
+      "note": "Being ill is the reason, so want. After want the order stays normal: ik ben."
+    },
+    {
+      "type": "choose",
+      "nl": "Ik kom niet naar de wedstrijd, want ___.",
+      "options": [
+        "ik heb training",
+        "heb ik training",
+        "ik training heb"
+      ],
+      "correct": 0,
+      "en": "I am not coming to the match, because I have training.",
+      "note": "want is outside the second sentence, so subject and verb keep their normal order. The verb at the end belongs to omdat."
+    },
+    {
+      "type": "choose",
+      "nl": "Ik kom niet naar de wedstrijd, omdat ___.",
+      "options": [
+        "heb ik training",
+        "ik training heb",
+        "ik heb training"
+      ],
+      "correct": 1,
+      "en": "I am not coming to the match, because I have training.",
+      "note": "omdat starts a sub-clause, and there the verb goes to the end: omdat ik training heb. That is the difference from want."
+    },
+    {
+      "type": "gap",
+      "nl": "Ik train elke dag, ___ ik wil de wedstrijd winnen.",
+      "answers": [
+        "want"
+      ],
+      "en": "I train every day, because I want to win the match.",
+      "note": "A reason with normal order after it (ik wil) is want. Omdat would need the verb at the end: omdat ik de wedstrijd wil winnen."
+    },
+    {
+      "type": "gap",
+      "nl": "Hij is ziek, ___ hij kan niet meedoen aan de wedstrijd.",
+      "answers": [
+        "dus"
+      ],
+      "en": "He is ill, so he cannot take part in the match.",
+      "note": "A result is dus. Here it is used as a conjunction, with normal order after it: hij kan."
+    },
+    {
+      "type": "gap",
+      "nl": "Gaan we zaterdag fietsen, ___ blijven we thuis?",
+      "answers": [
+        "of"
+      ],
+      "en": "Are we going cycling on Saturday, or are we staying at home?",
+      "note": "of = or. It joins two questions here; each keeps its own order with the verb first."
+    },
+    {
+      "type": "order",
+      "lead": "Ik kom niet,",
+      "words": [
+        "want",
+        "ik",
+        "heb",
+        "vanavond",
+        "training"
+      ],
+      "answers": [
+        "Ik kom niet, want ik heb vanavond training.",
+        "Ik kom niet, want vanavond heb ik training."
+      ],
+      "en": "I am not coming, because I have training this evening.",
+      "note": "After want the second sentence has its own normal order: subject and verb, or vanavond first and then the verb before ik."
+    },
+    {
+      "type": "order",
+      "lead": "Het regent,",
+      "words": [
+        "dus",
+        "we",
+        "trainen",
+        "binnen"
+      ],
+      "answers": [
+        "Het regent, dus we trainen binnen.",
+        "Het regent, dus trainen we binnen."
+      ],
+      "en": "It is raining, so we are training indoors.",
+      "note": "dus allows both orders: as a conjunction with normal order (dus we trainen), or in the first place with the verb before the subject (dus trainen we)."
+    },
+    {
+      "type": "order",
+      "lead": "Vandaag heb ik geen tijd,",
+      "words": [
+        "maar",
+        "morgen",
+        "kom",
+        "ik"
+      ],
+      "answers": [
+        "Vandaag heb ik geen tijd, maar morgen kom ik.",
+        "Vandaag heb ik geen tijd, maar ik kom morgen."
+      ],
+      "en": "Today I have no time, but tomorrow I will come.",
+      "note": "maar is outside the second sentence. If morgen comes first, the verb comes before ik; if ik comes first, the order is normal."
+    },
+    {
+      "type": "rewrite",
+      "task": "Join the two sentences with want.",
+      "from": "Ik ga naar de training. Ik wil fitter worden.",
+      "answers": [
+        "Ik ga naar de training, want ik wil fitter worden."
+      ],
+      "en": "I am going to training, because I want to get fitter.",
+      "note": "The two sentences stay as they are, with a comma and want in between. After want nothing in the order changes."
+    },
+    {
+      "type": "rewrite",
+      "task": "Join the two sentences with dus.",
+      "from": "Mijn vriendin is fanatiek. Ze traint elke dag.",
+      "answers": [
+        "Mijn vriendin is fanatiek, dus ze traint elke dag.",
+        "Mijn vriendin is fanatiek, dus zij traint elke dag.",
+        "Mijn vriendin is fanatiek, dus traint ze elke dag.",
+        "Mijn vriendin is fanatiek, dus traint zij elke dag."
+      ],
+      "en": "My friend is a fanatic, so she trains every day.",
+      "note": "Both orders are right after dus: dus ze traint (conjunction) and dus traint ze (dus in the first place)."
+    },
+    {
+      "type": "rewrite",
+      "task": "Say it with omdat instead of want.",
+      "from": "Ik ben lid van een klimclub, want ik vind klimmen spannend.",
+      "answers": [
+        "Ik ben lid van een klimclub, omdat ik klimmen spannend vind."
+      ],
+      "en": "I am a member of a climbing club, because I find climbing exciting.",
+      "note": "omdat sends the verb to the end of its clause: omdat ik klimmen spannend vind. With want the verb stays in second place."
+    },
+    {
+      "type": "rewrite",
+      "task": "Leave out the subject that is repeated.",
+      "from": "Mijn broer fotografeert graag en hij tekent ook.",
+      "answers": [
+        "Mijn broer fotografeert graag en tekent ook."
+      ],
+      "en": "My brother likes taking photographs and draws too.",
+      "note": "After en the same subject can go when the first sentence starts with it. The verb tekent then follows en directly."
+    },
+    {
+      "type": "fix",
+      "wrong": "Ik ga niet mee, want ben ik moe.",
+      "answers": [
+        "Ik ga niet mee, want ik ben moe."
+      ],
+      "en": "I am not coming along, because I am tired.",
+      "note": "want does not take a place in the sentence after it, so there is no inversion: want ik ben moe."
+    },
+    {
+      "type": "fix",
+      "wrong": "Mijn zus is ziek, dus komt vanavond niet.",
+      "answers": [
+        "Mijn zus is ziek, dus ze komt vanavond niet.",
+        "Mijn zus is ziek, dus zij komt vanavond niet.",
+        "Mijn zus is ziek, dus komt ze vanavond niet.",
+        "Mijn zus is ziek, dus komt zij vanavond niet."
+      ],
+      "en": "My sister is ill, so she is not coming this evening.",
+      "note": "After dus the subject cannot be left out (after en it could: en komt vanavond niet). Both dus ze komt and dus komt ze are right."
+    }
+  ]
+}

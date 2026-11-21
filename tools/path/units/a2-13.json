@@ -29,11 +29,12 @@
       "pos": "n"
     },
     {
-      "nl": "vloer",
-      "art": "de",
-      "pl": "vloeren",
-      "en": "floor",
-      "pos": "n"
+      "nl": "gras",
+      "art": "het",
+      "pl": "",
+      "en": "grass",
+      "pos": "n",
+      "tag": "no plural"
     },
     {
       "nl": "prullenbak",
@@ -71,6 +72,13 @@
       "past": "dweilde",
       "perf": "heeft gedweild",
       "en": "to mop",
+      "pos": "v"
+    },
+    {
+      "nl": "maaien",
+      "past": "maaide",
+      "perf": "heeft gemaaid",
+      "en": "to mow",
       "pos": "v"
     },
     {
@@ -113,11 +121,6 @@
       "nl": "afgelopen",
       "en": "last (afgelopen weekend) / past",
       "pos": "adj"
-    },
-    {
-      "nl": "eindelijk",
-      "en": "finally / at last",
-      "pos": "adv"
     }
   ],
   "sentences": [
@@ -265,14 +268,14 @@
   "exercises": [
     {
       "type": "choose",
-      "nl": "Ik ___ de vloer al gedweild.",
+      "nl": "Ik ___ het gras al gemaaid.",
       "options": [
         "heb",
         "heeft",
         "hebt"
       ],
       "correct": 0,
-      "en": "I have already mopped the floor.",
+      "en": "I have already mowed the grass.",
       "note": "Ik takes heb. Heeft is for hij, zij and het; hebt for jij and u."
     },
     {

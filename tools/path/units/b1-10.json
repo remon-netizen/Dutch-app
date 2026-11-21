@@ -1,0 +1,221 @@
+{
+  "id": "b1-10",
+  "level": "B1",
+  "icon": "📰",
+  "title": "In the news",
+  "grammar": "The passive: worden + past participle",
+  "summary": "Passive: worden + past participle at the end. Present wordt / worden, past werd / werden. The thing that undergoes the action is the subject; the doer is left out or added with door.",
+  "explain": "In an active sentence the subject does something: `De gemeente repareert de brug`. In a passive sentence (*de lijdende vorm*) the subject is the thing that **undergoes** the action, and the doer moves to the background or disappears: `De brug wordt gerepareerd`. News reports are full of it.\n\n### The form\n\nThe passive is a form of `worden` + the past participle at the end. `worden` agrees with the subject, as any verb does.\n\n| | present | simple past |\n| ik | word | werd |\n| jij / je, u | wordt | werd |\n| hij, zij / ze, het | wordt | werd |\n| wij / we, jullie, zij / ze | worden | werden |\n\n> De brug wordt gerepareerd. — The bridge is being repaired.\n> De nieuwe plannen worden morgen gepresenteerd. — The new plans will be presented tomorrow.\n> Het museum werd vorig jaar geopend. — The museum was opened last year.\n\nThe same rule as for every verb: `jij wordt`, but `word jij` when jij comes after the verb.\n\nEnglish `is repaired` (as something that happens) and `is being repaired` are both `wordt gerepareerd`; `was opened` (an event at a moment in the past) is `werd geopend`. English `has been repaired` is unit B1 · 11.\n\n### From active to passive\n\n1. The object of the active sentence becomes the subject.\n2. `worden` agrees with that new subject: singular `wordt` / `werd`, plural `worden` / `werden`.\n3. The main verb becomes a participle at the end.\n4. The old subject is left out, or added with `door` (by).\n\n> De buren kochten het huis. → Het huis werd door de buren gekocht. — The house was bought by the neighbours.\n> De omroep zendt de wedstrijden live uit. → De wedstrijden worden live uitgezonden. — The matches are broadcast live.\n\nThe door-part usually stands before the participle, but it may also come after it: `Het huis werd gekocht door de buren`.\n\n### When Dutch uses it\n\n- The doer is unknown: `De auto werd 's nachts gestolen`.\n- The doer is obvious or unimportant: `De krant wordt elke ochtend bezorgd`.\n- News, rules and descriptions of a process: `De groente wordt eerst gewassen`.\n\nIn spoken Dutch you can often say the same with `ze` (they): `Ze repareren de brug`. In written Dutch and the news, the passive is the normal choice.\n\nWhen the new subject has no definite article (`een`, a plural without `de`), Dutch usually adds `er`: `Er werd een man gearresteerd`. That is unit B1 · 11; in this unit the subjects are definite.\n\n### Word order\n\n`wordt` or `werd` stands in second place, or first in a yes/no question; the participle goes to the end. In a sub-clause both go to the end, in either order.\n\n> Wordt de wedstrijd live uitgezonden? — Is the match being broadcast live?\n> Ik weet niet of het artikel morgen wordt gepubliceerd. — I do not know whether the article will be published tomorrow.\n\nThe last sentence may also end in `gepubliceerd wordt`.\n\n### Watch out\n\n- The verb agrees with the new subject: *De uitslagen wordt bekendgemaakt → `De uitslagen worden bekendgemaakt`.\n- \"By\" is `door`, not `van`: *Het werd van de burgemeester geopend → `door de burgemeester`.\n- A participle, not an infinitive: *Het wordt morgen presenteren → `Het wordt morgen gepresenteerd`.\n- `wordt` + participle is the action going on; `is` + participle says that it is done: `De brug is gerepareerd` (unit B1 · 11).\n- `worden` without a participle means \"to become\": `Mijn zus wordt journalist` (she is going to be a journalist), not a passive.\n\n### Compared with Ukrainian\n\nUkrainian often uses a form without a subject (`Міст ремонтують`) or a reflexive verb (`Міст ремонтується`). Dutch cannot use a reflexive verb here: *De brug repareert zich is wrong. Use `worden`: `De brug wordt gerepareerd`.",
+  "words": [
+    { "nl": "artikel", "art": "het", "pl": "artikelen", "en": "article (in a newspaper)", "pos": "n" },
+    { "nl": "uitzending", "art": "de", "pl": "uitzendingen", "en": "broadcast / programme", "pos": "n" },
+    { "nl": "krantenkop", "art": "de", "pl": "krantenkoppen", "en": "headline", "pos": "n" },
+    { "nl": "gebeurtenis", "art": "de", "pl": "gebeurtenissen", "en": "event / something that happens", "pos": "n" },
+    { "nl": "evenement", "art": "het", "pl": "evenementen", "en": "event (organised)", "pos": "n" },
+    { "nl": "demonstratie", "art": "de", "pl": "demonstraties", "en": "demonstration (protest)", "pos": "n" },
+    { "nl": "prijsuitreiking", "art": "de", "pl": "prijsuitreikingen", "en": "award ceremony", "pos": "n" },
+    { "nl": "verslag", "art": "het", "pl": "verslagen", "en": "report / account", "pos": "n" },
+    { "nl": "kijker", "art": "de", "pl": "kijkers", "en": "viewer", "pos": "n" },
+    { "nl": "uitzenden", "past": "zond uit", "perf": "heeft uitgezonden", "en": "to broadcast", "pos": "v", "tag": "separable" },
+    { "nl": "publiceren", "past": "publiceerde", "perf": "heeft gepubliceerd", "en": "to publish", "pos": "v" },
+    { "nl": "aankondigen", "past": "kondigde aan", "perf": "heeft aangekondigd", "en": "to announce", "pos": "v", "tag": "separable" },
+    { "nl": "uitreiken", "past": "reikte uit", "perf": "heeft uitgereikt", "en": "to present (a prize) / to hand out", "pos": "v", "tag": "separable" },
+    { "nl": "onthullen", "past": "onthulde", "perf": "heeft onthuld", "en": "to unveil / to reveal", "pos": "v" },
+    { "nl": "plaatselijk", "en": "local", "pos": "adj" },
+    { "nl": "landelijk", "en": "national (across the country)", "pos": "adj" }
+  ],
+  "sentences": [
+    {
+      "nl": "Elke ochtend worden de belangrijkste krantenkoppen op de radio voorgelezen.",
+      "en": "Every morning the most important headlines are read out on the radio.",
+      "hint": ["elke ochtend", "belangrijk", "krantenkop", "radio", "voorlezen"],
+      "note": "The subject de krantenkoppen is plural, so worden. Elke ochtend stands first, so worden comes second and the subject follows; the participle voorgelezen goes to the end.",
+      "alt": ["De belangrijkste krantenkoppen worden elke ochtend op de radio voorgelezen."]
+    },
+    {
+      "nl": "Het artikel werd gisteren op de website van de krant gepubliceerd.",
+      "en": "The article was published on the newspaper's website yesterday.",
+      "hint": ["artikel", "gisteren", "website", "krant", "publiceren"],
+      "note": "Simple past passive: werd + participle. Het artikel is singular, so werd, not werden. Who published it does not matter here, so there is no door.",
+      "alt": ["Gisteren werd het artikel op de website van de krant gepubliceerd.", "Het artikel werd gisteren gepubliceerd op de website van de krant.", "Gisteren werd het artikel gepubliceerd op de website van de krant."]
+    },
+    {
+      "nl": "De prijzen worden vanavond door de burgemeester uitgereikt.",
+      "en": "The prizes will be presented by the mayor this evening.",
+      "hint": ["prijs", "vanavond", "burgemeester", "uitreiken"],
+      "note": "The doer is added with door. The participle of the separable verb uitreiken is one word: uitgereikt.",
+      "alt": ["Vanavond worden de prijzen door de burgemeester uitgereikt.", "De prijzen worden vanavond uitgereikt door de burgemeester.", "Vanavond worden de prijzen uitgereikt door de burgemeester."]
+    },
+    {
+      "nl": "Wordt de wedstrijd morgen live uitgezonden?",
+      "en": "Is the match being broadcast live tomorrow?",
+      "hint": ["worden", "wedstrijd", "morgen", "live", "uitzenden"],
+      "note": "A yes/no question starts with the conjugated verb, here wordt. The participle uitgezonden stays at the end."
+    },
+    {
+      "nl": "Het nieuwe standbeeld werd vorige week door een bekende schrijver onthuld.",
+      "en": "The new statue was unveiled last week by a well-known writer.",
+      "hint": ["nieuw", "standbeeld", "vorige week", "bekend", "schrijver", "onthullen"],
+      "note": "An event at a moment in the past: werd onthuld. Onthullen has the unstressed prefix ont-, so the participle has no ge: onthuld.",
+      "alt": ["Vorige week werd het nieuwe standbeeld door een bekende schrijver onthuld.", "Het nieuwe standbeeld werd vorige week onthuld door een bekende schrijver.", "Vorige week werd het nieuwe standbeeld onthuld door een bekende schrijver."]
+    },
+    {
+      "nl": "Weet jij of het evenement wordt afgelast?",
+      "en": "Do you know whether the event is being called off?",
+      "hint": ["weten", "of", "evenement", "afgelasten"],
+      "note": "In the of-clause both verbs go to the end, and both orders are correct: wordt afgelast or afgelast wordt.",
+      "alt": ["Weet je of het evenement wordt afgelast?", "Weet jij of het evenement afgelast wordt?", "Weet je of het evenement afgelast wordt?"]
+    },
+    {
+      "nl": "De nieuwe maatregelen werden gisteren door de regering aangekondigd.",
+      "en": "The new measures were announced by the government yesterday.",
+      "hint": ["nieuw", "maatregel", "gisteren", "regering", "aankondigen"],
+      "note": "De maatregelen is plural, so werden. Aankondigen is separable: aan + ge + kondigd.",
+      "alt": ["Gisteren werden de nieuwe maatregelen door de regering aangekondigd.", "De nieuwe maatregelen werden gisteren aangekondigd door de regering.", "Gisteren werden de nieuwe maatregelen aangekondigd door de regering."]
+    },
+    {
+      "nl": "De uitzending werd door meer dan een miljoen kijkers bekeken.",
+      "en": "The broadcast was watched by more than a million viewers.",
+      "hint": ["uitzending", "meer dan", "miljoen", "kijker", "bekijken"],
+      "note": "The kijkers did the watching, so they come with door. The subject is de uitzending, singular, so werd, even though the kijkers are many.",
+      "alt": ["De uitzending werd bekeken door meer dan een miljoen kijkers.", "De uitzending werd door meer dan één miljoen kijkers bekeken."]
+    },
+    {
+      "nl": "Mijn zus wordt journalist en haar eerste artikel wordt volgende week gepubliceerd.",
+      "en": "My sister is going to be a journalist, and her first article will be published next week.",
+      "hint": ["zus", "worden", "journalist", "eerste", "artikel", "publiceren"],
+      "note": "The first wordt has no participle and means 'becomes'. The second wordt goes with gepubliceerd at the end, so it is a passive.",
+      "alt": ["Mijn zus wordt journalist en volgende week wordt haar eerste artikel gepubliceerd."]
+    },
+    {
+      "nl": "De naam van de winnaar wordt nog niet bekendgemaakt.",
+      "en": "The name of the winner is not being announced yet.",
+      "hint": ["naam", "winnaar", "nog niet", "bekendmaken"],
+      "note": "Nog niet stands before the participle at the end. The subject is de naam, singular, so wordt.",
+      "alt": ["De naam van de winnaar wordt nog niet bekend gemaakt."]
+    }
+  ],
+  "exercises": [
+    {
+      "type": "choose",
+      "nl": "De artikelen ___ vorige week in een landelijke krant gepubliceerd.",
+      "options": ["werd", "werden", "worden"],
+      "correct": 1,
+      "en": "The articles were published in a national newspaper last week.",
+      "note": "Vorige week asks for the past, and de artikelen is plural: werden. Werd is the singular."
+    },
+    {
+      "type": "choose",
+      "nl": "Op dit moment ___ het podium voor het concert opgebouwd.",
+      "options": ["is", "werd", "wordt"],
+      "correct": 2,
+      "en": "The stage for the concert is being set up right now.",
+      "note": "Something that is going on now is wordt + participle. Is opgebouwd would mean that it is already finished, and werd is the past."
+    },
+    {
+      "type": "choose",
+      "nl": "Het festival werd ___ de burgemeester geopend.",
+      "options": ["van", "door", "bij", "met"],
+      "correct": 1,
+      "en": "The festival was opened by the mayor.",
+      "note": "The doer in a passive sentence comes with door. English 'by' is never van here."
+    },
+    {
+      "type": "gap",
+      "nl": "Tijdens de prijsuitreiking van gisteren ___ (worden) de winnaars door de minister gefeliciteerd.",
+      "answers": ["werden"],
+      "en": "During yesterday's award ceremony the winners were congratulated by the minister.",
+      "note": "Gisteren asks for the simple past, and the subject de winnaars is plural: werden."
+    },
+    {
+      "type": "gap",
+      "nl": "Het nieuwe ziekenhuis wordt morgen officieel ___ (openen).",
+      "answers": ["geopend"],
+      "en": "The new hospital will be officially opened tomorrow.",
+      "note": "After worden comes the past participle, not the infinitive: ge + open + d: the stem open does not end in a letter of 't kofschip, so the ending is d."
+    },
+    {
+      "type": "gap",
+      "nl": "De demonstratie werd een week van tevoren ___ (aankondigen).",
+      "answers": ["aangekondigd"],
+      "en": "The demonstration was announced a week in advance.",
+      "note": "The participle of a separable verb is one word with ge between the parts: aan + ge + kondigd."
+    },
+    {
+      "type": "gap",
+      "nl": "___ (worden) jij morgen ook geïnterviewd voor de plaatselijke krant?",
+      "answers": ["Word"],
+      "en": "Are you also being interviewed for the local paper tomorrow?",
+      "note": "It is jij wordt, but when jij comes after the verb the t disappears: Word jij."
+    },
+    {
+      "type": "order",
+      "lead": "Gisteren",
+      "words": ["werd", "het verslag", "van de vergadering", "gepubliceerd"],
+      "answers": ["Gisteren werd het verslag van de vergadering gepubliceerd."],
+      "en": "Yesterday the report of the meeting was published.",
+      "note": "Gisteren is the first element, so werd comes second and then the subject het verslag van de vergadering. The participle closes the sentence."
+    },
+    {
+      "type": "order",
+      "lead": "Op de website staat",
+      "words": ["dat", "de uitzending van vanavond", "wordt", "uitgesteld"],
+      "answers": ["Op de website staat dat de uitzending van vanavond wordt uitgesteld.", "Op de website staat dat de uitzending van vanavond uitgesteld wordt."],
+      "en": "The website says that this evening's broadcast is being postponed.",
+      "note": "In a dat-clause both verbs go to the end, and both orders are correct: wordt uitgesteld or uitgesteld wordt."
+    },
+    {
+      "type": "order",
+      "lead": "Het evenement",
+      "words": ["wordt", "elk jaar", "door vrijwilligers", "georganiseerd"],
+      "answers": ["Het evenement wordt elk jaar door vrijwilligers georganiseerd.", "Het evenement wordt elk jaar georganiseerd door vrijwilligers.", "Het evenement wordt door vrijwilligers elk jaar georganiseerd."],
+      "en": "The event is organised by volunteers every year.",
+      "note": "Wordt stands second and the participle near the end. The door-part usually comes before the participle, but after it is also correct."
+    },
+    {
+      "type": "rewrite",
+      "task": "Make it passive. Leave out the doer.",
+      "from": "De krant publiceert het interview morgen.",
+      "answers": ["Het interview wordt morgen gepubliceerd.", "Morgen wordt het interview gepubliceerd."],
+      "en": "The interview will be published tomorrow.",
+      "note": "The object het interview becomes the subject, so wordt (singular). Publiceert becomes the participle gepubliceerd at the end."
+    },
+    {
+      "type": "rewrite",
+      "task": "Make it passive and keep the doer with door.",
+      "from": "De burgemeester onthulde het monument.",
+      "answers": ["Het monument werd door de burgemeester onthuld.", "Het monument werd onthuld door de burgemeester."],
+      "en": "The monument was unveiled by the mayor.",
+      "note": "Onthulde is the simple past, so the passive uses werd. Het monument is the new subject, and the old subject comes back with door."
+    },
+    {
+      "type": "rewrite",
+      "task": "Start with Weet je of and keep the passive.",
+      "from": "De gebeurtenis wordt in het journaal besproken.",
+      "answers": ["Weet je of de gebeurtenis in het journaal wordt besproken?", "Weet je of de gebeurtenis in het journaal besproken wordt?"],
+      "en": "Do you know whether the event is being discussed on the news?",
+      "note": "In the of-clause wordt moves to the end with the participle, in either order. The sentence becomes a question, so it ends with a question mark."
+    },
+    {
+      "type": "fix",
+      "wrong": "De uitslagen wordt morgen bekendgemaakt.",
+      "answers": ["De uitslagen worden morgen bekendgemaakt.", "De uitslagen worden morgen bekend gemaakt."],
+      "en": "The results will be announced tomorrow.",
+      "note": "Worden agrees with the subject, and de uitslagen is plural: worden."
+    },
+    {
+      "type": "fix",
+      "wrong": "Het concert werd van duizenden mensen bezocht.",
+      "answers": ["Het concert werd door duizenden mensen bezocht."],
+      "en": "The concert was attended by thousands of people.",
+      "note": "The doer of a passive sentence comes with door. Van is a typical mistake: it looks like 'of' or 'from', but for the doer only door is right."
+    },
+    {
+      "type": "fix",
+      "wrong": "De prijsuitreiking wordt dit jaar door een bekende zangeres presenteren.",
+      "answers": ["De prijsuitreiking wordt dit jaar door een bekende zangeres gepresenteerd."],
+      "en": "This year the award ceremony is being presented by a well-known singer.",
+      "note": "The passive is worden + past participle, not worden + infinitive: gepresenteerd."
+    }
+  ]
+}

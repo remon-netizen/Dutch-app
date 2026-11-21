@@ -22,10 +22,10 @@
       "pos": "n"
     },
     {
-      "nl": "gast",
+      "nl": "bioscoop",
       "art": "de",
-      "pl": "gasten",
-      "en": "guest",
+      "pl": "bioscopen",
+      "en": "cinema",
       "pos": "n"
     },
     {
@@ -40,6 +40,13 @@
       "art": "de",
       "pl": "kroegen",
       "en": "pub / bar",
+      "pos": "n"
+    },
+    {
+      "nl": "concert",
+      "art": "het",
+      "pl": "concerten",
+      "en": "concert",
       "pos": "n"
     },
     {
@@ -115,17 +122,12 @@
       "tag": "separable"
     },
     {
-      "nl": "ontmoeten",
-      "past": "ontmoette",
-      "perf": "heeft ontmoet",
-      "en": "to meet",
+      "nl": "terugbellen",
+      "past": "belde terug",
+      "perf": "heeft teruggebeld",
+      "en": "to call back",
       "pos": "v",
-      "tag": "not separable"
-    },
-    {
-      "nl": "gezellig",
-      "en": "cosy / fun (of company)",
-      "pos": "adj"
+      "tag": "separable"
     }
   ],
   "sentences": [
@@ -248,10 +250,9 @@
       "note": "The imperative is the stem, and the separable verb splits here too: Neem … mee."
     },
     {
-      "nl": "Op een gezellig feest ontmoet je altijd nieuwe mensen.",
-      "en": "At a fun party you always meet new people.",
+      "nl": "Op een feest ontmoet je altijd nieuwe mensen.",
+      "en": "At a party you always meet new people.",
       "hint": [
-        "gezellig",
         "feest",
         "ontmoeten",
         "altijd",
@@ -259,22 +260,22 @@
       ],
       "note": "ontmoeten has the unstressed prefix ont-, so it never splits: ontmoet je, never \"moet je … ont\".",
       "alt": [
-        "Je ontmoet op een gezellig feest altijd nieuwe mensen.",
-        "Je ontmoet altijd nieuwe mensen op een gezellig feest."
+        "Je ontmoet op een feest altijd nieuwe mensen.",
+        "Je ontmoet altijd nieuwe mensen op een feest."
       ]
     }
   ],
   "exercises": [
     {
       "type": "choose",
-      "nl": "Ik ___ je morgen op.",
+      "nl": "Ik ___ je na de bioscoop op.",
       "options": [
         "bel",
         "opbel",
         "belt"
       ],
       "correct": 0,
-      "en": "I will call you tomorrow.",
+      "en": "I will call you after the cinema.",
       "note": "The prefix op is already at the end, so only the conjugated part goes in second place: bel. Ik takes the bare stem, without t."
     },
     {
@@ -330,11 +331,11 @@
     },
     {
       "type": "gap",
-      "nl": "Waarom ___ (afzeggen) hij het feest af?",
+      "nl": "Waarom ___ (afzeggen) hij het concert af?",
       "answers": [
         "zegt"
       ],
-      "en": "Why is he cancelling the party?",
+      "en": "Why is he cancelling the concert?",
       "note": "The conjugated part zeggen becomes zegt for hij; af stays at the end of the question."
     },
     {
@@ -418,20 +419,20 @@
     },
     {
       "type": "fix",
-      "wrong": "Ik opbel je vanavond.",
+      "wrong": "Ik terugbel je vanavond.",
       "answers": [
-        "Ik bel je vanavond op."
+        "Ik bel je vanavond terug."
       ],
-      "en": "I will call you this evening.",
-      "note": "In a main clause the prefix goes to the end: bel … op. Opbellen stays whole only as an infinitive."
+      "en": "I will call you back this evening.",
+      "note": "In a main clause the prefix goes to the end: bel … terug. Terugbellen stays whole only as an infinitive."
     },
     {
       "type": "fix",
-      "wrong": "Ik wil alle gasten nodigen uit.",
+      "wrong": "Ik wil al mijn vrienden nodigen uit.",
       "answers": [
-        "Ik wil alle gasten uitnodigen."
+        "Ik wil al mijn vrienden uitnodigen."
       ],
-      "en": "I want to invite all the guests.",
+      "en": "I want to invite all my friends.",
       "note": "After a modal verb the separable verb is an infinitive and stays in one piece: uitnodigen."
     },
     {

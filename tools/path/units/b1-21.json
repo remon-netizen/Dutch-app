@@ -1,0 +1,219 @@
+{
+  "id": "b1-21",
+  "level": "B1",
+  "icon": "🧹",
+  "title": "Tidying up",
+  "grammar": "Staan, liggen, zitten, hangen and zetten, leggen, stoppen",
+  "summary": "Where English says 'is', Dutch says how: staan (upright), liggen (flat), zitten (inside or stuck on), hangen. To put: zetten, leggen, stoppen or doen, hangen. lag, gelegen (strong) against legde, gelegd (regular).",
+  "explain": "English says *the bottle is on the table* and *put it on the table*. Dutch is more precise: it chooses the verb by **how** the thing is positioned. A bottle stands, a book lies, keys sit in a bag, a coat hangs. These are the *verbs of position* (de positiewerkwoorden). `zijn` is not wrong, but it sounds vague; Dutch speakers use the position verb almost every time.\n\n### Where something is: four verbs\n\n| verb | when | example |\n| staan | upright, or on its base | De fles staat op tafel. |\n| liggen | flat, lying down | Het boek ligt op tafel. |\n| zitten | inside, or stuck on | De pen zit in mijn tas. |\n| hangen | hanging from a point | De jas hangt aan de kapstok. |\n\n- **staan** is for everything that stands on its base, also when it is low and flat: plates, pans and bowls stand on the table (`Het eten staat op tafel`). A parked car or bike stands too. And text stands on paper or a screen.\n- **liggen** is for things lying flat, people and animals lying down, and for places on the map.\n- **zitten** is for people sitting, for things **inside** a closed space (a bag, a pocket, a box, a jar) and for things **stuck on** or attached to something: a stain, a hole, a button.\n- In an open space, such as a cupboard, a shelf, a drawer or the fridge, Dutch looks at the position again: `De melk staat in de koelkast`, `De handdoeken liggen in de kast`.\n\n> De auto staat voor de deur. — The car is (parked) in front of the house.\n> Het staat in de krant. — It is in the newspaper.\n> Utrecht ligt in het midden van het land. — Utrecht is in the middle of the country.\n> Er zit een vlek op je shirt. — There is a stain on your shirt.\n\n### Putting something somewhere\n\nEach position has its own verb for *to put*: you put a thing into the position.\n\n| put it … | verb | example |\n| upright | zetten | Ik zet de fles op tafel. |\n| flat | leggen | Ik leg het boek op tafel. |\n| inside | stoppen / doen | Ik stop de pen in mijn tas. |\n| hanging | hangen | Ik hang de jas aan de kapstok. |\n\n`doen` is the everyday word for putting something in or into: `Doe de melk in de koelkast`. `opbergen` means *to put away* when it does not matter how. To sit down or lie down yourself is `gaan zitten` and `gaan liggen`, not zetten or leggen.\n\n> Zet de vaas op de vensterbank. — Put the vase on the windowsill.\n> Ik hang de handdoek aan een haak. — I hang the towel on a hook.\n\n### The forms: strong against regular\n\n| verb | past | perfect |\n| staan | stond | heeft gestaan |\n| liggen | lag | heeft gelegen |\n| zitten | zat | heeft gezeten |\n| hangen | hing | heeft gehangen |\n| zetten | zette | heeft gezet |\n| leggen | legde | heeft gelegd |\n| stoppen | stopte | heeft gestopt |\n\nThe verbs for *being* somewhere are strong (the vowel changes; plural `lagen`, `zaten`, `stonden`). The verbs for *putting* are regular. `hangen` is one verb for both meanings, and it is strong in both. All of them take `hebben` in the perfect.\n\n> Ik heb de hele dag in bed gelegen. — I lay in bed all day.\n> Ik heb het boek op tafel gelegd. — I put the book on the table.\n\n### With er\n\nWhen the subject is new (`een`, a number, no article), the sentence starts with `er`, and the verb agrees with what follows: `Er staat een fles op tafel`, `Er liggen overal papieren`. In a question `zijn` is normal (`Waar is mijn telefoon?`), but the answer uses the position: `Hij ligt op de bank`.\n\n### Fixed expressions\n\n- `in de file staan`: to be stuck in a traffic jam.\n- `op het punt staan (om) te`: to be about to: `Ik stond op het punt om te gaan`.\n\n### Watch out\n\n- *Ik heb het boek op tafel gelegen → `Ik heb het boek op tafel gelegd`. `gelegen` is *lain*, `gelegd` is *put*.\n- *Ik heb de fles op tafel gestaan → `Ik heb de fles op tafel gezet`.\n- *Ik zit de vaas op de vensterbank → `Ik zet de vaas op de vensterbank`. zitten and zetten sound alike.\n- *Er ligt een vlek op mijn broek → `Er zit een vlek op mijn broek`.\n\n### Compared with Ukrainian\n\nUkrainian works the same way: `стояти`, `лежати`, `висіти` and `ставити`, `класти`, `вішати`. Two differences: Ukrainian can leave the verb out (`Ключі в сумці`), Dutch needs one (`De sleutels zitten in mijn tas`); and Dutch uses `zitten` for things inside or stuck on, where `сидіти` is mainly for people and animals.",
+  "words": [
+    { "nl": "la", "art": "de", "pl": "laden", "en": "drawer", "pos": "n" },
+    { "nl": "plank", "art": "de", "pl": "planken", "en": "shelf", "pos": "n" },
+    { "nl": "aanrecht", "art": "het", "pl": "aanrechten", "en": "kitchen counter", "pos": "n" },
+    { "nl": "kapstok", "art": "de", "pl": "kapstokken", "en": "coat rack", "pos": "n" },
+    { "nl": "haak", "art": "de", "pl": "haken", "en": "hook", "pos": "n" },
+    { "nl": "emmer", "art": "de", "pl": "emmers", "en": "bucket", "pos": "n" },
+    { "nl": "zolder", "art": "de", "pl": "zolders", "en": "attic", "pos": "n" },
+    { "nl": "vensterbank", "art": "de", "pl": "vensterbanken", "en": "windowsill", "pos": "n" },
+    { "nl": "wasmand", "art": "de", "pl": "wasmanden", "en": "laundry basket", "pos": "n" },
+    { "nl": "theedoek", "art": "de", "pl": "theedoeken", "en": "tea towel", "pos": "n" },
+    { "nl": "schoonmaakmiddel", "art": "het", "pl": "schoonmaakmiddelen", "en": "cleaning product", "pos": "n" },
+    { "nl": "stof", "art": "het", "pl": "", "en": "dust", "pos": "n", "tag": "no plural" },
+    { "nl": "opbergen", "past": "borg op", "perf": "heeft opgeborgen", "en": "to put away / to store", "pos": "v" },
+    { "nl": "ophangen", "past": "hing op", "perf": "heeft opgehangen", "en": "to hang up", "pos": "v" },
+    { "nl": "rommelig", "en": "messy / untidy", "pos": "adj" }
+  ],
+  "sentences": [
+    {
+      "nl": "Er staat een emmer water onder het aanrecht.",
+      "en": "There is a bucket of water under the kitchen counter.",
+      "hint": ["staan", "emmer", "water", "aanrecht"],
+      "note": "A bucket stands on its base, so staan. Een emmer is new information, so the sentence starts with er.",
+      "alt": ["Onder het aanrecht staat een emmer water.", "Er staat een emmer met water onder het aanrecht.", "Onder het aanrecht staat een emmer met water."]
+    },
+    {
+      "nl": "Je jas hangt aan de kapstok in de gang.",
+      "en": "Your coat is hanging on the coat rack in the hall.",
+      "hint": ["jas", "hangen", "kapstok", "gang"],
+      "note": "Hangen goes with aan: the coat hangs from a point. English says 'on', Dutch says aan.",
+      "alt": ["Jouw jas hangt aan de kapstok in de gang."]
+    },
+    {
+      "nl": "De boeken staan op de plank en de tijdschriften liggen op de vensterbank.",
+      "en": "The books are standing on the shelf and the magazines are lying on the windowsill.",
+      "hint": ["boek", "staan", "plank", "tijdschrift", "liggen", "vensterbank"],
+      "note": "Books in a row are upright, so staan; magazines lie flat, so liggen. Both subjects are plural: staan, liggen."
+    },
+    {
+      "nl": "Mijn sleutels zitten in mijn jaszak.",
+      "en": "My keys are in my coat pocket.",
+      "hint": ["sleutel", "zitten", "jaszak"],
+      "note": "Things inside a closed space such as a pocket or a bag take zitten. Ukrainian would leave the verb out here; Dutch cannot.",
+      "alt": ["Mijn sleutels zitten in de zak van mijn jas."]
+    },
+    {
+      "nl": "Mijn bureau is rommelig, want er liggen overal papieren.",
+      "en": "My desk is messy, because there are papers lying everywhere.",
+      "hint": ["bureau", "rommelig", "want", "liggen", "overal", "papier"],
+      "note": "Er + liggen for loose papers lying around. The verb agrees with papieren, which comes after it: er liggen, plural.",
+      "alt": ["Mijn bureau is rommelig, want overal liggen papieren."]
+    },
+    {
+      "nl": "Kun je de messen in de bovenste la leggen?",
+      "en": "Can you put the knives in the top drawer?",
+      "hint": ["kunnen", "mes", "bovenste", "la", "leggen"],
+      "note": "Knives lie flat in a drawer, so the put verb is leggen. A drawer is open at the top, so Dutch looks at the position, not at 'inside'.",
+      "alt": ["Kun jij de messen in de bovenste la leggen?", "Kan je de messen in de bovenste la leggen?", "Kan jij de messen in de bovenste la leggen?", "Kun je de messen in de bovenste la doen?", "Kun jij de messen in de bovenste la doen?"]
+    },
+    {
+      "nl": "Ik heb de melk in de koelkast gezet.",
+      "en": "I put the milk in the fridge.",
+      "hint": ["melk", "koelkast", "zetten"],
+      "note": "A carton of milk stands upright in the fridge, so zetten. Zetten is regular: heeft gezet.",
+      "alt": ["Ik heb de melk in de koelkast gedaan."]
+    },
+    {
+      "nl": "Toen ik thuiskwam, lag de kat op de schone was.",
+      "en": "When I came home, the cat was lying on the clean laundry.",
+      "hint": ["toen", "thuiskomen", "liggen", "kat", "schoon", "was"],
+      "note": "Liggen is strong: the past is lag, not *ligde. The sub-clause comes first, so lag stands right after the comma.",
+      "alt": ["De kat lag op de schone was toen ik thuiskwam."]
+    },
+    {
+      "nl": "Wie heeft de natte theedoek over de stoel gehangen?",
+      "en": "Who hung the wet tea towel over the chair?",
+      "hint": ["wie", "nat", "theedoek", "stoel", "hangen"],
+      "note": "Hangen is used both for 'be hanging' and for 'hang something', and both are strong: heeft gehangen, never *gehangd.",
+      "alt": ["Wie hing de natte theedoek over de stoel?"]
+    },
+    {
+      "nl": "Mijn broer staat al een uur in de file.",
+      "en": "My brother has been stuck in a traffic jam for an hour.",
+      "hint": ["broer", "staan", "al", "uur", "file"],
+      "note": "In de file staan is a fixed expression. Al + the present tense says how long it has been going on, as in English 'has been'."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "choose",
+      "nl": "De wasmand ___ naast de wasmachine.",
+      "options": ["ligt", "staat", "zit"],
+      "correct": 1,
+      "en": "The laundry basket is next to the washing machine.",
+      "note": "A basket stands on its bottom, so staan. Liggen would mean it had fallen over."
+    },
+    {
+      "type": "choose",
+      "nl": "Er ___ geen koffie meer in de pot.",
+      "options": ["ligt", "staat", "zit"],
+      "correct": 2,
+      "en": "There is no coffee left in the pot.",
+      "note": "What is inside a jar, a box or a bag zit erin. The coffee has no position of its own; it is simply inside."
+    },
+    {
+      "type": "choose",
+      "nl": "Ik ___ de vaas met bloemen op de vensterbank.",
+      "options": ["leg", "zit", "zet"],
+      "correct": 2,
+      "en": "I put the vase of flowers on the windowsill.",
+      "note": "You make the vase stand, so zetten: ik zet. Zit comes from zitten (to sit), which never means 'to put'."
+    },
+    {
+      "type": "choose",
+      "nl": "Ik heb de hele middag op de bank ___.",
+      "options": ["gelegd", "gelegen", "gelegt"],
+      "correct": 1,
+      "en": "I lay on the sofa all afternoon.",
+      "note": "Lying somewhere is liggen, a strong verb: heeft gelegen. Gelegd belongs to leggen, to put something down."
+    },
+    {
+      "type": "gap",
+      "nl": "Gisteren ___ (zetten) ik de lege flessen in de schuur.",
+      "answers": ["zette"],
+      "en": "Yesterday I put the empty bottles in the shed.",
+      "note": "Zetten is regular. Its stem zet ends in t, so the past gets -te: zette (one t from the stem, one from the ending)."
+    },
+    {
+      "type": "gap",
+      "nl": "Vorige week ___ (liggen) er nog een dikke laag stof op de kast.",
+      "answers": ["lag"],
+      "en": "Last week there was still a thick layer of dust on the cupboard.",
+      "note": "Dust lies on a surface, so liggen, and liggen is strong: lag. Een laag is singular, so lag, not lagen."
+    },
+    {
+      "type": "gap",
+      "nl": "Ik ___ de brief in de envelop en breng hem naar de brievenbus.",
+      "answers": ["stop", "doe", "steek"],
+      "en": "I put the letter in the envelope and take it to the postbox.",
+      "note": "Putting something into a closed space is stoppen, or in everyday speech doen (steken is also possible). Not leggen or zetten: the letter goes inside."
+    },
+    {
+      "type": "gap",
+      "nl": "Hier ___ (hangen) vroeger een haak voor de theedoeken.",
+      "answers": ["hing"],
+      "en": "There used to be a hook for the tea towels here.",
+      "note": "Hangen is strong: the past is hing. The place hier stands first, so the verb comes second and the subject een haak follows."
+    },
+    {
+      "type": "gap",
+      "nl": "Wat ___ (staan) er in de brief van de huisbaas?",
+      "answers": ["staat"],
+      "en": "What does the landlord's letter say?",
+      "note": "Text on paper or a screen staat. Where English asks what the letter says, Dutch usually asks what stands in it: Wat staat er in de brief?"
+    },
+    {
+      "type": "order",
+      "lead": "Onder het aanrecht",
+      "words": ["staan", "de emmer", "en", "de schoonmaakmiddelen"],
+      "answers": ["Onder het aanrecht staan de emmer en de schoonmaakmiddelen.", "Onder het aanrecht staan de schoonmaakmiddelen en de emmer."],
+      "en": "The bucket and the cleaning products are under the kitchen counter.",
+      "note": "The place stands first, so the verb staan comes second and the subject follows. Two things together make a plural subject: staan."
+    },
+    {
+      "type": "order",
+      "lead": "Gisteren",
+      "words": ["heb", "ik", "de winterjassen", "op zolder", "opgeborgen"],
+      "answers": ["Gisteren heb ik de winterjassen op zolder opgeborgen.", "Gisteren heb ik op zolder de winterjassen opgeborgen."],
+      "en": "Yesterday I put the winter coats away in the attic.",
+      "note": "Opbergen is the general word for putting away, whatever the position. The participle opgeborgen stays in one piece at the end."
+    },
+    {
+      "type": "rewrite",
+      "task": "Say where the towels are as a result, with the matching verb of position.",
+      "from": "Ik heb de handdoeken in de kast gelegd.",
+      "answers": ["De handdoeken liggen in de kast.", "In de kast liggen de handdoeken."],
+      "en": "The towels are (lying) in the cupboard.",
+      "note": "What you leggen, ligt afterwards. The pair is leggen (put flat) and liggen (lie flat)."
+    },
+    {
+      "type": "rewrite",
+      "task": "Put it in the perfect tense.",
+      "from": "We zaten de hele avond in de tuin.",
+      "answers": ["We hebben de hele avond in de tuin gezeten.", "Wij hebben de hele avond in de tuin gezeten."],
+      "en": "We sat in the garden all evening.",
+      "note": "Zitten is strong: gezeten, with hebben. Do not mix it up with zetten, which gives gezet."
+    },
+    {
+      "type": "rewrite",
+      "task": "Put it in the perfect tense.",
+      "from": "Mijn vader hangt de nieuwe lamp op.",
+      "answers": ["Mijn vader heeft de nieuwe lamp opgehangen."],
+      "en": "My father has hung up the new lamp.",
+      "note": "Ophangen is separable and strong: op + ge + hangen = opgehangen, with hebben."
+    },
+    {
+      "type": "fix",
+      "wrong": "Ik heb de fles op tafel gestaan.",
+      "answers": ["Ik heb de fles op tafel gezet.", "Ik heb de fles op tafel neergezet."],
+      "en": "I put the bottle on the table.",
+      "note": "Staan cannot take an object: a bottle is not 'stood' by you. To make something stand is zetten: heb gezet."
+    },
+    {
+      "type": "fix",
+      "wrong": "Er ligt een vlek op mijn broek.",
+      "answers": ["Er zit een vlek op mijn broek."],
+      "en": "There is a stain on my trousers.",
+      "note": "A stain is stuck on the fabric, so zitten. The same goes for a hole or a button: er zit een gat in, er zit een knoop aan."
+    }
+  ]
+}
