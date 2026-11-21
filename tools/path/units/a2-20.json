@@ -1,0 +1,411 @@
+{
+  "id": "a2-20",
+  "level": "A2",
+  "icon": "🧭",
+  "title": "Finding the way",
+  "grammar": "Prepositions of place and direction",
+  "summary": "Where: in, op, aan, bij … Where to: naar. Each place has its own preposition and the pairs are fixed: op school, op het station, in de trein, aan tafel, bij de dokter. Thuis is being at home, naar huis is going home.",
+  "explain": "A preposition (*het voorzetsel*) says where something is or where it is going. The words themselves are easy. The hard part is that every language divides places differently: Dutch `op` is not always English \"on\", and `in`, `op`, `aan` and `bij` each have places that belong to them. Those combinations are fixed, so learn them as they are.\n\n### Where something is\n\n| preposition | meaning | example |\n| in | in, inside | in de tas |\n| op | on, on top of | op de tafel |\n| aan | on, at (a side or edge) | aan de muur |\n| bij | at, near | bij de ingang |\n| naast | next to | naast de bank |\n| tussen | between | tussen de bank en de kerk |\n| tegenover | opposite | tegenover het park |\n| voor, achter | in front of, behind | achter het station |\n| boven, onder | above, under | onder de brug |\n\n> De bakker is naast de bank. — The baker's is next to the bank.\n> De fietsen staan achter het station. — The bicycles are behind the station.\n\n### in, op, aan, bij: the fixed places\n\n- **op**: `op het station`, `op school`, `op kantoor`, `op het werk`, `op straat`, `op de markt`, `op de eerste verdieping`\n- **in**: `in de stad`, `in de trein`, `in het ziekenhuis`, `in de buurt`\n- **aan**: `aan tafel`, `aan zee`, `aan de muur`, `aan de linkerkant`\n- **bij**: `bij de dokter`, `bij Anna`, `bij de bakker`, `bij het raam`\n\nRoughly: `op` for a surface, an open place and many places where you work or learn; `in` for a space you are inside, and for a town or an area; `aan` for a side or an edge; `bij` for a person, their shop or practice, and for \"near\".\n\n> Ik sta op het station. — I am at the station.\n> We zitten al in de trein. — We are already on the train.\n> Mijn dochter is bij de dokter. — My daughter is at the doctor's.\n\n### Where something is going\n\n| preposition | meaning | example |\n| naar | to | naar het station |\n| uit | out of, from | uit de trein |\n| van … naar | from … to | van Utrecht naar Den Haag |\n| tot, tot aan | as far as | tot de rotonde |\n| door | through | door het park |\n| langs | along, past | langs het water |\n| over | over, across | over de brug |\n| om | round | om de hoek |\n| richting | towards | richting het centrum |\n\nFor the way to a place Dutch changes the preposition: `Ik ben op het station`, but `Ik ga naar het station`; `Ik ben bij de dokter`, but `Ik ga naar de dokter`.\n\n### thuis and naar huis\n\n`thuis` is where you are, `naar huis` is where you go, both without an article. The same pair exists for `boven` (upstairs), `buiten` (outside), `binnen` (inside), `links` and `rechts`: `Ik ben boven`, but `Ik ga naar boven`.\n\n> Ik blijf thuis. — I am staying at home.\n> Om vijf uur gaan we naar huis. — We go home at five o'clock.\n\n### Giving directions\n\nDirections are given with `je gaat` or `u gaat`, or with the imperative `ga` (unit A2 · 24).\n\n> U gaat hier rechtdoor. — You go straight ahead here.\n> Bij het kruispunt gaat u rechtsaf. — At the crossroads you turn right.\n> Neem de eerste straat links. — Take the first street on the left.\n> Steek bij het stoplicht de straat over. — Cross the street at the traffic lights.\n\n`rechtdoor`, `linksaf` and `rechtsaf` are written as one word. `oversteken` takes no preposition: `de straat oversteken`.\n\n### Watch out\n\n- English \"at\" is not one word in Dutch: `op school`, `op het werk`, `op het station`, but `bij de dokter` and `aan tafel`.\n- `in de trein`, `in de bus`: English says \"on the train\".\n- `op straat`: English says \"in the street\".\n- The way to a place is `naar`: `Ik ga naar de stad` (not *Ik ga in de stad), `Ik ga naar het werk` (not *Ik ga op het werk).\n- `naar huis`, never *naar thuis.\n\n### Compared with Ukrainian\n\nUkrainian keeps the preposition and changes the case: `на роботі` (where?) against `на роботу` (where to?). Dutch has no cases and changes the preposition: `op het werk` against `naar het werk`. Which preposition a place takes is fixed in both languages. Often they match (`на вокзалі` = `op het station`, `у лікаря` = `bij de dokter`, `вдома` = `thuis`, `додому` = `naar huis`), but not always: `в школі` is `op school`.",
+  "words": [
+    {
+      "nl": "kruispunt",
+      "art": "het",
+      "pl": "kruispunten",
+      "en": "crossroads",
+      "pos": "n"
+    },
+    {
+      "nl": "rotonde",
+      "art": "de",
+      "pl": "rotondes",
+      "en": "roundabout",
+      "pos": "n"
+    },
+    {
+      "nl": "stoplicht",
+      "art": "het",
+      "pl": "stoplichten",
+      "en": "traffic light",
+      "pos": "n"
+    },
+    {
+      "nl": "brug",
+      "art": "de",
+      "pl": "bruggen",
+      "en": "bridge",
+      "pos": "n"
+    },
+    {
+      "nl": "hoek",
+      "art": "de",
+      "pl": "hoeken",
+      "en": "corner",
+      "pos": "n"
+    },
+    {
+      "nl": "halte",
+      "art": "de",
+      "pl": "haltes",
+      "en": "stop (bus or tram)",
+      "pos": "n"
+    },
+    {
+      "nl": "plein",
+      "art": "het",
+      "pl": "pleinen",
+      "en": "square",
+      "pos": "n"
+    },
+    {
+      "nl": "ingang",
+      "art": "de",
+      "pl": "ingangen",
+      "en": "entrance",
+      "pos": "n"
+    },
+    {
+      "nl": "oversteken",
+      "past": "stak over",
+      "perf": "is overgestoken",
+      "en": "to cross (the street)",
+      "pos": "v",
+      "tag": "separable"
+    },
+    {
+      "nl": "tegenover",
+      "en": "opposite",
+      "pos": "prep"
+    },
+    {
+      "nl": "langs",
+      "en": "along / past",
+      "pos": "prep"
+    },
+    {
+      "nl": "tussen",
+      "en": "between",
+      "pos": "prep"
+    },
+    {
+      "nl": "naast",
+      "en": "next to",
+      "pos": "prep"
+    },
+    {
+      "nl": "richting",
+      "en": "towards",
+      "pos": "prep"
+    },
+    {
+      "nl": "rechtdoor",
+      "en": "straight ahead",
+      "pos": "adv"
+    },
+    {
+      "nl": "linksaf",
+      "en": "left (turning)",
+      "pos": "adv"
+    }
+  ],
+  "sentences": [
+    {
+      "nl": "De halte is tegenover het station.",
+      "en": "The stop is opposite the station.",
+      "hint": [
+        "halte",
+        "tegenover",
+        "station"
+      ],
+      "note": "tegenover is one word and stands before the noun, like every Dutch preposition. The noun does not change after it: Dutch has no cases."
+    },
+    {
+      "nl": "De ingang is niet aan de voorkant, maar om de hoek.",
+      "en": "The entrance is not at the front, but round the corner.",
+      "hint": [
+        "ingang",
+        "voorkant",
+        "hoek"
+      ],
+      "note": "A side takes aan: aan de voorkant, aan de linkerkant. Om de hoek is 'round the corner'. Niet stands before the phrase with the preposition."
+    },
+    {
+      "nl": "Je gaat rechtdoor tot de rotonde.",
+      "en": "You go straight ahead as far as the roundabout.",
+      "hint": [
+        "gaan",
+        "rechtdoor",
+        "rotonde"
+      ],
+      "note": "tot gives the point where you stop: as far as. Rechtdoor is one word.",
+      "alt": [
+        "Je gaat rechtdoor tot aan de rotonde."
+      ]
+    },
+    {
+      "nl": "Bij het stoplicht ga je linksaf.",
+      "en": "At the traffic lights you turn left.",
+      "hint": [
+        "stoplicht",
+        "gaan",
+        "linksaf"
+      ],
+      "note": "bij for a point on the way: bij het stoplicht. The phrase stands first, so the verb comes before je, and je after the verb means no t: ga je.",
+      "alt": [
+        "Bij de stoplichten ga je linksaf.",
+        "Bij het stoplicht sla je linksaf.",
+        "Je gaat bij het stoplicht linksaf."
+      ]
+    },
+    {
+      "nl": "De apotheek is tussen de bank en de bakker.",
+      "en": "The pharmacy is between the bank and the baker's.",
+      "hint": [
+        "apotheek",
+        "tussen",
+        "bank",
+        "bakker"
+      ],
+      "note": "tussen … en …: between two things. De bakker is both the person and the shop."
+    },
+    {
+      "nl": "De kinderen zijn nog op school.",
+      "en": "The children are still at school.",
+      "hint": [
+        "kind",
+        "nog",
+        "school"
+      ],
+      "note": "op school is a fixed combination: op, and no article. English 'at' has no single Dutch translation."
+    },
+    {
+      "nl": "U loopt langs het water tot de brug.",
+      "en": "You (formal) walk along the water as far as the bridge.",
+      "hint": [
+        "lopen",
+        "langs",
+        "water",
+        "brug"
+      ],
+      "note": "langs follows the side of something: along the water. Tot de brug gives the point where you stop.",
+      "alt": [
+        "U loopt langs het water tot aan de brug."
+      ]
+    },
+    {
+      "nl": "Moet ik hier de straat oversteken?",
+      "en": "Do I have to cross the street here?",
+      "hint": [
+        "moeten",
+        "hier",
+        "straat",
+        "oversteken"
+      ],
+      "note": "oversteken has its object without a preposition: de straat oversteken. After moeten the separable verb stays in one piece at the end.",
+      "alt": [
+        "Moet ik de straat hier oversteken?"
+      ]
+    },
+    {
+      "nl": "De tram richting het centrum stopt op het plein.",
+      "en": "The tram towards the centre stops in the square.",
+      "hint": [
+        "tram",
+        "richting",
+        "centrum",
+        "stoppen",
+        "plein"
+      ],
+      "note": "richting works as a preposition: towards. A square is an open place, so op het plein, where English says 'in' or 'on'."
+    },
+    {
+      "nl": "Na het werk ga ik meteen naar huis.",
+      "en": "After work I go straight home.",
+      "hint": [
+        "werk",
+        "gaan",
+        "meteen",
+        "huis"
+      ],
+      "note": "naar huis is where you go; thuis is where you are. Neither has an article, and *naar thuis does not exist.",
+      "alt": [
+        "Na het werk ga ik direct naar huis.",
+        "Na mijn werk ga ik meteen naar huis."
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "type": "choose",
+      "nl": "Mijn collega is vandaag niet ___ kantoor.",
+      "options": [
+        "in",
+        "op",
+        "aan"
+      ],
+      "correct": 1,
+      "en": "My colleague is not at the office today.",
+      "note": "op kantoor is a fixed combination, without an article. In needs an article and then means inside the building: in het kantoor."
+    },
+    {
+      "type": "choose",
+      "nl": "Ik zit nu ___ de trein naar Utrecht.",
+      "options": [
+        "op",
+        "aan",
+        "in"
+      ],
+      "correct": 2,
+      "en": "I am on the train to Utrecht now.",
+      "note": "You are inside the train, so in de trein. English says 'on the train', but in the Netherlands it is in."
+    },
+    {
+      "type": "choose",
+      "nl": "Het museum is ___ de linkerkant.",
+      "options": [
+        "aan",
+        "op",
+        "in"
+      ],
+      "correct": 0,
+      "en": "The museum is on the left-hand side.",
+      "note": "A side takes aan: aan de linkerkant, aan de rechterkant, aan de voorkant."
+    },
+    {
+      "type": "choose",
+      "nl": "Ik heb een afspraak ___ de tandarts.",
+      "options": [
+        "aan",
+        "bij",
+        "op"
+      ],
+      "correct": 1,
+      "en": "I have an appointment at the dentist's.",
+      "note": "bij + a person means at that person's place or practice: bij de tandarts, bij de dokter, bij Anna."
+    },
+    {
+      "type": "choose",
+      "nl": "Ik blijf vandaag ___.",
+      "options": [
+        "naar huis",
+        "thuis",
+        "huis"
+      ],
+      "correct": 1,
+      "en": "I am staying at home today.",
+      "note": "thuis says where you are, and blijven is about staying where you are. Naar huis is for going there."
+    },
+    {
+      "type": "choose",
+      "nl": "De kinderen spelen ___ straat.",
+      "options": [
+        "in",
+        "aan",
+        "op"
+      ],
+      "correct": 2,
+      "en": "The children are playing in the street.",
+      "note": "op straat is fixed, and it has no article. English 'in the street' does not help here."
+    },
+    {
+      "type": "gap",
+      "nl": "Ik woon ___ (opposite) het park.",
+      "answers": [
+        "tegenover"
+      ],
+      "en": "I live opposite the park.",
+      "note": "tegenover is written as one word and comes before the noun."
+    },
+    {
+      "type": "gap",
+      "nl": "Het café is ___ (next to) de bioscoop.",
+      "answers": [
+        "naast"
+      ],
+      "en": "The café is next to the cinema.",
+      "note": "naast is one word for English 'next to'. No second preposition is added: naast de bioscoop."
+    },
+    {
+      "type": "gap",
+      "nl": "Je fietst ___ (along) het kanaal tot het kruispunt.",
+      "answers": [
+        "langs"
+      ],
+      "en": "You cycle along the canal as far as the crossroads.",
+      "note": "langs follows the side of something long: a canal, a river, a road. Tot gives the point where you stop."
+    },
+    {
+      "type": "gap",
+      "nl": "De bus rijdt ___ (from) het station naar het ziekenhuis.",
+      "answers": [
+        "van",
+        "vanaf"
+      ],
+      "en": "The bus goes from the station to the hospital.",
+      "note": "van … naar gives the start and the end of a route. Vanaf is also right for the starting point."
+    },
+    {
+      "type": "order",
+      "lead": "Bij het stoplicht",
+      "words": [
+        "steekt",
+        "u",
+        "de straat",
+        "over"
+      ],
+      "answers": [
+        "Bij het stoplicht steekt u de straat over."
+      ],
+      "en": "At the traffic lights you (formal) cross the street.",
+      "note": "Bij het stoplicht stands first, so the verb comes second and u after it. The prefix of oversteken goes to the end, and de straat has no preposition."
+    },
+    {
+      "type": "rewrite",
+      "task": "They are not there yet, they are on their way: use gaan.",
+      "from": "De kinderen zijn buiten.",
+      "answers": [
+        "De kinderen gaan naar buiten."
+      ],
+      "en": "The children are going outside.",
+      "note": "Where you are: buiten. Where you go: naar buiten. For the way to a place Dutch adds naar."
+    },
+    {
+      "type": "rewrite",
+      "task": "He is not there yet, he is on his way: use gaan.",
+      "from": "Mijn man is bij de dokter.",
+      "answers": [
+        "Mijn man gaat naar de dokter."
+      ],
+      "en": "My husband is going to the doctor.",
+      "note": "bij de dokter is where you are, naar de dokter is where you go. Ukrainian changes the case here, Dutch changes the preposition."
+    },
+    {
+      "type": "rewrite",
+      "task": "They have arrived: say where they are, with zijn.",
+      "from": "Wij gaan naar huis.",
+      "answers": [
+        "Wij zijn thuis.",
+        "We zijn thuis."
+      ],
+      "en": "We are at home.",
+      "note": "naar huis is the way there, thuis is being there. 'At home' is one word in Dutch, without a preposition."
+    },
+    {
+      "type": "fix",
+      "wrong": "Ik ga na het werk naar thuis.",
+      "answers": [
+        "Ik ga na het werk naar huis."
+      ],
+      "en": "I go home after work.",
+      "note": "After naar it is huis: naar huis. Thuis already means 'at home' and never follows naar."
+    },
+    {
+      "type": "fix",
+      "wrong": "Om acht uur ga ik op het werk.",
+      "answers": [
+        "Om acht uur ga ik naar het werk."
+      ],
+      "en": "At eight o'clock I go to work.",
+      "note": "op het werk says where you are. Going there needs naar: naar het werk."
+    }
+  ]
+}
