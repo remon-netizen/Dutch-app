@@ -1,0 +1,454 @@
+{
+  "id": "b1-08",
+  "level": "B1",
+  "icon": "🏃",
+  "title": "What are they doing?",
+  "grammar": "Something is going on: aan het, zitten te, bezig zijn",
+  "summary": "The present tense usually covers 'I am doing'. To stress that it is in progress: zijn + aan het + infinitive (Ik ben een boek aan het lezen), zitten/staan/liggen/lopen + te (Hij zit te lezen), or bezig zijn met.",
+  "explain": "Dutch has no separate continuous tense. `Ik lees` means both *I read* and *I am reading*, and most of the time that is all you need. When you want to stress that something is **going on right now**, or was going on at a certain moment, Dutch has three constructions.\n\n### 1. zijn + aan het + infinitive\n\nThis is the most common one. `zijn` is conjugated and stands in its normal place; `aan het` + infinitive goes to the end.\n\n> Ik ben aan het koken. — I am cooking.\n> Ze was aan het bellen toen ik binnenkwam. — She was on the phone when I came in.\n\nAn **object** goes **before** `aan het`, never after the infinitive:\n\n> Mijn oma is een sjaal aan het haken. — My grandmother is crocheting a scarf.\n\nA separable verb stays in one piece: `aan het opruimen`, `aan het opwarmen`. `niet` comes before `aan het`: `Ik ben niet aan het werken`. A place may stand before `aan het` or after the infinitive: `Ze zijn op het veld aan het voetballen` and `Ze zijn aan het voetballen op het veld` are both fine.\n\n### 2. zitten, staan, liggen, lopen + te + infinitive\n\nThese say what someone is doing **and** in what position. With `zitten`, `staan` and `liggen` the position is usually real; with `lopen` it is often faint and the phrase sounds a little annoyed: someone *keeps* doing something.\n\n| verb | example | meaning |\n| zitten | Hij zit te lezen. | he is (sitting) reading |\n| staan | Ze staan te wachten. | they are (standing) waiting |\n| liggen | De kat ligt te slapen. | the cat is (lying) asleep |\n| lopen | Hij loopt te zeuren. | he keeps moaning |\n\n> Opa zit in de tuin te puzzelen. — Grandad is sitting in the garden doing a puzzle.\n> Hij loopt al de hele dag te zeuren over zijn spierpijn. — He has been moaning about his sore muscles all day.\n\nThe object goes before `te`: `Mijn moeder zit een boek te lezen`. In the perfect the te disappears and you get two infinitives: `Hij heeft de hele avond zitten lezen` (more in unit B1 · 26).\n\n### 3. bezig zijn\n\n`bezig zijn` means *to be busy*. It takes `met` + a noun, or `(om) te` + infinitive.\n\n> Ik ben al een uur bezig met mijn puzzel. — I have been busy with my puzzle for an hour.\n> Mijn man is bezig de schaatsen te slijpen. — My husband is busy sharpening the skates.\n\nWith a bare infinitive `met` also works: `Ik ben bezig met koken`.\n\n### Not with states\n\nAll three are for **activities**, things you do. Verbs that describe a state, such as `weten`, `kennen`, `hebben`, `willen` or `vinden` (think), never take them:\n\n- *Ik ben het antwoord aan het weten → `Ik weet het antwoord`.\n- *Ze is een fiets aan het hebben → `Ze heeft een fiets`.\n\n### Watch out\n\n- Not zijn + infinitive alone: *Ik ben lezen → `Ik ben aan het lezen` or `Ik lees`.\n- The object before aan het: *Ik ben aan het lezen een boek → `Ik ben een boek aan het lezen`.\n- Do not forget te: *Hij zit lezen → `Hij zit te lezen`.\n- Separable verbs stay whole: *Ik ben aan het ruimen op → `Ik ben aan het opruimen`.\n- In the perfect no te: *Hij heeft zitten te lezen → `Hij heeft zitten lezen`.\n- No mixing: *bezig met de fiets te maken → `bezig de fiets te maken` or `bezig met de fiets`.\n\n### Compared with Ukrainian\n\nThese constructions are about one thing: an activity in progress at a given moment. They are not a translation of the Ukrainian imperfective aspect in general; how Dutch handles aspect is the subject of unit B1 · 22.",
+  "words": [
+    {
+      "nl": "sportschool",
+      "art": "de",
+      "pl": "sportscholen",
+      "en": "gym",
+      "pos": "n"
+    },
+    {
+      "nl": "spierpijn",
+      "art": "de",
+      "pl": "",
+      "en": "sore muscles / muscle ache",
+      "pos": "n",
+      "tag": "no plural"
+    },
+    {
+      "nl": "kleedkamer",
+      "art": "de",
+      "pl": "kleedkamers",
+      "en": "changing room",
+      "pos": "n"
+    },
+    {
+      "nl": "veld",
+      "art": "het",
+      "pl": "velden",
+      "en": "field / pitch",
+      "pos": "n"
+    },
+    {
+      "nl": "doelpunt",
+      "art": "het",
+      "pl": "doelpunten",
+      "en": "goal (a score)",
+      "pos": "n"
+    },
+    {
+      "nl": "scheidsrechter",
+      "art": "de",
+      "pl": "scheidsrechters",
+      "en": "referee",
+      "pos": "n"
+    },
+    {
+      "nl": "toeschouwer",
+      "art": "de",
+      "pl": "toeschouwers",
+      "en": "spectator",
+      "pos": "n"
+    },
+    {
+      "nl": "hardlopen",
+      "past": "liep hard",
+      "perf": "heeft/is hardgelopen",
+      "en": "to run (as a sport) / to jog",
+      "pos": "v",
+      "tag": "separable"
+    },
+    {
+      "nl": "schaatsen",
+      "past": "schaatste",
+      "perf": "heeft/is geschaatst",
+      "en": "to skate",
+      "pos": "v"
+    },
+    {
+      "nl": "opwarmen",
+      "past": "warmde op",
+      "perf": "heeft opgewarmd",
+      "en": "to warm up",
+      "pos": "v",
+      "tag": "separable"
+    },
+    {
+      "nl": "juichen",
+      "past": "juichte",
+      "perf": "heeft gejuicht",
+      "en": "to cheer",
+      "pos": "v"
+    },
+    {
+      "nl": "haken",
+      "past": "haakte",
+      "perf": "heeft gehaakt",
+      "en": "to crochet",
+      "pos": "v"
+    },
+    {
+      "nl": "puzzelen",
+      "past": "puzzelde",
+      "perf": "heeft gepuzzeld",
+      "en": "to do puzzles",
+      "pos": "v"
+    },
+    {
+      "nl": "vissen",
+      "past": "viste",
+      "perf": "heeft gevist",
+      "en": "to fish",
+      "pos": "v"
+    },
+    {
+      "nl": "zeuren",
+      "past": "zeurde",
+      "perf": "heeft gezeurd",
+      "en": "to moan / to nag",
+      "pos": "v"
+    },
+    {
+      "nl": "zweten",
+      "past": "zweette",
+      "perf": "heeft gezweet",
+      "en": "to sweat",
+      "pos": "v"
+    }
+  ],
+  "sentences": [
+    {
+      "nl": "Ik kan nu niet praten, want ik ben aan het hardlopen.",
+      "en": "I cannot talk now, because I am out running.",
+      "hint": [
+        "kunnen",
+        "nu",
+        "praten",
+        "want",
+        "hardlopen"
+      ],
+      "note": "Zijn + aan het + infinitive stresses that it is going on right now. Ben is the conjugated verb, aan het hardlopen goes to the end."
+    },
+    {
+      "nl": "De spelers zijn op het veld aan het opwarmen.",
+      "en": "The players are warming up on the pitch.",
+      "hint": [
+        "speler",
+        "veld",
+        "opwarmen"
+      ],
+      "note": "Opwarmen is separable, but after aan het it stays in one piece. The place can stand before aan het or after the infinitive.",
+      "alt": [
+        "De spelers zijn aan het opwarmen op het veld.",
+        "Op het veld zijn de spelers aan het opwarmen."
+      ]
+    },
+    {
+      "nl": "Mijn oma is een sjaal aan het haken voor mijn dochter.",
+      "en": "My grandmother is crocheting a scarf for my daughter.",
+      "hint": [
+        "oma",
+        "sjaal",
+        "haken",
+        "dochter"
+      ],
+      "note": "The object een sjaal goes before aan het, never after the infinitive. Voor mijn dochter may follow the infinitive.",
+      "alt": [
+        "Mijn oma is voor mijn dochter een sjaal aan het haken."
+      ]
+    },
+    {
+      "nl": "Opa zit in de tuin te puzzelen.",
+      "en": "Grandad is sitting in the garden doing a puzzle.",
+      "hint": [
+        "opa",
+        "zitten",
+        "tuin",
+        "puzzelen"
+      ],
+      "note": "Zitten + te + infinitive: what he is doing and that he is sitting. Te stands directly before puzzelen, at the end.",
+      "alt": [
+        "In de tuin zit opa te puzzelen.",
+        "Opa zit te puzzelen in de tuin."
+      ]
+    },
+    {
+      "nl": "Bij de ingang staan veel toeschouwers te wachten.",
+      "en": "Lots of spectators are standing at the entrance waiting.",
+      "hint": [
+        "ingang",
+        "staan",
+        "veel",
+        "toeschouwer",
+        "wachten"
+      ],
+      "note": "Staan + te + infinitive. Bij de ingang stands first, so staan comes second and the subject veel toeschouwers follows it.",
+      "alt": [
+        "Er staan veel toeschouwers bij de ingang te wachten.",
+        "Er staan bij de ingang veel toeschouwers te wachten.",
+        "Veel toeschouwers staan bij de ingang te wachten."
+      ]
+    },
+    {
+      "nl": "Toen ik binnenkwam, lag mijn zoon op de bank te slapen.",
+      "en": "When I came in, my son was lying on the sofa asleep.",
+      "hint": [
+        "toen",
+        "binnenkomen",
+        "liggen",
+        "zoon",
+        "bank",
+        "slapen"
+      ],
+      "note": "Liggen + te + infinitive also works in the past: lag … te slapen. It shows what was going on at that moment.",
+      "alt": [
+        "Toen ik binnenkwam, lag mijn zoon te slapen op de bank."
+      ]
+    },
+    {
+      "nl": "Hij loopt al de hele dag te zeuren over zijn spierpijn.",
+      "en": "He has been moaning about his sore muscles all day.",
+      "hint": [
+        "lopen",
+        "de hele dag",
+        "zeuren",
+        "spierpijn"
+      ],
+      "note": "Lopen + te here has nothing to do with walking: it means he keeps doing it, and it sounds annoyed. Al + present tense says how long it has been going on.",
+      "alt": [
+        "Hij loopt al de hele dag over zijn spierpijn te zeuren."
+      ]
+    },
+    {
+      "nl": "Ik ben al een uur bezig met mijn puzzel.",
+      "en": "I have been busy with my puzzle for an hour.",
+      "hint": [
+        "al",
+        "uur",
+        "bezig zijn",
+        "puzzel"
+      ],
+      "note": "Bezig zijn takes met + a noun. Al een uur + present tense: it started an hour ago and is still going on.",
+      "alt": [
+        "Ik ben al een uur met mijn puzzel bezig."
+      ]
+    },
+    {
+      "nl": "Mijn man is bezig om de schaatsen te slijpen.",
+      "en": "My husband is busy sharpening the skates.",
+      "hint": [
+        "man",
+        "bezig zijn",
+        "schaats",
+        "slijpen"
+      ],
+      "note": "With a verb, bezig zijn takes (om) te + infinitive. The object stands before te, not after it.",
+      "alt": [
+        "Mijn man is bezig de schaatsen te slijpen."
+      ]
+    },
+    {
+      "nl": "Iedereen stond te juichen toen het doelpunt viel.",
+      "en": "Everyone was standing there cheering when the goal was scored.",
+      "hint": [
+        "iedereen",
+        "staan",
+        "juichen",
+        "toen",
+        "doelpunt",
+        "vallen"
+      ],
+      "note": "Stond te juichen: staan + te in the simple past, for what was going on at that moment. In Dutch a goal valt.",
+      "alt": [
+        "Toen het doelpunt viel, stond iedereen te juichen."
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "type": "choose",
+      "nl": "Bel straks maar terug, ik ben nu ___.",
+      "options": [
+        "koken",
+        "aan het koken",
+        "te koken"
+      ],
+      "correct": 1,
+      "en": "Call back later, I am cooking right now.",
+      "note": "After zijn the activity needs aan het: ben aan het koken. Zijn + te or zijn + a bare infinitive is not Dutch."
+    },
+    {
+      "type": "choose",
+      "nl": "Mijn buurman ___ al twee uur aan de waterkant te vissen.",
+      "options": [
+        "is",
+        "zit",
+        "heeft"
+      ],
+      "correct": 1,
+      "en": "My neighbour has been sitting by the water fishing for two hours.",
+      "note": "Te + infinitive goes with zitten, staan, liggen or lopen. Zijn needs aan het, not te: is aan het vissen."
+    },
+    {
+      "type": "choose",
+      "nl": "In de sauna van de sportschool zit hij flink ___.",
+      "options": [
+        "te zweten",
+        "zweten",
+        "aan het zweten"
+      ],
+      "correct": 0,
+      "en": "In the sauna at the gym he is sitting there sweating a lot.",
+      "note": "Zitten takes te + infinitive. Aan het only goes with zijn, and without te the sentence is wrong."
+    },
+    {
+      "type": "choose",
+      "nl": "Ik ___ het antwoord.",
+      "options": [
+        "ben aan het weten",
+        "weet",
+        "zit te weten"
+      ],
+      "correct": 1,
+      "en": "I know the answer.",
+      "note": "Weten is a state, not an activity, so it never takes aan het or zitten te. The plain present is the only option."
+    },
+    {
+      "type": "gap",
+      "nl": "De scheidsrechter is met de spelers ___ (praten).",
+      "answers": [
+        "aan het praten"
+      ],
+      "en": "The referee is talking to the players.",
+      "note": "Is … aan het praten: zijn + aan het + infinitive, with met de spelers before aan het."
+    },
+    {
+      "type": "gap",
+      "nl": "Kom je mee? Nee, ik ben mijn kamer ___ (opruimen).",
+      "answers": [
+        "aan het opruimen"
+      ],
+      "en": "Are you coming along? No, I am tidying my room.",
+      "note": "The object mijn kamer stands before aan het, and the separable verb opruimen stays in one piece."
+    },
+    {
+      "type": "gap",
+      "nl": "Ze staan al een half uur bij de schaatsbaan ___ (wachten).",
+      "answers": [
+        "te wachten"
+      ],
+      "en": "They have been standing by the ice rink waiting for half an hour.",
+      "note": "Staan takes te + infinitive. Te wachten goes to the end of the sentence."
+    },
+    {
+      "type": "order",
+      "lead": "Ik ben",
+      "words": [
+        "een trui",
+        "aan het",
+        "haken"
+      ],
+      "answers": [
+        "Ik ben een trui aan het haken."
+      ],
+      "en": "I am crocheting a jumper.",
+      "note": "The object een trui must come before aan het; the infinitive closes the sentence."
+    },
+    {
+      "type": "order",
+      "lead": "Mijn moeder",
+      "words": [
+        "zit",
+        "een boek",
+        "te",
+        "lezen"
+      ],
+      "answers": [
+        "Mijn moeder zit een boek te lezen."
+      ],
+      "en": "My mother is sitting reading a book.",
+      "note": "Zit is the conjugated verb in second place. The object een boek goes before te, and te directly before lezen."
+    },
+    {
+      "type": "order",
+      "lead": "Waarom",
+      "words": [
+        "sta",
+        "je",
+        "daar",
+        "te juichen"
+      ],
+      "answers": [
+        "Waarom sta je daar te juichen?"
+      ],
+      "en": "Why are you standing there cheering?",
+      "note": "After the question word comes the verb sta, without t because je follows. Te juichen goes to the end."
+    },
+    {
+      "type": "rewrite",
+      "task": "Stress that it is going on right now: use aan het.",
+      "from": "De spelers warmen op.",
+      "answers": [
+        "De spelers zijn aan het opwarmen."
+      ],
+      "en": "The players are warming up.",
+      "note": "The plural subject takes zijn. After aan het the separable verb comes together again: opwarmen."
+    },
+    {
+      "type": "rewrite",
+      "task": "Use aan het.",
+      "from": "Ze leest een tijdschrift.",
+      "answers": [
+        "Ze is een tijdschrift aan het lezen."
+      ],
+      "en": "She is reading a magazine.",
+      "note": "Leest becomes is … aan het lezen. The object een tijdschrift moves in front of aan het."
+    },
+    {
+      "type": "rewrite",
+      "task": "Say it with zitten + te.",
+      "from": "Opa kijkt naar de wedstrijd.",
+      "answers": [
+        "Opa zit naar de wedstrijd te kijken.",
+        "Opa zit te kijken naar de wedstrijd."
+      ],
+      "en": "Grandad is sitting watching the match.",
+      "note": "Zit takes the place of kijkt, and te kijken goes to the end. Naar de wedstrijd usually stands before te, but may also follow."
+    },
+    {
+      "type": "fix",
+      "wrong": "Ik zag hem in de kleedkamer; hij stond met de trainer praten.",
+      "answers": [
+        "Ik zag hem in de kleedkamer; hij stond met de trainer te praten."
+      ],
+      "en": "I saw him in the changing room; he was standing talking to the coach.",
+      "note": "In the present and the simple past, staan needs te before the infinitive: stond … te praten."
+    },
+    {
+      "type": "fix",
+      "wrong": "Mijn man is bezig met de schaatsen te slijpen.",
+      "answers": [
+        "Mijn man is bezig de schaatsen te slijpen.",
+        "Mijn man is bezig om de schaatsen te slijpen."
+      ],
+      "en": "My husband is busy sharpening the skates.",
+      "note": "Bezig zijn takes met + a noun or (om) te + infinitive, but not met together with te. Here there is a te-group, so met must go."
+    },
+    {
+      "type": "fix",
+      "wrong": "Hij heeft de hele avond zitten te gamen.",
+      "answers": [
+        "Hij heeft de hele avond zitten gamen."
+      ],
+      "en": "He sat gaming all evening.",
+      "note": "In the perfect zitten becomes an infinitive too, and then te disappears: heeft … zitten gamen."
+    }
+  ]
+}

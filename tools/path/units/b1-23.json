@@ -1,0 +1,217 @@
+{
+  "id": "b1-23",
+  "level": "B1",
+  "icon": "💬",
+  "title": "Small talk",
+  "grammar": "Small words that set the tone: maar, even, eens, toch, wel, hoor",
+  "summary": "Unstressed little words in the middle of the sentence set the tone: even and eens make a request light, maar gives permission, toch asks for agreement, wel contradicts or reassures, hoor at the end is friendly.",
+  "explain": "Dutch speakers colour almost every sentence with small unstressed words: *modal particles* (de modale partikels). They do not change the facts, they change the tone: friendly, impatient, reassuring, surprised. Without them Dutch sounds abrupt. `Wacht!` is an order; `Wacht even` is a friendly 'just a moment'. They have no direct English translation, so learn them as tones.\n\n### Making a request friendly: even, eens, maar\n\n| word | what it adds | example |\n| even | only a moment, no big deal | Kun je even helpen? |\n| eens | a friendly push or invitation | Kijk eens! |\n| maar | go ahead, you may | Ga maar zitten. |\n\n> Mag ik je even iets vragen? — Can I ask you something?\n> Kom eens langs. — Come round some time.\n> Zeg het maar. — Go ahead, tell me. / What can I get you?\n\n- `maar` also means **only**: `Ik heb maar vijf euro`. With `niet` it means *better not*: `Doe dat maar niet`.\n- `eens` also means *some time*: `Ik wil eens naar Japan`. And `niet eens` is *not even*.\n- Stressed `even` is a different word: `even groot` (just as big).\n\n### toch\n\n- **Asking for agreement**: `Je komt toch?` (You are coming, aren't you?). It can also stand at the end: `Je komt, toch?`\n- **Surprise or a reproach**: `Dat weet je toch?` (Surely you know that?)\n- **Insisting**: `Kom toch binnen!` (Do come in!)\n- **Anyway, after all**, stressed: `Ik ga toch` (I am going anyway).\n\n### wel\n\n- **Contradicting a negative**: `Hij komt niet. — Hij komt wel!` To say yes to a negative question, use `jawel`, not just `ja`.\n- **Reassuring**: `Het komt wel goed` (It will be all right).\n- **Probably**, with `zullen`: `Hij zal wel ziek zijn`.\n- **Granted …, but**: `Dat klopt wel, maar …`\n\n### hoor\n\n`hoor` goes at the **end** of a statement, or straight after `ja` and `nee`. It is friendly and takes the edge off: `Ja hoor`, `Nee hoor`, `Dat is niet erg, hoor`. It **never** goes in a question, and it does not belong in formal writing.\n\n### nou, gewoon, zeker, dan\n\n- `nou` (the spoken form of `nu`) starts a reaction, `Nou, ik weet het niet`, or adds impatience: `Kom nou!`\n- `gewoon`: just, simply, without fuss: `Zeg het gewoon`.\n- `zeker`, unstressed, makes a guess you want confirmed: `Je bent zeker moe?` (I suppose you are tired?)\n- `dan` in a question reacts to what the other person just said: `Wat is er dan?` `Waarom dan?`\n\n> Je bent zeker de nieuwe collega? — I suppose you are the new colleague?\n> Wat is er dan? — What is the matter, then?\n\n### Where they go\n\nParticles stand in the middle of the sentence: after the verb and the subject, **after** short pronouns such as `het`, `me`, `je`, `hem`, and **before** `niet` and the verbs at the end.\n\n> Kun je me even helpen? — Can you help me for a moment?\n> Doe het toch maar niet. — Better not do it after all.\n\nA noun object with `de` or `het` can stand on either side: `Geef me even het zout` and `Geef me het zout even` are both fine. When particles pile up, the order is fixed: `dan` / `nou`, `toch`, `maar`, `eens`, `even`. `Kom dan toch maar eens even langs` is a famous example, but one or two at a time is normal.\n\n### Watch out\n\n- No hoor in a question: *Kunt u me helpen, hoor? → `Kunt u me even helpen?`\n- A pronoun comes before the particle: *Zeg maar het → `Zeg het maar`; *Kun je even me helpen? → `Kun je me even helpen?`\n- `maar` in the middle is not *but*: `Ga maar` means *go ahead*.\n- Contradict a negative with `wel`, not with `ja`: `Ben je niet moe? — Jawel.`\n\n### Compared with Ukrainian\n\nUkrainian has similar little words, such as `ж` (`Ти ж прийдеш?` — `Je komt toch?`) and `-но` (`Подивись-но!` — `Kijk eens!`), but they do not match the Dutch ones one to one.",
+  "words": [
+    { "nl": "opmerking", "art": "de", "pl": "opmerkingen", "en": "remark / comment", "pos": "n" },
+    { "nl": "compliment", "art": "het", "pl": "complimenten", "en": "compliment", "pos": "n" },
+    { "nl": "smoes", "art": "de", "pl": "smoezen", "en": "excuse (made up)", "pos": "n" },
+    { "nl": "onderwerp", "art": "het", "pl": "onderwerpen", "en": "topic / subject", "pos": "n" },
+    { "nl": "een praatje maken", "en": "to have a (quick) chat", "pos": "expr" },
+    { "nl": "kletsen", "past": "kletste", "perf": "heeft gekletst", "en": "to chat / to chatter", "pos": "v" },
+    { "nl": "onderbreken", "past": "onderbrak", "perf": "heeft onderbroken", "en": "to interrupt", "pos": "v" },
+    { "nl": "storen", "past": "stoorde", "perf": "heeft gestoord", "en": "to disturb", "pos": "v" },
+    { "nl": "kloppen", "past": "klopte", "perf": "heeft geklopt", "en": "to be right / to be correct", "pos": "v" },
+    { "nl": "overdrijven", "past": "overdreef", "perf": "heeft overdreven", "en": "to exaggerate", "pos": "v" },
+    { "nl": "beleefd", "en": "polite", "pos": "adj" },
+    { "nl": "brutaal", "en": "cheeky / rude", "pos": "adj" },
+    { "nl": "trouwens", "en": "by the way", "pos": "adv" },
+    { "nl": "eerlijk gezegd", "en": "to be honest", "pos": "expr" },
+    { "nl": "het maakt niet uit", "en": "it doesn't matter", "pos": "expr" }
+  ],
+  "sentences": [
+    {
+      "nl": "Sorry, stoor ik even? Ik heb een korte vraag.",
+      "en": "Sorry, am I disturbing you for a moment? I have a quick question.",
+      "hint": ["sorry", "storen", "even", "kort", "vraag"],
+      "note": "Even makes the interruption small: only a moment. Without it, Stoor ik? sounds heavier."
+    },
+    {
+      "nl": "Ga maar zitten, ik zet even koffie.",
+      "en": "Go ahead and sit down, I'll just make some coffee.",
+      "hint": ["gaan", "maar", "zitten", "zetten", "even", "koffie"],
+      "note": "Maar in an order gives permission or encouragement: go ahead. Even makes the coffee-making a small, quick thing.",
+      "alt": ["Ga maar zitten, dan zet ik even koffie."]
+    },
+    {
+      "nl": "Kom trouwens eens langs, dan kunnen we gezellig kletsen.",
+      "en": "By the way, come round some time, then we can have a nice chat.",
+      "hint": ["langskomen", "trouwens", "eens", "gezellig", "kletsen"],
+      "note": "Eens turns the order into a friendly invitation. It stands in the middle, before the separable part langs at the end.",
+      "alt": ["Trouwens, kom eens langs, dan kunnen we gezellig kletsen."]
+    },
+    {
+      "nl": "Je komt toch ook naar het feest?",
+      "en": "You are coming to the party too, aren't you?",
+      "hint": ["komen", "toch", "ook", "feest"],
+      "note": "Toch asks the other person to agree, like an English tag question. It stands right after the verb and the subject.",
+      "alt": ["Jij komt toch ook naar het feest?", "Je komt ook naar het feest, toch?", "Jij komt ook naar het feest, toch?"]
+    },
+    {
+      "nl": "Dat klopt wel, maar je overdrijft een beetje.",
+      "en": "That is true enough, but you are exaggerating a bit.",
+      "hint": ["kloppen", "wel", "maar", "overdrijven", "beetje"],
+      "note": "Wel … maar grants one point and then adds an objection. Here maar is the ordinary 'but', joining two sentences.",
+      "alt": ["Dat klopt wel, maar jij overdrijft een beetje."]
+    },
+    {
+      "nl": "Hij is er nog niet. Hij zal wel in de file staan.",
+      "en": "He is not here yet. He is probably stuck in a traffic jam.",
+      "hint": ["er", "nog niet", "zullen", "wel", "file", "staan"],
+      "note": "Zal … wel is a guess: probably. The speaker does not know, but thinks it likely."
+    },
+    {
+      "nl": "Dat maakt helemaal niet uit, hoor.",
+      "en": "That doesn't matter at all, honestly.",
+      "hint": ["helemaal", "niet", "uitmaken", "hoor"],
+      "note": "Hoor at the end makes the reassurance warm and friendly. It is only used at the end of a statement, never in a question."
+    },
+    {
+      "nl": "Ik kan maar even blijven, want ik moet nog koken.",
+      "en": "I can only stay for a little while, because I still have to cook.",
+      "hint": ["kunnen", "maar", "even", "blijven", "moeten", "koken"],
+      "note": "Here maar means 'only', and even means 'a short time'. Together, maar even: only briefly."
+    },
+    {
+      "nl": "Wat bedoel je dan met die opmerking?",
+      "en": "What do you mean by that remark, then?",
+      "hint": ["wat", "bedoelen", "dan", "opmerking"],
+      "note": "Dan in a question reacts to what the other person has just said. It stands after the verb and the subject.",
+      "alt": ["Wat bedoel jij dan met die opmerking?"]
+    },
+    {
+      "nl": "Je bent zeker de nieuwe collega?",
+      "en": "I suppose you are the new colleague?",
+      "hint": ["zijn", "zeker", "nieuw", "collega"],
+      "note": "Unstressed zeker in a statement with a question mark is a guess you want confirmed. It does not mean 'certainly' here.",
+      "alt": ["Jij bent zeker de nieuwe collega?"]
+    }
+  ],
+  "exercises": [
+    {
+      "type": "choose",
+      "nl": "Mag ik je ___ onderbreken? Ik heb een vraag.",
+      "options": ["even", "hoor", "zeker"],
+      "correct": 0,
+      "en": "May I interrupt you for a moment? I have a question.",
+      "note": "Even makes the request small and polite. Hoor never goes in a question, and zeker would make it a guess."
+    },
+    {
+      "type": "choose",
+      "nl": "Mag ik hier zitten? — Ja hoor, ga ___ zitten.",
+      "options": ["eens", "maar", "wel"],
+      "correct": 1,
+      "en": "May I sit here? — Of course, go ahead and sit down.",
+      "note": "Maar gives permission: go ahead. Eens would be your own suggestion, not an answer to a request, and wel contradicts a negative."
+    },
+    {
+      "type": "choose",
+      "nl": "Eerlijk gezegd vind ik die film niet zo goed. — Nou, ik vind hem ___ goed!",
+      "options": ["maar", "wel", "eens"],
+      "correct": 1,
+      "en": "To be honest I don't think that film is very good. — Well, I do think it's good!",
+      "note": "Wel contradicts the negative of the other person: niet goed against wel goed. English uses a stressed 'do' for this."
+    },
+    {
+      "type": "choose",
+      "nl": "Je hebt het ___ niet vergeten? We hadden om acht uur afgesproken.",
+      "options": ["eens", "maar", "toch"],
+      "correct": 2,
+      "en": "You haven't forgotten, have you? We had agreed on eight o'clock.",
+      "note": "Toch niet asks for reassurance: surely not? The speaker hopes the answer is no."
+    },
+    {
+      "type": "gap",
+      "nl": "Ik maak ___ een praatje met de buurvrouw, ik ben zo terug.",
+      "answers": ["even", "nog even"],
+      "en": "I'm just having a quick chat with the neighbour, I'll be right back.",
+      "note": "Even says it will only take a moment. It stands after the verb and the subject, before the object."
+    },
+    {
+      "type": "gap",
+      "nl": "Hij zegt dat hij ziek is, maar dat zal ___ een smoes zijn.",
+      "answers": ["wel", "vast"],
+      "en": "He says he is ill, but that is probably an excuse.",
+      "note": "Zal … wel is a guess: probably. Vast (surely) gives almost the same meaning and is also right."
+    },
+    {
+      "type": "gap",
+      "nl": "Vind jij dat niet beleefd? Ik vind het ___ beleefd.",
+      "answers": ["wel"],
+      "en": "Don't you think that's polite? I do think it's polite.",
+      "note": "Wel is the opposite of niet: it contradicts the negative. English stresses 'do' instead."
+    },
+    {
+      "type": "gap",
+      "nl": "Nee ___, je stoort helemaal niet.",
+      "answers": ["hoor"],
+      "en": "No, don't worry, you're not disturbing me at all.",
+      "note": "Nee hoor is a friendly no: no, don't worry. Hoor can stand straight after ja or nee."
+    },
+    {
+      "type": "gap",
+      "nl": "Ik kreeg vandaag een compliment van mijn baas. — Waarvoor ___?",
+      "answers": ["dan"],
+      "en": "I got a compliment from my boss today. — What for, then?",
+      "note": "Dan in a question reacts to what you have just heard and asks for more."
+    },
+    {
+      "type": "order",
+      "lead": "Mag",
+      "words": ["ik", "je", "even", "iets", "vragen"],
+      "answers": ["Mag ik je even iets vragen?"],
+      "en": "Can I ask you something?",
+      "note": "The short pronoun je comes before the particle even. The rest follows, and the infinitive vragen goes to the end."
+    },
+    {
+      "type": "order",
+      "lead": "Doe",
+      "words": ["het", "toch", "maar", "niet"],
+      "answers": ["Doe het toch maar niet."],
+      "en": "Better not do it after all.",
+      "note": "The pronoun het comes first, then the particles in their fixed order, toch before maar, and niet after them."
+    },
+    {
+      "type": "rewrite",
+      "task": "Make the request friendlier with even.",
+      "from": "Geef me het zout.",
+      "answers": ["Geef me even het zout.", "Geef me het zout even."],
+      "en": "Could you pass me the salt?",
+      "note": "Even after the pronoun me. A noun with het or de may stand before or after even, so both orders are right."
+    },
+    {
+      "type": "rewrite",
+      "task": "Turn it into a question that expects 'yes', with toch.",
+      "from": "Je vond het een leuk onderwerp.",
+      "answers": ["Je vond het toch een leuk onderwerp?", "Je vond het een leuk onderwerp, toch?"],
+      "en": "You liked the topic, didn't you?",
+      "note": "Toch asks for agreement. In the middle it comes after the pronoun het; it can also stand at the end after a comma."
+    },
+    {
+      "type": "rewrite",
+      "task": "Contradict the sentence with wel.",
+      "from": "Hij overdrijft niet.",
+      "answers": ["Hij overdrijft wel."],
+      "en": "He does exaggerate.",
+      "note": "Wel takes the place of niet and says the opposite. It is the Dutch answer to a negative."
+    },
+    {
+      "type": "fix",
+      "wrong": "Is dat niet een beetje brutaal, hoor?",
+      "answers": ["Is dat niet een beetje brutaal?"],
+      "en": "Isn't that a bit cheeky?",
+      "note": "Hoor never goes in a question. It belongs at the end of a statement: Dat is een beetje brutaal, hoor."
+    },
+    {
+      "type": "fix",
+      "wrong": "Zeg maar het.",
+      "answers": ["Zeg het maar."],
+      "en": "Go ahead, tell me.",
+      "note": "A short pronoun such as het comes before the particle: Zeg het maar. A waiter uses the same words: What can I get you?"
+    }
+  ]
+}

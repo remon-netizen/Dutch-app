@@ -1,0 +1,222 @@
+{
+  "id": "b1-20",
+  "level": "B1",
+  "icon": "🔧",
+  "title": "Getting things fixed",
+  "grammar": "Laten: letting, having something done, let's",
+  "summary": "laten + infinitive, without te: have something done (Ik laat mijn fiets repareren), let or allow (Laat hem maar praten), let's (Laten we beginnen). Perfect: heb … laten repareren, not gelaten. Alone, laten means to leave.",
+  "explain": "`laten` (liet, heeft gelaten) is one of the most useful verbs in Dutch. With an infinitive it has three meanings: **having something done** by someone else, **letting** someone do something, and **let's**. On its own it means **to leave**.\n\n### 1. Having something done\n\nYou do not do the work yourself, you have it done. Dutch cannot use `maken` or `doen` for this: only `laten`. The infinitive comes **without te** and goes to the end, as after a modal verb.\n\n> Ik laat mijn fiets repareren. — I am having my bike repaired.\n> We laten de cv-ketel elk jaar nakijken. — We have the boiler serviced every year.\n\nYou can add who does the work in two ways:\n\n- with `door`: `Ik laat de auto door de monteur nakijken`.\n- as an object, directly after `laten`: `Ik laat de monteur de auto nakijken`. The doer comes first, then the thing.\n\nWith `komen` it means to send for someone: `Ik laat een loodgieter komen`.\n\n### 2. Letting, allowing\n\n> Ik laat de kinderen buiten spelen. — I let the children play outside.\n> Laat hem maar praten. — Just let him talk.\n\nSome fixed combinations are worth learning as words: `laten zien` (to show), `laten weten` (to let someone know), `laten vallen` (to drop).\n\n> Laat het me even weten. — Just let me know.\n\n### 3. Let's and let me\n\n`Laten we` + infinitive is the Dutch *let's*. It is plural, so always `laten`, never *laat we. `Laat me` (or `laat mij`) + infinitive is *let me*.\n\n> Laten we eerst een offerte vragen. — Let's ask for a quote first.\n> Laat me even kijken. — Let me have a look.\n\n### laten on its own: to leave\n\nWithout an infinitive `laten` means to leave something somewhere, or to leave it as it is. `Laat maar!` means never mind, leave it.\n\n> Laat je jas maar hier. — Just leave your coat here.\n\n### The perfect: two infinitives\n\nWith an infinitive, the perfect of `laten` is **laten**, not *gelaten*: `Ik heb mijn fiets laten repareren`, not *Ik heb mijn fiets gelaten repareren. The second verb stays an infinitive too: not *laten gerepareerd. (Unit B1 · 26 explains this rule for all such verbs.)\n\nWithout an infinitive, the normal participle is used: `Ik heb mijn sleutels thuis gelaten`.\n\n| | with an infinitive | on its own |\n| present | ik laat de fiets repareren | ik laat de fiets thuis |\n| perfect | ik heb de fiets laten repareren | ik heb de fiets thuis gelaten |\n\n### Word order\n\n`laten` is the conjugated verb and stands second; the infinitive closes the sentence. With a modal or in the perfect, `laten` moves to the end too, **before** the other infinitive:\n\n> Ik moet de kraan laten vervangen. — I have to have the tap replaced.\n> Hij zegt dat hij de kraan heeft laten vervangen. — He says that he has had the tap replaced.\n\nWith a separable verb you will also see the prefix in front of laten: `Ik heb de auto na laten kijken` next to `laten nakijken`. Both are correct.\n\n### Watch out\n\n- Not maken: *Ik maak mijn fiets repareren → `Ik laat mijn fiets repareren`. For *make someone do* use `laten` or `zorgen dat`.\n- No te: *Ik laat een loodgieter te komen → `Ik laat een loodgieter komen`.\n- Two infinitives in the perfect: *heb … gelaten repareren → `heb … laten repareren`.\n- `Laten we`, not *Laat we.\n\nYou may also meet `zich laten` in fixed phrases: `Dat laat zich raden` (that's easy to guess).\n\n### Compared with Ukrainian\n\nUkrainian can say `Я підстригся` after a visit to the hairdresser's. Dutch must show that someone else did it: `Ik heb mijn haar laten knippen`.",
+  "words": [
+    { "nl": "monteur", "art": "de", "pl": "monteurs", "en": "mechanic / service engineer", "pos": "n" },
+    { "nl": "loodgieter", "art": "de", "pl": "loodgieters", "en": "plumber", "pos": "n" },
+    { "nl": "elektricien", "art": "de", "pl": "elektriciens", "en": "electrician", "pos": "n" },
+    { "nl": "lekkage", "art": "de", "pl": "lekkages", "en": "leak", "pos": "n" },
+    { "nl": "kraan", "art": "de", "pl": "kranen", "en": "tap", "pos": "n" },
+    { "nl": "cv-ketel", "art": "de", "pl": "cv-ketels", "en": "central-heating boiler", "pos": "n" },
+    { "nl": "offerte", "art": "de", "pl": "offertes", "en": "quote / estimate (for a job)", "pos": "n" },
+    { "nl": "reparatie", "art": "de", "pl": "reparaties", "en": "repair", "pos": "n" },
+    { "nl": "garantie", "art": "de", "pl": "garanties", "en": "guarantee / warranty", "pos": "n" },
+    { "nl": "onderhoud", "art": "het", "pl": "", "en": "maintenance / servicing", "pos": "n" },
+    { "nl": "vervangen", "past": "verving", "perf": "heeft vervangen", "en": "to replace", "pos": "v" },
+    { "nl": "nakijken", "past": "keek na", "perf": "heeft nagekeken", "en": "to check / to service", "pos": "v", "tag": "separable" },
+    { "nl": "lekken", "past": "lekte", "perf": "heeft gelekt", "en": "to leak", "pos": "v" },
+    { "nl": "haperen", "past": "haperde", "perf": "heeft gehaperd", "en": "to play up / to not work properly", "pos": "v" },
+    { "nl": "verstopt", "en": "blocked (a drain, a toilet)", "pos": "adj" },
+    { "nl": "defect", "en": "broken / faulty", "pos": "adj" }
+  ],
+  "sentences": [
+    {
+      "nl": "Ik laat mijn auto elk jaar door de monteur nakijken.",
+      "en": "I have my car serviced by the mechanic every year.",
+      "hint": ["laten", "auto", "elk jaar", "monteur", "nakijken"],
+      "note": "Laat stands second and the infinitive nakijken goes to the end, without te. Door de monteur says who does the work.",
+      "alt": ["Ik laat mijn auto elk jaar nakijken door de monteur.", "Elk jaar laat ik mijn auto door de monteur nakijken.", "Elk jaar laat ik mijn auto nakijken door de monteur.", "Ik laat elk jaar mijn auto door de monteur nakijken.", "Ik laat elk jaar mijn auto nakijken door de monteur."]
+    },
+    {
+      "nl": "We hebben de cv-ketel laten vervangen.",
+      "en": "We have had the boiler replaced.",
+      "hint": ["hebben", "cv-ketel", "laten", "vervangen"],
+      "note": "With an infinitive the perfect of laten is laten, not gelaten: two infinitives at the end, laten vervangen."
+    },
+    {
+      "nl": "Ik laat de loodgieter de kraan vervangen.",
+      "en": "I am having the plumber replace the tap.",
+      "hint": ["laten", "loodgieter", "kraan", "vervangen"],
+      "note": "The doer can be an object directly after laten: first the loodgieter (who does it), then de kraan (what is done).",
+      "alt": ["Ik laat de kraan door de loodgieter vervangen."]
+    },
+    {
+      "nl": "Vraag eerst een offerte voordat je de reparatie laat uitvoeren.",
+      "en": "Ask for a quote first before you have the repair carried out.",
+      "hint": ["vragen", "offerte", "voordat", "reparatie", "laten", "uitvoeren"],
+      "note": "In the sub-clause with voordat, laat goes to the end, but still in front of its infinitive: laat uitvoeren.",
+      "alt": ["Vraag eerst een offerte aan voordat je de reparatie laat uitvoeren.", "Vraag eerst om een offerte voordat je de reparatie laat uitvoeren."]
+    },
+    {
+      "nl": "De elektricien liet me zien hoe de schakelaar werkt.",
+      "en": "The electrician showed me how the switch works.",
+      "hint": ["elektricien", "laten zien", "schakelaar", "werken"],
+      "note": "Laten zien (literally 'let see') means to show. The simple past of laten is liet, and zien goes to the end.",
+      "alt": ["De elektricien liet mij zien hoe de schakelaar werkt.", "De elektricien heeft me laten zien hoe de schakelaar werkt.", "De elektricien heeft mij laten zien hoe de schakelaar werkt."]
+    },
+    {
+      "nl": "Laten we eerst de garantie controleren.",
+      "en": "Let's check the warranty first.",
+      "hint": ["laten", "eerst", "garantie", "controleren"],
+      "note": "Laten we + infinitive is 'let's'. We is plural, so the verb is laten, not laat.",
+      "alt": ["Laten we de garantie eerst controleren."]
+    },
+    {
+      "nl": "Laat me even kijken wat er defect is.",
+      "en": "Let me just have a look at what is broken.",
+      "hint": ["laten", "even", "kijken", "defect"],
+      "note": "Laat me + infinitive is 'let me'. It is an imperative, so just the stem: laat.",
+      "alt": ["Laat mij even kijken wat er defect is."]
+    },
+    {
+      "nl": "Laat je fiets maar hier, dan kijk ik hem morgen na.",
+      "en": "Just leave your bike here, then I will check it tomorrow.",
+      "hint": ["laten", "fiets", "hier", "nakijken", "morgen"],
+      "note": "Without an infinitive, laten means to leave. In the second sentence nakijken splits: kijk … na.",
+      "alt": ["Laat je fiets hier maar, dan kijk ik hem morgen na."]
+    },
+    {
+      "nl": "Ik laat de kinderen niet in de keuken spelen zolang de kraan lekt.",
+      "en": "I don't let the children play in the kitchen as long as the tap is leaking.",
+      "hint": ["laten", "keuken", "spelen", "zolang", "kraan", "lekken"],
+      "note": "Here laten means to allow. Niet stands before the place and the infinitive spelen closes the main clause.",
+      "alt": ["Zolang de kraan lekt, laat ik de kinderen niet in de keuken spelen."]
+    },
+    {
+      "nl": "De monteur heeft zijn gereedschap bij ons laten liggen.",
+      "en": "The mechanic left his tools at our place.",
+      "hint": ["monteur", "gereedschap", "laten", "liggen"],
+      "note": "Laten liggen (leave lying) is a common way to say 'leave behind'. Because there is an infinitive, the perfect is laten liggen, not gelaten.",
+      "alt": ["De monteur liet zijn gereedschap bij ons liggen."]
+    }
+  ],
+  "exercises": [
+    {
+      "type": "choose",
+      "nl": "Ik ___ mijn fiets repareren bij de fietsenmaker.",
+      "options": ["maak", "laat", "doe"],
+      "correct": 1,
+      "en": "I am having my bike repaired at the bike shop.",
+      "note": "Having something done by someone else is always laten + infinitive in Dutch. Maken and doen cannot be used this way."
+    },
+    {
+      "type": "choose",
+      "nl": "Ik heb mijn sleutels thuis ___.",
+      "options": ["laten", "gelaten", "gelaat"],
+      "correct": 1,
+      "en": "I have left my keys at home.",
+      "note": "There is no infinitive here: laten means to leave, and then the normal participle gelaten is used. Only laten + infinitive gives two infinitives."
+    },
+    {
+      "type": "choose",
+      "nl": "___ we de monteur bellen, de verwarming hapert weer.",
+      "options": ["Laat", "Laten", "Liet"],
+      "correct": 1,
+      "en": "Let's call the mechanic, the heating is playing up again.",
+      "note": "Let's is laten we: we is plural, so laten. Laat we is a common mistake."
+    },
+    {
+      "type": "choose",
+      "nl": "De wc is verstopt; ik laat morgen een loodgieter ___ komen.",
+      "options": ["te", "–", "om te"],
+      "correct": 1,
+      "en": "The toilet is blocked; I am having a plumber come tomorrow.",
+      "note": "Laten takes the bare infinitive, without te, just like the modal verbs: laat … komen."
+    },
+    {
+      "type": "gap",
+      "nl": "Vorig jaar ___ (laten) we het dak repareren.",
+      "answers": ["lieten"],
+      "en": "Last year we had the roof repaired.",
+      "note": "Laten is a strong verb: simple past liet, plural lieten. Vorig jaar comes first, so the verb comes before we."
+    },
+    {
+      "type": "gap",
+      "nl": "Hebben jullie de kraan al ___ (laten) vervangen?",
+      "answers": ["laten"],
+      "en": "Have you already had the tap replaced?",
+      "note": "With an infinitive (vervangen) the perfect of laten is the infinitive laten, not gelaten."
+    },
+    {
+      "type": "gap",
+      "nl": "Heb je de lekkage al laten ___ (nakijken)?",
+      "answers": ["nakijken"],
+      "en": "Have you had the leak checked yet?",
+      "note": "After laten the second verb stays an infinitive, also in the perfect: laten nakijken, never laten nagekeken."
+    },
+    {
+      "type": "order",
+      "lead": "Ik",
+      "words": ["laat", "de monteur", "de auto", "nakijken"],
+      "answers": ["Ik laat de monteur de auto nakijken."],
+      "en": "I am having the mechanic check the car.",
+      "note": "When the doer is an object, it comes right after laten: first de monteur, then de auto. The infinitive goes last."
+    },
+    {
+      "type": "order",
+      "lead": "Morgen",
+      "words": ["laat", "ik", "de lekkage", "door een loodgieter", "repareren"],
+      "answers": ["Morgen laat ik de lekkage door een loodgieter repareren.", "Morgen laat ik de lekkage repareren door een loodgieter."],
+      "en": "Tomorrow I am having the leak repaired by a plumber.",
+      "note": "Morgen is first, so laat comes second and ik follows. Repareren goes to the end; door een loodgieter may also come after it."
+    },
+    {
+      "type": "order",
+      "lead": "Omdat de verwarming hapert",
+      "words": ["laat", "ik", "een monteur", "komen"],
+      "answers": ["Omdat de verwarming hapert, laat ik een monteur komen."],
+      "en": "Because the heating is playing up, I am sending for a mechanic.",
+      "note": "The omdat-clause is the first element, so laat comes next and then ik. Laten komen means to have someone come."
+    },
+    {
+      "type": "rewrite",
+      "task": "Put it in the perfect.",
+      "from": "Ik laat de kraan vervangen.",
+      "answers": ["Ik heb de kraan laten vervangen."],
+      "en": "I have had the tap replaced.",
+      "note": "Heb stands second, and laten and vervangen both go to the end as infinitives, laten first."
+    },
+    {
+      "type": "rewrite",
+      "task": "Make it a suggestion with Laten we.",
+      "from": "We vragen eerst een offerte.",
+      "answers": ["Laten we eerst een offerte vragen."],
+      "en": "Let's ask for a quote first.",
+      "note": "Laten we takes the first place, and vragen moves to the end as an infinitive."
+    },
+    {
+      "type": "rewrite",
+      "task": "Say that you have it done instead of doing it yourself: start with Ik laat, and leave out zelf.",
+      "from": "Ik repareer de lekkage zelf.",
+      "answers": ["Ik laat de lekkage repareren."],
+      "en": "I am having the leak repaired.",
+      "note": "Laat takes the place of repareer, and repareren goes to the end as an infinitive without te."
+    },
+    {
+      "type": "fix",
+      "wrong": "Ik maak mijn wasmachine repareren.",
+      "answers": ["Ik laat mijn wasmachine repareren."],
+      "en": "I am having my washing machine repaired.",
+      "note": "Dutch uses laten for having something done. Maken + infinitive does not exist in this meaning."
+    },
+    {
+      "type": "fix",
+      "wrong": "We hebben de oude wasmachine gelaten repareren.",
+      "answers": ["We hebben de oude wasmachine laten repareren."],
+      "en": "We have had the old washing machine repaired.",
+      "note": "When laten has an infinitive with it, its own perfect form is laten as well: two infinitives at the end."
+    },
+    {
+      "type": "fix",
+      "wrong": "Laat we het onderhoud van de ketel plannen.",
+      "answers": ["Laten we het onderhoud van de ketel plannen."],
+      "en": "Let's schedule the maintenance of the boiler.",
+      "note": "In laten we the verb agrees with we, which is plural: laten."
+    }
+  ]
+}

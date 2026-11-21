@@ -1,0 +1,223 @@
+{
+  "id": "b1-26",
+  "level": "B1",
+  "icon": "🧠",
+  "title": "Learning something new",
+  "grammar": "Two infinitives in the perfect: heb moeten werken, is gaan zwemmen",
+  "summary": "A verb with an infinitive after it takes its own infinitive in the perfect, not its participle: heb moeten werken, is gaan zwemmen, heb zitten studeren. Zijn with gaan, komen, blijven; hebben with the rest.",
+  "explain": "Some verbs take another verb in the infinitive: the modal verbs (`moeten`, `kunnen`, `mogen`, `willen`), and also `gaan`, `komen`, `blijven`, `laten`, `zien`, `horen`, `leren`, `helpen`, `hoeven` and `zitten`, `staan`, `liggen`, `lopen`. When you put such a verb in the perfect, it does not use its participle but its **infinitive**. So the sentence ends in two infinitives. Dutch grammars call this *de vervangende infinitief* (the infinitive that replaces the participle).\n\n### The form\n\n| present | perfect |\n| Ik moet werken. | Ik heb moeten werken. |\n| Hij gaat zwemmen. | Hij is gaan zwemmen. |\n| We blijven oefenen. | We zijn blijven oefenen. |\n| Ik zie haar dansen. | Ik heb haar zien dansen. |\n\nNever *Ik heb gemoeten werken or *Hij is gegaan zwemmen.\n\n> Ik heb gisteren twee uur moeten oefenen. — I had to practise for two hours yesterday.\n> Mijn vader heeft me leren fietsen. — My father taught me to ride a bike.\n> De docent heeft ons de tekst laten lezen. — The teacher had us read the text.\n\nNote `leren`: it means both \"to learn\" and \"to teach\". `Ik heb leren zwemmen` is \"I learned to swim\", `Hij heeft me leren zwemmen` \"he taught me to swim\".\n\n### Which auxiliary?\n\nThe **first verb** decides: the one that was conjugated in the present.\n\n- `zijn` with `gaan`, `komen` and `blijven`: `Ik ben gaan zwemmen`, `Ze is komen kijken`, `We zijn blijven zitten`.\n- `hebben` with all the others: the modal verbs, `laten`, `zien`, `horen`, `leren`, `helpen`, `hoeven`, `zitten`, `staan`, `liggen`, `lopen`.\n\nThe verb at the end does not matter. `Werken` alone takes hebben, but `Ik ben gaan werken`. `Gaan` alone takes zijn, but `Ik heb naar huis moeten gaan`, because `moeten` decides.\n\n> Mijn moeder is naar mijn eerste les komen kijken. — My mother came to watch my first lesson.\n\n### No te\n\n`Zitten`, `staan`, `liggen`, `lopen` and `hoeven` take `te` in the present: `Ze zit te studeren`, `Je hoeft niet te komen`. In the perfect `te` normally disappears:\n\n> Ze heeft de hele avond zitten studeren. — She sat studying all evening.\n> Ik heb niet lang hoeven wachten. — I did not have to wait long.\n\nYou will also hear and read the form with `te` (`heeft zitten te studeren`, `heb niet hoeven te wachten`); it is accepted, but the form without `te` is the usual one.\n\n### Word order\n\nIn a main clause the auxiliary stands second and both infinitives go to the end: first the verb that would have been the participle, then the main verb: `heb … moeten werken`, never *heb … werken moeten.\n\nIn a sub-clause all the verbs go to the end, and the auxiliary comes **first**, before the two infinitives:\n\n> Ik ben blij dat ik heb leren zwemmen. — I am glad that I have learned to swim.\n> Het spijt me dat ik niet heb kunnen komen. — I am sorry that I could not come.\n\nNot *dat ik leren zwemmen heb. (More about three verbs at the end in unit B2 · 3.)\n\n### On its own: the normal participle\n\nWithout a second verb these verbs simply take their participle:\n\n> Ik heb het niet gekund. — I was not able to do it.\n> Hij is gisteren naar de les gegaan. — He went to the lesson yesterday.\n\nSo `Ik heb het gewild`, but `Ik heb het willen leren`.\n\n### Watch out\n\n- *Ik heb gemoeten werken → `Ik heb moeten werken`.\n- *Hij heeft gaan zwemmen → `Hij is gaan zwemmen` (gaan decides).\n- *Ik ben naar huis moeten gaan → `Ik heb naar huis moeten gaan` (moeten decides). The form with ben is heard in Belgium, but it is not standard in the Netherlands.\n- *dat ik moeten werken heb → `dat ik heb moeten werken`.\n- *Ik heb het niet kunnen → `Ik heb het niet gekund`: with no second verb, the participle.\n- `proberen` normally keeps its participle and `te`: `Ik heb geprobeerd te bellen`.\n\n### Compared with Ukrainian\n\nUkrainian says this with one past form and an infinitive: `я мусив працювати`. Dutch can do the same with the simple past (`Ik moest werken`), and both are common. But as soon as you choose the perfect, you need the two infinitives.",
+  "words": [
+    { "nl": "vaardigheid", "art": "de", "pl": "vaardigheden", "en": "skill", "pos": "n" },
+    { "nl": "gevorderde", "art": "de", "pl": "gevorderden", "en": "advanced learner", "pos": "n" },
+    { "nl": "cursist", "art": "de", "pl": "cursisten", "en": "course participant / student", "pos": "n" },
+    { "nl": "proefles", "art": "de", "pl": "proeflessen", "en": "trial lesson", "pos": "n" },
+    { "nl": "bijles", "art": "de", "pl": "bijlessen", "en": "extra lessons / tutoring", "pos": "n" },
+    { "nl": "uitspraak", "art": "de", "pl": "uitspraken", "en": "pronunciation", "pos": "n" },
+    { "nl": "vooruitgang", "art": "de", "pl": "", "en": "progress", "pos": "n" },
+    { "nl": "certificaat", "art": "het", "pl": "certificaten", "en": "certificate", "pos": "n" },
+    { "nl": "rijexamen", "art": "het", "pl": "rijexamens", "en": "driving test", "pos": "n" },
+    { "nl": "herkansing", "art": "de", "pl": "herkansingen", "en": "resit (of an exam)", "pos": "n" },
+    { "nl": "beheersen", "past": "beheerste", "perf": "heeft beheerst", "en": "to master (a skill)", "pos": "v" },
+    { "nl": "herhalen", "past": "herhaalde", "perf": "heeft herhaald", "en": "to repeat / to go over again", "pos": "v" },
+    { "nl": "lesstof", "art": "de", "pl": "", "en": "course material (what is taught)", "pos": "n" },
+    { "nl": "lesgeld", "art": "het", "pl": "", "en": "course fee / tuition fee", "pos": "n" },
+    { "nl": "geduldig", "en": "patient", "pos": "adj" },
+    { "nl": "vloeiend", "en": "fluent / fluently", "pos": "adj" }
+  ],
+  "sentences": [
+    {
+      "nl": "Ik heb gisteren twee uur moeten oefenen voor mijn rijexamen.",
+      "en": "Yesterday I had to practise for two hours for my driving test. (perfect)",
+      "hint": ["gisteren", "uur", "moeten", "oefenen", "rijexamen"],
+      "note": "Moeten has an infinitive after it, so in the perfect it does not become gemoeten but stays moeten: heb … moeten oefenen.",
+      "alt": ["Gisteren heb ik twee uur moeten oefenen voor mijn rijexamen.", "Ik heb gisteren twee uur voor mijn rijexamen moeten oefenen.", "Gisteren heb ik twee uur voor mijn rijexamen moeten oefenen."]
+    },
+    {
+      "nl": "Ze is vorig jaar een cursus voor gevorderden gaan volgen.",
+      "en": "Last year she started a course for advanced learners. (perfect)",
+      "hint": ["vorig jaar", "cursus", "gevorderde", "gaan", "volgen"],
+      "note": "Gaan + infinitive in the perfect: is … gaan volgen. The auxiliary is zijn, because gaan decides, not volgen.",
+      "alt": ["Vorig jaar is ze een cursus voor gevorderden gaan volgen.", "Vorig jaar is zij een cursus voor gevorderden gaan volgen."]
+    },
+    {
+      "nl": "We zijn na de les nog een uur blijven oefenen.",
+      "en": "After the lesson we stayed on to practise for another hour. (perfect)",
+      "hint": ["na", "les", "nog", "uur", "blijven", "oefenen"],
+      "note": "Blijven takes zijn, and with an infinitive after it, it stays blijven instead of gebleven: zijn … blijven oefenen.",
+      "alt": ["Na de les zijn we nog een uur blijven oefenen."]
+    },
+    {
+      "nl": "Ik heb hem nog nooit zo vloeiend Nederlands horen spreken.",
+      "en": "I have never heard him speak Dutch so fluently.",
+      "hint": ["nog nooit", "vloeiend", "Nederlands", "horen", "spreken"],
+      "note": "Horen + infinitive: in the perfect horen replaces gehoord. The person you hear, hem, comes early in the middle.",
+      "alt": ["Ik heb hem nooit zo vloeiend Nederlands horen spreken."]
+    },
+    {
+      "nl": "Mijn vader heeft me leren fietsen.",
+      "en": "My father taught me to ride a bike. (perfect)",
+      "hint": ["vader", "leren", "fietsen"],
+      "note": "Leren here means 'to teach'. With an infinitive after it, the perfect is heeft … leren fietsen, with hebben.",
+      "alt": ["Mijn vader heeft mij leren fietsen.", "Mijn vader heeft me fietsen geleerd.", "Mijn vader heeft mij fietsen geleerd."]
+    },
+    {
+      "nl": "Ze heeft de hele avond woordjes zitten herhalen.",
+      "en": "She sat going over vocabulary all evening. (perfect)",
+      "hint": ["hele", "avond", "woordje", "zitten", "herhalen"],
+      "note": "In the present it is ze zit … te herhalen. In the perfect zitten stays an infinitive, takes hebben, and te normally disappears.",
+      "alt": ["Ze heeft de hele avond woordjes zitten te herhalen."]
+    },
+    {
+      "nl": "Ik heb dit jaar geen lesgeld hoeven betalen.",
+      "en": "I did not have to pay any course fee this year. (perfect)",
+      "hint": ["dit jaar", "lesgeld", "hoeven", "betalen"],
+      "note": "Hoeven + infinitive: in the perfect heb … hoeven betalen, usually without te.",
+      "alt": ["Ik heb dit jaar geen lesgeld hoeven te betalen.", "Dit jaar heb ik geen lesgeld hoeven betalen.", "Dit jaar heb ik geen lesgeld hoeven te betalen."]
+    },
+    {
+      "nl": "Omdat ik ziek was, heb ik de les niet kunnen volgen.",
+      "en": "Because I was ill, I was not able to attend the lesson. (perfect)",
+      "hint": ["omdat", "ziek", "les", "kunnen", "volgen"],
+      "note": "Kunnen with an infinitive: heb … kunnen volgen, not gekund. The sub-clause comes first, so heb comes right after the comma, before ik.",
+      "alt": ["Ik heb de les niet kunnen volgen, omdat ik ziek was."]
+    },
+    {
+      "nl": "Ik vind het jammer dat ik de proefles heb moeten missen.",
+      "en": "I am sorry that I had to miss the trial lesson. (perfect)",
+      "hint": ["vinden", "jammer", "dat", "proefles", "moeten", "missen"],
+      "note": "In a sub-clause all verbs stand at the end, with the auxiliary first: heb moeten missen. Not *moeten missen heb."
+    },
+    {
+      "nl": "De docent is erg geduldig: hij heeft ons de uitspraak tien keer laten oefenen.",
+      "en": "The teacher is very patient: he had us practise the pronunciation ten times. (perfect)",
+      "hint": ["docent", "geduldig", "uitspraak", "keer", "laten", "oefenen"],
+      "note": "Laten + infinitive: in the perfect laten replaces gelaten, with hebben: heeft … laten oefenen.",
+      "alt": ["De docent is erg geduldig: hij heeft ons tien keer de uitspraak laten oefenen."]
+    }
+  ],
+  "exercises": [
+    {
+      "type": "choose",
+      "nl": "Ik heb die nieuwe vaardigheid snel ___ beheersen.",
+      "options": ["geleerd", "leren", "geleerde"],
+      "correct": 1,
+      "en": "I learned to master that new skill quickly.",
+      "note": "Leren has another infinitive after it, beheersen, so in the perfect it stays an infinitive: heb … leren beheersen."
+    },
+    {
+      "type": "choose",
+      "nl": "Na de bijles ___ mijn zoon nog gaan voetballen.",
+      "options": ["heeft", "is", "zijn"],
+      "correct": 1,
+      "en": "After the tutoring my son went on to play football.",
+      "note": "The first verb, gaan, decides the auxiliary, and gaan takes zijn. Voetballen alone would take hebben, but that does not count here."
+    },
+    {
+      "type": "choose",
+      "nl": "De eerste keer heb ik het niet ___, maar bij de herkansing wel.",
+      "options": ["kunnen", "gekund", "kan"],
+      "correct": 1,
+      "en": "The first time I was not able to do it, but at the resit I was.",
+      "note": "There is no second verb here, so kunnen takes its normal participle: gekund. The infinitive only replaces it when another infinitive follows."
+    },
+    {
+      "type": "choose",
+      "nl": "Ik ___ naar huis moeten gaan, want ik voelde me niet goed.",
+      "options": ["ben", "heb", "is"],
+      "correct": 1,
+      "en": "I had to go home, because I was not feeling well.",
+      "note": "Moeten is the first verb, and it takes hebben. Gaan at the end does not decide: heb … moeten gaan."
+    },
+    {
+      "type": "gap",
+      "nl": "De cursisten hebben in korte tijd veel vooruitgang ___ (kunnen) boeken.",
+      "answers": ["kunnen"],
+      "en": "The course participants have been able to make a lot of progress in a short time.",
+      "note": "An infinitive follows, boeken, so kunnen does not become gekund: hebben … kunnen boeken."
+    },
+    {
+      "type": "gap",
+      "nl": "Mijn moeder ___ (zijn / hebben) bij mijn eerste les komen kijken.",
+      "answers": ["is"],
+      "en": "My mother came to watch at my first lesson.",
+      "note": "Komen is the first verb and takes zijn, so is … komen kijken. Komen stays an infinitive because kijken follows."
+    },
+    {
+      "type": "gap",
+      "nl": "Gelukkig heb ik niet lang ___ (hoeven) wachten op mijn certificaat.",
+      "answers": ["hoeven", "hoeven te"],
+      "en": "Luckily I did not have to wait long for my certificate.",
+      "note": "Hoeven with an infinitive stays hoeven in the perfect. Te usually disappears, but hoeven te wachten is also accepted."
+    },
+    {
+      "type": "order",
+      "lead": "Ik",
+      "words": ["heb", "gisteren", "de lesstof", "moeten", "herhalen"],
+      "answers": ["Ik heb gisteren de lesstof moeten herhalen.", "Ik heb de lesstof gisteren moeten herhalen."],
+      "en": "Yesterday I had to go over the course material again.",
+      "note": "The two infinitives close the sentence: first moeten, then herhalen. De lesstof is definite, so it may stand before or after gisteren."
+    },
+    {
+      "type": "order",
+      "lead": "Ik ben blij dat",
+      "words": ["ik", "eindelijk", "heb", "leren", "zwemmen"],
+      "answers": ["Ik ben blij dat ik eindelijk heb leren zwemmen."],
+      "en": "I am glad that I have finally learned to swim.",
+      "note": "In a sub-clause the auxiliary heb comes before the two infinitives: heb leren zwemmen. Not *leren zwemmen heb."
+    },
+    {
+      "type": "order",
+      "lead": "Ik",
+      "words": ["heb", "me", "niet meer", "kunnen", "inschrijven"],
+      "answers": ["Ik heb me niet meer kunnen inschrijven."],
+      "en": "I was no longer able to sign up.",
+      "note": "The pronoun me comes early, then niet meer, and the two infinitives go last: kunnen inschrijven. The auxiliary is hebben, because kunnen decides."
+    },
+    {
+      "type": "rewrite",
+      "task": "Put it in the perfect.",
+      "from": "Na de les blijven we nog even praten.",
+      "answers": ["Na de les zijn we nog even blijven praten."],
+      "en": "After the lesson we stayed on for a chat.",
+      "note": "Blijven takes zijn and stays an infinitive because praten follows: zijn … blijven praten, not *gebleven praten."
+    },
+    {
+      "type": "rewrite",
+      "task": "Put it in the perfect.",
+      "from": "Ze zit de hele middag te studeren.",
+      "answers": ["Ze heeft de hele middag zitten studeren.", "Ze heeft de hele middag zitten te studeren."],
+      "en": "She sat studying all afternoon.",
+      "note": "Zitten takes hebben and stays an infinitive. Te normally disappears in the perfect: heeft … zitten studeren."
+    },
+    {
+      "type": "rewrite",
+      "task": "Put it in the perfect.",
+      "from": "Ik zie mijn dochter elke dag piano oefenen.",
+      "answers": ["Ik heb mijn dochter elke dag piano zien oefenen."],
+      "en": "I have seen my daughter practise the piano every day.",
+      "note": "Zien with an infinitive after it: zien replaces gezien, with hebben. Zien comes before oefenen at the end."
+    },
+    {
+      "type": "rewrite",
+      "task": "Replace want with omdat.",
+      "from": "Ze is voor haar examen gezakt, want ze heeft niet genoeg kunnen oefenen.",
+      "answers": ["Ze is voor haar examen gezakt, omdat ze niet genoeg heeft kunnen oefenen.", "Ze is voor haar examen gezakt, omdat zij niet genoeg heeft kunnen oefenen."],
+      "en": "She failed her exam because she was not able to practise enough.",
+      "note": "After omdat all verbs go to the end, and the auxiliary heeft comes first: heeft kunnen oefenen."
+    },
+    {
+      "type": "fix",
+      "wrong": "Ik heb gisteren niet gekund komen.",
+      "answers": ["Ik heb gisteren niet kunnen komen."],
+      "en": "I was not able to come yesterday.",
+      "note": "Komen follows, so kunnen does not take its participle: heb … kunnen komen. Gekund is only used when there is no second verb."
+    },
+    {
+      "type": "fix",
+      "wrong": "Mijn broer heeft na zijn werk nog gaan sporten.",
+      "answers": ["Mijn broer is na zijn werk nog gaan sporten."],
+      "en": "After work my brother went on to do some sport.",
+      "note": "Gaan is the first verb and always takes zijn, also with an infinitive after it: is … gaan sporten."
+    }
+  ]
+}

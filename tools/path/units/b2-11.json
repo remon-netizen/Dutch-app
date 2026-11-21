@@ -1,0 +1,477 @@
+{
+  "id": "b2-11",
+  "level": "B2",
+  "icon": "🌍",
+  "title": "Climate and energy",
+  "grammar": "Word order for emphasis: what goes first, what goes last",
+  "summary": "First place: the link with what came before, or a contrast (Dat plan steun ik niet). After the final verbs: phrases with a preposition, dan-comparisons, sub-clauses; never an object, an adjective or niet.",
+  "explain": "A Dutch sentence has a fixed frame: the first place, the conjugated verb, the middle field (*het middenveld*), the final verbs, and a last field after them (*het achterveld*). The verbs stay where they are. What you choose is what goes first, what goes to the end of the middle field and what goes after the final verbs. Often several orders are correct; they differ only in emphasis.\n\n| first place | verb | middle field | final verbs, last field |\n| Ik | heb | dat plan nooit | gesteund. |\n| Dat plan | heb | ik nooit | gesteund. |\n| We | hebben | lang | gewacht op de monteur. |\n\n### The first place\n\nBesides the subject, almost any one element can stand first: a time or place, an object, a whole sub-clause, even an infinitive or a participle. The verb follows, then the subject. What stands first is usually **the link with what came before** (often `dat`, `die`, `daar`) or **a contrast**.\n\n> Dat plan steun ik niet. — That plan I do not support.\n> Als de gasprijs stijgt, isoleren meer mensen hun huis. — If the gas price rises, more people insulate their homes.\n> Betalen wil niemand. — Nobody wants to pay.\n> Gelezen heb ik het rapport wel, maar ik ben het er niet mee eens. — I did read the report, but I do not agree with it.\n\nAn infinitive or participle in first place nearly always means contrast; it is stressed, and `wel` or `niet` often follows. And when an object stands first, the verb still agrees with the subject: `Windturbines wil niemand in zijn achtertuin`.\n\n### The last field: after the final verbs\n\nAfter the final verbs Dutch can put:\n\n- a phrase with a preposition: `We hebben lang gewacht op de monteur`, or `lang op de monteur gewacht`; both are correct.\n- a comparison with `dan` or `als`: `Het is duurder geworden dan vorig jaar`, or `duurder dan vorig jaar geworden`.\n- a `dat`-clause or other sub-clause: it **must** go there, unless it stands first. `Ik heb gezegd dat het te duur is`, never *Ik heb dat het te duur is gezegd.\n- a `te`-clause: `We hebben besloten (om) het huis te isoleren`.\n\nMoving a long part there keeps the conjugated verb and the final verbs close together, so the reader does not have to wait for the verb.\n\nWhat may **not** go there:\n\n- an object without a preposition: `Ik heb het rapport gelezen`, not *Ik heb gelezen het rapport.\n- a predicate adjective: `Het is duur geworden`, not *Het is geworden duur.\n- `niet`: `We kunnen het niet stoppen`, not *We kunnen het stoppen niet.\n\n### The pincer (de tang)\n\nArticle and noun, and the two verb positions, work like the two arms of a pincer (*de tang*). Put too much between them and the sentence becomes hard to follow. `de door de regering vorig jaar genomen maatregelen` is correct but heavy; a relative clause after the noun is easier. Between the verbs, move a phrase with a preposition to the last field.\n\n> De maatregelen die de regering vorig jaar heeft genomen, werken niet. — The measures that the government took last year do not work.\n> Het kabinet heeft tot diep in de nacht vergaderd over de klimaatwet. — The cabinet met until deep into the night about the climate law.\n\n### The end of the middle field\n\nThe last place before the final verbs is usually where **new and important** information goes; it carries the stress. Things that are already known (pronouns, a noun mentioned before) come earlier.\n\n> We hebben vorig jaar zonnepanelen gekocht. — We bought solar panels last year.\n> We hebben de zonnepanelen vorig jaar gekocht. — We bought the solar panels last year.\n\nIn the first sentence the news is the panels; in the second it is when.\n\n### Watch out\n\n- **One element before the verb**: *Dat plan ik steun niet → `Dat plan steun ik niet`.\n- **The verb agrees with the subject**, not with the first element: `Fossiele brandstoffen wil de regering duurder maken`.\n- **No object, adjective or niet after the final verbs** (see above).\n\n### Compared with Ukrainian\n\nUkrainian can move almost any word for emphasis, because the case endings show who does what. Dutch can do this only in the first place and in the last field; the verbs stay put. `Цей план я не підтримую` works just like `Dat plan steun ik niet`.",
+  "words": [
+    {
+      "nl": "klimaatverandering",
+      "art": "de",
+      "pl": "",
+      "en": "climate change",
+      "pos": "n",
+      "tag": "no plural"
+    },
+    {
+      "nl": "opwarming",
+      "art": "de",
+      "pl": "",
+      "en": "warming (of the earth)",
+      "pos": "n",
+      "tag": "no plural"
+    },
+    {
+      "nl": "broeikasgas",
+      "art": "het",
+      "pl": "broeikasgassen",
+      "en": "greenhouse gas",
+      "pos": "n"
+    },
+    {
+      "nl": "zonnepaneel",
+      "art": "het",
+      "pl": "zonnepanelen",
+      "en": "solar panel",
+      "pos": "n"
+    },
+    {
+      "nl": "windturbine",
+      "art": "de",
+      "pl": "windturbines",
+      "en": "wind turbine",
+      "pos": "n"
+    },
+    {
+      "nl": "aardgas",
+      "art": "het",
+      "pl": "",
+      "en": "natural gas",
+      "pos": "n",
+      "tag": "no plural"
+    },
+    {
+      "nl": "brandstof",
+      "art": "de",
+      "pl": "brandstoffen",
+      "en": "fuel",
+      "pos": "n"
+    },
+    {
+      "nl": "warmtepomp",
+      "art": "de",
+      "pl": "warmtepompen",
+      "en": "heat pump",
+      "pos": "n"
+    },
+    {
+      "nl": "energieverbruik",
+      "art": "het",
+      "pl": "",
+      "en": "energy consumption",
+      "pos": "n",
+      "tag": "no plural"
+    },
+    {
+      "nl": "zeespiegel",
+      "art": "de",
+      "pl": "zeespiegels",
+      "en": "sea level",
+      "pos": "n"
+    },
+    {
+      "nl": "isoleren",
+      "past": "isoleerde",
+      "perf": "heeft geïsoleerd",
+      "en": "to insulate",
+      "pos": "v"
+    },
+    {
+      "nl": "verminderen",
+      "past": "verminderde",
+      "perf": "heeft verminderd",
+      "en": "to reduce",
+      "pos": "v"
+    },
+    {
+      "nl": "opwekken",
+      "past": "wekte op",
+      "perf": "heeft opgewekt",
+      "en": "to generate (energy)",
+      "pos": "v",
+      "tag": "separable"
+    },
+    {
+      "nl": "terugdringen",
+      "past": "drong terug",
+      "perf": "heeft teruggedrongen",
+      "en": "to cut back / to bring down",
+      "pos": "v",
+      "tag": "separable"
+    },
+    {
+      "nl": "fossiel",
+      "en": "fossil",
+      "pos": "adj"
+    },
+    {
+      "nl": "hernieuwbaar",
+      "en": "renewable",
+      "pos": "adj"
+    }
+  ],
+  "sentences": [
+    {
+      "nl": "Dat plan steun ik niet, want het is veel te duur.",
+      "en": "That plan I do not support, because it is far too expensive.",
+      "hint": [
+        "plan",
+        "steunen",
+        "niet",
+        "duur"
+      ],
+      "note": "The object dat plan stands first as the link with what was just said; the verb steun stays second and the subject ik follows it.",
+      "alt": [
+        "Ik steun dat plan niet, want het is veel te duur."
+      ]
+    },
+    {
+      "nl": "Zonnepanelen hebben we al, maar een warmtepomp nog niet.",
+      "en": "Solar panels we already have, but not a heat pump yet.",
+      "hint": [
+        "zonnepaneel",
+        "hebben",
+        "al",
+        "warmtepomp"
+      ],
+      "note": "Zonnepanelen stands first for contrast with een warmtepomp. After it comes the verb, then we.",
+      "alt": [
+        "We hebben al zonnepanelen, maar een warmtepomp nog niet.",
+        "Zonnepanelen hebben we al, maar nog geen warmtepomp.",
+        "We hebben al zonnepanelen, maar nog geen warmtepomp."
+      ]
+    },
+    {
+      "nl": "Betalen wil niemand, maar iedereen wil schone lucht.",
+      "en": "Nobody wants to pay, but everyone wants clean air.",
+      "hint": [
+        "betalen",
+        "willen",
+        "niemand",
+        "schoon",
+        "lucht"
+      ],
+      "note": "An infinitive in first place gives strong contrast. The verb wil agrees with the subject niemand.",
+      "alt": [
+        "Niemand wil betalen, maar iedereen wil schone lucht."
+      ]
+    },
+    {
+      "nl": "Als de gasprijs blijft stijgen, gaan veel mensen hun huis isoleren.",
+      "en": "If the gas price keeps rising, many people are going to insulate their homes.",
+      "hint": [
+        "gasprijs",
+        "blijven",
+        "stijgen",
+        "isoleren"
+      ],
+      "note": "The whole als-clause fills the first place, so the verb gaan follows directly after the comma, before the subject veel mensen.",
+      "alt": [
+        "Veel mensen gaan hun huis isoleren als de gasprijs blijft stijgen.",
+        "Als de gasprijs blijft stijgen, gaan veel mensen hun huizen isoleren.",
+        "Veel mensen gaan hun huizen isoleren als de gasprijs blijft stijgen."
+      ]
+    },
+    {
+      "nl": "De regering heeft lang gewacht met maatregelen tegen klimaatverandering.",
+      "en": "The government waited a long time with measures against climate change.",
+      "hint": [
+        "regering",
+        "wachten",
+        "maatregel",
+        "klimaatverandering"
+      ],
+      "note": "The long phrase with met stands after the participle gewacht, so heeft and gewacht stay close together. Inside the middle field it is also correct.",
+      "alt": [
+        "De regering heeft lang met maatregelen tegen klimaatverandering gewacht.",
+        "De regering heeft met maatregelen tegen klimaatverandering lang gewacht."
+      ]
+    },
+    {
+      "nl": "Stroom is dit jaar duurder geworden dan vorig jaar.",
+      "en": "Electricity has become more expensive this year than last year.",
+      "hint": [
+        "stroom",
+        "dit jaar",
+        "duur",
+        "worden",
+        "vorig jaar"
+      ],
+      "note": "The comparison dan vorig jaar may follow the final verb geworden; the adjective duurder itself must stay before it.",
+      "alt": [
+        "Stroom is dit jaar duurder dan vorig jaar geworden.",
+        "Dit jaar is stroom duurder geworden dan vorig jaar.",
+        "Dit jaar is stroom duurder dan vorig jaar geworden."
+      ]
+    },
+    {
+      "nl": "We hebben besloten om ons oude huis beter te isoleren.",
+      "en": "We have decided to insulate our old house better.",
+      "hint": [
+        "besluiten",
+        "oud",
+        "huis",
+        "goed",
+        "isoleren"
+      ],
+      "note": "A te-clause goes after the final verb besloten. Om is optional here.",
+      "alt": [
+        "We hebben besloten ons oude huis beter te isoleren."
+      ]
+    },
+    {
+      "nl": "De maatregelen die de regering vorig jaar heeft genomen, werken nog niet.",
+      "en": "The measures that the government took last year are not working yet.",
+      "hint": [
+        "maatregel",
+        "regering",
+        "vorig jaar",
+        "nemen",
+        "werken"
+      ],
+      "note": "A relative clause after the noun avoids a heavy pincer like de door de regering vorig jaar genomen maatregelen.",
+      "alt": [
+        "De maatregelen die de regering vorig jaar genomen heeft, werken nog niet."
+      ]
+    },
+    {
+      "nl": "Hoeveel energie we kunnen opwekken, hangt af van het weer.",
+      "en": "How much energy we can generate depends on the weather.",
+      "hint": [
+        "energie",
+        "kunnen",
+        "opwekken",
+        "afhangen van",
+        "weer"
+      ],
+      "note": "The whole clause is the subject and fills the first place; hangt follows it. Van het weer may also stand before af: hangt van het weer af.",
+      "alt": [
+        "Hoeveel energie we kunnen opwekken, hangt van het weer af.",
+        "Het hangt van het weer af hoeveel energie we kunnen opwekken.",
+        "Het hangt af van het weer hoeveel energie we kunnen opwekken."
+      ]
+    },
+    {
+      "nl": "Gelezen heeft de minister het klimaatrapport wel, maar ze heeft er niets mee gedaan.",
+      "en": "The minister did read the climate report, but she did nothing with it.",
+      "hint": [
+        "lezen",
+        "minister",
+        "klimaatrapport",
+        "wel",
+        "doen"
+      ],
+      "note": "The participle gelezen in first place contrasts reading with doing. Wel underlines the contrast; the subject follows the verb heeft.",
+      "alt": [
+        "De minister heeft het klimaatrapport wel gelezen, maar ze heeft er niets mee gedaan.",
+        "Het klimaatrapport heeft de minister wel gelezen, maar ze heeft er niets mee gedaan.",
+        "Gelezen heeft de minister het klimaatrapport wel, maar zij heeft er niets mee gedaan.",
+        "De minister heeft het klimaatrapport wel gelezen, maar zij heeft er niets mee gedaan."
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "type": "choose",
+      "nl": "Die ene windturbine ___ de bewoners van het dorp niet tegenhouden.",
+      "options": [
+        "kan",
+        "kunnen",
+        "kunt"
+      ],
+      "correct": 1,
+      "en": "The residents of the village cannot stop that one wind turbine.",
+      "note": "The object stands first, but the subject is de bewoners, so the verb is plural: kunnen. With kan the turbine would be stopping the residents."
+    },
+    {
+      "type": "choose",
+      "nl": "Fossiele brandstoffen ___ de regering de komende jaren duurder maken.",
+      "options": [
+        "willen",
+        "wil",
+        "wilt"
+      ],
+      "correct": 1,
+      "en": "The government wants to make fossil fuels more expensive in the coming years.",
+      "note": "The verb agrees with the subject de regering, not with the first element fossiele brandstoffen: wil."
+    },
+    {
+      "type": "choose",
+      "nl": "Het kabinet heeft lang gediscussieerd ___.",
+      "options": [
+        "hernieuwbare energie",
+        "niet",
+        "over hernieuwbare energie"
+      ],
+      "correct": 2,
+      "en": "The cabinet discussed renewable energy for a long time.",
+      "note": "After the final verb only a phrase with a preposition fits. An object without a preposition or niet cannot stand there."
+    },
+    {
+      "type": "gap",
+      "nl": "Dat het klimaat verandert, ___ (ontkennen) bijna niemand meer.",
+      "answers": [
+        "ontkent"
+      ],
+      "en": "Hardly anyone denies any more that the climate is changing.",
+      "note": "The dat-clause is the object and fills the first place, so the verb follows straight after the comma. The subject is niemand, singular: ontkent."
+    },
+    {
+      "type": "gap",
+      "nl": "Vooral voor zonnepanelen ___ (geven) de overheid veel subsidie.",
+      "answers": [
+        "geeft"
+      ],
+      "en": "The government gives a lot of subsidy above all for solar panels.",
+      "note": "Vooral voor zonnepanelen is one element in first place, so the verb comes next and the subject de overheid after it: geeft."
+    },
+    {
+      "type": "gap",
+      "nl": "Terugdringen ___ (moeten) we de uitstoot hoe dan ook; de vraag is alleen hoe snel.",
+      "answers": [
+        "moeten"
+      ],
+      "en": "We have to cut emissions back no matter what; the only question is how fast.",
+      "note": "The infinitive terugdringen stands first for contrast. The conjugated verb agrees with we: moeten."
+    },
+    {
+      "type": "order",
+      "lead": "Gisteren",
+      "words": [
+        "heb",
+        "ik",
+        "lang",
+        "gewacht",
+        "op de installateur"
+      ],
+      "answers": [
+        "Gisteren heb ik lang gewacht op de installateur.",
+        "Gisteren heb ik lang op de installateur gewacht.",
+        "Gisteren heb ik op de installateur lang gewacht."
+      ],
+      "en": "Yesterday I waited a long time for the installer.",
+      "note": "A phrase with a preposition may stand after the participle or in the middle field. Putting it after gewacht keeps the verbs close together."
+    },
+    {
+      "type": "order",
+      "lead": "Aardgas",
+      "words": [
+        "is",
+        "veel duurder",
+        "geworden",
+        "dan vroeger"
+      ],
+      "answers": [
+        "Aardgas is veel duurder geworden dan vroeger.",
+        "Aardgas is veel duurder dan vroeger geworden."
+      ],
+      "en": "Natural gas has become much more expensive than it used to be.",
+      "note": "The comparison with dan may go after the final verb or stay with the adjective. Veel duurder itself must stand before geworden."
+    },
+    {
+      "type": "order",
+      "lead": "De gemeente",
+      "words": [
+        "heeft",
+        "beloofd",
+        "alle scholen",
+        "te isoleren",
+        "voor 2030"
+      ],
+      "answers": [
+        "De gemeente heeft beloofd alle scholen voor 2030 te isoleren.",
+        "De gemeente heeft beloofd voor 2030 alle scholen te isoleren.",
+        "De gemeente heeft beloofd alle scholen te isoleren voor 2030."
+      ],
+      "en": "The municipality has promised to insulate all schools before 2030.",
+      "note": "The te-clause comes after the participle beloofd. Inside it, voor 2030 may stand before or after alle scholen, or after te isoleren."
+    },
+    {
+      "type": "order",
+      "lead": "Als we niets doen,",
+      "words": [
+        "stijgt",
+        "de zeespiegel",
+        "nog",
+        "verder"
+      ],
+      "answers": [
+        "Als we niets doen, stijgt de zeespiegel nog verder."
+      ],
+      "en": "If we do nothing, the sea level will rise even further.",
+      "note": "The als-clause counts as the first element, so the verb stijgt comes directly after the comma and then the subject."
+    },
+    {
+      "type": "rewrite",
+      "task": "Start with Zonnepanelen.",
+      "from": "Mijn buren hebben vorig jaar zonnepanelen op hun dak gelegd.",
+      "answers": [
+        "Zonnepanelen hebben mijn buren vorig jaar op hun dak gelegd."
+      ],
+      "en": "My neighbours put solar panels on their roof last year.",
+      "note": "The object moves to the first place, the verb hebben stays second and the subject mijn buren follows it. The rest keeps its order."
+    },
+    {
+      "type": "rewrite",
+      "task": "Move the phrase with over to the end of the sentence.",
+      "from": "De ministers hebben gisteren tot diep in de nacht over het verminderen van broeikasgassen vergaderd.",
+      "answers": [
+        "De ministers hebben gisteren tot diep in de nacht vergaderd over het verminderen van broeikasgassen."
+      ],
+      "en": "Yesterday the ministers met until deep into the night about reducing greenhouse gases.",
+      "note": "A long phrase with a preposition may follow the participle. Then hebben and vergaderd are no longer so far apart."
+    },
+    {
+      "type": "rewrite",
+      "task": "Avoid the heavy pincer: put a relative clause after maatregel.",
+      "from": "De door het kabinet vorige maand aangekondigde maatregel is omstreden.",
+      "answers": [
+        "De maatregel die het kabinet vorige maand heeft aangekondigd, is omstreden.",
+        "De maatregel die het kabinet vorige maand aangekondigd heeft, is omstreden.",
+        "De maatregel die vorige maand door het kabinet is aangekondigd, is omstreden.",
+        "De maatregel die vorige maand door het kabinet aangekondigd is, is omstreden."
+      ],
+      "en": "The measure that the cabinet announced last month is controversial.",
+      "note": "Everything between de and maatregel moves into a relative clause after the noun. Die is used because maatregel is a de-word."
+    },
+    {
+      "type": "fix",
+      "wrong": "Ik heb gelezen het hele klimaatrapport.",
+      "answers": [
+        "Ik heb het hele klimaatrapport gelezen."
+      ],
+      "en": "I have read the whole climate report.",
+      "note": "An object without a preposition cannot stand after the final verb; it belongs in the middle field."
+    },
+    {
+      "type": "fix",
+      "wrong": "Het energieverbruik is geworden veel lager.",
+      "answers": [
+        "Het energieverbruik is veel lager geworden."
+      ],
+      "en": "Energy consumption has become much lower.",
+      "note": "A predicate adjective stays before the final verb. Only a comparison with dan could follow geworden."
+    },
+    {
+      "type": "fix",
+      "wrong": "Zonder nieuwe maatregelen kunnen we de opwarming stoppen niet.",
+      "answers": [
+        "Zonder nieuwe maatregelen kunnen we de opwarming niet stoppen."
+      ],
+      "en": "Without new measures we cannot stop the warming.",
+      "note": "niet never stands after the final verbs. Here it goes directly before the infinitive stoppen."
+    }
+  ]
+}

@@ -1,0 +1,477 @@
+{
+  "id": "b2-23",
+  "level": "B2",
+  "icon": "🌐",
+  "title": "Society and change",
+  "grammar": "Long sentences: combining clauses without losing the thread",
+  "summary": "Every clause keeps its own order: verb second in a main clause, verbs at the end in a sub-clause, also after en or maar inside it. A clause in first place is followed by the verb. Check the subject, the auxiliary, er and wat.",
+  "explain": "A B2 text often packs three or four clauses into one sentence. Nothing new happens in the grammar: each clause keeps its own rules. The skill is to see which clause every verb belongs to, and to keep track of the subject.\n\n### Each clause has its own verb place\n\nIn a main clause the conjugated verb stands second. In a sub-clause (after `dat`, `omdat`, `of`, `hoewel`, `die`, `wat` …) all the verbs go to the end.\n\n| clause | verb |\n| Ik denk | denk: second place |\n| dat hij niet komt | komt: end |\n| omdat hij moet werken | moet werken: end |\n\n> Ik denk dat hij niet komt omdat hij moet werken. — I think he is not coming because he has to work.\n\nAt the end of a sub-clause two verbs may stand in either order: `dat ze is gevlucht` or `dat ze gevlucht is`; `omdat hij moet werken` or, less often, `omdat hij werken moet`. Both are correct.\n\n### A clause inside a clause\n\nA relative clause can sit inside a dat-clause. The inner clause is finished first, then the verb of the outer clause follows. A comma after the inner clause helps the reader see where it ends.\n\n> Ik hoop dat de mensen die hier wonen, tevreden zijn. — I hope that the people who live here are satisfied.\n\n`wonen` belongs to the die-clause, `zijn` to the dat-clause, and its subject is `de mensen`.\n\n### A clause in first place\n\nA whole sub-clause or infinitive clause can be the first element. The main clause then starts with its verb, followed by the subject, however long the first element is.\n\n> Omdat de huren stijgen, verhuizen veel gezinnen. — Because rents are rising, many families are moving.\n> Om de taal te leren, volgt zij een cursus. — To learn the language, she is taking a course.\n\nThe exception is a clause with `wat … ook` or `hoe … ook`: it stands outside the sentence, so no inversion (`Wat je ook zegt, ik blijf`).\n\n### en and maar inside a sub-clause\n\nAfter `en` or `maar` the sub-clause simply continues, so the verb stays at the end. The subject may be left out only when it is the same.\n\n> Ze blijft thuis omdat ze ziek is en niet kan werken. — She is staying at home because she is ill and cannot work.\n> Het gaat goed, omdat de kinderen naar school gaan en de ouders werk hebben. — Things are going well, because the children go to school and the parents have work.\n\n*omdat ze ziek is en kan niet werken is wrong: the second half still belongs to the omdat-clause.\n\n### Passive, relative clause and connector in one\n\n> De wet die vorig jaar werd aangenomen, wordt nu ingevoerd, maar veel gemeenten zijn nog niet klaar. — The law that was passed last year is now being introduced, but many municipalities are not ready yet.\n\nThree clauses: the die-clause (verbs at the end), the main clause (`wordt` second, subject `de wet`) and a second main clause after `maar`, which does not count as an element (`zijn` second).\n\n### Typical B2 errors\n\n- **Main-clause order in a sub-clause**: *dat de samenleving wordt diverser → `dat de samenleving diverser wordt`.\n- **Forgotten inversion** after a long first element: *Na drie jaar in de opvang het gezin kreeg een huis → `kreeg het gezin`.\n- **Wrong auxiliary**: a change of place or state takes `zijn`: `dat hij is geëmigreerd`, `dat het aantal is gestegen`.\n- **A lost er**: an indefinite subject keeps its `er` in a sub-clause too: `of er genoeg woningen zijn`.\n- **The verb agrees with the nearest noun**: *Het aantal vluchtelingen zijn gestegen. The subject is `het aantal`: `is gestegen`.\n- **dat for wat**: when it refers to a whole clause, and after `alles` and `niets`, it is `wat`: `Hij kwam niet, wat ik jammer vond.` After `iets` both `wat` and `dat` are used.\n\n### How to shorten\n\n- Split into two sentences, and link them with a word like `daarom` or `bovendien`.\n- Move the heavy part to the end: `Het is bekend dat …` rather than `Dat …, is bekend`.\n- Replace a dat-clause by `te` + infinitive when the subject is the same: `Zij hoopt dat zij werk vindt` → `Zij hoopt werk te vinden`.\n\n### Compared with Ukrainian\n\nUkrainian keeps the same order in main and sub-clauses: `Я думаю, що він не прийде`. Dutch sends the verb to the end of every sub-clause, however many there are, so check each clause separately.",
+  "words": [
+    {
+      "nl": "samenleving",
+      "art": "de",
+      "pl": "samenlevingen",
+      "en": "society",
+      "pos": "n"
+    },
+    {
+      "nl": "nieuwkomer",
+      "art": "de",
+      "pl": "nieuwkomers",
+      "en": "newcomer",
+      "pos": "n"
+    },
+    {
+      "nl": "vluchteling",
+      "art": "de",
+      "pl": "vluchtelingen",
+      "en": "refugee",
+      "pos": "n"
+    },
+    {
+      "nl": "asielzoeker",
+      "art": "de",
+      "pl": "asielzoekers",
+      "en": "asylum seeker",
+      "pos": "n"
+    },
+    {
+      "nl": "opvang",
+      "art": "de",
+      "pl": "",
+      "en": "reception / shelter (for refugees)",
+      "pos": "n",
+      "tag": "no plural"
+    },
+    {
+      "nl": "inburgering",
+      "art": "de",
+      "pl": "",
+      "en": "civic integration",
+      "pos": "n",
+      "tag": "no plural"
+    },
+    {
+      "nl": "afkomst",
+      "art": "de",
+      "pl": "",
+      "en": "origin / descent",
+      "pos": "n",
+      "tag": "no plural"
+    },
+    {
+      "nl": "diversiteit",
+      "art": "de",
+      "pl": "",
+      "en": "diversity",
+      "pos": "n",
+      "tag": "no plural"
+    },
+    {
+      "nl": "discriminatie",
+      "art": "de",
+      "pl": "",
+      "en": "discrimination",
+      "pos": "n",
+      "tag": "no plural"
+    },
+    {
+      "nl": "vooroordeel",
+      "art": "het",
+      "pl": "vooroordelen",
+      "en": "prejudice",
+      "pos": "n"
+    },
+    {
+      "nl": "ongelijkheid",
+      "art": "de",
+      "pl": "ongelijkheden",
+      "en": "inequality",
+      "pos": "n"
+    },
+    {
+      "nl": "uitsluiting",
+      "art": "de",
+      "pl": "uitsluitingen",
+      "en": "exclusion",
+      "pos": "n"
+    },
+    {
+      "nl": "maatschappelijk",
+      "en": "social / societal",
+      "pos": "adj"
+    },
+    {
+      "nl": "verwelkomen",
+      "past": "verwelkomde",
+      "perf": "heeft verwelkomd",
+      "en": "to welcome",
+      "pos": "v"
+    },
+    {
+      "nl": "zich vestigen",
+      "past": "vestigde me",
+      "perf": "heeft zich gevestigd",
+      "en": "to settle (in a place)",
+      "pos": "v"
+    }
+  ],
+  "sentences": [
+    {
+      "nl": "Ik denk dat veel nieuwkomers zich hier welkom voelen omdat de buren hen helpen.",
+      "en": "I think that many newcomers feel welcome here because the neighbours help them.",
+      "hint": [
+        "denken",
+        "nieuwkomer",
+        "zich voelen",
+        "welkom",
+        "buurman",
+        "helpen"
+      ],
+      "note": "One main clause and two sub-clauses: denk stands second, voelen and helpen stand at the end of their own clause.",
+      "alt": [
+        "Ik denk dat veel nieuwkomers zich hier welkom voelen omdat de buren ze helpen."
+      ]
+    },
+    {
+      "nl": "Uit onderzoek blijkt dat de vluchtelingen die hier al jaren wonen, goed Nederlands spreken.",
+      "en": "Research shows (uit … blijkt) that the refugees who have lived here for years speak good Dutch.",
+      "hint": [
+        "onderzoek",
+        "blijken",
+        "vluchteling",
+        "wonen",
+        "Nederlands",
+        "spreken"
+      ],
+      "note": "The die-clause sits inside the dat-clause. It closes with wonen; then the dat-clause goes on, and its verb spreken comes last.",
+      "alt": [
+        "Uit onderzoek blijkt dat de vluchtelingen die al jaren hier wonen, goed Nederlands spreken."
+      ]
+    },
+    {
+      "nl": "Omdat de opvang in veel gemeenten vol zit, moeten asielzoekers vaak lang wachten.",
+      "en": "Because reception (de opvang) is full in many municipalities, asylum seekers often have to wait a long time.",
+      "hint": [
+        "omdat",
+        "opvang",
+        "gemeente",
+        "vol",
+        "asielzoeker",
+        "wachten"
+      ],
+      "note": "The whole omdat-clause is the first element, so the main clause starts with its verb moeten, then the subject asielzoekers.",
+      "alt": [
+        "Omdat de opvang in veel gemeenten vol is, moeten asielzoekers vaak lang wachten.",
+        "Asielzoekers moeten vaak lang wachten omdat de opvang in veel gemeenten vol zit.",
+        "Asielzoekers moeten vaak lang wachten omdat de opvang in veel gemeenten vol is."
+      ]
+    },
+    {
+      "nl": "Om de taal sneller te leren, volgt mijn buurvrouw naast haar werk een inburgeringscursus.",
+      "en": "To learn the language faster, my neighbour is taking an integration course alongside her job.",
+      "hint": [
+        "taal",
+        "leren",
+        "volgen",
+        "buurvrouw",
+        "werk",
+        "inburgeringscursus"
+      ],
+      "note": "An infinitive clause with om … te counts as one element too. After it comes the verb volgt, then the subject mijn buurvrouw.",
+      "alt": [
+        "Mijn buurvrouw volgt naast haar werk een inburgeringscursus om de taal sneller te leren.",
+        "Om de taal sneller te leren, volgt mijn buurvrouw een inburgeringscursus naast haar werk."
+      ]
+    },
+    {
+      "nl": "Hij vertelde ons dat hij als kind met zijn ouders was geëmigreerd en hier naar school was gegaan.",
+      "en": "He told us that he had emigrated with his parents as a child and had gone to school here.",
+      "hint": [
+        "vertellen",
+        "kind",
+        "ouders",
+        "emigreren",
+        "school",
+        "gaan"
+      ],
+      "note": "After en the dat-clause continues: verbs at the end, and hij is left out because it is the same subject. Emigreren and gaan both take zijn.",
+      "alt": [
+        "Hij vertelde ons dat hij als kind met zijn ouders geëmigreerd was en hier naar school was gegaan.",
+        "Hij vertelde ons dat hij als kind met zijn ouders was geëmigreerd en hier naar school gegaan was.",
+        "Hij vertelde ons dat hij als kind met zijn ouders geëmigreerd was en hier naar school gegaan was."
+      ]
+    },
+    {
+      "nl": "Het gaat goed met het gezin omdat de kinderen hier naar school gaan en de ouders werk hebben gevonden.",
+      "en": "The family is doing well because the children go to school here and the parents have found work.",
+      "hint": [
+        "gezin",
+        "kind",
+        "school",
+        "ouders",
+        "werk",
+        "vinden"
+      ],
+      "note": "After en a new subject begins, de ouders, so it must be said. The omdat-clause continues, so hebben gevonden stays at the end.",
+      "alt": [
+        "Het gaat goed met het gezin omdat de kinderen hier naar school gaan en de ouders werk gevonden hebben.",
+        "Met het gezin gaat het goed omdat de kinderen hier naar school gaan en de ouders werk hebben gevonden.",
+        "Met het gezin gaat het goed omdat de kinderen hier naar school gaan en de ouders werk gevonden hebben."
+      ]
+    },
+    {
+      "nl": "Het plan dat door de gemeente werd voorgesteld, is afgewezen omdat er te weinig draagvlak voor was.",
+      "en": "The plan that was proposed by the municipality has been rejected because there was too little support for it.",
+      "hint": [
+        "plan",
+        "gemeente",
+        "voorstellen",
+        "afwijzen",
+        "draagvlak"
+      ],
+      "note": "A passive relative clause inside the subject, then the main verb is, then an omdat-clause. One er does two jobs: 'there was' and, with voor, 'for it'.",
+      "alt": [
+        "Het plan dat door de gemeente voorgesteld werd, is afgewezen omdat er te weinig draagvlak voor was.",
+        "Het plan dat werd voorgesteld door de gemeente, is afgewezen omdat er te weinig draagvlak voor was."
+      ]
+    },
+    {
+      "nl": "Discriminatie bij het zoeken naar werk is iets wat veel jongeren met een migratieachtergrond meemaken.",
+      "en": "Discrimination when looking for work is something that many young people with a migration background experience.",
+      "hint": [
+        "discriminatie",
+        "zoeken",
+        "werk",
+        "jongere",
+        "migratieachtergrond",
+        "meemaken"
+      ],
+      "note": "After iets both wat and dat are correct. The relative clause sends meemaken to the end, and the separable verb stays in one piece there.",
+      "alt": [
+        "Discriminatie bij het zoeken naar werk is iets dat veel jongeren met een migratieachtergrond meemaken."
+      ]
+    },
+    {
+      "nl": "Het aantal inwoners van buitenlandse afkomst is in de grote steden sterk gestegen.",
+      "en": "The number of inhabitants of foreign origin has risen sharply in the big cities.",
+      "hint": [
+        "aantal",
+        "inwoner",
+        "buitenlands",
+        "afkomst",
+        "stad",
+        "stijgen"
+      ],
+      "note": "The subject is het aantal, singular, so is, even though inwoners stands closer to the verb. Stijgen is a change, so it takes zijn.",
+      "alt": [
+        "In de grote steden is het aantal inwoners van buitenlandse afkomst sterk gestegen."
+      ]
+    },
+    {
+      "nl": "Hoewel de diversiteit in de samenleving toeneemt, zijn er nog veel mensen die vooroordelen hebben over nieuwkomers.",
+      "en": "Although diversity in society is increasing, there are still many people who have prejudices about newcomers.",
+      "hint": [
+        "hoewel",
+        "diversiteit",
+        "samenleving",
+        "toenemen",
+        "vooroordeel",
+        "nieuwkomer"
+      ],
+      "note": "The hoewel-clause is the first element, so zijn comes next and then er. In the die-clause hebben goes to the end; over nieuwkomers may follow it.",
+      "alt": [
+        "Hoewel de diversiteit in de samenleving toeneemt, zijn er nog veel mensen die vooroordelen over nieuwkomers hebben.",
+        "Er zijn nog veel mensen die vooroordelen hebben over nieuwkomers, hoewel de diversiteit in de samenleving toeneemt.",
+        "Er zijn nog veel mensen die vooroordelen over nieuwkomers hebben, hoewel de diversiteit in de samenleving toeneemt."
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "type": "choose",
+      "nl": "Omdat de huren in de grote steden al jaren stijgen, ___ veel gezinnen naar kleinere plaatsen.",
+      "options": [
+        "verhuizen",
+        "zij verhuizen",
+        "verhuist"
+      ],
+      "correct": 0,
+      "en": "Because rents in the big cities have been rising for years, many families are moving to smaller places.",
+      "note": "The omdat-clause is the first element, so the verb follows at once and the subject veel gezinnen comes after it. The subject is plural: verhuizen."
+    },
+    {
+      "type": "choose",
+      "nl": "Ik begrijp dat veel jongeren het dorp verlaten omdat ze geen werk vinden en ___.",
+      "options": [
+        "zien geen toekomst",
+        "geen toekomst zien",
+        "geen toekomst ziet"
+      ],
+      "correct": 1,
+      "en": "I understand that many young people leave the village because they cannot find work and see no future.",
+      "note": "After en the omdat-clause continues, so zien stays at the end. The subject ze is the same, so it may be left out; the verb is plural."
+    },
+    {
+      "type": "choose",
+      "nl": "Hij zei niets over zijn afkomst, ___ ik heel begrijpelijk vond.",
+      "options": [
+        "dat",
+        "die",
+        "wat",
+        "welke"
+      ],
+      "correct": 2,
+      "en": "He said nothing about his origin, which I found very understandable.",
+      "note": "The relative pronoun refers to the whole clause before it, not to one noun: then it is always wat. Dat would be a typical mistake here."
+    },
+    {
+      "type": "choose",
+      "nl": "Het aantal asielaanvragen uit verschillende landen ___ dit jaar gedaald.",
+      "options": [
+        "zijn",
+        "hebben",
+        "is",
+        "heeft"
+      ],
+      "correct": 2,
+      "en": "The number of asylum applications from various countries has fallen this year.",
+      "note": "The subject is het aantal, singular, not asielaanvragen or landen. Dalen is a change, so its auxiliary is zijn: is gedaald."
+    },
+    {
+      "type": "gap",
+      "nl": "Zij vertelde dat haar broer al op jonge leeftijd naar Canada ___ (emigreren).",
+      "answers": [
+        "was geëmigreerd",
+        "geëmigreerd was"
+      ],
+      "en": "She said that her brother had emigrated to Canada at a young age.",
+      "note": "Emigreren is moving from one country to another, so it takes zijn. At the end of the dat-clause both orders of the two verbs are correct."
+    },
+    {
+      "type": "gap",
+      "nl": "Ik weet niet of ___ genoeg woningen zijn voor alle nieuwkomers.",
+      "answers": [
+        "er"
+      ],
+      "en": "I do not know whether there are enough homes for all the newcomers.",
+      "note": "With an indefinite subject (genoeg woningen) Dutch needs er, in a sub-clause just as in a main clause."
+    },
+    {
+      "type": "gap",
+      "nl": "De opvang van asielzoekers in kleine gemeenten ___ (kosten) veel geld.",
+      "answers": [
+        "kost"
+      ],
+      "en": "The reception of asylum seekers in small municipalities costs a lot of money.",
+      "note": "The subject is de opvang, singular. Asielzoekers and gemeenten stand closer to the verb, but they belong to the phrase after van and in."
+    },
+    {
+      "type": "gap",
+      "nl": "De vormen van uitsluiting ___ in dit rapport worden beschreven, zijn niet nieuw.",
+      "answers": [
+        "die"
+      ],
+      "en": "The forms of exclusion that are described in this report are not new.",
+      "note": "The relative pronoun refers to vormen, a plural, so it is die. The relative clause ends with worden beschreven; then zijn follows as the verb of the main clause."
+    },
+    {
+      "type": "order",
+      "lead": "Ik denk",
+      "words": [
+        "dat",
+        "de mensen",
+        "die hier al lang wonen,",
+        "de nieuwkomers",
+        "graag",
+        "verwelkomen"
+      ],
+      "answers": [
+        "Ik denk dat de mensen die hier al lang wonen, de nieuwkomers graag verwelkomen.",
+        "Ik denk dat de mensen die hier al lang wonen, graag de nieuwkomers verwelkomen."
+      ],
+      "en": "I think that the people who have lived here for a long time are glad to welcome the newcomers.",
+      "note": "The die-clause stands right after de mensen and is finished first. Then the dat-clause continues, and verwelkomen closes the sentence."
+    },
+    {
+      "type": "order",
+      "lead": "Hoewel",
+      "words": [
+        "zij",
+        "pas twee jaar in Nederland",
+        "woont,",
+        "spreekt",
+        "ze",
+        "al vloeiend Nederlands"
+      ],
+      "answers": [
+        "Hoewel zij pas twee jaar in Nederland woont, spreekt ze al vloeiend Nederlands.",
+        "Hoewel ze pas twee jaar in Nederland woont, spreekt zij al vloeiend Nederlands."
+      ],
+      "en": "Although she has only lived in the Netherlands for two years, she already speaks fluent Dutch.",
+      "note": "In the hoewel-clause woont goes to the end. That clause is the first element, so spreekt follows straight after the comma, and then the subject."
+    },
+    {
+      "type": "rewrite",
+      "task": "Join the three into one sentence: make the first a relative clause with die after Mijn buurman, and join the last with en.",
+      "from": "Mijn buurman is drie jaar geleden gevlucht. Hij werkt nu als verpleegkundige. Hij wil graag blijven.",
+      "answers": [
+        "Mijn buurman, die drie jaar geleden is gevlucht, werkt nu als verpleegkundige en wil graag blijven.",
+        "Mijn buurman, die drie jaar geleden gevlucht is, werkt nu als verpleegkundige en wil graag blijven.",
+        "Mijn buurman, die drie jaar geleden is gevlucht, werkt nu als verpleegkundige en hij wil graag blijven.",
+        "Mijn buurman, die drie jaar geleden gevlucht is, werkt nu als verpleegkundige en hij wil graag blijven."
+      ],
+      "en": "My neighbour, who fled three years ago, now works as a nurse and would like to stay.",
+      "note": "In the die-clause the verbs go to the end. After it the main clause continues with werkt. After en, hij may be left out because the subject is the same."
+    },
+    {
+      "type": "rewrite",
+      "task": "Shorten it: replace the dat-clause by te + infinitive.",
+      "from": "Zij hoopt dat zij zich binnenkort in deze stad vestigt.",
+      "answers": [
+        "Zij hoopt zich binnenkort in deze stad te vestigen."
+      ],
+      "en": "She hopes to settle in this city soon.",
+      "note": "This works because hoopt and vestigt have the same subject, zij. The reflexive zich stays, and te + infinitive closes the sentence."
+    },
+    {
+      "type": "rewrite",
+      "task": "Move the heavy part to the end: start with Het is.",
+      "from": "Dat de maatschappelijke ongelijkheid de laatste jaren is toegenomen, is in verschillende onderzoeken aangetoond.",
+      "answers": [
+        "Het is in verschillende onderzoeken aangetoond dat de maatschappelijke ongelijkheid de laatste jaren is toegenomen.",
+        "Het is in verschillende onderzoeken aangetoond dat de maatschappelijke ongelijkheid de laatste jaren toegenomen is."
+      ],
+      "en": "It has been shown in several studies that social inequality has increased in recent years.",
+      "note": "A long dat-clause at the start makes the reader wait for the main verb. Het takes its place, and the dat-clause moves to the end, where it is easier to follow."
+    },
+    {
+      "type": "fix",
+      "wrong": "Ik denk dat de samenleving wordt steeds diverser.",
+      "answers": [
+        "Ik denk dat de samenleving steeds diverser wordt."
+      ],
+      "en": "I think that society is becoming more and more diverse.",
+      "note": "In a dat-clause the verb goes to the end: steeds diverser wordt. Main-clause order after dat is the most common B2 error."
+    },
+    {
+      "type": "fix",
+      "wrong": "Na een lange periode in een asielzoekerscentrum het gezin kreeg eindelijk een eigen huis.",
+      "answers": [
+        "Na een lange periode in een asielzoekerscentrum kreeg het gezin eindelijk een eigen huis."
+      ],
+      "en": "After a long period in an asylum seekers' centre the family finally got a home of its own.",
+      "note": "The long time phrase is the first element, however many words it has. The verb kreeg must come second, before the subject het gezin."
+    },
+    {
+      "type": "fix",
+      "wrong": "Ik weet dat mijn collega uit Polen komt en werkt al tien jaar in Nederland.",
+      "answers": [
+        "Ik weet dat mijn collega uit Polen komt en al tien jaar in Nederland werkt.",
+        "Ik weet dat mijn collega uit Polen komt en dat hij al tien jaar in Nederland werkt."
+      ],
+      "en": "I know that my colleague comes from Poland and has been working in the Netherlands for ten years.",
+      "note": "After en the dat-clause goes on, with the subject left out, so werkt must go to the end. Main-clause order after en is only possible with a new main clause."
+    }
+  ]
+}

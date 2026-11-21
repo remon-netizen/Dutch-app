@@ -1,0 +1,460 @@
+{
+  "id": "b2-08",
+  "level": "B2",
+  "icon": "🔬",
+  "title": "Science and research",
+  "grammar": "Relative clauses: wat, wie, wiens, waarvan, hetgeen",
+  "summary": "wat after alles, niets, veel and for a whole clause (formal: hetgeen). Wie … = whoever. Whose: van wie (formal wiens, wier) for people, waarvan for things. Preposition + wie for people. The verb goes last.",
+  "explain": "You know `die` and `dat` (unit B1 · 03) and `waarmee`, `waarover` (B1 · 04). Academic and formal texts need more: `wat` after words like `alles`, `wat` for a whole clause, `wie` without a noun, and the forms for \"whose\". In every relative clause the conjugated verb goes to the end.\n\n### 1. wat after alles, niets, iets, het enige …\n\nAfter `alles`, `niets` and `veel` the relative pronoun is `wat`. After `iets`, `het enige`, `het eerste`, `het laatste` and a superlative used as a noun (`het beste`, `het mooiste`), `wat` is the usual form and `dat` is also correct.\n\n> Alles wat de proefpersonen zeiden, werd opgenomen. — Everything the test subjects said was recorded.\n> Het enige wat nog ontbreekt, is een betrouwbare steekproef. — The only thing still missing is a reliable sample.\n\nWhen a noun follows the superlative, the noun decides: `de beste publicatie die ik ken`, `het beste artikel dat ik ken`.\n\n### 2. wat for a whole clause\n\nWhen the relative clause comments on the **whole** previous clause, not on one noun, use `wat`; `dat` or `die` is impossible. `hetgeen` is the formal variant.\n\n> De uitkomst was negatief, wat de onderzoekers verraste. — The outcome was negative, which surprised the researchers.\n\n### 3. wie and wat without a noun\n\n`Wie …` means \"whoever, anyone who\"; `Wat …` means \"what, whatever\". The clause is the first element of the sentence, so the main verb follows it directly.\n\n> Wie aan het onderzoek meedoet, krijgt een kleine vergoeding. — Whoever takes part in the study receives a small fee.\n> Wat de hoogleraar beweert, is nooit aangetoond. — What the professor claims has never been demonstrated.\n\n### 4. whose\n\n| owner | normal | formal |\n| a man, a boy | van wie het artikel | wiens artikel |\n| a woman, or plural | van wie het artikel | wier artikel |\n| a thing | waarvan het artikel | — |\n\n`wiens` and `wier` are chosen by the **owner**, not by the thing owned, and take no article. `van wie` and `waarvan` are followed by the article: `het onderzoek waarvan de resultaten …`.\n\n> Het onderzoek waarvan de resultaten zijn gepubliceerd, krijgt veel kritiek. — The study whose results have been published is getting a lot of criticism.\n\n### 5. With a preposition\n\nFor things: `waar` + preposition (`de methode waarmee`, `het onderwerp waarover`). For people: preposition + `wie`: `de hoogleraar met wie ik samenwerk`. `waarmee` for a person is common in speech but avoided in writing. Some prepositions cannot join `waar`, such as `gedurende` and `tijdens`; very formal texts then use `welke`: `de periode gedurende welke …`.\n\n### 6. The comma changes the meaning\n\n> De proefpersonen die vrijwilligers waren, kregen een vergoeding. — The test subjects who were volunteers received a fee (only those).\n> De proefpersonen, die allemaal vrijwilligers waren, kregen een vergoeding. — The test subjects, who were all volunteers, received a fee (all of them).\n\nWithout a comma before `die`, the clause selects; with commas round it, it only adds information. A comma after the clause, between two verbs, is usual in both.\n\n### 7. Long sentences\n\nThe relative clause usually follows its noun directly. When the main clause ends in a participle or infinitive, the relative clause may also come after it; both are correct, and with a long clause the second is easier to read: `Ik heb het artikel dat zij schreef gelezen` / `Ik heb het artikel gelezen dat zij schreef`.\n\n### Watch out\n\n- **Whole clause = wat**: `…, wat niemand verbaasde`, not *…, dat niemand verbaasde.\n- **Noun after the superlative**: `de beste publicatie die …`, not *de beste publicatie wat.\n- **No article after wiens or wier**: `wiens proefschrift`, not *wiens het proefschrift.\n- **Verb at the end**, also after `waarvan`: `waarvan de resultaten betrouwbaar zijn`.\n\n### Compared with Ukrainian\n\nUkrainian `чий`, `чия`, `чиє` agree with the thing owned (`чия книга`). Dutch `wiens` and `wier` depend on the owner: `de onderzoeker wiens studie`, `de onderzoekster wier studie`.",
+  "words": [
+    {
+      "nl": "onderzoeker",
+      "art": "de",
+      "pl": "onderzoekers",
+      "en": "researcher",
+      "pos": "n"
+    },
+    {
+      "nl": "proefpersoon",
+      "art": "de",
+      "pl": "proefpersonen",
+      "en": "test subject / participant",
+      "pos": "n"
+    },
+    {
+      "nl": "bevinding",
+      "art": "de",
+      "pl": "bevindingen",
+      "en": "finding",
+      "pos": "n"
+    },
+    {
+      "nl": "steekproef",
+      "art": "de",
+      "pl": "steekproeven",
+      "en": "sample (in research)",
+      "pos": "n"
+    },
+    {
+      "nl": "uitkomst",
+      "art": "de",
+      "pl": "uitkomsten",
+      "en": "outcome / result",
+      "pos": "n"
+    },
+    {
+      "nl": "vakgebied",
+      "art": "het",
+      "pl": "vakgebieden",
+      "en": "field (of study)",
+      "pos": "n"
+    },
+    {
+      "nl": "promovendus",
+      "art": "de",
+      "pl": "promovendi",
+      "en": "PhD candidate",
+      "pos": "n"
+    },
+    {
+      "nl": "proefschrift",
+      "art": "het",
+      "pl": "proefschriften",
+      "en": "doctoral thesis",
+      "pos": "n"
+    },
+    {
+      "nl": "hoogleraar",
+      "art": "de",
+      "pl": "hoogleraren",
+      "en": "professor",
+      "pos": "n"
+    },
+    {
+      "nl": "publicatie",
+      "art": "de",
+      "pl": "publicaties",
+      "en": "publication",
+      "pos": "n"
+    },
+    {
+      "nl": "subsidie",
+      "art": "de",
+      "pl": "subsidies",
+      "en": "grant / subsidy",
+      "pos": "n"
+    },
+    {
+      "nl": "promoveren",
+      "past": "promoveerde",
+      "perf": "is gepromoveerd",
+      "en": "to obtain a doctorate",
+      "pos": "v"
+    },
+    {
+      "nl": "aantonen",
+      "past": "toonde aan",
+      "perf": "heeft aangetoond",
+      "en": "to demonstrate / to prove",
+      "pos": "v",
+      "tag": "separable"
+    },
+    {
+      "nl": "verrichten",
+      "past": "verrichtte",
+      "perf": "heeft verricht",
+      "en": "to carry out (research, work)",
+      "pos": "v",
+      "tag": "formal"
+    },
+    {
+      "nl": "betrouwbaar",
+      "en": "reliable",
+      "pos": "adj"
+    },
+    {
+      "nl": "wetenschappelijk",
+      "en": "scientific / academic",
+      "pos": "adj"
+    }
+  ],
+  "sentences": [
+    {
+      "nl": "Alles wat de proefpersonen zeiden, werd opgenomen.",
+      "en": "Everything the test subjects said was recorded.",
+      "hint": [
+        "alles",
+        "wat",
+        "proefpersoon",
+        "zeggen",
+        "opnemen"
+      ],
+      "note": "After alles the relative pronoun is wat. English can leave it out (\"everything they said\"); Dutch cannot.",
+      "alt": [
+        "Alles wat de proefpersonen zeiden, is opgenomen."
+      ]
+    },
+    {
+      "nl": "Het enige wat nog ontbreekt, is een betrouwbare steekproef.",
+      "en": "The only thing still missing is a reliable sample.",
+      "hint": [
+        "het enige",
+        "ontbreken",
+        "betrouwbaar",
+        "steekproef"
+      ],
+      "note": "After het enige, wat is the usual form; het enige dat is also correct. Ontbreekt stands at the end of the relative clause.",
+      "alt": [
+        "Het enige dat nog ontbreekt, is een betrouwbare steekproef."
+      ]
+    },
+    {
+      "nl": "De uitkomst was negatief, wat de onderzoekers verraste.",
+      "en": "The outcome was negative, which surprised the researchers.",
+      "hint": [
+        "uitkomst",
+        "negatief",
+        "wat",
+        "onderzoeker",
+        "verrassen"
+      ],
+      "note": "wat refers to the whole clause (that the outcome was negative), not to de uitkomst, so die is impossible. Formal: hetgeen.",
+      "alt": [
+        "De uitkomst was negatief, hetgeen de onderzoekers verraste."
+      ]
+    },
+    {
+      "nl": "Wie aan het onderzoek meedoet, krijgt een kleine vergoeding.",
+      "en": "Whoever takes part in the study receives a small fee.",
+      "hint": [
+        "wie",
+        "onderzoek",
+        "meedoen",
+        "vergoeding"
+      ],
+      "note": "wie without a noun before it means \"whoever\". The whole wie-clause is the first element, so krijgt follows directly.",
+      "alt": [
+        "Wie meedoet aan het onderzoek, krijgt een kleine vergoeding."
+      ]
+    },
+    {
+      "nl": "Wat de hoogleraar beweert, is nooit aangetoond.",
+      "en": "What the professor claims has never been demonstrated.",
+      "hint": [
+        "wat",
+        "hoogleraar",
+        "beweren",
+        "nooit",
+        "aantonen"
+      ],
+      "note": "wat without a noun: \"what, the thing that\". It makes a sub-clause (beweert at the end) that is the subject of is aangetoond."
+    },
+    {
+      "nl": "De onderzoeker van wie het artikel gisteren verscheen, geeft morgen een lezing.",
+      "en": "The researcher whose article appeared yesterday is giving a lecture tomorrow.",
+      "hint": [
+        "onderzoeker",
+        "van wie",
+        "artikel",
+        "verschijnen",
+        "lezing"
+      ],
+      "note": "van wie is the normal \"whose\" for a person, followed by the article: van wie het artikel. Formal: wiens artikel, without het.",
+      "alt": [
+        "De onderzoeker wiens artikel gisteren verscheen, geeft morgen een lezing.",
+        "De onderzoeker van wie het artikel gisteren is verschenen, geeft morgen een lezing.",
+        "De onderzoeker van wie het artikel gisteren verschenen is, geeft morgen een lezing.",
+        "De onderzoeker wiens artikel gisteren is verschenen, geeft morgen een lezing.",
+        "De onderzoeker wiens artikel gisteren verschenen is, geeft morgen een lezing."
+      ]
+    },
+    {
+      "nl": "Het onderzoek waarvan de resultaten vorige week in een wetenschappelijk tijdschrift zijn gepubliceerd, krijgt veel kritiek.",
+      "en": "The study whose results were published in a scientific journal last week is getting a lot of criticism.",
+      "hint": [
+        "onderzoek",
+        "waarvan",
+        "resultaat",
+        "wetenschappelijk",
+        "publiceren",
+        "kritiek"
+      ],
+      "note": "For a thing, \"whose\" is waarvan, followed by the article: waarvan de resultaten. The verbs go to the end of the relative clause.",
+      "alt": [
+        "Het onderzoek waarvan de resultaten vorige week in een wetenschappelijk tijdschrift gepubliceerd zijn, krijgt veel kritiek.",
+        "Het onderzoek waarvan de resultaten vorige week in een wetenschappelijk tijdschrift werden gepubliceerd, krijgt veel kritiek.",
+        "Het onderzoek waarvan de resultaten vorige week in een wetenschappelijk tijdschrift gepubliceerd werden, krijgt veel kritiek."
+      ]
+    },
+    {
+      "nl": "De hoogleraar met wie ik samenwerk, is een expert in haar vakgebied.",
+      "en": "The professor I work with is an expert in her field.",
+      "hint": [
+        "hoogleraar",
+        "met wie",
+        "samenwerken",
+        "expert",
+        "vakgebied"
+      ],
+      "note": "For a person: preposition + wie (met wie), not waarmee in careful Dutch. The preposition stands in front, never at the end as in English."
+    },
+    {
+      "nl": "De proefpersonen, die allemaal vrijwilligers waren, kregen een vergoeding.",
+      "en": "The test subjects, who were all volunteers, received a fee.",
+      "hint": [
+        "proefpersoon",
+        "allemaal",
+        "vrijwilliger",
+        "krijgen",
+        "vergoeding"
+      ],
+      "note": "The commas round the clause mean it only adds information about all the test subjects; without them it would pick out some of them."
+    },
+    {
+      "nl": "Ik heb het artikel gelezen dat zij over dit experiment heeft geschreven.",
+      "en": "I have read the article that she has written about this experiment.",
+      "hint": [
+        "lezen",
+        "artikel",
+        "experiment",
+        "schrijven"
+      ],
+      "note": "The relative clause follows the participle gelezen here, which keeps the main clause short. Directly after het artikel is also correct.",
+      "alt": [
+        "Ik heb het artikel gelezen dat zij over dit experiment geschreven heeft.",
+        "Ik heb het artikel dat zij over dit experiment heeft geschreven gelezen.",
+        "Ik heb het artikel dat zij over dit experiment geschreven heeft gelezen.",
+        "Ik heb het artikel gelezen dat ze over dit experiment heeft geschreven.",
+        "Ik heb het artikel gelezen dat ze over dit experiment geschreven heeft."
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "type": "choose",
+      "nl": "De steekproef was te klein, ___ de uitkomst onbetrouwbaar maakt.",
+      "options": [
+        "dat",
+        "die",
+        "wat",
+        "waarvan"
+      ],
+      "correct": 2,
+      "en": "The sample was too small, which makes the outcome unreliable.",
+      "note": "The clause comments on the whole fact that the sample was too small, so only wat (or formal hetgeen) fits. Die would refer to de steekproef alone."
+    },
+    {
+      "type": "choose",
+      "nl": "De onderzoekster ___ artikel veel aandacht kreeg, is pas dertig.",
+      "options": [
+        "wiens",
+        "wier",
+        "wie",
+        "die"
+      ],
+      "correct": 1,
+      "en": "The (female) researcher whose article got a lot of attention is only thirty.",
+      "note": "The owner is a woman, so the formal \"whose\" is wier. Wiens is for a male owner; the gender of artikel plays no part."
+    },
+    {
+      "type": "choose",
+      "nl": "Het experiment ___ de uitkomsten ons verbaasden, wordt herhaald.",
+      "options": [
+        "van wie",
+        "wiens",
+        "waarvan",
+        "dat"
+      ],
+      "correct": 2,
+      "en": "The experiment whose outcomes surprised us is being repeated.",
+      "note": "An experiment is a thing, so \"whose\" is waarvan. Van wie and wiens are for people."
+    },
+    {
+      "type": "choose",
+      "nl": "___",
+      "options": [
+        "De studenten, die waren geslaagd, kregen een certificaat.",
+        "De studenten die waren geslaagd, kregen een certificaat.",
+        "De studenten wat waren geslaagd, kregen een certificaat."
+      ],
+      "correct": 1,
+      "en": "Only those students who had passed received a certificate.",
+      "note": "The clause selects some students, so there is no comma before die. With commas it would mean that all the students had passed. Wat cannot refer to a noun like studenten."
+    },
+    {
+      "type": "choose",
+      "nl": "De collega ___ ik het experiment heb verricht, is vandaag ziek.",
+      "options": [
+        "met wie",
+        "met die",
+        "met wat",
+        "waar"
+      ],
+      "correct": 0,
+      "en": "The colleague with whom I carried out the experiment is ill today. (written Dutch)",
+      "note": "For a person, written Dutch uses preposition + wie: met wie. Die and wat cannot follow a preposition. Waarmee is common in speech but avoided in writing."
+    },
+    {
+      "type": "gap",
+      "nl": "Het eerste ___ opvalt, is de kleine steekproef.",
+      "answers": [
+        "wat",
+        "dat"
+      ],
+      "en": "The first thing that stands out is the small sample.",
+      "note": "After het eerste, wat is the usual form and dat is also correct. There is no noun after het eerste, so it does not choose die or dat by itself."
+    },
+    {
+      "type": "gap",
+      "nl": "___ (whoever) subsidie aanvraagt, moet een duidelijk onderzoeksplan indienen.",
+      "answers": [
+        "Wie"
+      ],
+      "en": "Whoever applies for a grant must submit a clear research plan.",
+      "note": "wie without a noun = whoever. The wie-clause is the first element, so moet follows it directly."
+    },
+    {
+      "type": "gap",
+      "nl": "De periode ___ (during which) het experiment werd verricht, duurde drie maanden.",
+      "answers": [
+        "gedurende welke",
+        "tijdens welke",
+        "waarin"
+      ],
+      "en": "The period during which the experiment was carried out lasted three months.",
+      "note": "gedurende and tijdens cannot join waar-, so formal Dutch uses welke: gedurende welke, tijdens welke. Waarin (in which) says the same in an everyday way."
+    },
+    {
+      "type": "gap",
+      "nl": "Het was de beste publicatie ___ ik dit jaar heb gelezen.",
+      "answers": [
+        "die"
+      ],
+      "en": "It was the best publication I have read this year.",
+      "note": "Here a noun follows the superlative: de publicatie, a de-word, so die. Wat is only for a superlative without a noun: het beste wat ik heb gelezen."
+    },
+    {
+      "type": "order",
+      "lead": "Ik",
+      "words": [
+        "heb",
+        "het artikel",
+        "gelezen",
+        "dat",
+        "zij",
+        "heeft geschreven"
+      ],
+      "answers": [
+        "Ik heb het artikel gelezen dat zij heeft geschreven.",
+        "Ik heb het artikel dat zij heeft geschreven gelezen."
+      ],
+      "en": "I have read the article that she has written.",
+      "note": "The relative clause may follow het artikel directly or come after the participle gelezen. Both are correct; the second keeps the main clause together."
+    },
+    {
+      "type": "order",
+      "lead": "Wie",
+      "words": [
+        "het proefschrift",
+        "leest",
+        "begrijpt",
+        "de bevindingen",
+        "beter"
+      ],
+      "answers": [
+        "Wie het proefschrift leest, begrijpt de bevindingen beter."
+      ],
+      "en": "Whoever reads the thesis understands the findings better.",
+      "note": "In the wie-clause the verb leest goes to the end. The whole clause is the first element, so begrijpt comes right after it."
+    },
+    {
+      "type": "rewrite",
+      "task": "Join the two sentences with waarvan.",
+      "from": "Wij herhalen het onderzoek. De uitkomsten ervan waren onbetrouwbaar.",
+      "answers": [
+        "Wij herhalen het onderzoek waarvan de uitkomsten onbetrouwbaar waren."
+      ],
+      "en": "We are repeating the study whose outcomes were unreliable.",
+      "note": "de uitkomsten ervan (its outcomes) becomes waarvan de uitkomsten. Waren moves to the end of the relative clause."
+    },
+    {
+      "type": "rewrite",
+      "task": "Make it formal: replace van wie by wier.",
+      "from": "De studenten van wie de scripties te laat waren, kregen een lager cijfer.",
+      "answers": [
+        "De studenten wier scripties te laat waren, kregen een lager cijfer."
+      ],
+      "en": "The students whose theses were late got a lower mark.",
+      "note": "The owners are plural, so wier. After wier the article de disappears."
+    },
+    {
+      "type": "fix",
+      "wrong": "De meting werd twee keer herhaald, dat veel geld kostte.",
+      "answers": [
+        "De meting werd twee keer herhaald, wat veel geld kostte.",
+        "De meting werd twee keer herhaald, hetgeen veel geld kostte."
+      ],
+      "en": "The measurement was repeated twice, which cost a lot of money.",
+      "note": "What cost money is the repeating, the whole clause, not de meting (and dat could not refer to a de-word anyway). A clause is referred to with wat (formal: hetgeen)."
+    },
+    {
+      "type": "fix",
+      "wrong": "Het onderzoek waarvan de resultaten zijn betrouwbaar, wordt gepubliceerd.",
+      "answers": [
+        "Het onderzoek waarvan de resultaten betrouwbaar zijn, wordt gepubliceerd."
+      ],
+      "en": "The study whose results are reliable is being published.",
+      "note": "A relative clause is a sub-clause: the conjugated verb zijn goes to the end, also after waarvan."
+    },
+    {
+      "type": "fix",
+      "wrong": "De promovendus wiens het proefschrift werd goedgekeurd, promoveert volgende maand.",
+      "answers": [
+        "De promovendus wiens proefschrift werd goedgekeurd, promoveert volgende maand.",
+        "De promovendus van wie het proefschrift werd goedgekeurd, promoveert volgende maand."
+      ],
+      "en": "The PhD candidate whose thesis was approved will obtain his doctorate next month.",
+      "note": "wiens already means \"whose\" and takes no article. Keep het only with van wie: van wie het proefschrift."
+    }
+  ]
+}

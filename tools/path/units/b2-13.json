@@ -15,10 +15,10 @@
       "pos": "n"
     },
     {
-      "nl": "aandeelhouder",
+      "nl": "beurs",
       "art": "de",
-      "pl": "aandeelhouders",
-      "en": "shareholder",
+      "pl": "beurzen",
+      "en": "stock exchange",
       "pos": "n"
     },
     {
@@ -57,10 +57,10 @@
       "pos": "n"
     },
     {
-      "nl": "investering",
-      "art": "de",
-      "pl": "investeringen",
-      "en": "investment",
+      "nl": "rendement",
+      "art": "het",
+      "pl": "rendementen",
+      "en": "return (on an investment)",
       "pos": "n"
     },
     {
@@ -350,12 +350,12 @@
     },
     {
       "type": "gap",
-      "nl": "Deze investering ___ (vallen) niet binnen vijf jaar terug te verdienen.",
+      "nl": "Op spaargeld ___ (vallen) nauwelijks rendement te behalen.",
       "answers": [
         "valt"
       ],
-      "en": "This investment cannot be earned back within five years.",
-      "note": "vallen + te + infinitive means that something can or cannot be done. De investering is singular, so valt."
+      "en": "Hardly any return can be made on savings.",
+      "note": "vallen + te + infinitive means that something can or cannot be done. The verb agrees with rendement, which is singular: valt."
     },
     {
       "type": "gap",
@@ -382,13 +382,13 @@
         "heeft",
         "hij",
         "al zijn geld",
-        "in aandelen",
+        "op de beurs",
         "belegd"
       ],
       "answers": [
-        "Zonder de risico's te kennen, heeft hij al zijn geld in aandelen belegd."
+        "Zonder de risico's te kennen, heeft hij al zijn geld op de beurs belegd."
       ],
-      "en": "Without knowing the risks, he invested all his money in shares.",
+      "en": "Without knowing the risks, he invested all his money on the stock exchange.",
       "note": "The zonder-clause fills the first place, so the conjugated verb heeft follows, then the subject hij. The participle belegd goes to the end."
     },
     {

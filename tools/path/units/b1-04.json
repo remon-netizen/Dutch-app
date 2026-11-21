@@ -1,0 +1,220 @@
+{
+  "id": "b1-04",
+  "level": "B1",
+  "icon": "💻",
+  "title": "Things I use every day",
+  "grammar": "Relative clauses with prepositions; wat",
+  "summary": "With a preposition: for things waar + preposition (waarmee, waarover, also split: waar … mee), for people preposition + wie (met wie). wat after alles, iets, niets, het enige, a superlative, and for a whole sentence.",
+  "explain": "In unit B1 · 3 the relative clause started with `die` or `dat`. When the verb in the clause needs a **preposition** (`werken met`, `praten over`, `wachten op`), `die` and `dat` cannot be used. And after words like `alles` or `iets` the relative pronoun is `wat`. The verb still goes to the end.\n\n### Things: waar + preposition\n\nFor a thing, the preposition is joined to `waar`. It makes no difference whether the noun is a de-word, a het-word or a plural.\n\n| preposition | relative |\n| over, op, aan | waarover, waarop, waaraan |\n| in, van, voor | waarin, waarvan, waarvoor |\n| **met** | **waarmee** |\n| **tot** | **waartoe** |\n\n`met` becomes `mee` and `tot` becomes `toe`. Never *waarmet.\n\n> Dit is de laptop waarmee ik werk. — This is the laptop I work with.\n> Het programma waarover ik sprak, is gratis. — The program I talked about is free.\n\n`waar` and the preposition may also be **split**: `waar` starts the clause and the preposition goes just before the verbs at the end. Both forms are correct; the split one is very common in speech.\n\n> Dit is de laptop waar ik mee werk. — This is the laptop I work with.\n\n### People: preposition + wie\n\nFor a person, put the preposition in front of `wie`. In speech you will also hear `waar … mee` for people, but `met wie` is the form to use.\n\n> De collega met wie ik werk, helpt me met mijn computer. — The colleague I work with helps me with my computer.\n> De monteur aan wie ik mijn laptop gaf, kon hem niet repareren. — The repairman I gave my laptop to could not repair it.\n\nEnglish puts the preposition at the end (*the colleague I work **with***). Dutch puts it at the front: never *de collega die ik mee werk.\n\n### A place: waar\n\nFor a place, `waar` on its own means *where*: `de kamer waar de router staat`, `de stad waar ik woon`. `waarin` is also possible.\n\n### wat instead of dat\n\nUse `wat` after these words, which have no noun of their own:\n\n- `alles`, `iets`, `niets`, `veel`, `weinig`\n- `het enige`, `het eerste`, `het laatste`\n- a superlative used as a noun: `het beste`, `het mooiste`\n\n> Ik heb alles opgeslagen wat op het scherm stond. — I saved everything that was on the screen.\n> Het enige wat niet werkt, is de afstandsbediening. — The only thing that does not work is the remote control.\n\nAfter `iets`, `niets`, `het enige`, `het eerste` and a superlative you will also read `dat`; that is accepted, but `wat` is more common. After a real noun the rule of B1 · 3 stays: `het wachtwoord dat`, never *het wachtwoord wat.\n\n`wat` also refers back to a **whole sentence**. Then a comma comes before it, and `dat` is not possible.\n\n> Mijn laptop crashte, wat ik erg vervelend vond. — My laptop crashed, which I found very annoying.\n\n### Watch out\n\n- die or dat with a preposition: *de app met die ik werk → `de app waarmee ik werk`.\n- met inside the word: *waarmet → `waarmee`; split: *waar ik met werk → `waar ik mee werk`.\n- the preposition at the end, as in English: *de vriend die ik mee praat → `de vriend met wie ik praat`.\n- dat for a whole sentence: *Hij kwam te laat, dat ik raar vond → `…, wat ik raar vond`.\n- wat after a noun: *het bestand wat ik zoek → `het bestand dat ik zoek`.\n\n### Compared with Ukrainian\n\nUkrainian puts the preposition before `який` and changes its case: `ноутбук, з яким я працюю`. Dutch uses `met wie` only for people; for a thing it builds one word with `waar`: `de laptop waarmee ik werk`.",
+  "words": [
+    { "nl": "apparaat", "art": "het", "pl": "apparaten", "en": "device / appliance", "pos": "n" },
+    { "nl": "wachtwoord", "art": "het", "pl": "wachtwoorden", "en": "password", "pos": "n" },
+    { "nl": "toetsenbord", "art": "het", "pl": "toetsenborden", "en": "keyboard", "pos": "n" },
+    { "nl": "scherm", "art": "het", "pl": "schermen", "en": "screen", "pos": "n" },
+    { "nl": "bestand", "art": "het", "pl": "bestanden", "en": "file (on a computer)", "pos": "n" },
+    { "nl": "instelling", "art": "de", "pl": "instellingen", "en": "setting", "pos": "n" },
+    { "nl": "verbinding", "art": "de", "pl": "verbindingen", "en": "connection", "pos": "n" },
+    { "nl": "afstandsbediening", "art": "de", "pl": "afstandsbedieningen", "en": "remote control", "pos": "n" },
+    { "nl": "accu", "art": "de", "pl": "accu's", "en": "battery (rechargeable)", "pos": "n" },
+    { "nl": "downloaden", "past": "downloadde", "perf": "heeft gedownload", "en": "to download", "pos": "v" },
+    { "nl": "installeren", "past": "installeerde", "perf": "heeft geïnstalleerd", "en": "to install", "pos": "v" },
+    { "nl": "opslaan", "past": "sloeg op", "perf": "heeft opgeslagen", "en": "to save (a file) / to store", "pos": "v", "tag": "separable" },
+    { "nl": "inloggen", "past": "logde in", "perf": "heeft ingelogd", "en": "to log in", "pos": "v", "tag": "separable" },
+    { "nl": "verwijderen", "past": "verwijderde", "perf": "heeft verwijderd", "en": "to delete / to remove", "pos": "v" },
+    { "nl": "opladen", "past": "laadde op", "perf": "heeft opgeladen", "en": "to charge (a battery)", "pos": "v", "tag": "separable" },
+    { "nl": "draadloos", "en": "wireless", "pos": "adj" }
+  ],
+  "sentences": [
+    {
+      "nl": "Dit is de laptop waarmee ik elke dag werk.",
+      "en": "This is the laptop I work with every day.",
+      "hint": ["laptop", "waarmee", "elke dag", "werken"],
+      "note": "werken met a thing, so waar + met, and met becomes mee: waarmee. Werk goes to the end.",
+      "alt": ["Dit is de laptop waar ik elke dag mee werk."]
+    },
+    {
+      "nl": "De app waarover ik het heb, is gratis.",
+      "en": "The app I am talking about is free.",
+      "hint": ["app", "waarover", "het hebben over", "gratis"],
+      "note": "het hebben over means to talk about. For a thing, over joins waar: waarover. It may also be split: waar ik het over heb.",
+      "alt": ["De app waar ik het over heb, is gratis.", "De app waarover ik praat, is gratis.", "De app waar ik over praat, is gratis."]
+    },
+    {
+      "nl": "De buurman met wie ik de router deel, is op vakantie.",
+      "en": "The neighbour I share the router with is on holiday.",
+      "hint": ["buurman", "met", "wie", "router", "delen", "vakantie"],
+      "note": "For a person the preposition goes in front of wie: met wie. English puts with at the end, Dutch never does."
+    },
+    {
+      "nl": "Het wachtwoord waarmee ik inlog, is veel te kort.",
+      "en": "The password I log in with is far too short.",
+      "hint": ["wachtwoord", "waarmee", "inloggen", "te", "kort"],
+      "note": "inloggen met, so waarmee, also for a het-word. The separable verb inlog stays one word at the end.",
+      "alt": ["Het wachtwoord waar ik mee inlog, is veel te kort."]
+    },
+    {
+      "nl": "Ik heb alles opgeslagen wat op het scherm stond.",
+      "en": "I saved everything that was on the screen.",
+      "hint": ["alles", "opslaan", "wat", "scherm", "staan"],
+      "note": "After alles the relative pronoun is wat. The clause moves behind the participle opgeslagen, which is the usual order; directly after alles is also correct.",
+      "alt": ["Ik heb alles wat op het scherm stond opgeslagen."]
+    },
+    {
+      "nl": "Het enige wat niet werkt, is de afstandsbediening.",
+      "en": "The only thing that does not work is the remote control.",
+      "hint": ["het enige", "wat", "werken", "afstandsbediening"],
+      "note": "Het enige has no noun of its own, so wat is the usual choice; dat is accepted too. Werkt goes to the end.",
+      "alt": ["Het enige dat niet werkt, is de afstandsbediening."]
+    },
+    {
+      "nl": "Mijn accu was elke middag leeg, wat erg vervelend was.",
+      "en": "My battery was flat every afternoon, which was very annoying.",
+      "hint": ["accu", "middag", "leeg", "wat", "vervelend"],
+      "note": "Wat refers back to the whole first sentence, not to one noun. Here only wat is possible, never dat."
+    },
+    {
+      "nl": "Draadloze oortjes zijn het handigste wat ik dit jaar heb gekocht.",
+      "en": "Wireless earbuds are the most useful thing I have bought this year.",
+      "hint": ["draadloos", "oortje", "handig", "wat", "jaar", "kopen"],
+      "note": "After a superlative used as a noun (het handigste) wat is usual; dat is accepted too. The verbs go to the end in either order.",
+      "alt": ["Draadloze oortjes zijn het handigste wat ik dit jaar gekocht heb.", "Draadloze oortjes zijn het handigste dat ik dit jaar heb gekocht.", "Draadloze oortjes zijn het handigste dat ik dit jaar gekocht heb."]
+    },
+    {
+      "nl": "Zet de router in de kamer waar je het meest werkt.",
+      "en": "Put the router in the room where you work most.",
+      "hint": ["zetten", "router", "kamer", "waar", "meest", "werken"],
+      "note": "For a place, waar on its own means where. It is a relative clause like the others, so werkt goes to the end.",
+      "alt": ["Zet de router in de kamer waarin je het meest werkt.", "Zet de router in de kamer waar jij het meest werkt."]
+    },
+    {
+      "nl": "De monteur aan wie ik mijn apparaat gaf, kon het niet repareren.",
+      "en": "The repairman I gave my device to could not repair it.",
+      "hint": ["monteur", "aan", "wie", "apparaat", "geven", "repareren"],
+      "note": "iets aan iemand geven: a person, so aan wie, with the preposition in front. Gaf goes to the end of the clause.",
+      "alt": ["De monteur aan wie ik mijn apparaat heb gegeven, kon het niet repareren.", "De monteur aan wie ik mijn apparaat gegeven heb, kon het niet repareren."]
+    }
+  ],
+  "exercises": [
+    {
+      "type": "choose",
+      "nl": "Dit is de app ___ ik mijn foto's bewerk.",
+      "options": ["die", "waarmee", "met die", "met wat"],
+      "correct": 1,
+      "en": "This is the app I edit my photos with.",
+      "note": "bewerken met a thing: waar + met = waarmee. After a preposition die and wat are not possible."
+    },
+    {
+      "type": "choose",
+      "nl": "Alles ___ je downloadt, komt in deze map.",
+      "options": ["die", "wat", "waar"],
+      "correct": 1,
+      "en": "Everything you download goes into this folder.",
+      "note": "Alles has no noun of its own, so the relative pronoun is wat. Die is for a de-word or a plural."
+    },
+    {
+      "type": "choose",
+      "nl": "De man ___ ik over de nieuwe router sprak, werkt bij de provider.",
+      "options": ["met die", "met wie", "met wat"],
+      "correct": 1,
+      "en": "The man I talked to about the new router works for the provider.",
+      "note": "spreken met a person: the preposition goes in front of wie. Die and wat cannot follow a preposition."
+    },
+    {
+      "type": "choose",
+      "nl": "Mijn laptop deed het niet meer, ___ ik erg vervelend vond.",
+      "options": ["dat", "die", "wat"],
+      "correct": 2,
+      "en": "My laptop stopped working, which I found very annoying.",
+      "note": "What I found annoying is the whole first sentence, not the laptop, so wat. Dat cannot refer to a whole sentence."
+    },
+    {
+      "type": "gap",
+      "nl": "Dit is de kabel ___ ik mijn telefoon oplaad.",
+      "answers": ["waarmee"],
+      "en": "This is the cable I charge my phone with.",
+      "note": "Met a thing: waar + met, and met becomes mee. One word here, because the gap is before the subject."
+    },
+    {
+      "type": "gap",
+      "nl": "Hij heeft al mijn bestanden verwijderd, ___ ik niet leuk vind.",
+      "answers": ["wat"],
+      "en": "He has deleted all my files, which I do not like.",
+      "note": "Wat refers to the whole first sentence: that he deleted them. Dat is not possible here."
+    },
+    {
+      "type": "gap",
+      "nl": "Weet je het wachtwoord nog ___ je vorige week hebt gekozen?",
+      "answers": ["dat"],
+      "en": "Do you still remember the password you chose last week?",
+      "note": "Wachtwoord is a real het-noun and there is no preposition, so the rule of unit B1 · 3 applies: dat, not wat."
+    },
+    {
+      "type": "gap",
+      "nl": "Het huis ___ we nu wonen, heeft een snelle verbinding.",
+      "answers": ["waar", "waarin"],
+      "en": "The house where we live now has a fast connection.",
+      "note": "For a place, waar means where; waarin (in which) is also correct."
+    },
+    {
+      "type": "order",
+      "lead": "Dit",
+      "words": ["is", "het toetsenbord", "waar", "ik", "het liefst", "mee", "typ"],
+      "answers": ["Dit is het toetsenbord waar ik het liefst mee typ."],
+      "en": "This is the keyboard I prefer to type with.",
+      "note": "Split form: waar starts the clause and mee stands just before the verb at the end. Met becomes mee here too."
+    },
+    {
+      "type": "order",
+      "lead": "De vriend",
+      "words": ["met wie", "ik", "games", "speel", "woont", "in Canada"],
+      "answers": ["De vriend met wie ik games speel, woont in Canada."],
+      "en": "The friend I play games with lives in Canada.",
+      "note": "For a person: met wie, at the start of the clause. Speel goes to the end of the clause, then the main clause continues with woont."
+    },
+    {
+      "type": "rewrite",
+      "task": "Make the second sentence a relative clause after De app.",
+      "from": "De app is erg handig. Ik betaal mijn rekeningen met de app.",
+      "answers": ["De app waarmee ik mijn rekeningen betaal, is erg handig.", "De app waar ik mijn rekeningen mee betaal, is erg handig."],
+      "en": "The app I pay my bills with is very handy.",
+      "note": "met de app becomes waarmee, or split waar … mee. The verb betaal goes to the end of the clause."
+    },
+    {
+      "type": "rewrite",
+      "task": "Say it with one word, waarover, instead of waar … over.",
+      "from": "Dat is de instelling waar ik je over vertelde.",
+      "answers": ["Dat is de instelling waarover ik je vertelde."],
+      "en": "That is the setting I told you about.",
+      "note": "The two forms mean the same. In the one-word form the preposition is fixed to waar and leaves its place before the verb."
+    },
+    {
+      "type": "rewrite",
+      "task": "Join the two sentences with wat.",
+      "from": "Mijn telefoon laadt heel snel op. Dat vind ik erg handig.",
+      "answers": ["Mijn telefoon laadt heel snel op, wat ik erg handig vind."],
+      "en": "My phone charges very quickly, which I find very handy.",
+      "note": "Wat takes the place of dat and refers to the whole first sentence. Vind goes to the end."
+    },
+    {
+      "type": "fix",
+      "wrong": "Dit is de laptop met die ik werk.",
+      "answers": ["Dit is de laptop waarmee ik werk.", "Dit is de laptop waar ik mee werk."],
+      "en": "This is the laptop I work with.",
+      "note": "After a preposition die is impossible. For a thing use waar + preposition: waarmee."
+    },
+    {
+      "type": "fix",
+      "wrong": "Ik heb het programma geïnstalleerd waarmet je video's kunt maken.",
+      "answers": ["Ik heb het programma geïnstalleerd waarmee je video's kunt maken.", "Ik heb het programma geïnstalleerd waar je video's mee kunt maken."],
+      "en": "I have installed the program you can make videos with.",
+      "note": "With waar, met always becomes mee: waarmee. The same goes for tot: waartoe."
+    },
+    {
+      "type": "fix",
+      "wrong": "Dat is het enige die ik niet kan downloaden.",
+      "answers": ["Dat is het enige wat ik niet kan downloaden.", "Dat is het enige dat ik niet kan downloaden."],
+      "en": "That is the only thing I cannot download.",
+      "note": "Het enige has no noun, so the usual pronoun is wat (dat is accepted too). Die is wrong: it is not a de-word."
+    }
+  ]
+}

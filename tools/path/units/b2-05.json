@@ -8,10 +8,10 @@
   "explain": "Official letters are full of nouns where everyday Dutch would use a verb: `Na ontvangst van uw aanvraag …` instead of `Nadat wij uw aanvraag hebben ontvangen …`. This is called noun style (*de naamwoordstijl*). You need to read it, write it where a formal text asks for it, and turn it back into verbs.\n\n### 1. het + infinitive\n\nAlmost any verb becomes a noun when you put `het` in front of the infinitive. It is **always a het-word** and has no plural. The object of the verb follows with `van`; the doer, if it is mentioned at all, follows with `door`.\n\n> Het invullen van het formulier duurt ongeveer tien minuten. — Filling in the form takes about ten minutes.\n> Bij het indienen van een bezwaar moet u een kopie van het besluit meesturen. — When submitting an objection you must enclose a copy of the decision.\n\n`bij het …` means \"when …, while …\", `na het …` \"after …\", `voor het …` \"before …\". A separable verb stays in one word: `het indienen`, `het intrekken`.\n\nAn adverb that goes with the verb may stay an adverb or become an adjective with -e: `het snel groeien` and `het snelle groeien` van de stad are both standard Dutch. Official letters usually keep the form without -e, especially with a phrase like `te laat`:\n\n> Het tijdig indienen van de aanvraag is uw eigen verantwoordelijkheid. — Submitting the application on time is your own responsibility.\n\n### 2. Nouns in -ing and other action nouns\n\nMany verbs make a noun with stem + `-ing`:\n\n| verb | noun |\n| betalen | de betaling |\n| behandelen | de behandeling |\n| verlengen | de verlenging |\n| afwijzen | de afwijzing |\n| indienen | de indiening |\n\n**Every -ing noun is a de-word**, with the plural in -en: `de betalingen`. Not every verb has an -ing noun. Many have a noun of their own, and then that is the one to use; its article has to be learned: `ontvangen → de ontvangst`, `aanvragen → de aanvraag`, `besluiten → het besluit`, `vertrekken → het vertrek`, `uitstellen → het uitstel`.\n\n> De behandeling van uw aanvraag duurt ongeveer acht weken. — The processing of your application takes about eight weeks.\n\n### 3. A preposition and a noun instead of a sub-clause\n\n| noun style | with a verb |\n| na ontvangst van uw brief | nadat wij uw brief hebben ontvangen |\n| bij vertrek | als u vertrekt |\n| wegens ziekte | omdat iemand ziek is |\n| ter voorkoming van fraude | om fraude te voorkomen |\n| in afwachting van het besluit | terwijl u op het besluit wacht |\n| op verzoek van uw werkgever | omdat uw werkgever erom heeft gevraagd |\n\nSeveral have no article: `na ontvangst`, `bij vertrek`. `ter` is an old form that only survives in fixed phrases (more in B2 · 21). `wegens` is a preposition: it takes a noun, never a sub-clause.\n\n> Wegens ziekte gaat het spreekuur vandaag niet door. — Because of illness the surgery hours are cancelled today.\n\n### Word order\n\nThe whole phrase counts as **one element**. When it stands first, the conjugated verb follows it directly, and then the subject.\n\n> Na ontvangst van uw brief nemen wij contact met u op. — After receipt of your letter we will contact you.\n\n### Reading it: find the action and the doer\n\nNoun style hides who does what, and when. Find the verb inside the noun (`behandeling → behandelen`) and the doer (often the authority), then say it with a verb:\n\n- `de behandeling van uw aanvraag` → wij behandelen uw aanvraag\n- `wegens te late indiening` → omdat u de aanvraag te laat hebt ingediend\n\n`te laat` becomes `te late` because it now stands before a de-noun.\n\n### Writing it yourself\n\nVerbs are clearer, so use them where you can; noun style fits forms and formal letters. Avoid chains of `van`: `de datum van de behandeling van de aanvraag van uw werkgever` is correct but hard to read; `de datum waarop wij de aanvraag van uw werkgever behandelen` is better.\n\n### Watch out\n\n- **het** with the infinitive, **de** with -ing: `het verlengen`, `de verlenging`; never *het verlenging or *de verlengen.\n- The object needs `van`: `het intrekken van uw aanvraag`, not *het intrekken uw aanvraag.\n- After the phrase at the start comes the verb: `Na ontvangst van uw brief hebben wij …`, not *Na ontvangst van uw brief wij hebben …\n- `wegens` + noun, `omdat` + sub-clause: `Omdat ik ziek was, …`, never *Wegens ik ziek was, …\n\n### Compared with Ukrainian\n\nUkrainian official style does the same: `подання заяви`, `розгляд заяви`. Where Ukrainian puts the object in the genitive, Dutch uses `van`: `het indienen van een aanvraag`, `de behandeling van de aanvraag`.",
   "words": [
     {
-      "nl": "aanvraag",
+      "nl": "aanvrager",
       "art": "de",
-      "pl": "aanvragen",
-      "en": "application (for a permit, benefit)",
+      "pl": "aanvragers",
+      "en": "applicant",
       "pos": "n"
     },
     {
@@ -435,13 +435,13 @@
     {
       "type": "rewrite",
       "task": "Turn the noun phrase into a sub-clause with omdat.",
-      "from": "Wegens het ontbreken van uw handtekening kunnen wij uw aanvraag niet behandelen.",
+      "from": "Wegens het ontbreken van de handtekening van de aanvrager kunnen wij de aanvraag niet behandelen.",
       "answers": [
-        "Omdat uw handtekening ontbreekt, kunnen wij uw aanvraag niet behandelen.",
-        "Wij kunnen uw aanvraag niet behandelen, omdat uw handtekening ontbreekt."
+        "Omdat de handtekening van de aanvrager ontbreekt, kunnen wij de aanvraag niet behandelen.",
+        "Wij kunnen de aanvraag niet behandelen, omdat de handtekening van de aanvrager ontbreekt."
       ],
-      "en": "Because your signature is missing, we cannot process your application.",
-      "note": "The action is ontbreken and its subject is uw handtekening, which was hidden behind van. In the sub-clause the verb goes to the end: ontbreekt."
+      "en": "Because the applicant's signature is missing, we cannot process the application.",
+      "note": "The action is ontbreken and its subject is de handtekening van de aanvrager, which was hidden behind the first van. In the sub-clause the verb goes to the end: ontbreekt."
     },
     {
       "type": "rewrite",

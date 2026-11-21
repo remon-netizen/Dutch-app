@@ -1,0 +1,474 @@
+{
+  "id": "b2-03",
+  "level": "B2",
+  "icon": "📊",
+  "title": "At the meeting",
+  "grammar": "Three verbs at the end: order in the verb group",
+  "summary": "In the verb group the conjugated verb comes first and the main verb last (dat hij het zou kunnen doen). A participle may also go first (besproken zal worden); a prefix may stand before the group. Nothing goes inside.",
+  "explain": "In a Dutch sub-clause all the verbs gather at the end, and in a main clause everything except the conjugated verb does. With one or two verbs that is easy. At B2 you meet three or four together (`… dat het had moeten worden besproken`), and then the order inside that group matters. Dutch grammars call the two orders of a participle and its auxiliary *de rode en de groene volgorde*.\n\n### Two verbs\n\nA **participle** and its auxiliary may stand in either order. Both are equally correct and you will hear and read both:\n\n> Ik weet dat hij het verslag heeft geschreven. — I know that he has written the report.\n> Ik weet dat hij het verslag geschreven heeft. — I know that he has written the report.\n\nAn **infinitive** comes after the conjugated verb: `dat hij moet werken`. The order *dat hij werken moet is old-fashioned or regional; do not use it.\n\n### Three verbs or more\n\nThe conjugated verb comes **first**. The others follow in the order in which they depend on each other: each verb governs the next one, and the main verb comes **last**.\n\n| sub-clause | the group |\n| dat hij het zou kunnen doen | zou + kunnen + doen |\n| dat ze had moeten komen | had + moeten + komen |\n| dat het zal worden besproken | zal + worden + besproken |\n| dat het had moeten worden besproken | had + moeten + worden + besproken |\n\n> Ik denk dat we de fusie zouden kunnen afronden. — I think that we could complete the merger.\n\nA **participle** has one extra possibility: it may also stand **first** in the group, before the conjugated verb: `dat het besproken zal worden`, `dat hij het gedaan zou hebben`, `dat het besproken had moeten worden`. In the middle (*dat het zal besproken worden) it is common in Belgium, but avoid it in Netherlands Dutch. Infinitives never move to the front: *dat ze komen had moeten.\n\n> De voorzitter zegt dat het voorstel besproken zal worden. — The chair says that the proposal will be discussed.\n\n### Two infinitives in the perfect\n\nYou know this from unit B1 · 26: a modal verb, or `gaan`, `blijven`, `laten`, in the perfect is an infinitive, not a participle. The auxiliary comes first and the order is fixed. The auxiliary is the one of the first infinitive: `hebben` with the modals and `laten`, `zijn` with `gaan` and `blijven`.\n\n> Het spijt me dat u zo lang heeft moeten wachten. — I am sorry that you have had to wait so long.\n> Ik begrijp niet waarom ze is blijven zitten. — I do not understand why she stayed seated.\n\n### Separable verbs\n\nThe prefix stays with its verb, or it stands **before the whole group**: `dat hij me zou opbellen` or `dat hij me op zou bellen`; `dat ze het had moeten toelichten` or `dat ze het toe had moeten lichten`. Other places in the middle are heard mainly in Belgium.\n\n### te in the group\n\nWith `schijnen`, `lijken` and `blijken` the group contains `te`: `dat hij schijnt te hebben gewonnen` or `gewonnen te hebben`. More about these verbs in unit B2 · 14.\n\n### Nothing goes inside the group\n\nObjects, `niet` and adverbs stand **before** the group: `dat we het plan niet hadden kunnen uitvoeren`. A phrase with a preposition may also follow the group (`dat ze hebben ingestemd met het plan`), but nothing stands between the verbs.\n\n### The main clause\n\nThe conjugated verb takes the second place; the rest of the group goes to the end in the same order, with the same freedom for a participle and a prefix:\n\n> De directeur had de cijfers beter moeten toelichten. — The director should have explained the figures better.\n\nSo: `Het zal worden besproken` or `Het zal besproken worden`; `Ik heb moeten wachten`; `Hij had me moeten opbellen` or `Hij had me op moeten bellen`.\n\n### Watch out\n\n- Nothing between the verbs: *dat we zouden het moeten doen → `dat we het zouden moeten doen`.\n- No participle of the modal: *dat ze heeft gemoeten wachten → `dat ze heeft moeten wachten`.\n- With two infinitives the auxiliary comes first: *dat ik moeten wachten heb → `dat ik heb moeten wachten`.\n- Not in the middle: *dat het zal besproken worden → `dat het zal worden besproken` or `dat het besproken zal worden`.\n\n### Compared with Ukrainian\n\nUkrainian keeps the verbs close to the subject: `що ми могли б це зробити`. Dutch saves them all for the end of the clause: `dat we het zouden kunnen doen`.",
+  "words": [
+    {
+      "nl": "agendapunt",
+      "art": "het",
+      "pl": "agendapunten",
+      "en": "item on the agenda",
+      "pos": "n"
+    },
+    {
+      "nl": "notulen",
+      "art": "de",
+      "pl": "",
+      "en": "minutes (of a meeting)",
+      "pos": "n",
+      "tag": "always plural"
+    },
+    {
+      "nl": "voorzitter",
+      "art": "de",
+      "pl": "voorzitters",
+      "en": "chair (of a meeting) / chairperson",
+      "pos": "n"
+    },
+    {
+      "nl": "aandeelhouder",
+      "art": "de",
+      "pl": "aandeelhouders",
+      "en": "shareholder",
+      "pos": "n"
+    },
+    {
+      "nl": "omzet",
+      "art": "de",
+      "pl": "",
+      "en": "turnover (sales)",
+      "pos": "n"
+    },
+    {
+      "nl": "investering",
+      "art": "de",
+      "pl": "investeringen",
+      "en": "investment",
+      "pos": "n"
+    },
+    {
+      "nl": "fusie",
+      "art": "de",
+      "pl": "fusies",
+      "en": "merger",
+      "pos": "n"
+    },
+    {
+      "nl": "overname",
+      "art": "de",
+      "pl": "overnames",
+      "en": "takeover",
+      "pos": "n"
+    },
+    {
+      "nl": "draagvlak",
+      "art": "het",
+      "pl": "",
+      "en": "(broad) support / backing",
+      "pos": "n"
+    },
+    {
+      "nl": "toelichten",
+      "past": "lichtte toe",
+      "perf": "heeft toegelicht",
+      "en": "to explain / to clarify",
+      "pos": "v"
+    },
+    {
+      "nl": "beklinken",
+      "past": "beklonk",
+      "perf": "heeft beklonken",
+      "en": "to seal (a deal)",
+      "pos": "v"
+    },
+    {
+      "nl": "instemmen met",
+      "past": "stemde in",
+      "perf": "heeft ingestemd",
+      "en": "to agree to / to consent to",
+      "pos": "v"
+    },
+    {
+      "nl": "bijsturen",
+      "past": "stuurde bij",
+      "perf": "heeft bijgestuurd",
+      "en": "to adjust (the course of something)",
+      "pos": "v"
+    },
+    {
+      "nl": "doorvoeren",
+      "past": "voerde door",
+      "perf": "heeft doorgevoerd",
+      "en": "to implement (a change)",
+      "pos": "v"
+    },
+    {
+      "nl": "haalbaar",
+      "en": "feasible",
+      "pos": "adj"
+    },
+    {
+      "nl": "unaniem",
+      "en": "unanimous / unanimously",
+      "pos": "adj"
+    }
+  ],
+  "sentences": [
+    {
+      "nl": "De voorzitter zei dat het agendapunt volgende week zal worden besproken.",
+      "en": "The chair said that the item on the agenda will be discussed next week.",
+      "hint": [
+        "voorzitter",
+        "zeggen",
+        "agendapunt",
+        "volgende week",
+        "bespreken"
+      ],
+      "note": "Three verbs: zal first, then worden, then the participle. The participle may also stand first in the group: besproken zal worden.",
+      "alt": [
+        "De voorzitter zei dat het agendapunt volgende week besproken zal worden."
+      ]
+    },
+    {
+      "nl": "Ik denk dat we de fusie voor de zomer zouden kunnen beklinken.",
+      "en": "I think that we could seal the merger before the summer.",
+      "hint": [
+        "denken",
+        "fusie",
+        "zomer",
+        "kunnen",
+        "beklinken"
+      ],
+      "note": "zouden + kunnen + beklinken: the conjugated verb first, the main verb last. Two infinitives, so there is no other order."
+    },
+    {
+      "nl": "Het spijt me dat u zo lang heeft moeten wachten.",
+      "en": "I am sorry that you (formal) have had to wait so long.",
+      "hint": [
+        "spijten",
+        "lang",
+        "moeten",
+        "wachten"
+      ],
+      "note": "The perfect of moeten with another verb: heeft moeten wachten, two infinitives. Here the order is fixed: the auxiliary first.",
+      "alt": [
+        "Het spijt me dat u zo lang hebt moeten wachten."
+      ]
+    },
+    {
+      "nl": "Het is jammer dat de aandeelhouders niet met de overname hebben ingestemd.",
+      "en": "It is a pity that the shareholders have not agreed to the takeover.",
+      "hint": [
+        "jammer",
+        "aandeelhouder",
+        "niet",
+        "overname",
+        "instemmen met"
+      ],
+      "note": "Two verbs with a participle: hebben ingestemd or ingestemd hebben. The phrase met de overname stands before the group, or after it, never inside.",
+      "alt": [
+        "Het is jammer dat de aandeelhouders niet met de overname ingestemd hebben.",
+        "Het is jammer dat de aandeelhouders niet hebben ingestemd met de overname.",
+        "Het is jammer dat de aandeelhouders niet ingestemd hebben met de overname."
+      ]
+    },
+    {
+      "nl": "Volgens de notulen had het voorstel al in maart moeten worden goedgekeurd.",
+      "en": "According to the minutes the proposal should already have been approved in March.",
+      "hint": [
+        "volgens",
+        "notulen",
+        "voorstel",
+        "maart",
+        "moeten",
+        "goedkeuren"
+      ],
+      "note": "Main clause: had takes the second place, the rest of the group goes to the end: moeten worden goedgekeurd, or with the participle first, goedgekeurd moeten worden.",
+      "alt": [
+        "Volgens de notulen had het voorstel al in maart goedgekeurd moeten worden.",
+        "Het voorstel had volgens de notulen al in maart moeten worden goedgekeurd.",
+        "Het voorstel had volgens de notulen al in maart goedgekeurd moeten worden."
+      ]
+    },
+    {
+      "nl": "De directeur had de cijfers beter moeten toelichten.",
+      "en": "The director should have explained the figures better.",
+      "hint": [
+        "directeur",
+        "cijfer",
+        "beter",
+        "moeten",
+        "toelichten"
+      ],
+      "note": "In a main clause the group at the end is moeten toelichten. The prefix may stay with its verb or stand before the group: toe moeten lichten.",
+      "alt": [
+        "De directeur had de cijfers beter toe moeten lichten."
+      ]
+    },
+    {
+      "nl": "Het bedrijf schijnt vorig jaar minder omzet te hebben gemaakt.",
+      "en": "The company seems to have made less turnover last year.",
+      "hint": [
+        "bedrijf",
+        "schijnen",
+        "vorig jaar",
+        "omzet",
+        "maken"
+      ],
+      "note": "schijnen + te: te hebben gemaakt at the end. With a participle both orders are possible: gemaakt te hebben.",
+      "alt": [
+        "Het bedrijf schijnt vorig jaar minder omzet gemaakt te hebben."
+      ]
+    },
+    {
+      "nl": "Ik begrijp niet waarom de directie de fusie heeft laten doorgaan.",
+      "en": "I do not understand why the management has let the merger go ahead.",
+      "hint": [
+        "begrijpen",
+        "directie",
+        "fusie",
+        "laten",
+        "doorgaan"
+      ],
+      "note": "The perfect of laten with another verb: heeft laten doorgaan, two infinitives after the auxiliary. The prefix may also stand before the group: door heeft laten gaan.",
+      "alt": [
+        "Ik begrijp niet waarom de directie de fusie door heeft laten gaan."
+      ]
+    },
+    {
+      "nl": "De voorzitter vreest dat de reorganisatie zonder draagvlak niet zal kunnen worden doorgevoerd.",
+      "en": "The chair fears that without support the reorganisation will not be able to be carried out.",
+      "hint": [
+        "voorzitter",
+        "vrezen",
+        "reorganisatie",
+        "draagvlak",
+        "kunnen",
+        "doorvoeren"
+      ],
+      "note": "Four verbs: zal + kunnen + worden + doorgevoerd, each governing the next. Only the participle may move, to the front of the group: doorgevoerd zal kunnen worden.",
+      "alt": [
+        "De voorzitter vreest dat de reorganisatie zonder draagvlak niet doorgevoerd zal kunnen worden.",
+        "De voorzitter vreest dat zonder draagvlak de reorganisatie niet zal kunnen worden doorgevoerd.",
+        "De voorzitter vreest dat zonder draagvlak de reorganisatie niet doorgevoerd zal kunnen worden."
+      ]
+    },
+    {
+      "nl": "Het bestuur heeft unaniem besloten dat het project moet worden bijgestuurd.",
+      "en": "The board has decided unanimously that the project must be adjusted.",
+      "hint": [
+        "bestuur",
+        "unaniem",
+        "besluiten",
+        "project",
+        "moeten",
+        "bijsturen"
+      ],
+      "note": "In the dat-clause: moet worden bijgestuurd or bijgestuurd moet worden. The main clause has heeft second and besloten at the end.",
+      "alt": [
+        "Het bestuur heeft unaniem besloten dat het project bijgestuurd moet worden."
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "type": "choose",
+      "nl": "Ik hoop dat de voorzitter het agendapunt ___.",
+      "options": [
+        "kan toelichten",
+        "toelichten kan",
+        "kan lichten toe"
+      ],
+      "correct": 0,
+      "en": "I hope that the chair can explain the item on the agenda.",
+      "note": "With an infinitive the conjugated verb comes first: kan toelichten (or, with the prefix before the group, toe kan lichten). Toelichten kan is old-fashioned, and the prefix never comes after its verb."
+    },
+    {
+      "type": "choose",
+      "nl": "Ik vind dat dit agendapunt eerder ___.",
+      "options": [
+        "had gemoeten worden besproken",
+        "had moeten besproken worden",
+        "had moeten worden besproken"
+      ],
+      "correct": 2,
+      "en": "I think that this item on the agenda should have been discussed earlier.",
+      "note": "had + moeten + worden + besproken, in the order of dependence. A participle may stand last or first (besproken had moeten worden), but not in the middle in Netherlands Dutch. Never *gemoeten before another verb."
+    },
+    {
+      "type": "choose",
+      "nl": "Het spijt me dat ik gisteren niet naar de vergadering ___ kunnen komen.",
+      "options": [
+        "ben",
+        "heb",
+        "kon"
+      ],
+      "correct": 1,
+      "en": "I am sorry that I was not able to come to the meeting yesterday.",
+      "note": "With two infinitives the auxiliary belongs to the first one, kunnen, and kunnen takes hebben: heb kunnen komen. *ben kunnen komen is heard in Belgium, but it is not standard."
+    },
+    {
+      "type": "gap",
+      "nl": "Hij beweert dat hij de fusie al lang had ___ (willen) tegenhouden.",
+      "answers": [
+        "willen"
+      ],
+      "en": "He claims that he had wanted to stop the merger for a long time.",
+      "note": "A modal in the perfect with another verb stays an infinitive: had willen tegenhouden, not *had gewild tegenhouden."
+    },
+    {
+      "type": "gap",
+      "nl": "Ik snap niet waarom de aandeelhouders zo lang zijn ___ (blijven) twijfelen.",
+      "answers": [
+        "blijven"
+      ],
+      "en": "I do not see why the shareholders have kept on hesitating for so long.",
+      "note": "blijven + infinitive in the perfect: zijn blijven twijfelen. Blijven takes zijn, and it is an infinitive, not *gebleven."
+    },
+    {
+      "type": "gap",
+      "nl": "Het bedrijf lijkt de deadline niet ___ (halen) te hebben.",
+      "answers": [
+        "gehaald"
+      ],
+      "en": "The company seems not to have met the deadline.",
+      "note": "lijken + te + hebben + participle. The participle stands first in the group here: gehaald te hebben; te hebben gehaald is just as good."
+    },
+    {
+      "type": "order",
+      "lead": "Ik denk dat",
+      "words": [
+        "de investering",
+        "haalbaar",
+        "zou",
+        "kunnen",
+        "zijn"
+      ],
+      "answers": [
+        "Ik denk dat de investering haalbaar zou kunnen zijn."
+      ],
+      "en": "I think that the investment could be feasible.",
+      "note": "zou + kunnen + zijn form the group at the end. Haalbaar belongs before the group; it cannot stand between the verbs."
+    },
+    {
+      "type": "order",
+      "lead": "De voorzitter zegt dat het agendapunt",
+      "words": [
+        "morgen",
+        "zal",
+        "worden",
+        "besproken"
+      ],
+      "answers": [
+        "De voorzitter zegt dat het agendapunt morgen zal worden besproken.",
+        "De voorzitter zegt dat het agendapunt morgen besproken zal worden."
+      ],
+      "en": "The chair says that the item on the agenda will be discussed tomorrow.",
+      "note": "Morgen stands before the group. Inside it, zal comes before worden; the participle stands last or first."
+    },
+    {
+      "type": "order",
+      "lead": "Het spijt me dat",
+      "words": [
+        "ik",
+        "de notulen",
+        "niet",
+        "heb",
+        "kunnen",
+        "lezen"
+      ],
+      "answers": [
+        "Het spijt me dat ik de notulen niet heb kunnen lezen."
+      ],
+      "en": "I am sorry that I have not been able to read the minutes.",
+      "note": "With two infinitives the order is fixed: heb kunnen lezen. The object and niet stand before the group."
+    },
+    {
+      "type": "order",
+      "lead": "Hij had beloofd dat hij",
+      "words": [
+        "me",
+        "na de vergadering",
+        "op",
+        "zou",
+        "bellen"
+      ],
+      "answers": [
+        "Hij had beloofd dat hij me na de vergadering op zou bellen."
+      ],
+      "en": "He had promised that he would call me after the meeting.",
+      "note": "Here the prefix op stands before the whole group: op zou bellen. (Zou opbellen, in one word, is equally right.) The short pronoun me comes right after the subject."
+    },
+    {
+      "type": "rewrite",
+      "task": "Make it a sub-clause after Ik denk dat …",
+      "from": "De vergadering zal langer moeten duren.",
+      "answers": [
+        "Ik denk dat de vergadering langer zal moeten duren."
+      ],
+      "en": "I think that the meeting will have to last longer.",
+      "note": "In the sub-clause zal joins the group at the end, in first place: zal moeten duren. Both are infinitives, so there is no other order."
+    },
+    {
+      "type": "rewrite",
+      "task": "Put it in the perfect.",
+      "from": "We moesten de deadline verschuiven.",
+      "answers": [
+        "We hebben de deadline moeten verschuiven."
+      ],
+      "en": "We have had to move the deadline.",
+      "note": "Moeten takes hebben, and with another verb it stays an infinitive: hebben … moeten verschuiven. Not *hebben gemoeten."
+    },
+    {
+      "type": "rewrite",
+      "task": "Start with Ze zegt dat …",
+      "from": "De aandeelhouders zullen met de fusie instemmen.",
+      "answers": [
+        "Ze zegt dat de aandeelhouders met de fusie zullen instemmen.",
+        "Ze zegt dat de aandeelhouders met de fusie in zullen stemmen.",
+        "Ze zegt dat de aandeelhouders zullen instemmen met de fusie.",
+        "Ze zegt dat de aandeelhouders in zullen stemmen met de fusie.",
+        "Zij zegt dat de aandeelhouders met de fusie zullen instemmen.",
+        "Zij zegt dat de aandeelhouders met de fusie in zullen stemmen.",
+        "Zij zegt dat de aandeelhouders zullen instemmen met de fusie.",
+        "Zij zegt dat de aandeelhouders in zullen stemmen met de fusie."
+      ],
+      "en": "She says that the shareholders will agree to the merger.",
+      "note": "zullen joins the group at the end: zullen instemmen. The prefix in may also stand before the group: in zullen stemmen."
+    },
+    {
+      "type": "fix",
+      "wrong": "Ik denk dat we zouden het project moeten bijsturen.",
+      "answers": [
+        "Ik denk dat we het project zouden moeten bijsturen.",
+        "Ik denk dat we het project bij zouden moeten sturen."
+      ],
+      "en": "I think that we should adjust the project.",
+      "note": "Nothing can stand inside the verb group. The object het project goes before it: … het project zouden moeten bijsturen."
+    },
+    {
+      "type": "fix",
+      "wrong": "Ik hoor dat de voorzitter de vergadering heeft gemoeten afzeggen.",
+      "answers": [
+        "Ik hoor dat de voorzitter de vergadering heeft moeten afzeggen.",
+        "Ik hoor dat de voorzitter de vergadering af heeft moeten zeggen."
+      ],
+      "en": "I hear that the chair has had to cancel the meeting.",
+      "note": "A modal in the perfect followed by another verb is an infinitive: heeft moeten afzeggen. Gemoeten only stands on its own."
+    },
+    {
+      "type": "fix",
+      "wrong": "Hij zegt dat het plan wordt morgen besproken.",
+      "answers": [
+        "Hij zegt dat het plan morgen wordt besproken.",
+        "Hij zegt dat het plan morgen besproken wordt."
+      ],
+      "en": "He says that the plan will be discussed tomorrow.",
+      "note": "In a sub-clause all verbs stand together at the end; morgen goes before the group, not between wordt and besproken."
+    }
+  ]
+}

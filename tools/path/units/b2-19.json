@@ -1,0 +1,218 @@
+{
+  "id": "b2-19",
+  "level": "B2",
+  "icon": "✍️",
+  "title": "Language and writing",
+  "grammar": "Spelling: one word or two, tussen-n, trema, apostrophe, hyphen",
+  "summary": "A compound is one word: taalcursus. Linking -en- if the first part's only plural is -en (woordenboek), else -e- (groentesoep). Hyphen for clashing vowels, abbreviations, numbers. auto's, Anna's; geïnteresseerd.",
+  "explain": "Much of Dutch spelling is not about single letters but about where a word begins and ends, and how its parts are joined. These rules are grammar as much as spelling, and they are where educated writers are judged.\n\n### A compound is one word\n\nDutch writes a compound (*de samenstelling*) as **one word**, however long it is: `taalcursus`, `klantenservice`, `langeafstandsloper`. Writing the parts apart, as English does, is a well-known mistake called *de Engelse ziekte*: *taal cursus, *klanten service.\n\n> In het Nederlands schrijf je een samenstelling als één woord. — In Dutch you write a compound as one word.\n\n### The linking sound: -en-, -e- or -s-\n\nWhen you hear a weak *e* between the parts, look at the plural of the first part:\n\n| first part | plural | compound |\n| woord | woorden only | woordenboek |\n| boek | boeken only | boekenkast |\n| groente | groenten and groentes | groentesoep |\n| rijst | none | rijstepap |\n\n- Plural **only in -en** → write `-en-`, even when the meaning is singular: `pannenkoek`.\n- Plural also in -s, or no plural → write `-e-`: `gedachtestreepje` (gedachten / gedachtes).\n- Something unique → `-e-`: `zonneschijn`, `Koninginnedag`.\n\n> Dit woordenboek geeft bij elk woord de klemtoon en het meervoud. — This dictionary gives the stress and the plural for every word.\n\nA linking `-s-` is written when you pronounce it: `stadscentrum`, `gesprekspartner`, and also before another s: `stationsstraat`.\n\n### The hyphen\n\n- When two vowels meet that could be read as one sound: `zee-eend`, `auto-ongeluk`, `media-aandacht`.\n- After an abbreviation, a single letter or a figure: `tv-programma`, `pdf-bestand`, `e-mailadres`, `65-plusser`.\n- Between two equal parts: `Zuid-Holland`, `zwart-wit`, `een Nederlands-Oekraïens woordenboek`.\n\n> Het tv-programma over taal was bedoeld voor 65-plussers. — The TV programme about language was meant for the over-65s.\n\n### The trema\n\nInside a single word (not a compound), the trema (¨) shows that a **new syllable** begins with that vowel, so that the two letters are not read as one sound: `geïnteresseerd`, `coördinator`, `België`, `Oekraïne`, `reünie`, `ideeën`, `tweeën`. Compare `zeeën` (one word, trema) with `zee-eend` (compound, hyphen).\n\n> Een trema laat zien dat een nieuwe lettergreep begint. — A trema shows that a new syllable begins.\n\n### The apostrophe\n\n- Plural with -s after a, i, o, u, y: `auto's`, `alinea's`, `menu's`, `baby's`. After -e there is none: `tantes`.\n- Genitive with -s after the same vowels: `Anna's tekst`, `Otto's boek`; otherwise just -s: `Peters tekst`, `Annes tekst`.\n- Abbreviations: `tv's`, `cd's`, `sms'je`.\n- Letters left out: `'s morgens`, `'s avonds`, `zo'n`.\n\n> 's Avonds lees ik Anna's samenvatting nog een keer. — In the evening I read Anna's summary once more.\n\n### Capitals and accents\n\nNames, languages and nationalities have a capital: `Nederlands`, `Oekraïens`, `een Oekraïense`. Days and months do not: `maandag 3 maart`. An accent marks stress when the meaning would otherwise be unclear: `één` (one) against `een` (a), `vóór` (before, in front of) against `voor`, `dé oplossing` (the solution).\n\n### Words that sound alike\n\n- `jou` is an object (`Ik zie jou`), `jouw` a possessive (`jouw tekst`).\n- `na` means *after*, `naar` *to*: `na de les`, `naar de docent`.\n- `me` and `mij` are objects; the possessive is `mijn`. *me tekst is speech only.\n> Na de les stuur ik jouw tekst naar de docent. — After the class I will send your text to the teacher.\n\n- `hun` and `hen` (unit B2 · 17), `als` and `dan` (unit B2 · 18).\n- `hij wil`, never *hij wilt. With jij both `jij wilt` and `jij wil` are correct, but after the verb it is `wil jij`.\n\n### Compared with Ukrainian\n\nUkrainian often says it with an adjective and a noun, `мовний курс`, where Dutch makes one compound: `taalcursus`. When Ukrainian has two words, check whether Dutch has one.",
+  "words": [
+    { "nl": "spelling", "art": "de", "pl": "spellingen", "en": "spelling", "pos": "n" },
+    { "nl": "samenstelling", "art": "de", "pl": "samenstellingen", "en": "compound (word)", "pos": "n" },
+    { "nl": "woordenboek", "art": "het", "pl": "woordenboeken", "en": "dictionary", "pos": "n" },
+    { "nl": "leesteken", "art": "het", "pl": "leestekens", "en": "punctuation mark", "pos": "n" },
+    { "nl": "afkorting", "art": "de", "pl": "afkortingen", "en": "abbreviation", "pos": "n" },
+    { "nl": "klemtoon", "art": "de", "pl": "klemtonen", "en": "stress (on a syllable)", "pos": "n" },
+    { "nl": "lettergreep", "art": "de", "pl": "lettergrepen", "en": "syllable", "pos": "n" },
+    { "nl": "meervoud", "art": "het", "pl": "meervouden", "en": "plural", "pos": "n" },
+    { "nl": "taalgebruik", "art": "het", "pl": "", "en": "use of language", "pos": "n" },
+    { "nl": "alinea", "art": "de", "pl": "alinea's", "en": "paragraph", "pos": "n" },
+    { "nl": "samenvatting", "art": "de", "pl": "samenvattingen", "en": "summary", "pos": "n" },
+    { "nl": "taalfout", "art": "de", "pl": "taalfouten", "en": "language mistake", "pos": "n" },
+    { "nl": "formuleren", "past": "formuleerde", "perf": "heeft geformuleerd", "en": "to phrase / to formulate", "pos": "v" },
+    { "nl": "corrigeren", "past": "corrigeerde", "perf": "heeft gecorrigeerd", "en": "to correct", "pos": "v" },
+    { "nl": "leesbaar", "en": "readable", "pos": "adj" }
+  ],
+  "sentences": [
+    {
+      "nl": "Ik volg sinds januari een taalcursus bij de bibliotheek.",
+      "en": "I have been taking a language course at the library since January.",
+      "hint": ["volgen", "januari", "taalcursus", "bibliotheek"],
+      "note": "Taalcursus is a compound, so it is one word: not taal cursus. Months have no capital in Dutch: januari.",
+      "alt": ["Sinds januari volg ik een taalcursus bij de bibliotheek.", "Ik volg sinds januari een taalcursus in de bibliotheek.", "Sinds januari volg ik een taalcursus in de bibliotheek."]
+    },
+    {
+      "nl": "Dit woordenboek geeft bij elk woord de klemtoon en het meervoud.",
+      "en": "This dictionary gives the stress and the plural for every word.",
+      "hint": ["woordenboek", "geven", "woord", "klemtoon", "meervoud"],
+      "note": "Woord has only the plural woorden, so the linking sound is written -en-: woordenboek. Klemtoon is a compound too: one word.",
+      "alt": ["Dit woordenboek geeft de klemtoon en het meervoud bij elk woord.", "Dit woordenboek geeft bij ieder woord de klemtoon en het meervoud."]
+    },
+    {
+      "nl": "Een trema laat zien dat een nieuwe lettergreep begint.",
+      "en": "A trema shows that a new syllable begins.",
+      "hint": ["trema", "laten zien", "nieuw", "lettergreep", "beginnen"],
+      "note": "That is why it is geïnteresseerd and coördinator: the i and the o start a new syllable. Lettergreep is a compound of letter and greep, written as one word.",
+      "alt": ["Een trema geeft aan dat een nieuwe lettergreep begint."]
+    },
+    {
+      "nl": "De docent heeft de taalfouten in mijn alinea's met rood gemarkeerd.",
+      "en": "The teacher has marked the language mistakes in my paragraphs in red.",
+      "hint": ["docent", "taalfout", "alinea", "rood", "markeren"],
+      "note": "Alinea ends in a, so the plural -s gets an apostrophe: alinea's, as in auto's. Without it, the a would be read short.",
+      "alt": ["De docent heeft de taalfouten in mijn alinea's in het rood gemarkeerd.", "De docent heeft de taalfouten in mijn alinea's rood gemarkeerd."]
+    },
+    {
+      "nl": "Mijn collega is erg geïnteresseerd in het Oekraïens.",
+      "en": "My colleague is very interested in Ukrainian.",
+      "hint": ["collega", "geïnteresseerd", "Oekraïens"],
+      "note": "Two tremas: ge-ïn and Oe-kra-ïens, where a new syllable starts. A language has a capital: Oekraïens.",
+      "alt": ["Mijn collega is heel geïnteresseerd in het Oekraïens.", "Mijn collega is erg geïnteresseerd in Oekraïens."]
+    },
+    {
+      "nl": "Het tv-programma over taal was bedoeld voor 65-plussers.",
+      "en": "The TV programme about language was meant for the over-65s.",
+      "hint": ["tv-programma", "taal", "bedoelen", "65-plusser"],
+      "note": "After an abbreviation (tv) and after a figure (65) a compound gets a hyphen. The abbreviation tv is written in small letters.",
+      "alt": ["Het tv-programma over taal was voor 65-plussers bedoeld."]
+    },
+    {
+      "nl": "'s Avonds lees ik Anna's samenvatting nog een keer.",
+      "en": "In the evening I read Anna's summary once more.",
+      "hint": ["'s avonds", "lezen", "samenvatting", "keer"],
+      "note": "'s avonds keeps an old 's (des). Anna's gets an apostrophe because the name ends in a; Peters would have none.",
+      "alt": ["Ik lees 's avonds Anna's samenvatting nog een keer.", "Ik lees Anna's samenvatting 's avonds nog een keer.", "'s Avonds lees ik Anna's samenvatting nog eens."]
+    },
+    {
+      "nl": "In het Nederlands schrijf je een samenstelling als één woord.",
+      "en": "In Dutch you write a compound as one word.",
+      "hint": ["Nederlands", "schrijven", "samenstelling", "één", "woord"],
+      "note": "één has accents because it means 'one', not 'a'. Nederlands is a language, so it has a capital.",
+      "alt": ["Een samenstelling schrijf je in het Nederlands als één woord.", "Je schrijft een samenstelling in het Nederlands als één woord.", "In het Nederlands schrijf je een samenstelling aan elkaar."]
+    },
+    {
+      "nl": "Ik heb het e-mailadres van de coördinator nergens kunnen vinden.",
+      "en": "I could not find the coordinator's e-mail address anywhere.",
+      "hint": ["e-mailadres", "coördinator", "nergens", "vinden"],
+      "note": "E-mail keeps its hyphen, and e-mail + adres is written as one word: e-mailadres. Coördinator has a trema because co and or are separate syllables."
+    },
+    {
+      "nl": "Wil jij mijn tekst corrigeren voordat ik hem verstuur?",
+      "en": "Will you correct my text before I send it?",
+      "hint": ["willen", "tekst", "corrigeren", "voordat", "versturen"],
+      "note": "With jij after the verb it is wil jij, without t. (Jij wilt and jij wil are both correct, but hij always wil.)",
+      "alt": ["Wil je mijn tekst corrigeren voordat ik hem verstuur?", "Wil jij mijn tekst corrigeren voor ik hem verstuur?", "Wil je mijn tekst corrigeren voor ik hem verstuur?"]
+    }
+  ],
+  "exercises": [
+    {
+      "type": "choose",
+      "nl": "Ik heb gisteren de ___ gebeld.",
+      "options": ["klanten service", "klanten-service", "klantenservice"],
+      "correct": 2,
+      "en": "I called customer service yesterday.",
+      "note": "A compound is one word, without a space and without a hyphen. Klant has only the plural klanten, so -en-: klantenservice."
+    },
+    {
+      "type": "choose",
+      "nl": "Mijn zus is erg ___ in taalgebruik.",
+      "options": ["geïnteresseerd", "geinteresseerd", "geïntresseerd"],
+      "correct": 0,
+      "en": "My sister is very interested in the use of language.",
+      "note": "The i starts a new syllable (ge-ïn-te-res-seerd), so it gets a trema. The e after int is pronounced and written: -interesseerd."
+    },
+    {
+      "type": "choose",
+      "nl": "We hebben de toets over spelling op ___.",
+      "options": ["Maandag 3 Maart", "maandag 3 maart", "Maandag 3 maart"],
+      "correct": 1,
+      "en": "We have the spelling test on Monday 3 March.",
+      "note": "Days and months are written with a small letter in Dutch, unlike in English. Languages and nationalities do get a capital."
+    },
+    {
+      "type": "choose",
+      "nl": "___ de correctie is je tekst veel beter leesbaar.",
+      "options": ["Naar", "Na", "Van"],
+      "correct": 1,
+      "en": "After the correction your text is much more readable.",
+      "note": "After (in time) is na. Naar means 'to' or 'towards': naar de docent."
+    },
+    {
+      "type": "choose",
+      "nl": "Hij ___ zijn samenvatting nog laten corrigeren.",
+      "options": ["wilt", "willen", "wil"],
+      "correct": 2,
+      "en": "He wants to have his summary corrected.",
+      "note": "Hij wil, never hij wilt. Only with jij and u is a t possible: jij wilt (or jij wil), u wilt."
+    },
+    {
+      "type": "gap",
+      "nl": "Zoek dat woord even op in een ___ (woord + boek).",
+      "answers": ["woordenboek"],
+      "en": "Just look that word up in a dictionary.",
+      "note": "Woord has only the plural woorden, so the linking sound is written -en-, and the compound is one word."
+    },
+    {
+      "type": "gap",
+      "nl": "Een ___ (gedachte + streepje) is een leesteken.",
+      "answers": ["gedachtestreepje"],
+      "en": "A dash is a punctuation mark.",
+      "note": "Gedachte has two plurals, gedachten and gedachtes. A first part with a plural in -s too is linked with -e- only, without n."
+    },
+    {
+      "type": "gap",
+      "nl": "Bij een afkorting schrijf je het meervoud met een apostrof: twee ___ (tv).",
+      "answers": ["tv's"],
+      "en": "With an abbreviation you write the plural with an apostrophe: two TVs.",
+      "note": "An abbreviation gets 's in the plural, so that the letters stay recognisable: tv's, cd's."
+    },
+    {
+      "type": "gap",
+      "nl": "De nieuwe woordenlijst kreeg veel ___ (media + aandacht).",
+      "answers": ["media-aandacht"],
+      "en": "The new word list got a lot of media attention.",
+      "note": "The a of media and the aa of aandacht would be read as one sound, so a hyphen keeps them apart: media-aandacht."
+    },
+    {
+      "type": "gap",
+      "nl": "Ik heb ___ (Anna) tekst gisteren al gecorrigeerd.",
+      "answers": ["Anna's"],
+      "en": "I already corrected Anna's text yesterday.",
+      "note": "A name ending in a, i, o, u or y gets 's in the genitive: Anna's. Other names just take s: Peters tekst."
+    },
+    {
+      "type": "gap",
+      "nl": "Ik schrijf het liefst ___ (in the morning: 's …), als het nog stil is.",
+      "answers": ["'s morgens", "'s ochtends"],
+      "en": "I prefer to write in the morning, when it is still quiet.",
+      "note": "'s morgens and 's ochtends are old genitives (des morgens): an apostrophe, a small s, and a space before the word."
+    },
+    {
+      "type": "rewrite",
+      "task": "Replace lijst van woorden by one compound noun.",
+      "from": "Ik zoek een lijst van woorden.",
+      "answers": ["Ik zoek een woordenlijst."],
+      "en": "I am looking for a word list.",
+      "note": "The compound is one word, and woord has only the plural woorden, so it is woordenlijst, with -en-."
+    },
+    {
+      "type": "rewrite",
+      "task": "Make both nouns plural.",
+      "from": "De foto staat naast de alinea.",
+      "answers": ["De foto's staan naast de alinea's."],
+      "en": "The photos are next to the paragraphs.",
+      "note": "Foto and alinea end in o and a, so the plural -s comes after an apostrophe. The verb becomes plural too: staan."
+    },
+    {
+      "type": "fix",
+      "wrong": "Stuur me even de pdf bestanden van je samenvatting.",
+      "answers": ["Stuur me even de pdf-bestanden van je samenvatting."],
+      "en": "Just send me the PDF files of your summary.",
+      "note": "A compound with an abbreviation is joined with a hyphen: pdf-bestanden. Without the hyphen it would be two loose words."
+    },
+    {
+      "type": "fix",
+      "wrong": "Ik heb jou samenvatting al gelezen.",
+      "answers": ["Ik heb jouw samenvatting al gelezen."],
+      "en": "I have already read your summary.",
+      "note": "The possessive (your) is jouw. Jou is the object form: Ik heb jou gezien."
+    },
+    {
+      "type": "fix",
+      "wrong": "Wilt jij deze zin wat korter formuleren?",
+      "answers": ["Wil jij deze zin wat korter formuleren?", "Wil je deze zin wat korter formuleren?"],
+      "en": "Will you phrase this sentence a bit more briefly?",
+      "note": "When jij comes after the verb, the t goes: wil jij. Jij wilt is correct, but wilt jij is not."
+    }
+  ]
+}

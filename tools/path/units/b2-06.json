@@ -1,0 +1,473 @@
+{
+  "id": "b2-06",
+  "level": "B2",
+  "icon": "📈",
+  "title": "The world of work",
+  "grammar": "Formal conjunctions: aangezien, mits, tenzij, zodra, naarmate",
+  "summary": "Formal conjunctions start a sub-clause, verb at the end: aangezien (since), doordat (cause), mits (provided), tenzij (unless, no niet), zodra, naarmate. After al the verb comes first: Al is het zwaar, …",
+  "explain": "Contracts, vacancy texts and news about the labour market use conjunctions you rarely hear at home. They all start a **sub-clause**, so the conjugated verb goes to the end, as after `omdat` and `dat` (unit A2 · 23). The one exception is `al`, below.\n\n### Word order\n\n> Aangezien de vraag groot is, stijgen de lonen. — Since demand is high, wages are rising.\n\nA sub-clause at the start fills the first place, so the main clause starts with its verb: `stijgen de lonen`. When two verbs end the sub-clause, both orders are standard: `zodra het contract is getekend` and `zodra het contract getekend is`.\n\n### Reason and cause\n\n| formal | meaning | everyday |\n| aangezien | since, as | omdat |\n| daar | since, as (very formal) | omdat |\n| nu | now that | nu |\n| doordat | because (a cause) | omdat |\n\n`aangezien` and `daar` give a reason the reader knows or accepts, and usually start the sentence. `doordat` gives a **cause**: something that happened without anyone's intention. For a motive or a decision, use `omdat`.\n\n> Doordat de economie krimpt, neemt de werkloosheid toe. — Because the economy is shrinking, unemployment is rising.\n> Omdat hij meer wilde verdienen, zocht hij een andere baan. — Because he wanted to earn more, he looked for another job.\n\n### Condition\n\n| formal | meaning | everyday |\n| indien | if | als |\n| mits | provided that | als … maar wel |\n| tenzij | unless | behalve als |\n| zolang | as long as | zolang |\n\nAlso `in het geval dat` (in case) and `voor zover` (as far as: `voor zover ik weet`). `mits` is a strict condition and normally follows the main clause. `tenzij` already contains the negation: \"unless you resign\" = \"if you do not resign\".\n\n> U hebt recht op een uitkering, tenzij u zelf ontslag neemt. — You are entitled to a benefit unless you resign yourself.\n\n### Purpose and result\n\n`zodat` gives a result: \"so that, with the result that\". `opdat` gives a purpose but is very formal; everyday Dutch uses `om … te` or `zodat`.\n\n### Concession\n\n`hoewel` and the very formal `ofschoon` mean \"although\". `al` (even though) is different: **the verb comes directly after al**, and the main clause keeps its normal order. `ook al` works the same way; `zelfs als` (even if) has normal sub-clause order.\n\n> Al is het contract tijdelijk, het is een goede stap in mijn loopbaan. — Even though the contract is temporary, it is a good step in my career.\n\n### Time\n\n`zodra` as soon as, `zolang` as long as, `sinds` since (time only), `terwijl` while, and also \"whereas\" for a contrast. `naarmate` means \"as, the more …\", usually with a comparison in both halves. `alvorens` (before) is formal and normally takes `te` + infinitive: `alvorens te tekenen` = `voordat u tekent`.\n\n> Naarmate werknemers ouder worden, wordt omscholing moeilijker. — As employees get older, retraining becomes harder.\n> Zij heeft een vast contract, terwijl haar collega's een tijdelijk contract hebben. — She has a permanent contract, whereas her colleagues have a temporary one.\n\nFor `zoals` and `alsof`, see unit B2 · 18.\n\n### Watch out\n\n- **No niet after tenzij**: `tenzij u zelf ontslag neemt`. *Tenzij u niet zelf ontslag neemt means the opposite.\n- **mits is not plain als**: it is only for a condition that must be met. `Als u ziek bent, belt u uw leidinggevende`, not *Mits u ziek bent.\n- **doordat is not for motives**: `Omdat zij meer tijd wilde`, not *Doordat zij meer tijd wilde.\n- **sinds is time only**: English \"since\" can also be a reason, Dutch `sinds` cannot. For a reason use `aangezien`.\n- **al + verb**: `Al is het werk zwaar`, not *Al het werk zwaar is.\n- **alvorens + te**: `Alvorens te tekenen`; with a subject, use `voordat`.\n\n### Compared with Ukrainian\n\nUkrainian `оскільки` is `aangezien`, not `sinds`: `sinds` is only `відтоді як`. In Ukrainian a conjunction does not change the word order of its clause; in Dutch it sends the verb to the end.",
+  "words": [
+    {
+      "nl": "arbeidsmarkt",
+      "art": "de",
+      "pl": "arbeidsmarkten",
+      "en": "labour market",
+      "pos": "n"
+    },
+    {
+      "nl": "arbeidsovereenkomst",
+      "art": "de",
+      "pl": "arbeidsovereenkomsten",
+      "en": "employment contract",
+      "pos": "n",
+      "tag": "formal"
+    },
+    {
+      "nl": "arbeidsvoorwaarden",
+      "art": "de",
+      "pl": "",
+      "en": "terms of employment",
+      "pos": "n",
+      "tag": "always plural"
+    },
+    {
+      "nl": "werkloosheid",
+      "art": "de",
+      "pl": "",
+      "en": "unemployment",
+      "pos": "n",
+      "tag": "no plural"
+    },
+    {
+      "nl": "uitkering",
+      "art": "de",
+      "pl": "uitkeringen",
+      "en": "benefit (payment)",
+      "pos": "n"
+    },
+    {
+      "nl": "ontslag",
+      "art": "het",
+      "pl": "ontslagen",
+      "en": "dismissal / resignation",
+      "pos": "n"
+    },
+    {
+      "nl": "werkzoekende",
+      "art": "de",
+      "pl": "werkzoekenden",
+      "en": "jobseeker",
+      "pos": "n"
+    },
+    {
+      "nl": "promotie",
+      "art": "de",
+      "pl": "promoties",
+      "en": "promotion",
+      "pos": "n"
+    },
+    {
+      "nl": "vakbond",
+      "art": "de",
+      "pl": "vakbonden",
+      "en": "trade union",
+      "pos": "n"
+    },
+    {
+      "nl": "werkgelegenheid",
+      "art": "de",
+      "pl": "",
+      "en": "employment (jobs available)",
+      "pos": "n",
+      "tag": "no plural"
+    },
+    {
+      "nl": "ontslagvergoeding",
+      "art": "de",
+      "pl": "ontslagvergoedingen",
+      "en": "severance pay",
+      "pos": "n"
+    },
+    {
+      "nl": "ontslaan",
+      "past": "ontsloeg",
+      "perf": "heeft ontslagen",
+      "en": "to dismiss / to fire",
+      "pos": "v"
+    },
+    {
+      "nl": "in dienst nemen",
+      "en": "to take on / to hire (staff)",
+      "pos": "expr"
+    },
+    {
+      "nl": "zich omscholen",
+      "past": "schoolde me om",
+      "perf": "heeft zich omgeschoold",
+      "en": "to retrain",
+      "pos": "v",
+      "tag": "separable"
+    },
+    {
+      "nl": "tijdelijk",
+      "en": "temporary",
+      "pos": "adj"
+    },
+    {
+      "nl": "gekwalificeerd",
+      "en": "qualified",
+      "pos": "adj"
+    }
+  ],
+  "sentences": [
+    {
+      "nl": "Aangezien de vraag naar technici groot is, stijgen hun lonen snel.",
+      "en": "Since demand for technicians is high, their wages are rising quickly.",
+      "hint": [
+        "aangezien",
+        "vraag",
+        "technicus",
+        "groot",
+        "stijgen",
+        "loon"
+      ],
+      "note": "aangezien gives a reason and makes a sub-clause: is goes to the end. The sub-clause stands first, so the main clause starts with stijgen.",
+      "alt": [
+        "Hun lonen stijgen snel, aangezien de vraag naar technici groot is."
+      ]
+    },
+    {
+      "nl": "Doordat de economie krimpt, neemt de werkloosheid toe.",
+      "en": "Because the economy is shrinking, unemployment is rising.",
+      "hint": [
+        "doordat",
+        "economie",
+        "krimpen",
+        "werkloosheid",
+        "toenemen"
+      ],
+      "note": "doordat: a cause, not anyone's decision. Omdat is also correct here; for a motive only omdat fits.",
+      "alt": [
+        "De werkloosheid neemt toe doordat de economie krimpt.",
+        "Omdat de economie krimpt, neemt de werkloosheid toe.",
+        "De werkloosheid neemt toe omdat de economie krimpt."
+      ]
+    },
+    {
+      "nl": "U hebt recht op een uitkering, tenzij u zelf ontslag hebt genomen.",
+      "en": "You are entitled to a benefit, unless you have resigned yourself.",
+      "hint": [
+        "recht",
+        "uitkering",
+        "tenzij",
+        "zelf",
+        "ontslag nemen"
+      ],
+      "note": "tenzij already means \"if … not\", so there is no niet in the clause. Ontslag nemen is to resign; ontslagen worden is to be dismissed.",
+      "alt": [
+        "U heeft recht op een uitkering, tenzij u zelf ontslag heeft genomen.",
+        "U hebt recht op een uitkering, tenzij u zelf ontslag genomen hebt.",
+        "U heeft recht op een uitkering, tenzij u zelf ontslag genomen heeft."
+      ]
+    },
+    {
+      "nl": "Uw arbeidsovereenkomst wordt verlengd, mits de proeftijd goed verloopt.",
+      "en": "Your employment contract will be extended, provided the probation period goes well.",
+      "hint": [
+        "arbeidsovereenkomst",
+        "verlengen",
+        "mits",
+        "proeftijd",
+        "verlopen"
+      ],
+      "note": "mits: only if this condition is met. It follows the main clause, and verloopt goes to the end of the sub-clause."
+    },
+    {
+      "nl": "Zodra de vakbond akkoord gaat, wordt de nieuwe regeling ingevoerd.",
+      "en": "As soon as the trade union agrees, the new arrangement will be introduced.",
+      "hint": [
+        "zodra",
+        "vakbond",
+        "akkoord gaan",
+        "regeling",
+        "invoeren"
+      ],
+      "note": "zodra makes a sub-clause: gaat at the end, after akkoord. The clause comes first, so wordt follows directly.",
+      "alt": [
+        "De nieuwe regeling wordt ingevoerd zodra de vakbond akkoord gaat."
+      ]
+    },
+    {
+      "nl": "Naarmate werknemers ouder worden, wordt het moeilijker om zich om te scholen.",
+      "en": "As employees get older, it becomes harder to retrain.",
+      "hint": [
+        "naarmate",
+        "werknemer",
+        "oud",
+        "moeilijk",
+        "zich omscholen"
+      ],
+      "note": "naarmate links two things that grow together; both halves contain a comparison: ouder, moeilijker. Worden goes to the end of the sub-clause.",
+      "alt": [
+        "Het wordt moeilijker om zich om te scholen naarmate werknemers ouder worden."
+      ]
+    },
+    {
+      "nl": "Al is het contract tijdelijk, het is een goede stap in mijn loopbaan.",
+      "en": "Even though the contract is temporary, it is a good step in my career.",
+      "hint": [
+        "al",
+        "contract",
+        "tijdelijk",
+        "stap",
+        "loopbaan"
+      ],
+      "note": "After al the verb comes first (al is het contract), and the main clause keeps its own order: het is. With hoewel both clauses change.",
+      "alt": [
+        "Ook al is het contract tijdelijk, het is een goede stap in mijn loopbaan.",
+        "Hoewel het contract tijdelijk is, is het een goede stap in mijn loopbaan."
+      ]
+    },
+    {
+      "nl": "Nu de werkgelegenheid in de zorg groeit, scholen veel mensen zich om.",
+      "en": "Now that employment in health care is growing, many people are retraining.",
+      "hint": [
+        "nu",
+        "werkgelegenheid",
+        "zorg",
+        "groeien",
+        "zich omscholen"
+      ],
+      "note": "nu as a conjunction means \"now that\" and sends groeit to the end. In the main clause the separable verb splits: scholen … zich om.",
+      "alt": [
+        "Veel mensen scholen zich om nu de werkgelegenheid in de zorg groeit."
+      ]
+    },
+    {
+      "nl": "Zij heeft een vast contract, terwijl haar collega's een tijdelijk contract hebben.",
+      "en": "She has a permanent contract, whereas her colleagues have a temporary contract.",
+      "hint": [
+        "vast",
+        "contract",
+        "terwijl",
+        "collega",
+        "tijdelijk"
+      ],
+      "note": "terwijl is used here for a contrast (whereas), not for time. It is still a sub-clause: hebben at the end."
+    },
+    {
+      "nl": "Alvorens een arbeidsovereenkomst te tekenen, moet u de arbeidsvoorwaarden goed lezen.",
+      "en": "Before signing an employment contract, you should read the terms of employment carefully. (formal)",
+      "hint": [
+        "alvorens",
+        "arbeidsovereenkomst",
+        "tekenen",
+        "moeten",
+        "arbeidsvoorwaarden",
+        "lezen"
+      ],
+      "note": "alvorens takes te + infinitive and no subject. The everyday version is a full sub-clause: voordat u een arbeidsovereenkomst tekent.",
+      "alt": [
+        "U moet de arbeidsvoorwaarden goed lezen alvorens een arbeidsovereenkomst te tekenen.",
+        "Voordat u een arbeidsovereenkomst tekent, moet u de arbeidsvoorwaarden goed lezen."
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "type": "choose",
+      "nl": "Het bedrijf neemt haar in dienst, ___ zij binnen een jaar haar diploma haalt.",
+      "options": [
+        "tenzij",
+        "mits",
+        "doordat",
+        "alvorens"
+      ],
+      "correct": 1,
+      "en": "The company will take her on, provided that she obtains her diploma within a year.",
+      "note": "mits: a condition that must be met. Tenzij would mean the opposite, doordat gives a cause, and alvorens needs te + infinitive."
+    },
+    {
+      "type": "choose",
+      "nl": "U hebt recht op een uitkering, ___ u zelf ontslag neemt.",
+      "options": [
+        "tenzij",
+        "mits",
+        "zodat",
+        "aangezien"
+      ],
+      "correct": 0,
+      "en": "You are entitled to a benefit unless you resign yourself.",
+      "note": "tenzij = unless, \"if … not\". Mits would make resigning the condition for the benefit, the opposite of what is meant."
+    },
+    {
+      "type": "choose",
+      "nl": "___ de arbeidsmarkt krapper wordt, krijgen werkzoekenden meer kansen.",
+      "options": [
+        "Tenzij",
+        "Alvorens",
+        "Naarmate",
+        "Opdat"
+      ],
+      "correct": 2,
+      "en": "As the labour market gets tighter, jobseekers get more opportunities.",
+      "note": "naarmate links two developments that grow together: krapper … meer. Alvorens takes te + infinitive, opdat states a purpose."
+    },
+    {
+      "type": "choose",
+      "nl": "Al ___, ik neem de baan toch.",
+      "options": [
+        "het salaris laag is",
+        "is het salaris laag",
+        "het salaris is laag"
+      ],
+      "correct": 1,
+      "en": "Even though the salary is low, I am taking the job anyway.",
+      "note": "al is the exception among these conjunctions: the verb comes directly after it, as in a question. The main clause keeps its normal order: ik neem."
+    },
+    {
+      "type": "gap",
+      "nl": "___ (as soon as) zij met pensioen gaat, wil zij een jaar gaan reizen.",
+      "answers": [
+        "Zodra"
+      ],
+      "en": "As soon as she retires, she wants to travel for a year.",
+      "note": "zodra = as soon as. It starts a sub-clause, so gaat goes to the end and the main clause starts with wil."
+    },
+    {
+      "type": "gap",
+      "nl": "Ik werk hier al tien jaar, ___ (although) ik nooit promotie heb gekregen.",
+      "answers": [
+        "hoewel",
+        "ofschoon"
+      ],
+      "en": "I have worked here for ten years, although I have never been promoted.",
+      "note": "hoewel or the very formal ofschoon, both with sub-clause order. Al or ook al do not fit here: they need the verb directly after them (ook al heb ik …)."
+    },
+    {
+      "type": "gap",
+      "nl": "Alvorens het contract ___ (tekenen), leest u de voorwaarden.",
+      "answers": [
+        "te tekenen"
+      ],
+      "en": "Before signing the contract, read the conditions.",
+      "note": "alvorens takes te + infinitive, without a subject. With a subject you would say: Voordat u het contract tekent, …"
+    },
+    {
+      "type": "order",
+      "lead": "Hij",
+      "words": [
+        "werd",
+        "ontslagen",
+        "doordat",
+        "het bedrijf",
+        "failliet ging"
+      ],
+      "answers": [
+        "Hij werd ontslagen doordat het bedrijf failliet ging."
+      ],
+      "en": "He was dismissed because the company went bankrupt.",
+      "note": "A bankruptcy is a cause, not anyone's motive, so doordat fits. In the sub-clause the verb ging stands at the end."
+    },
+    {
+      "type": "order",
+      "lead": "Al",
+      "words": [
+        "verdient",
+        "hij",
+        "weinig",
+        "hij blijft",
+        "bij dit bedrijf"
+      ],
+      "answers": [
+        "Al verdient hij weinig, hij blijft bij dit bedrijf."
+      ],
+      "en": "Even though he earns little, he is staying with this company.",
+      "note": "After al: verb first, then the subject (al verdient hij). The main clause that follows keeps its normal order."
+    },
+    {
+      "type": "order",
+      "lead": "Het contract",
+      "words": [
+        "wordt",
+        "verlengd",
+        "mits",
+        "u",
+        "de training",
+        "afrondt"
+      ],
+      "answers": [
+        "Het contract wordt verlengd, mits u de training afrondt.",
+        "Het contract wordt, mits u de training afrondt, verlengd."
+      ],
+      "en": "The contract will be extended provided that you complete the training.",
+      "note": "mits starts a sub-clause with afrondt at the end. It normally follows the main clause; formal texts sometimes put it between wordt and verlengd."
+    },
+    {
+      "type": "rewrite",
+      "task": "Replace omdat by aangezien and start the sentence with it.",
+      "from": "De lonen stijgen, omdat er weinig gekwalificeerd personeel is.",
+      "answers": [
+        "Aangezien er weinig gekwalificeerd personeel is, stijgen de lonen."
+      ],
+      "en": "Since there are few qualified staff, wages are rising.",
+      "note": "The aangezien-clause takes the first place, so the main clause starts with the verb: stijgen de lonen."
+    },
+    {
+      "type": "rewrite",
+      "task": "Say the same with tenzij.",
+      "from": "Als u niet binnen vier weken reageert, vervalt uw recht op een uitkering.",
+      "answers": [
+        "Tenzij u binnen vier weken reageert, vervalt uw recht op een uitkering.",
+        "Uw recht op een uitkering vervalt, tenzij u binnen vier weken reageert."
+      ],
+      "en": "Unless you respond within four weeks, your right to a benefit lapses.",
+      "note": "als … niet becomes tenzij, and niet disappears: tenzij already contains the negation."
+    },
+    {
+      "type": "rewrite",
+      "task": "Make it everyday Dutch: replace alvorens by voordat.",
+      "from": "Alvorens een nieuwe medewerker in dienst te nemen, controleren wij de referenties.",
+      "answers": [
+        "Voordat wij een nieuwe medewerker in dienst nemen, controleren wij de referenties.",
+        "Wij controleren de referenties voordat wij een nieuwe medewerker in dienst nemen."
+      ],
+      "en": "Before we take on a new employee, we check the references.",
+      "note": "voordat needs a full sub-clause with a subject and a conjugated verb. The verb nemen goes to the end of the clause, after in dienst."
+    },
+    {
+      "type": "fix",
+      "wrong": "U krijgt een ontslagvergoeding, tenzij u niet zelf ontslag hebt genomen.",
+      "answers": [
+        "U krijgt een ontslagvergoeding, tenzij u zelf ontslag hebt genomen.",
+        "U krijgt een ontslagvergoeding, tenzij u zelf ontslag genomen hebt.",
+        "U krijgt een ontslagvergoeding, als u niet zelf ontslag hebt genomen.",
+        "U krijgt een ontslagvergoeding, als u niet zelf ontslag genomen hebt.",
+        "U krijgt een ontslagvergoeding, indien u niet zelf ontslag hebt genomen.",
+        "U krijgt een ontslagvergoeding, indien u niet zelf ontslag genomen hebt."
+      ],
+      "en": "You will receive severance pay unless you have resigned yourself.",
+      "note": "tenzij already means \"if … not\": drop niet. Keeping niet and using als or indien instead says the same."
+    },
+    {
+      "type": "fix",
+      "wrong": "Doordat ze meer tijd voor haar kinderen wilde, ging ze parttime werken.",
+      "answers": [
+        "Omdat ze meer tijd voor haar kinderen wilde, ging ze parttime werken.",
+        "Aangezien ze meer tijd voor haar kinderen wilde, ging ze parttime werken.",
+        "Daar ze meer tijd voor haar kinderen wilde, ging ze parttime werken."
+      ],
+      "en": "Because she wanted more time for her children, she started working part-time.",
+      "note": "Wanting more time is a motive, a choice she made, so doordat does not fit. Use omdat (or the formal aangezien or daar)."
+    },
+    {
+      "type": "fix",
+      "wrong": "Al het werk zwaar is, het salaris is goed.",
+      "answers": [
+        "Al is het werk zwaar, het salaris is goed."
+      ],
+      "en": "Even though the work is hard, the pay is good.",
+      "note": "al is the one conjunction here that is followed directly by the verb: al is het werk zwaar. The main clause keeps its normal order."
+    }
+  ]
+}

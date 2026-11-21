@@ -113,10 +113,10 @@
       "pos": "v"
     },
     {
-      "nl": "aannemen",
-      "past": "nam aan",
-      "perf": "heeft aangenomen",
-      "en": "to pass (a law) / to accept",
+      "nl": "verwerpen",
+      "past": "verwierp",
+      "perf": "heeft verworpen",
+      "en": "to reject (a proposal or bill)",
       "pos": "v"
     }
   ],
@@ -393,13 +393,13 @@
         "veel eerder",
         "moeten",
         "worden",
-        "aangenomen"
+        "verworpen"
       ],
       "answers": [
-        "Volgens de krant had het wetsvoorstel veel eerder moeten worden aangenomen.",
-        "Volgens de krant had het wetsvoorstel veel eerder aangenomen moeten worden."
+        "Volgens de krant had het wetsvoorstel veel eerder moeten worden verworpen.",
+        "Volgens de krant had het wetsvoorstel veel eerder verworpen moeten worden."
       ],
-      "en": "According to the newspaper the bill should have been passed much earlier.",
+      "en": "According to the newspaper the bill should have been rejected much earlier.",
       "note": "Volgens de krant is first, so had comes second and the subject follows. Should have been = had moeten worden + participle; the participle goes last or first in the group."
     },
     {

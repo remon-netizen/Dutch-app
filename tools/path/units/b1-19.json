@@ -1,0 +1,219 @@
+{
+  "id": "b1-19",
+  "level": "B1",
+  "icon": "🎓",
+  "title": "Choosing a school",
+  "grammar": "Paired words: zowel … als, niet alleen … maar ook, hoe … hoe",
+  "summary": "zowel … als (both … and), niet alleen … maar ook, of … of, noch … noch (no extra niet). Hoe meer je oefent, hoe beter het gaat: verb at the end of the first part. Zo … dat, te … om te, oud genoeg om te.",
+  "explain": "Some links come in pairs: one word in front of the first part and one in front of the second. Most of them join words or phrases, but several also change the word order. This unit goes through them one by one, each with the order it causes.\n\n### zowel … als: both … and\n\n`zowel` stands before the first part, `als` before the second. Never *zowel … en.\n\n> Op deze school heb je zowel theoretische als praktische vakken. — At this school you have both theoretical and practical subjects.\n\nWhen the subject is `zowel A als B` and both are singular, the verb is usually singular: `Zowel mijn zoon als mijn dochter zit hier op school`. The plural (`zitten`) is also accepted.\n\n### niet alleen … maar ook: not only … but also\n\nIn the middle of the sentence it joins two words or phrases, with a comma before `maar`:\n\n> Deze opleiding is niet alleen leerzaam, maar ook erg leuk. — This course is not only instructive but also great fun.\n\nWhen `Niet alleen` **starts the sentence**, it is the first element, so the verb follows it at once, as in English *not only is …*. The second part is then a normal sentence with `ook`, with or without `maar`:\n\n> Niet alleen is de school dichtbij, ze is ook goed. — Not only is the school close by, it is also good.\n\n### of … of and noch … noch\n\n`of … of` means either … or: `Je kiest of wiskunde of biologie`. Between two sentences the order stays normal: `Of je gaat studeren, of je zoekt een baan`.\n\n`noch … noch` means neither … nor. It is already negative, so there is **no** `niet` or `geen` with it. It sounds rather formal; in speech people often say `geen … en ook geen`.\n\n> Hij heeft noch een diploma noch werkervaring. — He has neither a diploma nor work experience.\n\nWrite `noch` with ch; `nog` means *still* or *yet*.\n\n### aan de ene kant … aan de andere kant\n\nThese are adverbial phrases: each one fills the first place of its own sentence, so the verb comes straight after it. The formal version is `enerzijds … anderzijds`.\n\n> Aan de ene kant is de school ver weg, aan de andere kant is het niveau hoog. — On the one hand the school is far away, on the other hand the level is high.\n\n### hoe … hoe: the more …, the better\n\n`hoe` + comparative, twice. The **first part is a sub-clause**: its verb goes to the end. In the **second part** the subject and verb normally follow the comparative: `hoe beter het gaat`. You will also hear `hoe beter gaat het`, and in writing `des te beter gaat het`; all three are correct.\n\n| first part | second part |\n| Hoe meer je oefent, | hoe beter het gaat. |\n| Hoe ouder hij wordt, | hoe minder hij slaapt. |\n\n> Hoe eerder je je inschrijft, hoe groter de kans op een plek. — The earlier you enrol, the bigger the chance of a place.\n\n### zo … dat, te … om te, genoeg … om te\n\n- `zo` + adjective + `dat`: a result. `dat` starts a sub-clause, so its verb goes to the end: `Het examen was zo moeilijk dat veel scholieren zakten`.\n- `te` + adjective + `om … te` + infinitive: too … to. `Het collegegeld is te hoog om te betalen`. English *to* is `om … te` here, not *voor.\n- adjective + `genoeg` + `om … te`: enough to. **genoeg comes after the adjective**: `oud genoeg`, never *genoeg oud. Before a noun it comes first: `genoeg tijd`.\n\n> Mijn dochter is oud genoeg om zelf een school te kiezen. — My daughter is old enough to choose a school herself.\n\n### Watch out\n\n- *zowel Engels en Duits → `zowel Engels als Duits`.\n- *Niet alleen de school is dichtbij, ze is ook goed → `Niet alleen is de school dichtbij, …`.\n- *Ik spreek niet noch Frans noch Duits → `Ik spreek noch Frans noch Duits`.\n- *Hoe meer oefen je → `Hoe meer je oefent`.\n- *genoeg goed → `goed genoeg`; *zo moeilijk zodat → `zo moeilijk dat`.\n\n### Compared with Ukrainian\n\n`чим більше …, тим краще` is `hoe meer …, hoe beter`. Ukrainian says `ні … ні` together with `не`: `Я не говорю ні французькою, ні німецькою`. Dutch `noch … noch` stands alone: `Ik spreek noch Frans noch Duits`.",
+  "words": [
+    { "nl": "schooladvies", "art": "het", "pl": "schooladviezen", "en": "school recommendation (for secondary school)", "pos": "n" },
+    { "nl": "niveau", "art": "het", "pl": "niveaus", "en": "level", "pos": "n" },
+    { "nl": "vak", "art": "het", "pl": "vakken", "en": "subject (at school)", "pos": "n" },
+    { "nl": "cijfer", "art": "het", "pl": "cijfers", "en": "mark / grade", "pos": "n" },
+    { "nl": "rapport", "art": "het", "pl": "rapporten", "en": "school report", "pos": "n" },
+    { "nl": "toelatingseis", "art": "de", "pl": "toelatingseisen", "en": "entry requirement", "pos": "n" },
+    { "nl": "collegegeld", "art": "het", "pl": "", "en": "tuition fee (university, college)", "pos": "n" },
+    { "nl": "scholier", "art": "de", "pl": "scholieren", "en": "pupil (secondary school)", "pos": "n" },
+    { "nl": "slagen", "past": "slaagde", "perf": "is geslaagd", "en": "to pass (an exam)", "pos": "v" },
+    { "nl": "zakken", "past": "zakte", "perf": "is gezakt", "en": "to fail (an exam)", "pos": "v" },
+    { "nl": "zich inschrijven", "past": "schreef me in", "perf": "heeft zich ingeschreven", "en": "to enrol / to register", "pos": "v", "tag": "separable" },
+    { "nl": "afronden", "past": "rondde af", "perf": "heeft afgerond", "en": "to complete / to finish", "pos": "v", "tag": "separable" },
+    { "nl": "doorstromen", "past": "stroomde door", "perf": "is doorgestroomd", "en": "to move up (to a higher level of school)", "pos": "v", "tag": "separable" },
+    { "nl": "leerzaam", "en": "instructive / educational", "pos": "adj" },
+    { "nl": "theoretisch", "en": "theoretical", "pos": "adj" },
+    { "nl": "verplicht", "en": "compulsory", "pos": "adj" }
+  ],
+  "sentences": [
+    {
+      "nl": "Zowel mijn zoon als mijn dochter is naar het vwo doorgestroomd.",
+      "en": "Both my son and my daughter have moved up to vwo (pre-university level).",
+      "hint": ["zowel", "zoon", "als", "dochter", "vwo", "doorstromen"],
+      "note": "Zowel … als joins the two subjects. With two singular parts the verb is usually singular (is); zijn is also accepted.",
+      "alt": ["Zowel mijn zoon als mijn dochter zijn naar het vwo doorgestroomd.", "Zowel mijn zoon als mijn dochter is doorgestroomd naar het vwo.", "Zowel mijn zoon als mijn dochter zijn doorgestroomd naar het vwo."]
+    },
+    {
+      "nl": "Op deze school heb je zowel theoretische als praktische vakken.",
+      "en": "At this school you have both theoretical and practical subjects.",
+      "hint": ["hebben", "zowel", "theoretisch", "als", "praktisch", "vak"],
+      "note": "Zowel stands before the first adjective, als before the second. Never zowel … en.",
+      "alt": ["Je hebt op deze school zowel theoretische als praktische vakken.", "Op deze school krijg je zowel theoretische als praktische vakken.", "Je krijgt op deze school zowel theoretische als praktische vakken."]
+    },
+    {
+      "nl": "Deze opleiding is niet alleen leerzaam, maar ook erg leuk.",
+      "en": "This course is not only instructive but also great fun.",
+      "hint": ["opleiding", "niet alleen", "leerzaam", "maar ook", "leuk"],
+      "note": "In the middle of the sentence niet alleen … maar ook joins two adjectives and changes no word order. A comma goes before maar."
+    },
+    {
+      "nl": "Niet alleen is het collegegeld hoog, je moet ook boeken kopen.",
+      "en": "Not only is the tuition fee high, you also have to buy books.",
+      "hint": ["niet alleen", "collegegeld", "hoog", "moeten", "ook", "boek"],
+      "note": "Niet alleen is the first element, so the verb is follows it at once and het collegegeld comes after the verb. The second part is a normal sentence with ook.",
+      "alt": ["Niet alleen is het collegegeld hoog, maar je moet ook boeken kopen."]
+    },
+    {
+      "nl": "Je kiest of wiskunde of biologie als extra vak.",
+      "en": "You choose either maths or biology as an extra subject.",
+      "hint": ["kiezen", "of", "wiskunde", "biologie", "extra", "vak"],
+      "note": "Of … of means either … or. Here it joins two nouns and changes nothing in the word order.",
+      "alt": ["Je kiest als extra vak of wiskunde of biologie.", "Jij kiest of wiskunde of biologie als extra vak.", "Als extra vak kies je of wiskunde of biologie."]
+    },
+    {
+      "nl": "Hij heeft noch een diploma noch werkervaring.",
+      "en": "He has neither a diploma nor work experience.",
+      "hint": ["hebben", "noch", "diploma", "werkervaring"],
+      "note": "Noch … noch is already negative, so there is no geen: never *geen noch. Noch is written with ch."
+    },
+    {
+      "nl": "Hoe meer je oefent, hoe beter je cijfers worden.",
+      "en": "The more you practise, the better your marks get.",
+      "hint": ["hoe", "veel", "oefenen", "goed", "cijfer", "worden"],
+      "note": "The first part is a sub-clause, so oefent goes to the end. In the second part the subject je cijfers and the verb follow beter.",
+      "alt": ["Hoe meer je oefent, hoe beter worden je cijfers.", "Hoe meer je oefent, des te beter worden je cijfers.", "Hoe meer jij oefent, hoe beter je cijfers worden."]
+    },
+    {
+      "nl": "Aan de ene kant is de school ver weg, aan de andere kant is het niveau hoog.",
+      "en": "On the one hand the school is far away, on the other hand the level is high.",
+      "hint": ["aan de ene kant", "school", "ver weg", "aan de andere kant", "niveau", "hoog"],
+      "note": "Each phrase takes the first place of its sentence, so the verb is follows it and the subject comes after the verb, twice.",
+      "alt": ["Aan de ene kant is de school ver weg, maar aan de andere kant is het niveau hoog."]
+    },
+    {
+      "nl": "De toelatingseisen zijn zo streng dat veel scholieren een andere studie kiezen.",
+      "en": "The entry requirements are so strict that many pupils choose a different degree course.",
+      "hint": ["toelatingseis", "zo", "streng", "scholier", "studie", "kiezen"],
+      "note": "Zo + adjective + dat gives the result. Dat starts a sub-clause, so kiezen goes to the end."
+    },
+    {
+      "nl": "Mijn dochter is oud genoeg om zelf een school te kiezen.",
+      "en": "My daughter is old enough to choose a school herself.",
+      "hint": ["dochter", "oud", "genoeg", "zelf", "school", "kiezen"],
+      "note": "Genoeg comes after the adjective: oud genoeg. Then om … te with the infinitive at the end: om zelf een school te kiezen."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "choose",
+      "nl": "Ze spreekt zowel Engels ___ Duits.",
+      "options": ["en", "als", "of", "maar"],
+      "correct": 1,
+      "en": "She speaks both English and German.",
+      "note": "Zowel always goes with als. English 'both … and' tempts you to write en, but Dutch says zowel … als."
+    },
+    {
+      "type": "choose",
+      "nl": "Hij heeft niet alleen een goed rapport, ___ ook een prijs voor zijn werkstuk.",
+      "options": ["en", "als", "maar"],
+      "correct": 2,
+      "en": "He has not only a good school report, but also a prize for his project.",
+      "note": "Niet alleen is followed by maar ook, just as 'not only' is followed by 'but also'."
+    },
+    {
+      "type": "choose",
+      "nl": "Ze heeft noch tijd ___ geld voor een tweede studie.",
+      "options": ["nog", "noch", "of", "en"],
+      "correct": 1,
+      "en": "She has neither time nor money for a second degree course.",
+      "note": "Noch … noch, written with ch both times. Nog (still, yet) sounds the same but is a different word."
+    },
+    {
+      "type": "choose",
+      "nl": "Het examen was ___ moeilijk dat de helft van de klas is gezakt.",
+      "options": ["te", "zo", "zoals"],
+      "correct": 1,
+      "en": "The exam was so difficult that half the class failed.",
+      "note": "A result with a dat-clause needs zo: zo moeilijk dat. Te moeilijk goes with om … te, not with dat."
+    },
+    {
+      "type": "gap",
+      "nl": "Hoe eerder je je ___ (inschrijven), hoe groter de kans op een plek.",
+      "answers": ["inschrijft"],
+      "en": "The earlier you enrol, the bigger the chance of a place.",
+      "note": "The first hoe-part is a sub-clause, so the verb goes to the end, and a separable verb is one word there: inschrijft, with t because je comes before it."
+    },
+    {
+      "type": "gap",
+      "nl": "Hoe sneller je je studie ___ (afronden), hoe minder collegegeld je betaalt.",
+      "answers": ["afrondt"],
+      "en": "The faster you finish your degree, the less tuition fee you pay.",
+      "note": "Verb at the end of the first part, in one piece: afrondt. The stem is rond (from ronden), so it is d + t."
+    },
+    {
+      "type": "gap",
+      "nl": "Dit boek is te moeilijk ___ zelf te lezen.",
+      "answers": ["om"],
+      "en": "This book is too difficult to read on your own.",
+      "note": "Te + adjective is followed by om … te + infinitive. English 'to' is om … te here, never voor."
+    },
+    {
+      "type": "order",
+      "lead": "Niet alleen",
+      "words": ["is", "de school", "dichtbij", "maar", "ze is ook goed"],
+      "answers": ["Niet alleen is de school dichtbij, maar ze is ook goed."],
+      "en": "Not only is the school close by, but it is also good.",
+      "note": "Niet alleen is the first element, so is comes before de school. After maar the sentence has the normal order."
+    },
+    {
+      "type": "order",
+      "lead": "Hoe meer",
+      "words": ["je", "oefent", "hoe", "beter", "het", "gaat"],
+      "answers": ["Hoe meer je oefent, hoe beter het gaat.", "Hoe meer je oefent, hoe beter gaat het."],
+      "en": "The more you practise, the better it goes.",
+      "note": "In the first part the verb goes to the end: je oefent. In the second part hoe beter het gaat is the usual order; hoe beter gaat het is also correct."
+    },
+    {
+      "type": "order",
+      "lead": "Met dit schooladvies kun je",
+      "words": ["of", "naar de havo", "of", "naar het vwo"],
+      "answers": ["Met dit schooladvies kun je of naar de havo of naar het vwo.", "Met dit schooladvies kun je of naar het vwo of naar de havo."],
+      "en": "With this school recommendation you can go either to havo or to vwo.",
+      "note": "Each of stands directly before one of the two choices. Their order does not matter."
+    },
+    {
+      "type": "rewrite",
+      "task": "Join the two with zowel … als.",
+      "from": "Mijn zoon is geslaagd. Mijn dochter is ook geslaagd.",
+      "answers": ["Zowel mijn zoon als mijn dochter is geslaagd.", "Zowel mijn zoon als mijn dochter zijn geslaagd."],
+      "en": "Both my son and my daughter have passed.",
+      "note": "Zowel goes before the first subject and als before the second. The singular is is usual; the plural zijn is also accepted."
+    },
+    {
+      "type": "rewrite",
+      "task": "Say it with noch … noch.",
+      "from": "Hij spreekt geen Frans en ook geen Duits.",
+      "answers": ["Hij spreekt noch Frans noch Duits."],
+      "en": "He speaks neither French nor German.",
+      "note": "Noch … noch replaces both geen: it is negative itself, so no geen or niet remains."
+    },
+    {
+      "type": "rewrite",
+      "task": "Say it with te … om te.",
+      "from": "Het collegegeld is zo hoog dat ik het niet kan betalen.",
+      "answers": ["Het collegegeld is te hoog om te betalen.", "Het collegegeld is voor mij te hoog om te betalen."],
+      "en": "The tuition fee is too high to pay.",
+      "note": "Te hoog replaces zo hoog, and om … te replaces the dat-clause. The infinitive betalen goes last; it gets no het, because het collegegeld is already the thing paid."
+    },
+    {
+      "type": "fix",
+      "wrong": "Dit vak is zowel verplicht en moeilijk.",
+      "answers": ["Dit vak is zowel verplicht als moeilijk."],
+      "en": "This subject is both compulsory and difficult.",
+      "note": "Zowel goes with als, not with en."
+    },
+    {
+      "type": "fix",
+      "wrong": "Hoe meer leer je, hoe hoger je cijfers worden.",
+      "answers": ["Hoe meer je leert, hoe hoger je cijfers worden.", "Hoe meer je leert, hoe hoger worden je cijfers."],
+      "en": "The more you study, the higher your marks get.",
+      "note": "The first part is a sub-clause: subject first, verb at the end, hoe meer je leert. With je before the verb, leert keeps its t."
+    },
+    {
+      "type": "fix",
+      "wrong": "Mijn dochter is genoeg oud om haar opleiding zelf te kiezen.",
+      "answers": ["Mijn dochter is oud genoeg om haar opleiding zelf te kiezen."],
+      "en": "My daughter is old enough to choose her course herself.",
+      "note": "With an adjective genoeg comes after it: oud genoeg. Only before a noun does genoeg come first (genoeg tijd)."
+    }
+  ]
+}

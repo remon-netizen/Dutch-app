@@ -1,0 +1,458 @@
+{
+  "id": "b2-16",
+  "level": "B2",
+  "icon": "🏥",
+  "title": "Health care",
+  "grammar": "Agreement: singular or plural verb?",
+  "summary": "een aantal / de helft van + plural noun: singular or plural verb. Groups (de regering, het personeel), iedereen, niemand, elk: singular. Two subjects with en: plural. Het zijn, dat zijn + plural. u bent.",
+  "explain": "Normally the verb simply follows the subject: one person or thing, singular; more than one, plural. This unit is about the cases where that is not obvious: words for an amount, groups, `iedereen`, two subjects, `u`, and `het zijn`.\n\n### Quantity words: een aantal, de helft, tien procent\n\nWith `een aantal`, `een groep`, `een reeks`, `een deel van`, `de helft van`, `tien procent van` and `een meerderheid van`, look at the noun that follows.\n\n| noun that follows | verb | example |\n| singular | singular | De helft van het geld gaat … |\n| plural | singular or plural | Een aantal artsen is / zijn … |\n\nWith a plural noun both are correct standard Dutch: the singular follows the grammar (one number), the plural follows the meaning (several doctors). After `een aantal` the plural is the more common choice.\n\n> Een aantal patiënten wachten al maanden. — A number of patients have been waiting for months.\n> Tien procent van de bevolking heeft een chronische ziekte. — Ten per cent of the population has a chronic illness.\n\n`een paar` is always plural: `Een paar huisartsen zijn gestopt`. So are `de meeste`, `sommige`, `alle`, `veel` and `beide` + noun: `De meeste verzekeraars verhogen de premie`.\n\n### Groups are singular\n\n`de politie`, `de regering`, `het kabinet`, `het team`, `het personeel`, `het publiek`, `de familie`: one group, so a singular verb, even where English often uses a plural.\n\n> Het personeel heeft te weinig tijd. — The staff have too little time.\n\nIn speech the next clause often goes on with `ze` or `hun` (`De regering zegt dat ze …`); careful writing uses `zij`, `haar` or `het`, `zijn` (unit B2 · 17).\n\n### iedereen, niemand, elk, ieder, men\n\nAlways singular: `Iedereen heeft recht op zorg`, `Niemand weet het`, `Elke patiënt krijgt een brief`, `Men zegt dat …`.\n\n### Two subjects\n\n- With `en`: plural. `De huisarts en de specialist overleggen`.\n- With `of`: two singular nouns take a singular verb: `De huisarts of de assistent belt u terug`. If one of them is plural, the verb usually agrees with the nearer one: `De huisarts of zijn assistenten bellen u terug`. `noch … noch` works the same way.\n- With `zowel … als`: strict grammar gives a singular verb for two singular nouns, but in practice the plural is more common. Both are correct.\n\n> Zowel de patiënt als de arts willen duidelijkheid. — Both the patient and the doctor want clarity.\n\n### u and je\n\n`u bent`, never *u is. With `hebben`, `kunnen`, `willen` and `zullen` both forms are correct: `u hebt` / `u heeft`, `u kunt` / `u kan`, `u wilt` / `u wil`, `u zult` / `u zal`; the first is a little more formal. `je` directly after the verb loses the t as usual: `Heb je`, `Ben je`, `Kun je`.\n\n### het, dat, dit, die + zijn + a plural\n\nWhen `het`, `dat`, `dit` or `die` points at a plural noun after `zijn`, the verb is plural: `Het zijn mijn collega's`, `Dat zijn de regels`, `Dit zijn de kosten`. The same with `er zijn` + plural.\n\n> Dit zijn de behandelingen die worden vergoed. — These are the treatments that are reimbursed.\n\n### een van de … die\n\n> Ze is een van de artsen die 's nachts werken. — She is one of the doctors who work at night.\n\nThe relative clause is plural, because `die` refers to `de artsen`. You will also hear the singular, but the plural is the standard form. The main verb stays singular: `Een van de artsen werkt 's nachts`.\n\n### One amount, one title\n\nAn amount seen as one whole, and a title, take a singular verb: `Drie weken is lang`, `Vijftig euro is veel geld`, `'De Avonden' is een roman`.\n\n> Twee jaar is te lang om op een operatie te wachten. — Two years is too long to wait for an operation.\n\n### Watch out\n\n- *De regering willen → `De regering wil`.\n- *Iedereen hebben → `Iedereen heeft`.\n- *Er is veel patiënten → `Er zijn veel patiënten`.\n- *U is → `U bent`.\n- English 'the staff are' is `het personeel is`.\n\n### Compared with Ukrainian\n\nUkrainian also allows both after a quantity: `Кілька пацієнтів чекає` or `чекають`. Dutch `een aantal` behaves much the same. What is different is that a Dutch group noun such as `de regering` never takes a plural verb.",
+  "words": [
+    {
+      "nl": "zorgverzekeraar",
+      "art": "de",
+      "pl": "zorgverzekeraars",
+      "en": "health insurer",
+      "pos": "n"
+    },
+    {
+      "nl": "basisverzekering",
+      "art": "de",
+      "pl": "basisverzekeringen",
+      "en": "basic health insurance",
+      "pos": "n"
+    },
+    {
+      "nl": "zorgstelsel",
+      "art": "het",
+      "pl": "zorgstelsels",
+      "en": "health-care system",
+      "pos": "n"
+    },
+    {
+      "nl": "zorgverlener",
+      "art": "de",
+      "pl": "zorgverleners",
+      "en": "care provider / health-care worker",
+      "pos": "n"
+    },
+    {
+      "nl": "zorgkosten",
+      "art": "de",
+      "pl": "",
+      "en": "health-care costs",
+      "pos": "n",
+      "tag": "always plural"
+    },
+    {
+      "nl": "wachtlijst",
+      "art": "de",
+      "pl": "wachtlijsten",
+      "en": "waiting list",
+      "pos": "n"
+    },
+    {
+      "nl": "verwijzing",
+      "art": "de",
+      "pl": "verwijzingen",
+      "en": "referral",
+      "pos": "n"
+    },
+    {
+      "nl": "ingreep",
+      "art": "de",
+      "pl": "ingrepen",
+      "en": "(medical) procedure / operation",
+      "pos": "n"
+    },
+    {
+      "nl": "mantelzorger",
+      "art": "de",
+      "pl": "mantelzorgers",
+      "en": "informal carer (family member or friend)",
+      "pos": "n"
+    },
+    {
+      "nl": "verpleeghuis",
+      "art": "het",
+      "pl": "verpleeghuizen",
+      "en": "nursing home",
+      "pos": "n"
+    },
+    {
+      "nl": "vergrijzing",
+      "art": "de",
+      "pl": "",
+      "en": "ageing of the population",
+      "pos": "n",
+      "tag": "no plural"
+    },
+    {
+      "nl": "personeelstekort",
+      "art": "het",
+      "pl": "personeelstekorten",
+      "en": "staff shortage",
+      "pos": "n"
+    },
+    {
+      "nl": "doorverwijzen",
+      "past": "verwees door",
+      "perf": "heeft doorverwezen",
+      "en": "to refer (to a specialist)",
+      "pos": "v",
+      "tag": "separable"
+    },
+    {
+      "nl": "chronisch",
+      "en": "chronic",
+      "pos": "adj"
+    },
+    {
+      "nl": "overbelast",
+      "en": "overloaded / overworked",
+      "pos": "adj"
+    },
+    {
+      "nl": "toegankelijk",
+      "en": "accessible",
+      "pos": "adj"
+    }
+  ],
+  "sentences": [
+    {
+      "nl": "Een aantal patiënten staat al maanden op de wachtlijst.",
+      "en": "A number of patients have been on the waiting list for months.",
+      "hint": [
+        "aantal",
+        "patiënt",
+        "staan",
+        "maand",
+        "wachtlijst"
+      ],
+      "note": "After een aantal + a plural noun the verb may be singular (staat, following aantal) or plural (staan, following patiënten). Both are correct.",
+      "alt": [
+        "Een aantal patiënten staan al maanden op de wachtlijst."
+      ]
+    },
+    {
+      "nl": "De helft van het budget gaat naar de zorg voor ouderen.",
+      "en": "Half of the budget goes to care for the elderly.",
+      "hint": [
+        "helft",
+        "budget",
+        "gaan",
+        "zorg",
+        "oudere"
+      ],
+      "note": "De helft van + a singular noun (het budget) takes a singular verb: gaat. Only with a plural noun would gaan also be possible.",
+      "alt": [
+        "De helft van het budget gaat naar de ouderenzorg."
+      ]
+    },
+    {
+      "nl": "Het personeel van het verpleeghuis heeft te weinig tijd voor de bewoners.",
+      "en": "The staff of the nursing home have too little time for the residents.",
+      "hint": [
+        "personeel",
+        "verpleeghuis",
+        "hebben",
+        "weinig",
+        "tijd",
+        "bewoner"
+      ],
+      "note": "Personeel is one group, so the verb is singular: heeft. English may say 'the staff have', Dutch never says personeel hebben.",
+      "alt": [
+        "Het personeel in het verpleeghuis heeft te weinig tijd voor de bewoners."
+      ]
+    },
+    {
+      "nl": "Iedereen in Nederland is verplicht een basisverzekering af te sluiten.",
+      "en": "Everyone in the Netherlands is obliged to take out basic health insurance.",
+      "hint": [
+        "iedereen",
+        "Nederland",
+        "verplicht",
+        "basisverzekering",
+        "afsluiten"
+      ],
+      "note": "Iedereen is always singular: iedereen is, not iedereen zijn, although it means many people.",
+      "alt": [
+        "Iedereen in Nederland is verplicht om een basisverzekering af te sluiten."
+      ]
+    },
+    {
+      "nl": "Zowel de huisarts als de specialist vonden een operatie niet nodig.",
+      "en": "Both the GP and the specialist thought an operation was unnecessary.",
+      "hint": [
+        "zowel … als",
+        "huisarts",
+        "specialist",
+        "vinden",
+        "operatie",
+        "nodig"
+      ],
+      "note": "With zowel … als and two singular nouns, the plural (vonden) is the more common choice; the singular vond is also correct.",
+      "alt": [
+        "Zowel de huisarts als de specialist vond een operatie niet nodig.",
+        "Zowel de huisarts als de specialist vonden dat een operatie niet nodig was.",
+        "Zowel de huisarts als de specialist vond dat een operatie niet nodig was."
+      ]
+    },
+    {
+      "nl": "Hebt u al een verwijzing van uw huisarts?",
+      "en": "Do you (formal) already have a referral from your GP?",
+      "hint": [
+        "hebben",
+        "al",
+        "verwijzing",
+        "huisarts"
+      ],
+      "note": "With u both hebt and heeft are correct; hebt is a little more formal. With zijn there is no choice: u bent.",
+      "alt": [
+        "Heeft u al een verwijzing van uw huisarts?"
+      ]
+    },
+    {
+      "nl": "Dit zijn de behandelingen die uw zorgverzekeraar vergoedt.",
+      "en": "These are the treatments that your (formal) health insurer pays for.",
+      "hint": [
+        "dit",
+        "zijn",
+        "behandeling",
+        "zorgverzekeraar",
+        "vergoeden"
+      ],
+      "note": "Dit points at a plural noun, so the verb is zijn. In the relative clause the subject is uw zorgverzekeraar, so vergoedt is singular, with dt.",
+      "alt": [
+        "Dit zijn de behandelingen die je zorgverzekeraar vergoedt."
+      ]
+    },
+    {
+      "nl": "Zij is een van de artsen die zich zorgen maken over het personeelstekort.",
+      "en": "She is one of the doctors who are worried about the staff shortage.",
+      "hint": [
+        "een van",
+        "arts",
+        "zich zorgen maken",
+        "personeelstekort"
+      ],
+      "note": "Die refers to de artsen, so the relative clause is plural: maken. The main clause has zij as subject: is.",
+      "alt": [
+        "Ze is een van de artsen die zich zorgen maken over het personeelstekort.",
+        "Zij is een van de artsen die zich over het personeelstekort zorgen maken.",
+        "Ze is een van de artsen die zich over het personeelstekort zorgen maken."
+      ]
+    },
+    {
+      "nl": "Drie maanden is te lang om op een ingreep te wachten.",
+      "en": "Three months is too long to wait for an operation.",
+      "hint": [
+        "maand",
+        "lang",
+        "ingreep",
+        "wachten"
+      ],
+      "note": "Drie maanden is one period of time here, so the verb is singular, as in English.",
+      "alt": [
+        "Drie maanden is te lang om op een operatie te wachten."
+      ]
+    },
+    {
+      "nl": "De meeste mantelzorgers krijgen geen vergoeding voor hun werk.",
+      "en": "Most informal carers get no payment for their work.",
+      "hint": [
+        "meeste",
+        "mantelzorger",
+        "krijgen",
+        "vergoeding",
+        "werk"
+      ],
+      "note": "De meeste + a plural noun always takes a plural verb: krijgen. Unlike een aantal, there is no choice here.",
+      "alt": [
+        "De meeste mantelzorgers ontvangen geen vergoeding voor hun werk."
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "type": "choose",
+      "nl": "Het team van de huisartsenpost ___ elke nacht dienst.",
+      "options": [
+        "hebben",
+        "heeft",
+        "heb"
+      ],
+      "correct": 1,
+      "en": "The team at the out-of-hours GP service is on duty every night.",
+      "note": "Het team is one group, so the verb is singular: heeft. A group noun does not take a plural verb in Dutch."
+    },
+    {
+      "type": "choose",
+      "nl": "Iedereen ___ recht op goede zorg.",
+      "options": [
+        "hebben",
+        "hebt",
+        "heeft"
+      ],
+      "correct": 2,
+      "en": "Everyone has the right to good care.",
+      "note": "Iedereen is singular, like hij: iedereen heeft."
+    },
+    {
+      "type": "choose",
+      "nl": "U ___ verplicht om een wijziging aan uw zorgverzekeraar door te geven.",
+      "options": [
+        "bent",
+        "is",
+        "zijn"
+      ],
+      "correct": 0,
+      "en": "You (formal) are obliged to report a change to your health insurer.",
+      "note": "With zijn, u always takes bent. U is is a common mistake; the choice between two forms only exists with hebben, kunnen, willen and zullen."
+    },
+    {
+      "type": "choose",
+      "nl": "Dat ___ de nieuwe regels voor de basisverzekering.",
+      "options": [
+        "is",
+        "bent",
+        "zijn"
+      ],
+      "correct": 2,
+      "en": "Those are the new rules for basic health insurance.",
+      "note": "Dat points at a plural noun (de regels), so the verb is plural: dat zijn."
+    },
+    {
+      "type": "gap",
+      "nl": "Een groot deel van de zorgverleners ___ (zijn) overbelast.",
+      "answers": [
+        "is",
+        "zijn"
+      ],
+      "en": "A large proportion of health-care workers are overworked.",
+      "note": "Een deel van + a plural noun: the verb may follow deel (is) or zorgverleners (zijn). Both are correct."
+    },
+    {
+      "type": "gap",
+      "nl": "Tien procent van de bevolking ___ (vinden) de zorg slecht toegankelijk.",
+      "answers": [
+        "vindt"
+      ],
+      "en": "Ten per cent of the population find care hard to access.",
+      "note": "The noun after procent van is singular (de bevolking), so the verb is singular: vindt, stem vind + t."
+    },
+    {
+      "type": "gap",
+      "nl": "De huisarts of de praktijkondersteuner ___ (kunnen) u doorverwijzen.",
+      "answers": [
+        "kan"
+      ],
+      "en": "The GP or the practice nurse can refer you.",
+      "note": "Two singular subjects joined by of take a singular verb: only one of them does it. With en it would be plural: kunnen."
+    },
+    {
+      "type": "gap",
+      "nl": "Zowel de patiënt als de arts ___ (willen) een snelle behandeling.",
+      "answers": [
+        "willen",
+        "wil"
+      ],
+      "en": "Both the patient and the doctor want a quick treatment.",
+      "note": "With zowel … als and two singular nouns, the plural willen is the more common, the singular wil follows strict grammar. Both are correct."
+    },
+    {
+      "type": "order",
+      "lead": "Het",
+      "words": [
+        "zijn",
+        "vooral",
+        "ouderen",
+        "die",
+        "op een verpleeghuis",
+        "wachten"
+      ],
+      "answers": [
+        "Het zijn vooral ouderen die op een verpleeghuis wachten.",
+        "Het zijn vooral ouderen die wachten op een verpleeghuis."
+      ],
+      "en": "It is mainly elderly people who are waiting for a place in a nursing home.",
+      "note": "Het zijn + plural noun: the verb agrees with ouderen, not with het. In the relative clause wachten is plural because die refers to ouderen."
+    },
+    {
+      "type": "order",
+      "lead": "Zij is een van de specialisten",
+      "words": [
+        "die",
+        "chronische patiënten",
+        "in dit ziekenhuis",
+        "behandelen"
+      ],
+      "answers": [
+        "Zij is een van de specialisten die chronische patiënten in dit ziekenhuis behandelen.",
+        "Zij is een van de specialisten die in dit ziekenhuis chronische patiënten behandelen."
+      ],
+      "en": "She is one of the specialists who treat chronic patients in this hospital.",
+      "note": "Die refers to de specialisten, so the relative clause has a plural verb, at the end: behandelen."
+    },
+    {
+      "type": "rewrite",
+      "task": "Start with Iedereen instead of Alle patiënten.",
+      "from": "Alle patiënten hebben recht op een second opinion.",
+      "answers": [
+        "Iedereen heeft recht op een second opinion."
+      ],
+      "en": "Everyone has the right to a second opinion.",
+      "note": "Alle + plural noun takes a plural verb, but iedereen is singular: hebben becomes heeft."
+    },
+    {
+      "type": "rewrite",
+      "task": "Make it formal: use u.",
+      "from": "Heb je je eigen risico al betaald?",
+      "answers": [
+        "Hebt u uw eigen risico al betaald?",
+        "Heeft u uw eigen risico al betaald?"
+      ],
+      "en": "Have you (formal) already paid your excess?",
+      "note": "With u both hebt and heeft are correct. Je as a possessive becomes uw."
+    },
+    {
+      "type": "rewrite",
+      "task": "Replace veel mensen with een groot deel van de bevolking.",
+      "from": "Door de vergrijzing maken veel mensen zich zorgen over de zorgkosten.",
+      "answers": [
+        "Door de vergrijzing maakt een groot deel van de bevolking zich zorgen over de zorgkosten."
+      ],
+      "en": "Because of the ageing population, a large part of the population is worried about health-care costs.",
+      "note": "After een deel van the noun is singular here (de bevolking), so the verb must be singular: maakt. The verb stays in second place, before the subject."
+    },
+    {
+      "type": "fix",
+      "wrong": "De regering willen het zorgstelsel hervormen.",
+      "answers": [
+        "De regering wil het zorgstelsel hervormen."
+      ],
+      "en": "The government wants to reform the health-care system.",
+      "note": "De regering is one group, so the verb is singular: wil. English sometimes says 'the government want', Dutch does not."
+    },
+    {
+      "type": "fix",
+      "wrong": "Er is te weinig verpleegkundigen in de regio.",
+      "answers": [
+        "Er zijn te weinig verpleegkundigen in de regio."
+      ],
+      "en": "There are too few nurses in the region.",
+      "note": "After er the verb agrees with the noun that follows: verpleegkundigen is plural, so er zijn."
+    },
+    {
+      "type": "fix",
+      "wrong": "Kunt je mij doorverwijzen naar een specialist?",
+      "answers": [
+        "Kun je mij doorverwijzen naar een specialist?",
+        "Kan je mij doorverwijzen naar een specialist?",
+        "Kun je me doorverwijzen naar een specialist?",
+        "Kan je me doorverwijzen naar een specialist?"
+      ],
+      "en": "Can you refer me to a specialist?",
+      "note": "Je directly after the verb takes the form without t: kun je (or kan je). Kunt goes with u, or with jij before the verb."
+    }
+  ]
+}

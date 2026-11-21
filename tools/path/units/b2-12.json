@@ -1,0 +1,455 @@
+{
+  "id": "b2-12",
+  "level": "B2",
+  "icon": "🧩",
+  "title": "Mind and behaviour",
+  "grammar": "Adjectives and nouns with a fixed preposition",
+  "summary": "Many adjectives and nouns have a fixed preposition: trots op, bang voor, afhankelijk van, behoefte aan, invloed op. For a thing use er + preposition (Ik ben eraan gewend), in a question waar + preposition.",
+  "explain": "Like the verbs in B1 · 16, many adjectives and nouns come with their own preposition. It is part of the word, and it often differs from English and Ukrainian: `trots op` (proud **of**), `bang voor` (afraid **of**), `afhankelijk van` (dependent **on**). Learn the word and its preposition as one unit.\n\n### Adjectives\n\n| preposition | adjectives |\n| op | trots op, boos op, jaloers op, verliefd op, gek op |\n| voor | bang voor, verantwoordelijk voor, gevoelig voor, geschikt voor |\n| aan | gewend aan, verslaafd aan |\n| in | goed in, slecht in, geïnteresseerd in, teleurgesteld in |\n| met | blij met, tevreden met, bezig met, bekend met, het eens met |\n| van, over | afhankelijk van; verbaasd over, tevreden over |\n\nSome take two prepositions with a difference in meaning:\n\n- `boos op` a person, `boos over` a thing: `Ze is boos op haar baas over de planning`.\n- `teleurgesteld in` usually a person, `teleurgesteld over` a result or event.\n- `tevreden met` what you have or get, `tevreden over` how something went (roughly).\n- `bekend met` (familiar with), `bekend om` (famous for).\n\n> Ze is erg gevoelig voor kritiek. — She is very sensitive to criticism.\n> Ik ben teleurgesteld in hem. — I am disappointed in him.\n\n### Nouns\n\n| preposition | nouns |\n| aan | behoefte aan, gebrek aan, hekel aan |\n| op | invloed op, kans op, recht op, antwoord op, reactie op, kritiek op |\n| voor | aandacht voor, belangstelling voor, respect voor, angst voor |\n| in, tussen | vertrouwen in, zin in; verschil tussen |\n\n`de reden` takes `voor` or `van`: `de reden voor het besluit`, `de reden van zijn vertrek`.\n\n> Veel mensen hebben behoefte aan rust. — Many people need peace and quiet.\n> Ouders hebben veel invloed op het gedrag van hun kinderen. — Parents have a lot of influence on their children's behaviour.\n\n### A person or a thing\n\nFor a person: preposition + pronoun, `Ik ben trots op haar`. For a thing: `er` + preposition, and in a question `waar` + preposition (B1 · 05, B2 · 10). Unstressed `er` comes early and the preposition stays with the adjective.\n\n> Ik ben er niet aan gewend. — I am not used to it.\n> Waar ben je bang voor? — What are you afraid of?\n\n### Pointing forward to a clause\n\n`er` + preposition can point forward to a `dat`-clause. Many speakers leave it out, especially in speech, so both are correct: `Ze is er trots op dat ze geslaagd is` and `Ze is trots dat ze geslaagd is`. Before an `om te`-clause it is normally left out: `Hij is bang om fouten te maken`, `Ik heb geen zin om te koken`.\n\n> Ik ben eraan gewend dat hij altijd te laat komt. — I am used to him always being late.\n\n### Where the phrase stands\n\nNormally the phrase follows the adjective: `Ik ben trots op hem`. Before it is also possible, with a little more weight on the adjective: `Ik ben op hem trots`. With final verbs, the phrase may stand before them or after them; both are correct:\n\n> Ze is altijd afhankelijk geweest van haar ouders. — She has always been dependent on her parents.\n> Ze is altijd afhankelijk van haar ouders geweest. — She has always been dependent on her parents.\n\n### Watch out\n\n- **English prepositions do not carry over**: *trots van → `trots op`; *afhankelijk op → `afhankelijk van`; *geïnteresseerd voor → `geïnteresseerd in`; *gebrek van → `gebrek aan`.\n- **er for a thing, a pronoun for a person**: `Ik ben eraan gewend` (to it), but `Ik heb respect voor hem`, not *Ik heb er respect voor, when you mean a person.\n- **No er next to the noun itself**: `Ik ben gewend aan het werk`, not *Ik ben er gewend aan het werk.\n\n### Compared with Ukrainian\n\nSome pairs match: `залежний від` is `afhankelijk van`. But where Ukrainian uses only a case, Dutch needs a preposition: `боятися чогось` is `bang zijn voor iets`, `пишатися кимось` is `trots zijn op iemand`, `цікавитися чимось` is `geïnteresseerd zijn in iets`.",
+  "words": [
+    {
+      "nl": "gedrag",
+      "art": "het",
+      "pl": "",
+      "en": "behaviour",
+      "pos": "n",
+      "tag": "no plural"
+    },
+    {
+      "nl": "eigenschap",
+      "art": "de",
+      "pl": "eigenschappen",
+      "en": "quality / trait",
+      "pos": "n"
+    },
+    {
+      "nl": "zelfvertrouwen",
+      "art": "het",
+      "pl": "",
+      "en": "self-confidence",
+      "pos": "n",
+      "tag": "no plural"
+    },
+    {
+      "nl": "onzekerheid",
+      "art": "de",
+      "pl": "onzekerheden",
+      "en": "insecurity / uncertainty",
+      "pos": "n"
+    },
+    {
+      "nl": "behoefte",
+      "art": "de",
+      "pl": "behoeften",
+      "en": "need",
+      "pos": "n",
+      "tag": "+ aan"
+    },
+    {
+      "nl": "gebrek",
+      "art": "het",
+      "pl": "gebreken",
+      "en": "lack / shortage",
+      "pos": "n",
+      "tag": "+ aan"
+    },
+    {
+      "nl": "invloed",
+      "art": "de",
+      "pl": "invloeden",
+      "en": "influence",
+      "pos": "n",
+      "tag": "+ op"
+    },
+    {
+      "nl": "belangstelling",
+      "art": "de",
+      "pl": "",
+      "en": "interest",
+      "pos": "n",
+      "tag": "+ voor"
+    },
+    {
+      "nl": "afhankelijk van",
+      "en": "dependent on",
+      "pos": "adj"
+    },
+    {
+      "nl": "verslaafd aan",
+      "en": "addicted to",
+      "pos": "adj"
+    },
+    {
+      "nl": "gevoelig voor",
+      "en": "sensitive to",
+      "pos": "adj"
+    },
+    {
+      "nl": "verantwoordelijk voor",
+      "en": "responsible for",
+      "pos": "adj"
+    },
+    {
+      "nl": "teleurgesteld in",
+      "en": "disappointed in (a person)",
+      "pos": "adj"
+    },
+    {
+      "nl": "zelfbeheersing",
+      "art": "de",
+      "pl": "",
+      "en": "self-control",
+      "pos": "n",
+      "tag": "no plural"
+    },
+    {
+      "nl": "impulsief",
+      "en": "impulsive",
+      "pos": "adj"
+    },
+    {
+      "nl": "zich gedragen",
+      "past": "gedroeg zich",
+      "perf": "heeft zich gedragen",
+      "en": "to behave",
+      "pos": "v"
+    }
+  ],
+  "sentences": [
+    {
+      "nl": "Mijn zoon is erg gevoelig voor kritiek van anderen.",
+      "en": "My son is very sensitive to criticism from others.",
+      "hint": [
+        "zoon",
+        "gevoelig voor",
+        "kritiek",
+        "ander"
+      ],
+      "note": "gevoelig takes voor, where English says 'sensitive to'. The phrase follows the adjective."
+    },
+    {
+      "nl": "Veel jongeren zijn verslaafd aan hun telefoon.",
+      "en": "Many young people are addicted to their phones.",
+      "hint": [
+        "jongere",
+        "verslaafd aan",
+        "telefoon"
+      ],
+      "note": "verslaafd aan: here English 'to' and Dutch aan happen to match. With a thing as pronoun it becomes eraan: Ze zijn eraan verslaafd.",
+      "alt": [
+        "Veel jongeren zijn verslaafd aan hun telefoons."
+      ]
+    },
+    {
+      "nl": "Ze is er trots op dat ze haar angst heeft overwonnen.",
+      "en": "She is proud that she has overcome her fear.",
+      "hint": [
+        "trots op",
+        "angst",
+        "overwinnen"
+      ],
+      "note": "er … op points forward to the dat-clause. Many speakers leave er … op out: Ze is trots dat …; both are correct.",
+      "alt": [
+        "Ze is er trots op dat ze haar angst overwonnen heeft.",
+        "Ze is trots dat ze haar angst heeft overwonnen.",
+        "Ze is trots dat ze haar angst overwonnen heeft."
+      ]
+    },
+    {
+      "nl": "Waar ben je eigenlijk zo bang voor?",
+      "en": "What are you actually so afraid of?",
+      "hint": [
+        "bang voor",
+        "eigenlijk"
+      ],
+      "note": "Asking about a thing after bang voor: waar first, voor at the end. Waarvoor ben je eigenlijk zo bang? is also correct.",
+      "alt": [
+        "Waarvoor ben je eigenlijk zo bang?",
+        "Waar ben jij eigenlijk zo bang voor?",
+        "Waarvoor ben jij eigenlijk zo bang?"
+      ]
+    },
+    {
+      "nl": "Kinderen hebben behoefte aan duidelijke regels en aandacht.",
+      "en": "Children need clear rules and attention.",
+      "hint": [
+        "kind",
+        "behoefte aan",
+        "duidelijk",
+        "regel",
+        "aandacht"
+      ],
+      "note": "behoefte hebben aan is a more formal way of saying 'to need'; the preposition is always aan.",
+      "alt": [
+        "Kinderen hebben duidelijke regels en aandacht nodig."
+      ]
+    },
+    {
+      "nl": "Hij is nog steeds financieel afhankelijk van zijn ouders.",
+      "en": "He is still financially dependent on his parents.",
+      "hint": [
+        "nog steeds",
+        "financieel",
+        "afhankelijk van",
+        "ouders"
+      ],
+      "note": "afhankelijk takes van, not op as English 'on' suggests. Ukrainian залежний від works the same way.",
+      "alt": [
+        "Hij is nog steeds financieel van zijn ouders afhankelijk."
+      ]
+    },
+    {
+      "nl": "Door een gebrek aan zelfvertrouwen durft ze niet te solliciteren.",
+      "en": "Because of a lack of self-confidence she does not dare to apply for jobs.",
+      "hint": [
+        "gebrek aan",
+        "zelfvertrouwen",
+        "durven",
+        "solliciteren"
+      ],
+      "note": "gebrek takes aan, not van as English 'of' suggests. Door … is one element in first place, so durft comes next.",
+      "alt": [
+        "Ze durft door een gebrek aan zelfvertrouwen niet te solliciteren."
+      ]
+    },
+    {
+      "nl": "Ik ben teleurgesteld in mijn broer, want hij heeft gelogen.",
+      "en": "I am disappointed in my brother, because he lied.",
+      "hint": [
+        "teleurgesteld in",
+        "broer",
+        "liegen"
+      ],
+      "note": "teleurgesteld in for a person; for a result or event Dutch usually says teleurgesteld over.",
+      "alt": [
+        "Ik ben teleurgesteld in mijn broer, want hij loog."
+      ]
+    },
+    {
+      "nl": "Vrienden hebben veel invloed op het gedrag van tieners.",
+      "en": "Friends have a lot of influence on the behaviour of teenagers.",
+      "hint": [
+        "vriend",
+        "invloed op",
+        "gedrag",
+        "tiener"
+      ],
+      "note": "invloed takes op: invloed op iets. The whole phrase op het gedrag van tieners belongs to the noun invloed.",
+      "alt": [
+        "Vrienden hebben veel invloed op het gedrag van pubers."
+      ]
+    },
+    {
+      "nl": "Ze is altijd verantwoordelijk geweest voor haar jongere zusjes.",
+      "en": "She has always been responsible for her younger sisters.",
+      "hint": [
+        "altijd",
+        "verantwoordelijk voor",
+        "jong",
+        "zus"
+      ],
+      "note": "The phrase with voor may stand after the final verb geweest, or before it: verantwoordelijk voor haar jongere zusjes geweest.",
+      "alt": [
+        "Ze is altijd verantwoordelijk voor haar jongere zusjes geweest.",
+        "Ze is altijd verantwoordelijk geweest voor haar jongere zussen.",
+        "Ze is altijd verantwoordelijk voor haar jongere zussen geweest."
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "type": "choose",
+      "nl": "Hij is altijd jaloers ___ zijn oudere broer geweest.",
+      "options": [
+        "van",
+        "op",
+        "aan",
+        "voor"
+      ],
+      "correct": 1,
+      "en": "He has always been jealous of his older brother.",
+      "note": "jaloers takes op. English 'of' tempts you to use van, but that is wrong here."
+    },
+    {
+      "type": "choose",
+      "nl": "Ze heeft veel belangstelling ___ psychologie.",
+      "options": [
+        "in",
+        "over",
+        "voor",
+        "aan"
+      ],
+      "correct": 2,
+      "en": "She has a lot of interest in psychology.",
+      "note": "belangstelling takes voor. English 'interest in' leads to in, but that goes with geïnteresseerd, not with belangstelling."
+    },
+    {
+      "type": "choose",
+      "nl": "Ze was boos ___ haar collega, omdat hij haar idee als zijn eigen idee had gepresenteerd.",
+      "options": [
+        "over",
+        "met",
+        "op"
+      ],
+      "correct": 2,
+      "en": "She was angry with her colleague, because he had presented her idea as his own.",
+      "note": "boos op a person, boos over a thing. Met is the English 'with', which does not work in Dutch here."
+    },
+    {
+      "type": "choose",
+      "nl": "Mijn dochter? Ja, ik ben heel trots ___.",
+      "options": [
+        "erop",
+        "op haar",
+        "op het"
+      ],
+      "correct": 1,
+      "en": "My daughter? Yes, I am very proud of her.",
+      "note": "For a person, use the preposition + pronoun: op haar. Erop is for a thing, and op het is never used this way."
+    },
+    {
+      "type": "gap",
+      "nl": "Door hun onzekerheid zijn sommige mensen erg gevoelig ___ kritiek.",
+      "answers": [
+        "voor"
+      ],
+      "en": "Because of their insecurity some people are very sensitive to criticism.",
+      "note": "gevoelig takes voor, where English uses 'to'."
+    },
+    {
+      "type": "gap",
+      "nl": "Ben je al gewend aan je nieuwe baan? Ja, ik ben ___ al aardig aan gewend.",
+      "answers": [
+        "er",
+        "daar"
+      ],
+      "en": "Are you used to your new job yet? Yes, I am fairly used to it already.",
+      "note": "For a thing, er replaces aan + noun. Er stands early in the middle field and aan stays with gewend. Daar is the stressed form."
+    },
+    {
+      "type": "gap",
+      "nl": "___ heb je vanavond zin in?",
+      "answers": [
+        "Waar"
+      ],
+      "en": "What do you feel like doing tonight?",
+      "note": "zin hebben in: a question about the thing becomes waar … in, with in at the end."
+    },
+    {
+      "type": "gap",
+      "nl": "Wie is er verantwoordelijk ___ de planning van het project?",
+      "answers": [
+        "voor"
+      ],
+      "en": "Who is responsible for the planning of the project?",
+      "note": "verantwoordelijk takes voor, just like English 'responsible for'. Not van."
+    },
+    {
+      "type": "order",
+      "lead": "Ze is",
+      "words": [
+        "er",
+        "al jaren",
+        "aan gewend",
+        "dat",
+        "hij",
+        "laat",
+        "thuiskomt"
+      ],
+      "answers": [
+        "Ze is er al jaren aan gewend dat hij laat thuiskomt."
+      ],
+      "en": "She has been used to him coming home late for years.",
+      "note": "er points forward to the dat-clause. Er stands early, al jaren follows, aan stays with gewend, and the clause goes last."
+    },
+    {
+      "type": "order",
+      "lead": "Hij",
+      "words": [
+        "is",
+        "altijd",
+        "erg afhankelijk",
+        "geweest",
+        "van zijn vrouw"
+      ],
+      "answers": [
+        "Hij is altijd erg afhankelijk geweest van zijn vrouw.",
+        "Hij is altijd erg afhankelijk van zijn vrouw geweest.",
+        "Hij is altijd van zijn vrouw erg afhankelijk geweest.",
+        "Hij is van zijn vrouw altijd erg afhankelijk geweest."
+      ],
+      "en": "He has always been very dependent on his wife.",
+      "note": "The phrase with van may follow geweest or stand in the middle field; after the adjective or after geweest is the most usual."
+    },
+    {
+      "type": "order",
+      "lead": "Ik heb",
+      "words": [
+        "altijd",
+        "een hekel",
+        "gehad",
+        "aan ruzie"
+      ],
+      "answers": [
+        "Ik heb altijd een hekel gehad aan ruzie.",
+        "Ik heb altijd een hekel aan ruzie gehad.",
+        "Ik heb aan ruzie altijd een hekel gehad."
+      ],
+      "en": "I have always hated arguments.",
+      "note": "een hekel hebben aan: the phrase with aan may follow the participle gehad or stand in the middle field."
+    },
+    {
+      "type": "rewrite",
+      "task": "Replace aan zijn telefoon with er + aan.",
+      "from": "Hij is verslaafd aan zijn telefoon.",
+      "answers": [
+        "Hij is eraan verslaafd.",
+        "Hij is er verslaafd aan."
+      ],
+      "en": "He is addicted to it.",
+      "note": "er + aan replaces a thing. Eraan verslaafd is the usual written form; er verslaafd aan is also common."
+    },
+    {
+      "type": "rewrite",
+      "task": "Ask about the thing after in, with waar.",
+      "from": "Ze is geïnteresseerd in de eigenschappen van een goede leider.",
+      "answers": [
+        "Waar is ze in geïnteresseerd?",
+        "Waarin is ze geïnteresseerd?",
+        "Waar is zij in geïnteresseerd?",
+        "Waarin is zij geïnteresseerd?"
+      ],
+      "en": "What is she interested in?",
+      "note": "geïnteresseerd in a thing: the question word is waar + in. Waar goes first; in may stay with it or wait before the adjective."
+    },
+    {
+      "type": "rewrite",
+      "task": "Make one sentence. Start with Hij is er trots op dat.",
+      "from": "Hij heeft zijn verslaving overwonnen. Hij is daar trots op.",
+      "answers": [
+        "Hij is er trots op dat hij zijn verslaving heeft overwonnen.",
+        "Hij is er trots op dat hij zijn verslaving overwonnen heeft."
+      ],
+      "en": "He is proud that he has overcome his addiction.",
+      "note": "er … op points forward to the dat-clause, which says what he is proud of. In the clause the verbs go to the end, in either order."
+    },
+    {
+      "type": "fix",
+      "wrong": "Ze is erg geïnteresseerd voor het gedrag van dieren.",
+      "answers": [
+        "Ze is erg geïnteresseerd in het gedrag van dieren."
+      ],
+      "en": "She is very interested in the behaviour of animals.",
+      "note": "geïnteresseerd takes in. Voor goes with belangstelling, not with geïnteresseerd."
+    },
+    {
+      "type": "fix",
+      "wrong": "Hij gedraagt zich soms impulsief door een gebrek van zelfbeheersing.",
+      "answers": [
+        "Hij gedraagt zich soms impulsief door een gebrek aan zelfbeheersing."
+      ],
+      "en": "He sometimes behaves impulsively because of a lack of self-control.",
+      "note": "gebrek takes aan: een gebrek aan iets. English 'lack of' tempts you to use van."
+    }
+  ]
+}

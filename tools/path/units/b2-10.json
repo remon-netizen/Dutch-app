@@ -1,0 +1,462 @@
+{
+  "id": "b2-10",
+  "level": "B2",
+  "icon": "📉",
+  "title": "Figures and trends",
+  "grammar": "Er: the complete picture",
+  "summary": "er: a place (daar when stressed), an indefinite subject (Er is een daling), a number (Ik heb er twee), with a preposition (erop, daar … op), a passive (Er wordt gezegd). No er with a definite subject.",
+  "explain": "`er` does five different jobs in Dutch. You have met them one at a time (A2 · 26, B1 · 05, B1 · 06, B1 · 11); this unit puts them side by side and shows when `er` stays and when it goes. Reports on figures and trends need almost all of them.\n\n### The five jobs\n\n| job | example | stressed or first |\n| 1 place | Ik woon er al jaren. | daar |\n| 2 indefinite subject | Er zijn drie redenen. | er first |\n| 3 number or amount | Ik heb er twee. | never first |\n| 4 with a preposition | Ik reken erop. | daar … op |\n| 5 passive without subject | Er wordt gestaakt. | er first |\n\n- **Place**: unstressed 'there', for a place already mentioned. Stressed or first it becomes `daar`: `Daar woon ik al jaren`.\n- **Indefinite subject**: a subject with `een`, `geen`, a number, `veel`, `iemand`, `iets` usually moves behind the verb, and `er` holds the first place.\n- **Number or amount**: when a number, `veel`, `weinig`, `een paar` or `geen` stands without its noun, `er` stands in for the noun. It is never stressed and never first.\n- **Preposition**: `er` + preposition replaces a thing (not a person). `met` becomes `mee`, `tot` becomes `toe`. Stressed: `daar`; in a question: `waar`.\n- **Passive**: a passive without a subject (B1 · 11).\n\n> Er is een groot verschil tussen de twee groepen. — There is a big difference between the two groups.\n> De tabel noemt tien landen, maar ik ken er maar drie. — The table lists ten countries, but I only know three of them.\n> Daar ben ik het niet mee eens. — I do not agree with that.\n> Waar is dit percentage op gebaseerd? — What is this percentage based on?\n> Er wordt veel over de cijfers gediscussieerd. — There is a lot of discussion about the figures.\n\n### When er goes and when it stays\n\n- **Definite subject: no er.** `Het aantal is gestegen`, never *Er is het aantal gestegen.\n- **Indefinite subject: er stays**, also when something else stands first and in a sub-clause: `Vorig jaar was er een daling`; `dat er een probleem is`. With `zijn` it cannot go. With other verbs (`gebeuren`, `komen`) careful Dutch keeps it too. Only after a phrase of place is it often left out: `In de tabel staat (er) een fout`.\n- **Passive: er may go** when another element stands first. Both are correct:\n\n> In Nederland wordt veel gefietst. — People cycle a lot in the Netherlands.\n> In Nederland wordt er veel gefietst. — People cycle a lot in the Netherlands.\n\n### Two jobs, one er\n\nWhen two jobs meet in one clause, a single `er` does both: `Er wordt veel over gesproken` (passive and `erover`). Only the number-er keeps its own: `Er zijn er drie`.\n\n### Where er stands\n\nUnstressed `er` comes early in the middle field: straight after the verb and the subject (and after `het`). The preposition stays behind, just before the final verbs. Side by side they are one word: `erover`, `ermee`.\n\n> Ik heb er gisteren met mijn collega over gesproken. — I talked about it with my colleague yesterday.\n\n`er` + preposition can also point forward to a `dat`-clause or an `om te`-clause: `Ik reken erop dat …`, `We zorgen ervoor dat …`, `Het gaat erom de cijfers goed te lezen`.\n\n### Watch out\n\n- **No er with an indefinite subject**: *Is een groot verschil → `Er is een groot verschil`.\n- **er and the noun together**: *Ik reken er op het rapport → `Ik reken op het rapport` or `Ik reken erop`. `er` replaces the noun; you need one or the other.\n- **er with a definite subject**: *Er staat de grafiek op pagina 3 → `De grafiek staat op pagina 3`.\n- **A number without er**: *Ik heb twee → `Ik heb er twee`, when the noun is left out.\n- **People**: `Ik denk aan haar`, not *Ik denk eraan, when you mean a person.\n\n### Compared with Ukrainian\n\nUkrainian has nothing like `er`. `Є три причини` is `Er zijn drie redenen`, `Їх три` is `Er zijn er drie`, and `Я розраховую на це` is `Ik reken erop`. Where Ukrainian needs no word at all, Dutch often needs `er`.",
+  "words": [
+    {
+      "nl": "stijging",
+      "art": "de",
+      "pl": "stijgingen",
+      "en": "rise / increase",
+      "pos": "n"
+    },
+    {
+      "nl": "daling",
+      "art": "de",
+      "pl": "dalingen",
+      "en": "fall / decline",
+      "pos": "n"
+    },
+    {
+      "nl": "toename",
+      "art": "de",
+      "pl": "toenames",
+      "en": "increase / growth",
+      "pos": "n"
+    },
+    {
+      "nl": "afname",
+      "art": "de",
+      "pl": "afnames",
+      "en": "decrease",
+      "pos": "n"
+    },
+    {
+      "nl": "percentage",
+      "art": "het",
+      "pl": "percentages",
+      "en": "percentage",
+      "pos": "n"
+    },
+    {
+      "nl": "gemiddelde",
+      "art": "het",
+      "pl": "gemiddelden",
+      "en": "average",
+      "pos": "n"
+    },
+    {
+      "nl": "grafiek",
+      "art": "de",
+      "pl": "grafieken",
+      "en": "graph / chart",
+      "pos": "n"
+    },
+    {
+      "nl": "verhouding",
+      "art": "de",
+      "pl": "verhoudingen",
+      "en": "ratio / proportion",
+      "pos": "n"
+    },
+    {
+      "nl": "prognose",
+      "art": "de",
+      "pl": "prognoses",
+      "en": "forecast / projection",
+      "pos": "n"
+    },
+    {
+      "nl": "toenemen",
+      "past": "nam toe",
+      "perf": "is toegenomen",
+      "en": "to increase",
+      "pos": "v",
+      "tag": "separable"
+    },
+    {
+      "nl": "afnemen",
+      "past": "nam af",
+      "perf": "is afgenomen",
+      "en": "to decrease",
+      "pos": "v",
+      "tag": "separable"
+    },
+    {
+      "nl": "dalen",
+      "past": "daalde",
+      "perf": "is gedaald",
+      "en": "to fall / to go down",
+      "pos": "v"
+    },
+    {
+      "nl": "verdubbelen",
+      "past": "verdubbelde",
+      "perf": "is/heeft verdubbeld",
+      "en": "to double",
+      "pos": "v"
+    },
+    {
+      "nl": "schommelen",
+      "past": "schommelde",
+      "perf": "heeft geschommeld",
+      "en": "to fluctuate",
+      "pos": "v"
+    },
+    {
+      "nl": "aanzienlijk",
+      "en": "considerable / significant",
+      "pos": "adj"
+    },
+    {
+      "nl": "geleidelijk",
+      "en": "gradual",
+      "pos": "adj"
+    }
+  ],
+  "sentences": [
+    {
+      "nl": "Er zijn drie redenen voor de daling van het aantal studenten.",
+      "en": "There are three reasons for the fall in the number of students.",
+      "hint": [
+        "reden",
+        "daling",
+        "aantal",
+        "student"
+      ],
+      "note": "drie redenen is an indefinite subject, so er takes the first place and the subject follows the verb.",
+      "alt": [
+        "Voor de daling van het aantal studenten zijn er drie redenen."
+      ]
+    },
+    {
+      "nl": "Volgens de grafiek was er in maart een sterke stijging.",
+      "en": "According to the graph there was a sharp rise in March.",
+      "hint": [
+        "volgens",
+        "grafiek",
+        "maart",
+        "sterk",
+        "stijging"
+      ],
+      "note": "Volgens de grafiek stands first, but the subject een sterke stijging is indefinite, so er stays, right after the verb.",
+      "alt": [
+        "Volgens de grafiek was er een sterke stijging in maart.",
+        "In maart was er volgens de grafiek een sterke stijging."
+      ]
+    },
+    {
+      "nl": "Het rapport bevat zes grafieken, maar ik begrijp er maar twee.",
+      "en": "The report contains six graphs, but I only understand two of them.",
+      "hint": [
+        "rapport",
+        "bevatten",
+        "grafiek",
+        "begrijpen",
+        "twee"
+      ],
+      "note": "twee stands without its noun, so er stands in for grafieken. Without er, *ik begrijp maar twee is not correct Dutch.",
+      "alt": [
+        "Het rapport bevat zes grafieken, maar ik begrijp er slechts twee."
+      ]
+    },
+    {
+      "nl": "De prijzen schommelen sterk, en daar maken veel bedrijven zich zorgen over.",
+      "en": "Prices are fluctuating strongly, and many companies are worried about that.",
+      "hint": [
+        "prijs",
+        "schommelen",
+        "sterk",
+        "bedrijf",
+        "zich zorgen maken"
+      ],
+      "note": "daar … over is the stressed form of erover, so it may stand first; the preposition stays at the end of the clause.",
+      "alt": [
+        "De prijzen schommelen sterk, en veel bedrijven maken zich daar zorgen over.",
+        "De prijzen schommelen sterk, en veel bedrijven maken zich er zorgen over.",
+        "De prijzen schommelen sterk, en daarover maken veel bedrijven zich zorgen.",
+        "De prijzen schommelen sterk, en veel bedrijven maken zich daarover zorgen."
+      ]
+    },
+    {
+      "nl": "We moeten ervoor zorgen dat de cijfers kloppen.",
+      "en": "We must make sure that the figures are correct.",
+      "hint": [
+        "moeten",
+        "zorgen voor",
+        "cijfer",
+        "kloppen"
+      ],
+      "note": "zorgen voor + a clause: ervoor points forward to the dat-clause, which says what you take care of. Ervoor is one word."
+    },
+    {
+      "nl": "Er wordt verwacht dat de werkloosheid geleidelijk zal afnemen.",
+      "en": "It is expected that unemployment will gradually decrease.",
+      "hint": [
+        "verwachten",
+        "werkloosheid",
+        "geleidelijk",
+        "afnemen"
+      ],
+      "note": "A passive without a subject starts with er; English says 'it is expected', but Dutch normally uses er here, not het.",
+      "alt": [
+        "Er wordt verwacht dat de werkloosheid geleidelijk afneemt.",
+        "Er wordt verwacht dat de werkloosheid geleidelijk af zal nemen.",
+        "Er wordt verwacht dat de werkloosheid geleidelijk afnemen zal."
+      ]
+    },
+    {
+      "nl": "In Nederland wordt steeds minder gerookt.",
+      "en": "In the Netherlands there is less and less smoking. (passive)",
+      "hint": [
+        "Nederland",
+        "steeds",
+        "minder",
+        "roken"
+      ],
+      "note": "An impersonal passive with another element first: er may be left out. In Nederland wordt er steeds minder gerookt is just as correct.",
+      "alt": [
+        "In Nederland wordt er steeds minder gerookt.",
+        "Er wordt in Nederland steeds minder gerookt."
+      ]
+    },
+    {
+      "nl": "Sinds 2010 is het aantal elektrische auto's meer dan verdubbeld.",
+      "en": "Since 2010 the number of electric cars has more than doubled.",
+      "hint": [
+        "sinds",
+        "aantal",
+        "elektrisch",
+        "auto",
+        "verdubbelen"
+      ],
+      "note": "het aantal is a definite subject, so there is no er. Verdubbelen without an object takes zijn: is verdubbeld.",
+      "alt": [
+        "Het aantal elektrische auto's is sinds 2010 meer dan verdubbeld."
+      ]
+    },
+    {
+      "nl": "Van de honderd bedrijven in de steekproef zijn er tien failliet gegaan.",
+      "en": "Of the hundred companies in the sample, ten have gone bankrupt.",
+      "hint": [
+        "bedrijf",
+        "steekproef",
+        "tien",
+        "failliet gaan"
+      ],
+      "note": "tien stands without its noun, so the number-er follows the verb. Failliet gaan takes zijn in the perfect.",
+      "alt": [
+        "Tien van de honderd bedrijven in de steekproef zijn failliet gegaan.",
+        "Van de honderd bedrijven in de steekproef zijn tien failliet gegaan."
+      ]
+    },
+    {
+      "nl": "Waar hangt de verhouding tussen de twee groepen van af?",
+      "en": "What does the ratio between the two groups depend on?",
+      "hint": [
+        "verhouding",
+        "groep",
+        "afhangen van"
+      ],
+      "note": "Asking about a thing after a preposition: waar … van, with van at the end, just before the particle af. Waarvan hangt … af? is also correct.",
+      "alt": [
+        "Waarvan hangt de verhouding tussen de twee groepen af?"
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "type": "choose",
+      "nl": "Volgens de nieuwste prognose ___ volgend jaar een lichte daling.",
+      "options": [
+        "er is",
+        "is er",
+        "is"
+      ],
+      "correct": 1,
+      "en": "According to the latest forecast there will be a slight fall next year.",
+      "note": "Volgens de nieuwste prognose is the first element, so the verb comes second: is er. The subject is indefinite and the verb is zijn, so er cannot be left out."
+    },
+    {
+      "type": "choose",
+      "nl": "In de tabel ___ het gemiddelde van de afgelopen tien jaar.",
+      "options": [
+        "staat er",
+        "staat",
+        "er staat"
+      ],
+      "correct": 1,
+      "en": "The table shows the average of the last ten years.",
+      "note": "het gemiddelde is a definite subject, so there is no er. Er goes with an indefinite subject such as een fout."
+    },
+    {
+      "type": "choose",
+      "nl": "Het rapport noemt vijf oorzaken voor de afname, maar ik ken ___ maar twee.",
+      "options": [
+        "ze",
+        "er",
+        "het",
+        "–"
+      ],
+      "correct": 1,
+      "en": "The report mentions five causes of the decrease, but I only know two of them.",
+      "note": "twee stands without its noun, so the number-er is needed: ik ken er maar twee. Ze or het cannot go with a number like that."
+    },
+    {
+      "type": "choose",
+      "nl": "De nieuwe cijfers zijn verrassend: ___ wordt veel over gesproken.",
+      "options": [
+        "het",
+        "er er",
+        "er"
+      ],
+      "correct": 2,
+      "en": "The new figures are surprising: they are being talked about a lot.",
+      "note": "One er does two jobs here: the passive er and the er of erover. Two er next to each other only happens with the number-er."
+    },
+    {
+      "type": "gap",
+      "nl": "De werkloosheid neemt af, maar veel mensen merken ___ nog niets van.",
+      "answers": [
+        "er",
+        "daar"
+      ],
+      "en": "Unemployment is decreasing, but many people do not notice anything of it yet.",
+      "note": "merken van: er … van refers to the decrease. Er stands early in the middle field and van stays at the end. Daar is the stressed form and also correct."
+    },
+    {
+      "type": "gap",
+      "nl": "Ben je al klaar met de grafiek? Ja, ik ben ___ (met) klaar.",
+      "answers": [
+        "ermee",
+        "daarmee"
+      ],
+      "en": "Have you finished the graph yet? Yes, I have finished it.",
+      "note": "met becomes mee after er: ermee, written as one word. *Ik ben er met klaar is wrong, and so is *met het klaar."
+    },
+    {
+      "type": "gap",
+      "nl": "In de steekproef zaten vijfhonderd mensen; er waren ___ maar twintig ouder dan tachtig.",
+      "answers": [
+        "er",
+        "daarvan"
+      ],
+      "en": "There were five hundred people in the sample; only twenty of them were older than eighty.",
+      "note": "The first er is the subject-er; the second stands in for mensen after the number twintig. The number-er always keeps its own er (or daarvan: of those)."
+    },
+    {
+      "type": "order",
+      "lead": "In de grafiek",
+      "words": [
+        "is",
+        "er",
+        "een duidelijke daling",
+        "te zien"
+      ],
+      "answers": [
+        "In de grafiek is er een duidelijke daling te zien."
+      ],
+      "en": "A clear fall can be seen in the graph.",
+      "note": "After the first element come the verb is and then er; the indefinite subject follows, and te zien closes the sentence."
+    },
+    {
+      "type": "order",
+      "lead": "Ik heb",
+      "words": [
+        "er",
+        "gisteren",
+        "met mijn collega",
+        "over",
+        "gesproken"
+      ],
+      "answers": [
+        "Ik heb er gisteren met mijn collega over gesproken.",
+        "Ik heb er met mijn collega gisteren over gesproken.",
+        "Ik heb er gisteren over gesproken met mijn collega."
+      ],
+      "en": "I talked about it with my colleague yesterday.",
+      "note": "Unstressed er comes straight after heb; over stays just before the participle. Met mijn collega may also follow gesproken."
+    },
+    {
+      "type": "order",
+      "lead": "Het gaat",
+      "words": [
+        "erom",
+        "dat",
+        "de cijfers",
+        "betrouwbaar",
+        "zijn"
+      ],
+      "answers": [
+        "Het gaat erom dat de cijfers betrouwbaar zijn."
+      ],
+      "en": "What matters is that the figures are reliable.",
+      "note": "Het gaat om: erom points forward to the dat-clause. In the clause the verb zijn goes to the end."
+    },
+    {
+      "type": "rewrite",
+      "task": "Start with Vorig jaar.",
+      "from": "Er was vorig jaar een aanzienlijke toename van het aantal inwoners.",
+      "answers": [
+        "Vorig jaar was er een aanzienlijke toename van het aantal inwoners."
+      ],
+      "en": "Last year there was a considerable increase in the number of inhabitants.",
+      "note": "The subject is indefinite, so er stays when Vorig jaar stands first; it moves to the place after the verb. With zijn it cannot be left out."
+    },
+    {
+      "type": "rewrite",
+      "task": "Start with In Nederland.",
+      "from": "Er wordt in Nederland veel gefietst.",
+      "answers": [
+        "In Nederland wordt veel gefietst.",
+        "In Nederland wordt er veel gefietst."
+      ],
+      "en": "People cycle a lot in the Netherlands.",
+      "note": "In a passive without a subject, er may go when another element stands first. Both sentences are correct."
+    },
+    {
+      "type": "rewrite",
+      "task": "Replace op de nieuwe cijfers with er + op.",
+      "from": "De minister baseert haar beleid op de nieuwe cijfers.",
+      "answers": [
+        "De minister baseert haar beleid erop.",
+        "De minister baseert er haar beleid op."
+      ],
+      "en": "The minister bases her policy on it.",
+      "note": "er + op replaces a thing. Er may stay next to op (erop) or move forward before the object, leaving op behind."
+    },
+    {
+      "type": "rewrite",
+      "task": "Ask about the thing after op, with waar.",
+      "from": "Het percentage is gebaseerd op een kleine steekproef.",
+      "answers": [
+        "Waar is het percentage op gebaseerd?",
+        "Waarop is het percentage gebaseerd?"
+      ],
+      "en": "What is the percentage based on?",
+      "note": "For a thing after a preposition the question word is waar + preposition. Waar goes first; op may stay with it or wait before the participle."
+    },
+    {
+      "type": "fix",
+      "wrong": "Is een groot verschil tussen mannen en vrouwen.",
+      "answers": [
+        "Er is een groot verschil tussen mannen en vrouwen."
+      ],
+      "en": "There is a big difference between men and women.",
+      "note": "The subject een groot verschil is indefinite, so the sentence starts with er. Without it the sentence reads as a broken question."
+    },
+    {
+      "type": "fix",
+      "wrong": "We rekenen er op een snelle stijging.",
+      "answers": [
+        "We rekenen op een snelle stijging."
+      ],
+      "en": "We are counting on a quick rise.",
+      "note": "er replaces the thing after the preposition. When the thing itself is named (een snelle stijging), er has to go."
+    }
+  ]
+}

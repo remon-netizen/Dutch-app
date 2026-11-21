@@ -1,0 +1,461 @@
+{
+  "id": "b2-22",
+  "level": "B2",
+  "icon": "🤵",
+  "title": "Formal and informal",
+  "grammar": "Register: u and je, written and spoken alternatives",
+  "summary": "Choose one level and stay in it. u takes the verb with t (u bent, u hebt / heeft, u kunt) and uw. Formal letters: Geachte …, Met vriendelijke groet. Soften with Zou u … kunnen? Formal words: al → reeds, als → indien.",
+  "explain": "Dutch has two words for 'you': `je / jij` and `u`. Choosing between them, and between everyday and formal words, is choosing a *register*. The rule at B2: pick one level for a whole text or conversation and stay in it.\n\n### u or je?\n\n`u` is for strangers in formal settings, officials, customers, and often for older people. `je` is for friends, family, children and, in most Dutch workplaces, colleagues and even the boss. When in doubt, start with `u`; the other person says `Zeg maar je` if they prefer. The older or more senior person usually proposes the switch: `Zullen we elkaar tutoyeren?` (`tutoyeren` = to say je).\n\n> Mag ik u iets vragen? — May I ask you something?\n> Zeg maar je, dat is makkelijker. — Just call me je, that is easier.\n\n### Verb forms with u\n\n`u` takes the verb form with t, also when it comes after the verb, where `je` loses the t: `Werkt u hier?` but `Werk je hier?`. A few verbs have two accepted forms:\n\n| | formal | also correct |\n| zijn | u bent | – |\n| hebben | u hebt | u heeft |\n| kunnen | u kunt | u kan |\n| zullen | u zult | u zal |\n\nNever *u is. In fact `u heeft` is heard more than `u hebt`; both are standard. `u kan` and `u zal` sound less formal. The possessive is `uw` (`uw adres`), the object form `u` (`Ik bel u morgen`). `u` is also the polite plural: one `u` for a whole group.\n\n### One level in one text\n\nOnce you choose `u`, everything follows: `u`, `uw`, the verb with t. Mixing is the commonest mistake in letters: *Kunt u laten weten of je komt? → `Kunt u laten weten of u komt?`\n\n### The formal letter or e-mail\n\n| part | formal | less formal |\n| salutation (aanhef) | Geachte heer Smit, / Geachte mevrouw Smit, | Beste Anna, |\n| reader unknown | Geachte heer, mevrouw, | – |\n| closing | Met vriendelijke groet, | Hartelijke groet, |\n| very formal closing | Hoogachtend, | – |\n\n`Geachte` goes with the surname, never with a first name. After the salutation comes a comma, and the letter begins on a new line with a capital letter. Fixed sentences:\n\n- `Naar aanleiding van …` — following, in response to …\n- `Hierbij stuur ik u …` — I hereby send you …\n- `Graag ontvang ik …` — I would like to receive …\n- `Ik zie uw reactie met belangstelling tegemoet.` — I look forward to your reply.\n- `Bij voorbaat dank.` — Thank you in advance.\n\n`Naar aanleiding van …`, `Hierbij` and `Graag` are the first element, so the verb follows: `Hierbij stuur ik u`, never *Hierbij ik stuur u.\n\n> Naar aanleiding van uw advertentie solliciteer ik naar deze functie. — In response to your advertisement I am applying for this position.\n\n### Softening a request\n\nEach step is more polite than the one before:\n\n> Kun je me helpen? — Can you help me?\n> Zou u mij misschien kunnen helpen? — Could you perhaps help me?\n> Ik vroeg me af of u mij zou kunnen helpen. — I was wondering whether you could help me.\n> Het zou fijn zijn als u mij kon helpen. — It would be nice if you could help me.\n\n`Ik vroeg me af` uses the past to sound modest; after `of` and `als` the verb goes to the end.\n\n### Everyday and formal words\n\n| everyday | formal |\n| maar | echter |\n| ook / al / nu | tevens / reeds / thans |\n| als (if) | indien |\n| over | betreffende, omtrent |\n| krijgen / vragen | ontvangen / verzoeken |\n| zeggen / kopen / helpen | mededelen / aanschaffen / assisteren |\n| omdat / daarom, dus | aangezien / derhalve |\n\n- `echter` is not a conjunction like `maar`: it stands inside the clause, usually after the verb: `Dat is echter niet mogelijk.`\n- `verzoeken` takes `te`, with or without `om`: `Wij verzoeken u (om) dit formulier te ondertekenen.`\n- `mededelen` is separable: `Wij delen u mede dat …` (`meedelen`, `delen … mee` is also correct).\n\nDo not overdo it: an ordinary e-mail to a company with `al`, `ook` and `als` is fine. The formal words belong in official letters.\n\n### Keep out of formal writing\n\n- `hun` as a subject: *Hun hebben gebeld is not standard Dutch at all. Write `Zij hebben gebeld`.\n- spoken forms: `ie` (*heeft ie → `heeft hij`), `d'r` (for `haar` or `er`), `'t`, `'k`, `m'n`, `z'n`.\n- `heel erg`, `super`: write `zeer`.\n- the particles `hoor`, `even`, `toch`: *Kunt u even bellen? → `Kunt u mij bellen?`\n\n### Compared with Ukrainian\n\n`u` is like `ви`, but it takes a singular verb: `u bent`, `u werkt`, where Ukrainian says `ви працюєте`.",
+  "words": [
+    {
+      "nl": "onderhandeling",
+      "art": "de",
+      "pl": "onderhandelingen",
+      "en": "negotiation",
+      "pos": "n"
+    },
+    {
+      "nl": "loonsverhoging",
+      "art": "de",
+      "pl": "loonsverhogingen",
+      "en": "pay rise",
+      "pos": "n"
+    },
+    {
+      "nl": "verzoeken",
+      "past": "verzocht",
+      "perf": "heeft verzocht",
+      "en": "to request (formal)",
+      "pos": "v"
+    },
+    {
+      "nl": "inwilligen",
+      "past": "willigde in",
+      "perf": "heeft ingewilligd",
+      "en": "to grant (a request)",
+      "pos": "v",
+      "tag": "separable"
+    },
+    {
+      "nl": "bezwaarschrift",
+      "art": "het",
+      "pl": "bezwaarschriften",
+      "en": "letter of objection",
+      "pos": "n"
+    },
+    {
+      "nl": "afhandelen",
+      "past": "handelde af",
+      "perf": "heeft afgehandeld",
+      "en": "to deal with / to settle",
+      "pos": "v",
+      "tag": "separable"
+    },
+    {
+      "nl": "excuus",
+      "art": "het",
+      "pl": "excuses",
+      "en": "apology / excuse",
+      "pos": "n"
+    },
+    {
+      "nl": "aanhef",
+      "art": "de",
+      "pl": "aanheffen",
+      "en": "salutation (of a letter)",
+      "pos": "n"
+    },
+    {
+      "nl": "tegemoetkoming",
+      "art": "de",
+      "pl": "tegemoetkomingen",
+      "en": "compensation / allowance",
+      "pos": "n"
+    },
+    {
+      "nl": "ontvangstbevestiging",
+      "art": "de",
+      "pl": "ontvangstbevestigingen",
+      "en": "acknowledgement of receipt",
+      "pos": "n"
+    },
+    {
+      "nl": "betreffende",
+      "en": "concerning / regarding",
+      "pos": "prep",
+      "tag": "formal"
+    },
+    {
+      "nl": "aanspreken",
+      "past": "sprak aan",
+      "perf": "heeft aangesproken",
+      "en": "to address (a person)",
+      "pos": "v",
+      "tag": "separable"
+    },
+    {
+      "nl": "tutoyeren",
+      "past": "tutoyeerde",
+      "perf": "heeft getutoyeerd",
+      "en": "to say je (not u) to someone",
+      "pos": "v"
+    },
+    {
+      "nl": "tegemoetzien",
+      "past": "zag tegemoet",
+      "perf": "heeft tegemoetgezien",
+      "en": "to look forward to (formal)",
+      "pos": "v",
+      "tag": "separable"
+    },
+    {
+      "nl": "zakelijk",
+      "en": "businesslike / professional",
+      "pos": "adj"
+    }
+  ],
+  "sentences": [
+    {
+      "nl": "Zullen we elkaar voortaan tutoyeren?",
+      "en": "Shall we say je to each other from now on?",
+      "hint": [
+        "zullen",
+        "elkaar",
+        "voortaan",
+        "tutoyeren"
+      ],
+      "note": "This is how you propose the switch from u to je. After this question it would be odd to go back to u."
+    },
+    {
+      "nl": "Hebt u de bijlage bij mijn e-mail ontvangen?",
+      "en": "Did you (formal) receive the attachment to my e-mail?",
+      "hint": [
+        "hebben",
+        "bijlage",
+        "e-mail",
+        "ontvangen"
+      ],
+      "note": "With u both hebt and heeft are standard, also after the verb. u keeps its t where je loses it: Heb je …? but Hebt u …?",
+      "alt": [
+        "Heeft u de bijlage bij mijn e-mail ontvangen?",
+        "Hebt u de bijlage bij mijn e-mail gekregen?",
+        "Heeft u de bijlage bij mijn e-mail gekregen?"
+      ]
+    },
+    {
+      "nl": "Naar aanleiding van ons gesprek stuur ik u hierbij mijn voorstel.",
+      "en": "Following our conversation I hereby send you (formal) my proposal.",
+      "hint": [
+        "naar aanleiding van",
+        "gesprek",
+        "sturen",
+        "hierbij",
+        "voorstel"
+      ],
+      "note": "Naar aanleiding van ons gesprek is one long first element, so the verb stuur comes straight after it, then ik.",
+      "alt": [
+        "Hierbij stuur ik u naar aanleiding van ons gesprek mijn voorstel."
+      ]
+    },
+    {
+      "nl": "Zou u mij misschien kunnen vertellen wanneer mijn klacht wordt afgehandeld?",
+      "en": "Could you (formal) perhaps tell me when my complaint will be dealt with?",
+      "hint": [
+        "zullen",
+        "misschien",
+        "kunnen",
+        "vertellen",
+        "klacht",
+        "afhandelen"
+      ],
+      "note": "Zou … kunnen plus misschien makes the question soft. Zou has no t, even with u. In the sub-clause after wanneer the verbs go to the end.",
+      "alt": [
+        "Zou u mij misschien kunnen vertellen wanneer mijn klacht afgehandeld wordt?",
+        "Zou u me misschien kunnen vertellen wanneer mijn klacht wordt afgehandeld?",
+        "Zou u me misschien kunnen vertellen wanneer mijn klacht afgehandeld wordt?"
+      ]
+    },
+    {
+      "nl": "Ik vroeg me af of er ruimte is voor een loonsverhoging.",
+      "en": "I was wondering whether there is room for a pay rise.",
+      "hint": [
+        "zich afvragen",
+        "ruimte",
+        "loonsverhoging"
+      ],
+      "note": "The past vroeg makes the question modest. Of means 'whether' and sends the verb is to the end of its clause.",
+      "alt": [
+        "Ik vroeg mij af of er ruimte is voor een loonsverhoging.",
+        "Ik vroeg me af of er ruimte voor een loonsverhoging is.",
+        "Ik vroeg mij af of er ruimte voor een loonsverhoging is."
+      ]
+    },
+    {
+      "nl": "Indien u het niet eens bent met dit besluit, kunt u een bezwaarschrift indienen.",
+      "en": "If you (formal) do not agree with this decision, you can submit a letter of objection.",
+      "hint": [
+        "indien",
+        "het eens zijn",
+        "besluit",
+        "kunnen",
+        "bezwaarschrift",
+        "indienen"
+      ],
+      "note": "Indien is the formal als. The sub-clause comes first, so the main clause starts with its verb: kunt u.",
+      "alt": [
+        "Indien u het met dit besluit niet eens bent, kunt u een bezwaarschrift indienen.",
+        "Indien u het niet eens bent met dit besluit, kan u een bezwaarschrift indienen.",
+        "Indien u het met dit besluit niet eens bent, kan u een bezwaarschrift indienen."
+      ]
+    },
+    {
+      "nl": "Wij verzoeken u beleefd het formulier voor 1 juni terug te sturen.",
+      "en": "We kindly ask you to return the form before 1 June.",
+      "hint": [
+        "verzoeken",
+        "beleefd",
+        "formulier",
+        "juni",
+        "terugsturen"
+      ],
+      "note": "verzoeken is the formal vragen and takes te + infinitive at the end; te goes between the parts of terugsturen.",
+      "alt": [
+        "Wij verzoeken u beleefd om het formulier voor 1 juni terug te sturen.",
+        "Wij verzoeken u vriendelijk het formulier voor 1 juni terug te sturen.",
+        "Wij verzoeken u vriendelijk om het formulier voor 1 juni terug te sturen.",
+        "Wij verzoeken u beleefd het formulier vóór 1 juni terug te sturen."
+      ]
+    },
+    {
+      "nl": "Ik zie uw reactie met belangstelling tegemoet.",
+      "en": "I look forward to your reply. (formal closing line)",
+      "hint": [
+        "tegemoetzien",
+        "reactie",
+        "belangstelling"
+      ],
+      "note": "The standard last line of a formal letter. tegemoetzien is separable, so tegemoet goes to the end.",
+      "alt": [
+        "Ik zie uw reactie met interesse tegemoet.",
+        "Ik zie uw antwoord met belangstelling tegemoet."
+      ]
+    },
+    {
+      "nl": "Wij bieden u onze excuses aan voor het ongemak.",
+      "en": "We offer you our apologies for the inconvenience.",
+      "hint": [
+        "aanbieden",
+        "excuus",
+        "ongemak"
+      ],
+      "note": "A fixed formal phrase: excuses aanbieden. The phrase with voor may stand after the separated aan or before it.",
+      "alt": [
+        "Wij bieden u onze excuses voor het ongemak aan."
+      ]
+    },
+    {
+      "nl": "In een zakelijke e-mail spreek je een onbekende altijd met u aan.",
+      "en": "In a business e-mail you always address a stranger as u.",
+      "hint": [
+        "zakelijk",
+        "e-mail",
+        "aanspreken",
+        "onbekende",
+        "altijd"
+      ],
+      "note": "Here je means 'people in general', which is fine in a text about rules. aanspreken is separable: aan goes to the end.",
+      "alt": [
+        "Een onbekende spreek je in een zakelijke e-mail altijd met u aan.",
+        "Je spreekt een onbekende in een zakelijke e-mail altijd met u aan."
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "type": "choose",
+      "nl": "Mevrouw, u ___ te laat voor uw afspraak.",
+      "options": [
+        "is",
+        "bent",
+        "zijn"
+      ],
+      "correct": 1,
+      "en": "Madam, you are late for your appointment.",
+      "note": "u takes the same form as jij: u bent. *u is is a common mistake, because u looks like a third person."
+    },
+    {
+      "type": "choose",
+      "nl": "___ u morgen om tien uur tijd voor een gesprek?",
+      "options": [
+        "Is",
+        "Hebben",
+        "Heeft",
+        "Bent"
+      ],
+      "correct": 2,
+      "en": "Do you (formal) have time for a meeting at ten tomorrow?",
+      "note": "Tijd hebben, so a form of hebben, and u is singular: heeft. Hebt u … is just as correct; only the plural hebben is wrong."
+    },
+    {
+      "type": "choose",
+      "nl": "Zou u mij misschien ___ helpen?",
+      "options": [
+        "kunnen",
+        "kunt",
+        "kan"
+      ],
+      "correct": 0,
+      "en": "Could you (formal) perhaps help me?",
+      "note": "zou is the conjugated verb; kunnen goes to the end as an infinitive. Two conjugated verbs in one clause is impossible."
+    },
+    {
+      "type": "choose",
+      "nl": "Ik vroeg me af ___ de onderhandelingen al zijn afgerond.",
+      "options": [
+        "dat",
+        "als",
+        "of"
+      ],
+      "correct": 2,
+      "en": "I was wondering whether the negotiations have been concluded yet.",
+      "note": "'Whether' is of. Als introduces a condition ('if, in case'), not a question, so standard Dutch does not use it after zich afvragen; dat does not fit a question either."
+    },
+    {
+      "type": "choose",
+      "nl": "In een officiële brief aan de gemeente schrijf je in de aanhef: ___ heer, mevrouw.",
+      "options": [
+        "Lieve",
+        "Geachte",
+        "Hoi"
+      ],
+      "correct": 1,
+      "en": "In an official letter to the municipality you write in the salutation: Dear Sir or Madam.",
+      "note": "Geachte is the formal salutation. Lieve is for family and friends, Hoi for a quick message to someone you know."
+    },
+    {
+      "type": "gap",
+      "nl": "Mevrouw, ___ (hebben) u de ontvangstbevestiging al ontvangen?",
+      "answers": [
+        "hebt",
+        "heeft"
+      ],
+      "en": "Madam, have you received the acknowledgement of receipt yet?",
+      "note": "With u both hebt and heeft are standard Dutch. The t stays, also when u follows the verb."
+    },
+    {
+      "type": "gap",
+      "nl": "Wij hebben uw brief ___ (formal: al) ontvangen.",
+      "answers": [
+        "reeds"
+      ],
+      "en": "We have already received your letter.",
+      "note": "reeds is the formal word for al (already). It stands in the same place in the sentence."
+    },
+    {
+      "type": "gap",
+      "nl": "U kunt ons bellen ___ (formal: als) u nog vragen heeft.",
+      "answers": [
+        "indien"
+      ],
+      "en": "You can call us if you have any further questions.",
+      "note": "indien is the formal als in the sense 'if'. Like als, it sends the verb heeft to the end of its clause."
+    },
+    {
+      "type": "gap",
+      "nl": "Wij delen u ___ (formal: mee) dat uw verzoek om een tegemoetkoming is ingewilligd.",
+      "answers": [
+        "mede"
+      ],
+      "en": "We inform you that your request for compensation has been granted.",
+      "note": "mededelen is the formal form of meedelen; in the main clause the particle mede splits off and stands before the dat-clause."
+    },
+    {
+      "type": "order",
+      "lead": "Hierbij",
+      "words": [
+        "maak",
+        "ik",
+        "bezwaar",
+        "tegen het besluit van 12 mei"
+      ],
+      "answers": [
+        "Hierbij maak ik bezwaar tegen het besluit van 12 mei.",
+        "Hierbij maak ik tegen het besluit van 12 mei bezwaar."
+      ],
+      "en": "I hereby object to the decision of 12 May.",
+      "note": "Hierbij is the first element, so the verb maak follows and then ik. Bezwaar maken tegen is the fixed phrase of official objections."
+    },
+    {
+      "type": "order",
+      "lead": "Zou",
+      "words": [
+        "u",
+        "mij",
+        "misschien",
+        "kunnen",
+        "terugbellen"
+      ],
+      "answers": [
+        "Zou u mij misschien kunnen terugbellen?"
+      ],
+      "en": "Could you perhaps call me back?",
+      "note": "A soft request starts with Zou. The short pronoun mij comes right after u, before misschien; the infinitives close the sentence."
+    },
+    {
+      "type": "rewrite",
+      "task": "Make it formal: say u to the reader.",
+      "from": "Kun je me je adres sturen?",
+      "answers": [
+        "Kunt u mij uw adres sturen?",
+        "Kunt u me uw adres sturen?",
+        "Kan u mij uw adres sturen?",
+        "Kan u me uw adres sturen?"
+      ],
+      "en": "Could you send me your address?",
+      "note": "With u the verb keeps its t (kunt u; kan u is also correct), and the possessive je becomes uw. Change every je, not only the first."
+    },
+    {
+      "type": "rewrite",
+      "task": "Make it informal: say je to a colleague.",
+      "from": "Hebt u morgen tijd voor een gesprek?",
+      "answers": [
+        "Heb je morgen tijd voor een gesprek?",
+        "Heb jij morgen tijd voor een gesprek?"
+      ],
+      "en": "Do you have time for a chat tomorrow?",
+      "note": "u keeps the t after the verb, je and jij lose it: heb je, never *hebt je."
+    },
+    {
+      "type": "rewrite",
+      "task": "Make it formal: use betreffende for over, ontvangen for gekregen, and echter for maar.",
+      "from": "Wij hebben uw brief over de factuur gekregen, maar wij kunnen uw verzoek niet inwilligen.",
+      "answers": [
+        "Wij hebben uw brief betreffende de factuur ontvangen; wij kunnen uw verzoek echter niet inwilligen.",
+        "Wij hebben uw brief betreffende de factuur ontvangen; wij kunnen echter uw verzoek niet inwilligen."
+      ],
+      "en": "We have received your letter concerning the invoice; however, we cannot grant your request.",
+      "note": "echter is not a conjunction: it cannot take the place of maar between two clauses. It goes inside the second clause, after the verb kunnen."
+    },
+    {
+      "type": "fix",
+      "wrong": "Hun hebben mijn klacht nog steeds niet afgehandeld.",
+      "answers": [
+        "Zij hebben mijn klacht nog steeds niet afgehandeld."
+      ],
+      "en": "They still have not dealt with my complaint.",
+      "note": "hun is an object form; as a subject it is heard in speech but it is not standard Dutch. The subject is zij or ze."
+    },
+    {
+      "type": "fix",
+      "wrong": "Kunt u mij laten weten of je de bijlage hebt ontvangen?",
+      "answers": [
+        "Kunt u mij laten weten of u de bijlage hebt ontvangen?",
+        "Kunt u mij laten weten of u de bijlage heeft ontvangen?",
+        "Kunt u mij laten weten of u de bijlage ontvangen hebt?",
+        "Kunt u mij laten weten of u de bijlage ontvangen heeft?"
+      ],
+      "en": "Could you let me know whether you have received the attachment?",
+      "note": "The sentence starts with u, so it must stay u: switching to je halfway is the classic register mistake."
+    }
+  ]
+}

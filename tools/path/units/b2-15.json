@@ -1,0 +1,464 @@
+{
+  "id": "b2-15",
+  "level": "B2",
+  "icon": "🔐",
+  "title": "Privacy online",
+  "grammar": "Negation in detail: scope, niet meer, nog geen, nauwelijks",
+  "summary": "niet negates what follows it. al → nog niet, nog → niet meer, al een → nog geen, ooit → nog nooit. One negation per clause: niemand … iets. nauwelijks, amper, zelden never take a second niet.",
+  "explain": "Unit A2 · 7 gave the basics: `geen` for a noun with `een` or without an article, `niet` for the rest. At B2 the questions are what exactly is negated, and how negation combines with `al`, `nog`, `meer` and words like `nauwelijks`.\n\n### What niet negates\n\n`niet` negates what follows it. Its normal place is late in the clause: before the final verbs, a separable prefix, an adjective after `zijn`, and most phrases with a preposition. Put it earlier, directly before one part, and only that part is negated.\n\n> Ik heb niet alle voorwaarden gelezen. — I have not read all the terms (only some).\n> Ik heb alle voorwaarden niet gelezen. — I have not read any of the terms (all of them are unread).\n> Hij logt niet vaak in. — He does not log in often.\n> Hij logt vaak niet in. — He often does not log in.\n\nTo correct one part, use `niet … maar …`; to add one, `niet alleen … maar ook …`.\n\n> Het probleem is niet de app, maar de gebruiker. — The problem is not the app but the user.\n\nAfter `zijn` and `worden` the A2 rule still holds: a noun with `een` takes `geen`; an adjective, or a noun with `de` or `het`, takes `niet`: `Dat is geen goed idee`, `Dat is niet goed`, `Dat is niet het probleem`.\n\n### al, nog and meer\n\n| positive | negative |\n| al (already) | nog niet (not yet) |\n| al een | nog geen |\n| nog (still) | niet meer (no longer) |\n| nog een, nog … | geen … meer |\n| al eens, ooit | nog nooit |\n\n> Ik heb nog geen back-up. — I do not have a backup yet.\n> Ik bewaar geen wachtwoorden meer op papier. — I no longer keep any passwords on paper.\n\nNote that `meer` comes **after** the noun: `geen tijd meer`. Stronger forms: `nog steeds niet` (still not), `nooit meer` (never again), `helemaal niet` (not at all), `absoluut geen`, and `geen enkel` + het-word, `geen enkele` + de-word (not a single): `geen enkel bedrijf`, `geen enkele app`.\n\n### Half-negative words\n\n`nauwelijks` and `amper` (hardly), `bijna niet` (almost not), `zelden` (rarely), `weinig` (little) and `slechts` (only) are negative enough: never add `niet`. After `nauwelijks` and `amper` use `iets`, `iemand`, `ooit`, not niets or niemand; `bijna` takes the negative word itself: `bijna niets`, `bijna niemand`. `hoeven` also goes with them (unit B2 · 14).\n\n> Ik heb nauwelijks iets gemerkt. — I hardly noticed anything.\n> Je hoeft amper iets in te vullen. — You hardly have to fill anything in.\n\n### One negation per clause\n\nAfter one negative word the rest of the clause uses the positive forms `iets`, `iemand`, `ooit`, `ergens`.\n\n> Niemand heeft iets gemerkt. — Nobody noticed anything.\n> Ik heb nooit iemand mijn pincode gegeven. — I have never given anyone my PIN.\n\nTwo negative words together cancel each other out and make a careful positive: `niet onaardig` (quite nice), `niet zonder risico` (somewhat risky), `niet onmogelijk` (possible, though hard).\n\n### Words that need a negation\n\nSome words only work in a negative sentence, a question, or after `als` or `zonder (dat)`: `ook maar iets` (anything at all), `ook maar één`, `hoeven`, and `meer` in the sense 'any more'.\n\n> Niemand heeft ook maar één klacht ingediend. — Nobody made even a single complaint.\n\n### Answering a negative question\n\nTo a question with `niet` or `geen`, `nee` agrees with the negation. To contradict it, say `jawel` or `toch wel`, not a plain `ja`.\n\n> Heb je geen virusscanner? Jawel, die heb ik wel. — Don't you have a virus scanner? Yes, I do.\n\n### Watch out\n\n- *Niemand heeft niets gezien → `Niemand heeft iets gezien`.\n- *Ik heb nauwelijks niet geslapen → `Ik heb nauwelijks geslapen`.\n- *Ik heb geen meer tijd → `Ik heb geen tijd meer`.\n- *Het systeem is geen veilig → `Het systeem is niet veilig`: an adjective takes `niet`.\n- `niet vaak` and `vaak niet` are not the same.\n\n### Compared with Ukrainian\n\nUkrainian stacks negations: `Ніхто нічого не бачив`. Dutch allows one: `Niemand heeft iets gezien`. Every extra negative word in Dutch counts, and two of them cancel out.",
+  "words": [
+    {
+      "nl": "persoonsgegevens",
+      "art": "de",
+      "pl": "",
+      "en": "personal data",
+      "pos": "n",
+      "tag": "always plural"
+    },
+    {
+      "nl": "toestemming",
+      "art": "de",
+      "pl": "",
+      "en": "consent / permission",
+      "pos": "n",
+      "tag": "no plural"
+    },
+    {
+      "nl": "beveiliging",
+      "art": "de",
+      "pl": "beveiligingen",
+      "en": "security / protection",
+      "pos": "n"
+    },
+    {
+      "nl": "datalek",
+      "art": "het",
+      "pl": "datalekken",
+      "en": "data breach",
+      "pos": "n"
+    },
+    {
+      "nl": "inbreuk",
+      "art": "de",
+      "pl": "inbreuken",
+      "en": "breach / infringement",
+      "pos": "n"
+    },
+    {
+      "nl": "misbruik",
+      "art": "het",
+      "pl": "",
+      "en": "misuse / abuse",
+      "pos": "n",
+      "tag": "no plural"
+    },
+    {
+      "nl": "dienstverlener",
+      "art": "de",
+      "pl": "dienstverleners",
+      "en": "service provider",
+      "pos": "n"
+    },
+    {
+      "nl": "toezichthouder",
+      "art": "de",
+      "pl": "toezichthouders",
+      "en": "regulator / supervisory body",
+      "pos": "n"
+    },
+    {
+      "nl": "tweestapsverificatie",
+      "art": "de",
+      "pl": "",
+      "en": "two-step verification",
+      "pos": "n",
+      "tag": "no plural"
+    },
+    {
+      "nl": "inzage",
+      "art": "de",
+      "pl": "",
+      "en": "access (to see a file) / inspection",
+      "pos": "n",
+      "tag": "no plural"
+    },
+    {
+      "nl": "versleutelen",
+      "past": "versleutelde",
+      "perf": "heeft versleuteld",
+      "en": "to encrypt",
+      "pos": "v"
+    },
+    {
+      "nl": "gebruiker",
+      "art": "de",
+      "pl": "gebruikers",
+      "en": "user",
+      "pos": "n"
+    },
+    {
+      "nl": "traceren",
+      "past": "traceerde",
+      "perf": "heeft getraceerd",
+      "en": "to trace / to track down",
+      "pos": "v"
+    },
+    {
+      "nl": "openbaar",
+      "en": "public",
+      "pos": "adj"
+    },
+    {
+      "nl": "vertrouwelijk",
+      "en": "confidential",
+      "pos": "adj"
+    },
+    {
+      "nl": "kwetsbaar",
+      "en": "vulnerable",
+      "pos": "adj"
+    }
+  ],
+  "sentences": [
+    {
+      "nl": "Ik heb niet alle voorwaarden gelezen, alleen de eerste pagina.",
+      "en": "I have not read all the terms, only the first page.",
+      "hint": [
+        "niet",
+        "alle",
+        "voorwaarde",
+        "lezen",
+        "alleen",
+        "pagina"
+      ],
+      "note": "Niet stands directly before alle voorwaarden, so it negates 'all': I read some of them. Alle voorwaarden niet would mean that I read none.",
+      "alt": [
+        "Ik heb niet alle voorwaarden gelezen, maar alleen de eerste pagina."
+      ]
+    },
+    {
+      "nl": "De meeste gebruikers veranderen hun wachtwoord niet vaak.",
+      "en": "Most users do not change their password often.",
+      "hint": [
+        "meeste",
+        "gebruiker",
+        "veranderen",
+        "wachtwoord",
+        "vaak"
+      ],
+      "note": "Niet vaak: it happens rarely. Vaak niet would mean something else: often they do not change it (when they should).",
+      "alt": [
+        "De meeste gebruikers wijzigen hun wachtwoord niet vaak."
+      ]
+    },
+    {
+      "nl": "Niemand heeft ons ook maar iets over het datalek verteld.",
+      "en": "Nobody told us anything at all about the data breach.",
+      "hint": [
+        "niemand",
+        "ook maar iets",
+        "datalek",
+        "vertellen"
+      ],
+      "note": "Niemand is the one negation of the clause, so the rest is positive: iets, not niets. Ook maar strengthens it and only works with a negation.",
+      "alt": [
+        "Niemand heeft ons ook maar iets verteld over het datalek.",
+        "Niemand vertelde ons ook maar iets over het datalek."
+      ]
+    },
+    {
+      "nl": "Voor deze app hoef je nauwelijks persoonsgegevens in te vullen.",
+      "en": "For this app you hardly have to enter any personal data.",
+      "hint": [
+        "app",
+        "hoeven",
+        "nauwelijks",
+        "persoonsgegevens",
+        "invullen"
+      ],
+      "note": "Nauwelijks is enough negation for hoeven; adding niet would be wrong. English 'any' has no Dutch word here.",
+      "alt": [
+        "Je hoeft voor deze app nauwelijks persoonsgegevens in te vullen."
+      ]
+    },
+    {
+      "nl": "Ik heb die dienstverlener nooit toestemming gegeven om mijn gegevens te delen.",
+      "en": "I never gave that service provider permission to share my data.",
+      "hint": [
+        "dienstverlener",
+        "nooit",
+        "toestemming",
+        "geven",
+        "gegevens",
+        "delen"
+      ],
+      "note": "Nooit is the one negation of the clause, so toestemming stays without geen: nooit geen toestemming would be a second negation.",
+      "alt": [
+        "Ik gaf die dienstverlener nooit toestemming om mijn gegevens te delen."
+      ]
+    },
+    {
+      "nl": "Het bedrijf gebruikt nog steeds geen tweestapsverificatie.",
+      "en": "The company still does not use two-step verification.",
+      "hint": [
+        "bedrijf",
+        "gebruiken",
+        "nog steeds",
+        "tweestapsverificatie"
+      ],
+      "note": "A noun without an article takes geen; nog steeds before it means 'still not', after a long time.",
+      "alt": [
+        "Het bedrijf gebruikt nog altijd geen tweestapsverificatie."
+      ]
+    },
+    {
+      "nl": "Na het datalek gebruik ik die webwinkel niet meer.",
+      "en": "After the data breach I no longer use that online shop.",
+      "hint": [
+        "datalek",
+        "gebruiken",
+        "webwinkel",
+        "niet meer"
+      ],
+      "note": "The negative of nog (still) is niet meer, with niet first. It goes at the end because there is no final verb.",
+      "alt": [
+        "Ik gebruik die webwinkel na het datalek niet meer."
+      ]
+    },
+    {
+      "nl": "Dat is geen veilige manier om wachtwoorden te bewaren.",
+      "en": "That is not a safe way to store passwords.",
+      "hint": [
+        "veilig",
+        "manier",
+        "wachtwoord",
+        "bewaren"
+      ],
+      "note": "After zijn a noun with een takes geen: een veilige manier becomes geen veilige manier. Niet would only fit an adjective alone: dat is niet veilig.",
+      "alt": [
+        "Dat is geen veilige manier om wachtwoorden op te slaan."
+      ]
+    },
+    {
+      "nl": "Een openbaar wifinetwerk gebruiken is niet zonder risico.",
+      "en": "Using a public wifi network is not without risk.",
+      "hint": [
+        "openbaar",
+        "wifinetwerk",
+        "gebruiken",
+        "zonder",
+        "risico"
+      ],
+      "note": "Niet + zonder: two negatives cancel out and give a careful positive: there is a real risk. Openbaar has no -e after een before a het-word.",
+      "alt": [
+        "Het gebruik van een openbaar wifinetwerk is niet zonder risico."
+      ]
+    },
+    {
+      "nl": "Heb je nog nooit een verdachte e-mail gekregen?",
+      "en": "Have you never had a suspicious e-mail?",
+      "hint": [
+        "nog nooit",
+        "verdacht",
+        "e-mail",
+        "krijgen"
+      ],
+      "note": "Nog nooit means 'never so far', the negative of ooit or al eens. Nooit is the negation, so een stays een.",
+      "alt": [
+        "Heb jij nog nooit een verdachte e-mail gekregen?",
+        "Heb je nog nooit een verdachte e-mail ontvangen?",
+        "Heb jij nog nooit een verdachte e-mail ontvangen?",
+        "Heb je nooit een verdachte e-mail gekregen?",
+        "Heb jij nooit een verdachte e-mail gekregen?",
+        "Heb je nooit een verdachte e-mail ontvangen?",
+        "Heb jij nooit een verdachte e-mail ontvangen?"
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "type": "choose",
+      "nl": "Vertrouwelijke bestanden mailen zonder ze te versleutelen is ___ goed idee.",
+      "options": [
+        "niet",
+        "geen",
+        "niets"
+      ],
+      "correct": 1,
+      "en": "E-mailing confidential files without encrypting them is not a good idea.",
+      "note": "After zijn, a noun with een is negated with geen: een goed idee becomes geen goed idee."
+    },
+    {
+      "type": "choose",
+      "nl": "Na de update is het systeem ___ kwetsbaar.",
+      "options": [
+        "geen",
+        "geen meer",
+        "niet meer"
+      ],
+      "correct": 2,
+      "en": "After the update the system is no longer vulnerable.",
+      "note": "Kwetsbaar is an adjective, so niet; 'no longer' is niet meer. Geen is only for nouns."
+    },
+    {
+      "type": "choose",
+      "nl": "Ik heb nauwelijks ___ van de update gemerkt.",
+      "options": [
+        "niets",
+        "iets",
+        "niks"
+      ],
+      "correct": 1,
+      "en": "I hardly noticed anything of the update.",
+      "note": "Nauwelijks is already negative, so the rest of the clause uses the positive iets. Niets and niks would be a second negation."
+    },
+    {
+      "type": "choose",
+      "nl": "Heb je geen extra beveiliging op je account? ___, ik gebruik tweestapsverificatie.",
+      "options": [
+        "Nee",
+        "Jawel",
+        "Geen"
+      ],
+      "correct": 1,
+      "en": "Don't you have extra security on your account? Yes, I do: I use two-step verification.",
+      "note": "To contradict a negative question, Dutch says jawel. Nee would agree with the question: no, I don't have any."
+    },
+    {
+      "type": "gap",
+      "nl": "Kan de politie de hacker al traceren? Nee, ze kunnen hem ___ traceren.",
+      "answers": [
+        "nog niet"
+      ],
+      "en": "Can the police trace the hacker yet? No, they cannot trace him yet.",
+      "note": "The negative of al (already) is nog niet (not yet). Niet alone would lose the meaning 'yet'."
+    },
+    {
+      "type": "gap",
+      "nl": "Heb je nog een back-up van die foto's? Nee, ik heb ___ back-up meer.",
+      "answers": [
+        "geen"
+      ],
+      "en": "Do you still have a backup of those photos? No, I no longer have a backup.",
+      "note": "Nog een becomes geen … meer: geen before the noun, meer after it."
+    },
+    {
+      "type": "gap",
+      "nl": "Er is ___ enkele aanwijzing voor misbruik van je gegevens.",
+      "answers": [
+        "geen"
+      ],
+      "en": "There is no indication at all of misuse of your data.",
+      "note": "Geen enkel(e) means 'not a single'. Aanwijzing is a de-word, so enkele with an e."
+    },
+    {
+      "type": "gap",
+      "nl": "Zonder dat ik ook maar ___ had aangeklikt, was mijn account gehackt.",
+      "answers": [
+        "iets"
+      ],
+      "en": "Without my having clicked on anything at all, my account had been hacked.",
+      "note": "Ook maar iets is used after zonder (dat), negations and in questions. Zonder is the negative part, so iets, not niets."
+    },
+    {
+      "type": "order",
+      "lead": "Ik heb",
+      "words": [
+        "niet",
+        "alle cookies",
+        "geaccepteerd,",
+        "alleen de noodzakelijke"
+      ],
+      "answers": [
+        "Ik heb niet alle cookies geaccepteerd, alleen de noodzakelijke."
+      ],
+      "en": "I did not accept all the cookies, only the necessary ones.",
+      "note": "Niet goes directly before alle cookies because only 'all' is negated: some were accepted. Alle cookies niet would mean none were."
+    },
+    {
+      "type": "order",
+      "lead": "De app verzamelt",
+      "words": [
+        "niet alleen",
+        "je locatie,",
+        "maar ook",
+        "je contacten"
+      ],
+      "answers": [
+        "De app verzamelt niet alleen je locatie, maar ook je contacten."
+      ],
+      "en": "The app collects not only your location but also your contacts.",
+      "note": "Niet alleen stands directly before the first thing, maar ook before the second, in the order of the English."
+    },
+    {
+      "type": "order",
+      "lead": "Gelukkig heeft",
+      "words": [
+        "niemand",
+        "iets",
+        "van het datalek",
+        "gemerkt"
+      ],
+      "answers": [
+        "Gelukkig heeft niemand iets van het datalek gemerkt.",
+        "Gelukkig heeft niemand van het datalek iets gemerkt."
+      ],
+      "en": "Fortunately nobody noticed anything of the data breach.",
+      "note": "Niemand is the only negation; the object is the positive iets. Iets may stand before or after van het datalek."
+    },
+    {
+      "type": "rewrite",
+      "task": "Make it negative: you have not had it so far.",
+      "from": "Ik heb al inzage gekregen in mijn dossier.",
+      "answers": [
+        "Ik heb nog geen inzage gekregen in mijn dossier.",
+        "Ik heb nog geen inzage in mijn dossier gekregen."
+      ],
+      "en": "I have not yet been given access to my file.",
+      "note": "A noun without an article takes geen, and al becomes nog: al inzage becomes nog geen inzage."
+    },
+    {
+      "type": "rewrite",
+      "task": "Use nauwelijks instead of bijna niets.",
+      "from": "Ik heb bijna niets over het datalek gelezen.",
+      "answers": [
+        "Ik heb nauwelijks iets over het datalek gelezen."
+      ],
+      "en": "I have hardly read anything about the data breach.",
+      "note": "Nauwelijks is the negative part, so niets becomes the positive iets: nauwelijks iets."
+    },
+    {
+      "type": "rewrite",
+      "task": "Answer with Nee and a full sentence with nooit.",
+      "from": "Heb je ooit iemand je wachtwoord gegeven?",
+      "answers": [
+        "Nee, ik heb nooit iemand mijn wachtwoord gegeven.",
+        "Nee, ik heb nog nooit iemand mijn wachtwoord gegeven."
+      ],
+      "en": "No, I have never given anyone my password.",
+      "note": "Ooit becomes nooit, but iemand stays iemand: one negation per clause. Je wachtwoord becomes mijn wachtwoord in the answer."
+    },
+    {
+      "type": "fix",
+      "wrong": "Niemand had niets gemerkt van de inbreuk op het systeem.",
+      "answers": [
+        "Niemand had iets gemerkt van de inbreuk op het systeem.",
+        "Niemand had iets van de inbreuk op het systeem gemerkt."
+      ],
+      "en": "Nobody had noticed anything of the breach of the system.",
+      "note": "Dutch allows one negation per clause. After niemand the object is iets; niemand … niets would cancel out."
+    },
+    {
+      "type": "fix",
+      "wrong": "De toezichthouder heeft nauwelijks niet gereageerd op de klachten.",
+      "answers": [
+        "De toezichthouder heeft nauwelijks gereageerd op de klachten.",
+        "De toezichthouder heeft bijna niet gereageerd op de klachten.",
+        "De toezichthouder heeft nauwelijks op de klachten gereageerd.",
+        "De toezichthouder heeft amper gereageerd op de klachten."
+      ],
+      "en": "The regulator has hardly responded to the complaints.",
+      "note": "Nauwelijks is already negative; it never takes a second niet."
+    }
+  ]
+}

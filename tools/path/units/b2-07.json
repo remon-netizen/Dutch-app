@@ -1,0 +1,467 @@
+{
+  "id": "b2-07",
+  "level": "B2",
+  "icon": "🗣️",
+  "title": "Making your case",
+  "grammar": "Signal words: echter, bovendien, daarentegen, kortom, namelijk",
+  "summary": "Signal words show the link between sentences. Most cause inversion when first (Bovendien is het duur). Echter, namelijk, immers, dan ook prefer the middle; namelijk is never first. Kortom takes a comma. Vandaar dat: verb last.",
+  "explain": "In an argued text, an essay or a debate, small words show how one sentence relates to the next: a new point, a contrast, a reason, a conclusion. Dutch calls them signal words (*signaalwoorden*). Choosing the right one is half the work; the other half is putting it in the right place, because most of them affect word order.\n\n### What they do\n\n- **listing**: `ten eerste`, `ten tweede`, `bovendien`, `daarnaast`, `verder`, `ten slotte`\n- **contrast**: `echter`, `daarentegen`, `toch`, `desondanks`, `niettemin`, `integendeel`, `enerzijds … anderzijds`\n- **reason**: `namelijk` (you see: new information), `immers` (after all: the reader knows it), `want`\n- **consequence**: `daarom`, `dan ook`, `vandaar dat`, `dus`, `daardoor`, `hierdoor`, `als gevolg daarvan`\n- **example**: `bijvoorbeeld`, `zo`, `zoals`\n- **conclusion**: `kortom`, `al met al`, `concluderend`, `samenvattend`\n- **concession**: `weliswaar … maar`, `toegegeven`\n\n`daardoor` and `hierdoor` give a cause (as a result of this); `daarom` gives a reason for a decision (that is why).\n\n### 1. First place: the verb follows directly\n\nMost signal words are adverbs. When one stands first, it fills the first place, so the conjugated verb comes next and then the subject.\n\n> Bovendien hebben de tegenstanders hun bewering nooit onderbouwd. — Moreover, the opponents have never substantiated their claim.\n> Enerzijds begrijp ik de voorstanders, anderzijds vind ik hun argumenten zwak. — On the one hand I understand the supporters, on the other I find their arguments weak.\n\nThis goes for the listing words, `toch`, `desondanks`, `niettemin`, `daarom`, `daardoor`, `hierdoor`, `al met al`, `concluderend`, `samenvattend` and `zo` (for example): `Zo is het openbaar vervoer veel duurder geworden.` After `dus` both orders are used: `Dus is het plan te duur` (written) and `Dus het plan is te duur` (spoken).\n\n### 2. Separate, with a comma: normal order\n\n`kortom`, `toegegeven` and `integendeel` stand apart, followed by a comma and a sentence with its own normal order.\n\n> Kortom, de tegenstanders hebben geen enkel overtuigend argument. — In short, the opponents do not have a single convincing argument.\n\n### 3. In the middle\n\n`echter`, `namelijk`, `immers` and `dan ook` usually stand **after the conjugated verb**, in the middle of the sentence. `namelijk` and `dan ook` never start a sentence. `echter` at the start (`Echter is …`) is possible but sounds stiff. `echter` and `daarentegen` may also follow a subject in first place: `De tegenstanders daarentegen vinden …`.\n\n> Dat argument is echter niet overtuigend. — That argument, however, is not convincing.\n> Wij zijn tegen dit plan; het is namelijk niet eerlijk tegenover jongeren. — We are against this plan; you see, it is not fair to young people.\n\n`weliswaar` also stands in the middle, and `maar` follows: `Het plan is weliswaar duur, maar het levert veel op.`\n\n### 4. Words with their own clause\n\n`want` joins two main clauses: normal order after it. `vandaar dat` (that is why) is followed by a sub-clause, so the verb goes to the end. `zoals` is followed by a noun or a sub-clause.\n\n> Vandaar dat steeds meer politici dit standpunt steunen. — That is why more and more politicians support this position.\n\n### Watch out\n\n- **namelijk is never first**: `Hij is namelijk ziek`, not *Namelijk is hij ziek. To join the reason to the sentence before, use `want`: `…, want hij is ziek`.\n- **Verb after the adverb**: `Bovendien is het duur`, not *Bovendien het is duur.\n- **vandaar dat + verb at the end**: `Vandaar dat het plan is afgewezen`, not *Vandaar dat is het plan afgewezen.\n- **want + normal order**: `want het is duur`, not *want is het duur.\n- **echter is not maar**: it does not join two clauses. `Het is goedkoop, maar het werkt niet`, or `… Het werkt echter niet.`\n\n### Compared with Ukrainian\n\nUkrainian `однак`, `крім того` or `тому` can stand first without changing anything in the sentence. In Dutch an adverb in first place always pulls the verb in front of the subject.",
+  "words": [
+    {
+      "nl": "standpunt",
+      "art": "het",
+      "pl": "standpunten",
+      "en": "position / point of view",
+      "pos": "n"
+    },
+    {
+      "nl": "stelling",
+      "art": "de",
+      "pl": "stellingen",
+      "en": "proposition / statement (to debate)",
+      "pos": "n"
+    },
+    {
+      "nl": "betoog",
+      "art": "het",
+      "pl": "betogen",
+      "en": "argument (a reasoned text or speech)",
+      "pos": "n"
+    },
+    {
+      "nl": "tegenstander",
+      "art": "de",
+      "pl": "tegenstanders",
+      "en": "opponent",
+      "pos": "n"
+    },
+    {
+      "nl": "voorstander",
+      "art": "de",
+      "pl": "voorstanders",
+      "en": "supporter / advocate",
+      "pos": "n"
+    },
+    {
+      "nl": "bewering",
+      "art": "de",
+      "pl": "beweringen",
+      "en": "claim / assertion",
+      "pos": "n"
+    },
+    {
+      "nl": "tegenargument",
+      "art": "het",
+      "pl": "tegenargumenten",
+      "en": "counter-argument",
+      "pos": "n"
+    },
+    {
+      "nl": "conclusie",
+      "art": "de",
+      "pl": "conclusies",
+      "en": "conclusion",
+      "pos": "n"
+    },
+    {
+      "nl": "invalshoek",
+      "art": "de",
+      "pl": "invalshoeken",
+      "en": "angle / perspective",
+      "pos": "n"
+    },
+    {
+      "nl": "overtuigen",
+      "past": "overtuigde",
+      "perf": "heeft overtuigd",
+      "en": "to convince / to persuade",
+      "pos": "v"
+    },
+    {
+      "nl": "weerleggen",
+      "past": "weerlegde",
+      "perf": "heeft weerlegd",
+      "en": "to refute",
+      "pos": "v"
+    },
+    {
+      "nl": "beweren",
+      "past": "beweerde",
+      "perf": "heeft beweerd",
+      "en": "to claim / to assert",
+      "pos": "v"
+    },
+    {
+      "nl": "benadrukken",
+      "past": "benadrukte",
+      "perf": "heeft benadrukt",
+      "en": "to emphasise",
+      "pos": "v"
+    },
+    {
+      "nl": "pleiten voor",
+      "past": "pleitte",
+      "perf": "heeft gepleit",
+      "en": "to argue for / to advocate",
+      "pos": "v"
+    },
+    {
+      "nl": "onderbouwen",
+      "past": "onderbouwde",
+      "perf": "heeft onderbouwd",
+      "en": "to substantiate / to back up",
+      "pos": "v"
+    },
+    {
+      "nl": "overtuigend",
+      "en": "convincing",
+      "pos": "adj"
+    }
+  ],
+  "sentences": [
+    {
+      "nl": "Ten eerste is het plan te duur, en ten tweede is het niet eerlijk.",
+      "en": "Firstly, the plan is too expensive, and secondly, it is not fair.",
+      "hint": [
+        "ten eerste",
+        "plan",
+        "duur",
+        "ten tweede",
+        "eerlijk"
+      ],
+      "note": "Ten eerste and ten tweede fill the first place of their clause, so the verb is comes straight after them, before the subject."
+    },
+    {
+      "nl": "Bovendien hebben de tegenstanders hun bewering nooit onderbouwd.",
+      "en": "Moreover, the opponents have never substantiated their claim.",
+      "hint": [
+        "bovendien",
+        "tegenstander",
+        "bewering",
+        "nooit",
+        "onderbouwen"
+      ],
+      "note": "Bovendien adds a point. In first place it causes inversion: hebben de tegenstanders. It may also stand in the middle.",
+      "alt": [
+        "De tegenstanders hebben bovendien hun bewering nooit onderbouwd.",
+        "De tegenstanders hebben hun bewering bovendien nooit onderbouwd."
+      ]
+    },
+    {
+      "nl": "Dat argument is echter niet overtuigend.",
+      "en": "That argument, however, is not convincing.",
+      "hint": [
+        "argument",
+        "echter",
+        "overtuigend"
+      ],
+      "note": "echter (however) prefers the place right after the conjugated verb. Unlike maar it does not join two clauses.",
+      "alt": [
+        "Echter is dat argument niet overtuigend.",
+        "Dat argument echter is niet overtuigend."
+      ]
+    },
+    {
+      "nl": "Wij zijn tegen dit plan; het is namelijk niet eerlijk tegenover jongeren.",
+      "en": "We are against this plan; you see, it is not fair to young people.",
+      "hint": [
+        "tegen",
+        "plan",
+        "namelijk",
+        "eerlijk",
+        "jongere"
+      ],
+      "note": "namelijk explains the sentence before it. It stands after the verb and never at the start: not Namelijk is het …",
+      "alt": [
+        "Wij zijn tegen dit plan; het is namelijk niet eerlijk voor jongeren.",
+        "Wij zijn tegen dit plan, want het is niet eerlijk tegenover jongeren."
+      ]
+    },
+    {
+      "nl": "De cijfers kloppen niet; ik ben het dan ook niet eens met deze conclusie.",
+      "en": "The figures are not right; I therefore do not agree with this conclusion.",
+      "hint": [
+        "cijfer",
+        "kloppen",
+        "dan ook",
+        "het eens zijn",
+        "conclusie"
+      ],
+      "note": "dan ook (therefore, so) draws a consequence and stands in the middle, after the verb; it never starts the sentence.",
+      "alt": [
+        "De cijfers kloppen niet; ik ben het dan ook niet met deze conclusie eens.",
+        "De cijfers kloppen niet; daarom ben ik het niet eens met deze conclusie.",
+        "De cijfers kloppen niet; daarom ben ik het niet met deze conclusie eens.",
+        "De cijfers kloppen niet; ik ben het daarom niet eens met deze conclusie.",
+        "De cijfers kloppen niet; ik ben het daarom niet met deze conclusie eens."
+      ]
+    },
+    {
+      "nl": "Vandaar dat steeds meer politici dit standpunt steunen.",
+      "en": "That is why more and more politicians support this position.",
+      "hint": [
+        "vandaar dat",
+        "steeds meer",
+        "politicus",
+        "standpunt",
+        "steunen"
+      ],
+      "note": "vandaar dat introduces a sub-clause: the verb steunen goes to the end. With daarom you would get inversion: Daarom steunen steeds meer politici …",
+      "alt": [
+        "Daarom steunen steeds meer politici dit standpunt."
+      ]
+    },
+    {
+      "nl": "Het plan is weliswaar duur, maar het levert op lange termijn veel op.",
+      "en": "The plan is admittedly expensive, but in the long run it yields a lot.",
+      "hint": [
+        "plan",
+        "weliswaar",
+        "duur",
+        "maar",
+        "op lange termijn",
+        "opleveren"
+      ],
+      "note": "weliswaar … maar: first you grant a point, then maar brings the real argument. Weliswaar stands in the middle, after is.",
+      "alt": [
+        "Weliswaar is het plan duur, maar het levert op lange termijn veel op.",
+        "Het plan is weliswaar duur, maar op lange termijn levert het veel op.",
+        "Weliswaar is het plan duur, maar op lange termijn levert het veel op."
+      ]
+    },
+    {
+      "nl": "Enerzijds begrijp ik de voorstanders, anderzijds vind ik hun argumenten niet overtuigend.",
+      "en": "On the one hand I understand the supporters, on the other hand I do not find their arguments convincing.",
+      "hint": [
+        "enerzijds",
+        "begrijpen",
+        "voorstander",
+        "anderzijds",
+        "argument",
+        "overtuigend"
+      ],
+      "note": "enerzijds and anderzijds each fill the first place of their clause, so both are followed by the verb: begrijp ik, vind ik."
+    },
+    {
+      "nl": "Kortom, de tegenstanders hebben geen enkel overtuigend argument.",
+      "en": "In short, the opponents do not have a single convincing argument.",
+      "hint": [
+        "kortom",
+        "tegenstander",
+        "geen enkel",
+        "overtuigend",
+        "argument"
+      ],
+      "note": "kortom stands apart with a comma, and the sentence after it keeps normal order: de tegenstanders hebben."
+    },
+    {
+      "nl": "Desondanks bleef de spreker bij zijn standpunt.",
+      "en": "Despite this, the speaker stuck to his position.",
+      "hint": [
+        "desondanks",
+        "blijven bij",
+        "spreker",
+        "standpunt"
+      ],
+      "note": "desondanks (despite this) is an adverb; in first place it is followed by the verb bleef and then the subject.",
+      "alt": [
+        "De spreker bleef desondanks bij zijn standpunt.",
+        "Ondanks dat bleef de spreker bij zijn standpunt.",
+        "Toch bleef de spreker bij zijn standpunt."
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "type": "choose",
+      "nl": "De minister beweert dat het plan goedkoop is. ___ zou het veel banen opleveren.",
+      "options": [
+        "Daarentegen",
+        "Bovendien",
+        "Kortom",
+        "Desondanks"
+      ],
+      "correct": 1,
+      "en": "The minister claims that the plan is cheap. Moreover, it would create a lot of jobs.",
+      "note": "A second point in favour is added: bovendien. Daarentegen and desondanks would announce a contrast, kortom a conclusion."
+    },
+    {
+      "type": "choose",
+      "nl": "De voorstanders pleiten voor het plan. De tegenstanders ___ vinden het onrechtvaardig.",
+      "options": [
+        "bovendien",
+        "namelijk",
+        "daarentegen",
+        "dus"
+      ],
+      "correct": 2,
+      "en": "The supporters argue for the plan. The opponents, on the other hand, find it unfair.",
+      "note": "A contrast between two groups: daarentegen. It is one of the few signal words that may follow a subject in first place."
+    },
+    {
+      "type": "choose",
+      "nl": "Ik stem tegen het voorstel. ___",
+      "options": [
+        "Namelijk ben ik niet overtuigd.",
+        "Ik namelijk ben niet overtuigd.",
+        "Ik ben namelijk niet overtuigd."
+      ],
+      "correct": 2,
+      "en": "I am voting against the proposal. You see, I am not convinced.",
+      "note": "namelijk never starts the sentence and does not stand between subject and verb: it comes after the conjugated verb, ben."
+    },
+    {
+      "type": "choose",
+      "nl": "Het plan gaat niet door, ___ de regering heeft geen geld.",
+      "options": [
+        "want",
+        "daarom",
+        "vandaar dat"
+      ],
+      "correct": 0,
+      "en": "The plan is not going ahead, because the government has no money.",
+      "note": "want gives a reason and is followed by normal order: de regering heeft. Daarom would need inversion (daarom heeft de regering), and vandaar dat a sub-clause; both would also turn the meaning round."
+    },
+    {
+      "type": "gap",
+      "nl": "___ (in short), we moeten het probleem vanuit een andere invalshoek bekijken.",
+      "answers": [
+        "Kortom"
+      ],
+      "en": "In short, we have to look at the problem from a different angle.",
+      "note": "kortom introduces a conclusion and takes a comma; the sentence after it keeps normal order: we moeten."
+    },
+    {
+      "type": "gap",
+      "nl": "Zijn betoog was goed opgebouwd. ___ (nevertheless) wist hij de zaal niet te overtuigen.",
+      "answers": [
+        "Desondanks",
+        "Niettemin",
+        "Toch"
+      ],
+      "en": "His argument was well structured. Nevertheless he did not manage to convince the audience.",
+      "note": "A contrast with what came before: desondanks, niettemin or toch. All three are adverbs, so the verb wist follows directly."
+    },
+    {
+      "type": "gap",
+      "nl": "Wij steunen deze stelling; de feiten spreken ___ (after all) voor zich.",
+      "answers": [
+        "immers"
+      ],
+      "en": "We support this proposition; after all, the facts speak for themselves.",
+      "note": "immers gives a reason the reader already knows or accepts, and stands after the verb. Namelijk is for a reason that is new to the reader."
+    },
+    {
+      "type": "order",
+      "lead": "Bovendien",
+      "words": [
+        "heeft",
+        "de minister",
+        "het tegenargument",
+        "nooit",
+        "weerlegd"
+      ],
+      "answers": [
+        "Bovendien heeft de minister het tegenargument nooit weerlegd.",
+        "Bovendien heeft de minister nooit het tegenargument weerlegd."
+      ],
+      "en": "Moreover, the minister has never refuted the counter-argument.",
+      "note": "Bovendien takes the first place, so heeft comes second, before the subject. The participle weerlegd closes the sentence."
+    },
+    {
+      "type": "order",
+      "lead": "Vandaar dat",
+      "words": [
+        "de voorstanders",
+        "hun betoog",
+        "hebben",
+        "aangepast"
+      ],
+      "answers": [
+        "Vandaar dat de voorstanders hun betoog hebben aangepast.",
+        "Vandaar dat de voorstanders hun betoog aangepast hebben."
+      ],
+      "en": "That is why the supporters have adjusted their argument.",
+      "note": "vandaar dat is followed by a sub-clause, so the subject comes first and the verbs go to the end, in either order."
+    },
+    {
+      "type": "order",
+      "lead": "Het voorstel",
+      "words": [
+        "is",
+        "weliswaar",
+        "duur",
+        "maar",
+        "het",
+        "levert",
+        "veel",
+        "op"
+      ],
+      "answers": [
+        "Het voorstel is weliswaar duur, maar het levert veel op."
+      ],
+      "en": "The proposal is admittedly expensive, but it yields a lot.",
+      "note": "weliswaar stands after the verb is; maar then joins a main clause with normal order: het levert … op."
+    },
+    {
+      "type": "rewrite",
+      "task": "Replace want by namelijk, in a second sentence.",
+      "from": "Ik ben tegen het plan, want het is niet eerlijk.",
+      "answers": [
+        "Ik ben tegen het plan. Het is namelijk niet eerlijk."
+      ],
+      "en": "I am against the plan. You see, it is not fair.",
+      "note": "namelijk cannot join two clauses as want does, and it cannot start a sentence. It goes after the verb: het is namelijk."
+    },
+    {
+      "type": "rewrite",
+      "task": "Replace daarom by vandaar dat.",
+      "from": "Daarom stemt de partij tegen het voorstel.",
+      "answers": [
+        "Vandaar dat de partij tegen het voorstel stemt."
+      ],
+      "en": "That is why the party is voting against the proposal.",
+      "note": "After daarom the verb comes second; after vandaar dat comes a sub-clause, so stemt moves to the end."
+    },
+    {
+      "type": "rewrite",
+      "task": "Start the sentence with Ten slotte.",
+      "from": "Ik wil ten slotte benadrukken dat dit mijn persoonlijke mening is.",
+      "answers": [
+        "Ten slotte wil ik benadrukken dat dit mijn persoonlijke mening is."
+      ],
+      "en": "Finally, I would like to emphasise that this is my personal opinion.",
+      "note": "Ten slotte in first place pulls the verb wil in front of the subject ik. The dat-clause keeps its own order."
+    },
+    {
+      "type": "fix",
+      "wrong": "Hij stemt tegen. Namelijk is hij niet overtuigd.",
+      "answers": [
+        "Hij stemt tegen. Hij is namelijk niet overtuigd.",
+        "Hij stemt tegen, want hij is niet overtuigd."
+      ],
+      "en": "He is voting against. You see, he is not convinced.",
+      "note": "namelijk never starts a sentence. Put it after the verb (hij is namelijk), or use want."
+    },
+    {
+      "type": "fix",
+      "wrong": "Bovendien de voorstanders hebben geen tegenargument.",
+      "answers": [
+        "Bovendien hebben de voorstanders geen tegenargument.",
+        "De voorstanders hebben bovendien geen tegenargument."
+      ],
+      "en": "Moreover, the supporters have no counter-argument.",
+      "note": "Bovendien in first place is followed by the verb, then the subject: bovendien hebben de voorstanders."
+    },
+    {
+      "type": "fix",
+      "wrong": "Vandaar dat is het plan afgewezen.",
+      "answers": [
+        "Vandaar dat het plan is afgewezen.",
+        "Vandaar dat het plan afgewezen is."
+      ],
+      "en": "That is why the plan has been rejected.",
+      "note": "vandaar dat starts a sub-clause, not a main clause: subject first, verb at the end."
+    }
+  ]
+}

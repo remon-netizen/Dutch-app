@@ -13,13 +13,13 @@
     { "nl": "overhandigen", "past": "overhandigde", "perf": "heeft overhandigd", "en": "to hand over / to present", "pos": "v" },
     { "nl": "attentie", "art": "de", "pl": "attenties", "en": "small present / token", "pos": "n" },
     { "nl": "slinger", "art": "de", "pl": "slingers", "en": "paper garland / streamer", "pos": "n" },
-    { "nl": "jarige", "art": "de", "pl": "jarigen", "en": "person whose birthday it is", "pos": "n" },
+    { "nl": "gastvrouw", "art": "de", "pl": "gastvrouwen", "en": "hostess", "pos": "n" },
     { "nl": "cadeaubon", "art": "de", "pl": "cadeaubonnen", "en": "gift voucher", "pos": "n" },
     { "nl": "bruiloft", "art": "de", "pl": "bruiloften", "en": "wedding", "pos": "n" },
     { "nl": "boeket", "art": "het", "pl": "boeketten", "en": "bouquet", "pos": "n" },
     { "nl": "verlanglijstje", "art": "het", "pl": "verlanglijstjes", "en": "wish list (for presents)", "pos": "n" },
     { "nl": "felicitatie", "art": "de", "pl": "felicitaties", "en": "congratulation", "pos": "n" },
-    { "nl": "wens", "art": "de", "pl": "wensen", "en": "wish", "pos": "n" },
+    { "nl": "gelukwens", "art": "de", "pl": "gelukwensen", "en": "congratulation / good wish", "pos": "n" },
     { "nl": "attent", "en": "thoughtful / considerate", "pos": "adj" },
     { "nl": "dankbaar", "en": "grateful", "pos": "adj" },
     { "nl": "iemand een plezier doen", "en": "to do someone a favour", "pos": "expr" }
@@ -107,10 +107,10 @@
     },
     {
       "type": "choose",
-      "nl": "Ik heb ___ voor de jarige gekocht.",
+      "nl": "Ik heb ___ voor de gastvrouw gekocht.",
       "options": ["een taart gisteren", "gisteren een taart", "een taart al"],
       "correct": 1,
-      "en": "I bought a cake for the birthday girl yesterday.",
+      "en": "I bought a cake for the hostess yesterday.",
       "note": "Een taart is indefinite, new information, so it goes after the time word: gisteren een taart. The same holds for al: al een taart, not een taart al."
     },
     {
@@ -208,9 +208,9 @@
     },
     {
       "type": "fix",
-      "wrong": "Ik heb gisteren hem mijn beste wensen gestuurd.",
-      "answers": ["Ik heb hem gisteren mijn beste wensen gestuurd.", "Gisteren heb ik hem mijn beste wensen gestuurd."],
-      "en": "I sent him my best wishes yesterday.",
+      "wrong": "Ik heb gisteren hem mijn gelukwensen gestuurd.",
+      "answers": ["Ik heb hem gisteren mijn gelukwensen gestuurd.", "Gisteren heb ik hem mijn gelukwensen gestuurd."],
+      "en": "I sent him my congratulations yesterday.",
       "note": "A pronoun without stress comes first in the middle, before the time word: hem gisteren. Gisteren hem only works with strong stress on hem."
     },
     {

@@ -1,0 +1,222 @@
+{
+  "id": "b1-12",
+  "level": "B1",
+  "icon": "🌟",
+  "title": "If I could choose",
+  "grammar": "Zou: polite requests, wishes, advice and 'what if'",
+  "summary": "zou / zouden + infinitive at the end: a polite request, a wish, advice, a careful opinion. What if: Als + simple past, zou + infinitive (Als ik tijd had, zou ik meegaan). The simple past here is not past time.",
+  "explain": "`zou` is formally the past of `zullen`, but you will mostly use it as the Dutch **\"would\"**: for things that are not real, and to make a request or an opinion softer.\n\n### The form\n\n| | zullen: past |\n| ik, jij / je, u, hij, zij / ze, het | zou |\n| wij / we, jullie, zij / ze | zouden |\n\n`zou` is the conjugated verb, so it stands in second place (first in a yes/no question). The infinitive goes to the **end**, without `te`. Often there are two infinitives at the end: a modal verb and then the main verb: `zou … kunnen helpen`, `zou … willen hebben`.\n\n### Four everyday uses\n\n**A polite request.** `Zou u …?` or `Zou je …?` with `kunnen` or `willen` is more polite than `Kunt u …?`.\n\n> Zou u mij kunnen helpen? — Could you help me?\n> Zou je het raam willen dichtdoen? — Would you close the window, please?\n\nA separable verb may stay together at the end or take the modal between its parts: `willen dichtdoen` or `dicht willen doen`.\n\n**A wish**, mostly with `graag` or `wel … willen`:\n\n> Ik zou graag naar Japan gaan. — I would like to go to Japan.\n\n**Advice**, with `moeten` or with `Als ik jou was`:\n\n> Je zou eens naar de dokter moeten gaan. — You ought to go to the doctor.\n> Als ik jou was, zou ik het niet doen. — If I were you, I would not do it.\n\n**A careful opinion**: `Ik zou zeggen dat …` (I would say that …).\n\n### What if: als + simple past, zou + infinitive\n\nTo imagine a situation that is **not real now**, Dutch puts the als-clause in the simple past and the main clause with `zou` + infinitive.\n\n> Als ik meer tijd had, zou ik een cursus volgen. — If I had more time, I would take a course.\n\nThe simple past `had` does **not** mean past time here; it means \"not real\". Compare a real possibility: `Als ik tijd heb, ga ik mee` (perhaps I will have time) against `Als ik tijd had, zou ik meegaan` (I do not have it).\n\nTwo variants are also correct:\n\n- In speech the als-clause may take `zou` as well: `Als ik meer tijd zou hebben, zou ik …`.\n- The main clause may take the simple past instead of zou: `Als ik rijk was, kocht ik een huis`.\n\nWith `zijn`, the fixed phrase is `Als ik jou was`, never *Als ik jou ben.\n\n### Word order\n\nIn the als-clause the verb goes to the end: `als ik meer tijd had`. When the als-clause comes first, it is the first element, so the main clause **starts with the verb**: `…, zou ik …`. The als-clause may also come second: `Ik zou meegaan als ik tijd had`.\n\n> Als ik de loterij won, zou ik een wereldreis maken. — If I won the lottery, I would travel round the world.\n\n### Watch out\n\n- Verb first after the als-clause: *Als ik rijk was, ik zou … → `Als ik rijk was, zou ik …`.\n- No te: *Ik zou graag te reizen → `Ik zou graag reizen`.\n- `was`, not `ben`: *Als ik jou ben → `Als ik jou was`.\n- English \"would\" for a habit in the past is not zou: *Vroeger zouden we elke zomer kamperen → `Vroeger kampeerden we elke zomer`.\n- Plural: *Wij zou graag … → `Wij zouden graag …`.\n\n### Compared with Ukrainian\n\nUkrainian builds the same idea with `би` and the past form: `Якби я мав час, я б поїхав`. Dutch works much the same way: the past form `had` in the als-clause, and `zou` where Ukrainian has `б`.\n\nThe unreal past (`Als ik dat had geweten, zou ik …`) is unit B2 · 2, and `zou` for what someone else claims is unit B2 · 9.",
+  "words": [
+    { "nl": "wens", "art": "de", "pl": "wensen", "en": "wish", "pos": "n" },
+    { "nl": "advies", "art": "het", "pl": "adviezen", "en": "advice (often from an expert) / recommendation", "pos": "n" },
+    { "nl": "raad", "art": "de", "pl": "", "en": "advice / counsel", "pos": "n", "tag": "raad geven" },
+    { "nl": "keuze", "art": "de", "pl": "keuzes", "en": "choice", "pos": "n" },
+    { "nl": "wereldreis", "art": "de", "pl": "wereldreizen", "en": "trip round the world", "pos": "n" },
+    { "nl": "loterij", "art": "de", "pl": "loterijen", "en": "lottery", "pos": "n" },
+    { "nl": "pensioen", "art": "het", "pl": "pensioenen", "en": "retirement / pension", "pos": "n", "tag": "met pensioen gaan" },
+    { "nl": "droombaan", "art": "de", "pl": "droombanen", "en": "dream job", "pos": "n" },
+    { "nl": "aanraden", "past": "raadde aan", "perf": "heeft aangeraden", "en": "to advise / to recommend", "pos": "v", "tag": "separable" },
+    { "nl": "zich voorstellen", "past": "stelde me voor", "perf": "heeft zich voorgesteld", "en": "to imagine", "pos": "v" },
+    { "nl": "opgeven", "past": "gaf op", "perf": "heeft opgegeven", "en": "to give up", "pos": "v", "tag": "separable" },
+    { "nl": "durven", "past": "durfde", "perf": "heeft gedurfd", "en": "to dare", "pos": "v" },
+    { "nl": "uitkomen", "past": "kwam uit", "perf": "is uitgekomen", "en": "to come true (a dream, a wish)", "pos": "v", "tag": "separable" },
+    { "nl": "ideaal", "en": "ideal", "pos": "adj" },
+    { "nl": "stiekem", "en": "secretly", "pos": "adv" },
+    { "nl": "zonde", "en": "a pity / a waste", "pos": "adj", "tag": "het is zonde" }
+  ],
+  "sentences": [
+    {
+      "nl": "Zou u mij even kunnen helpen met dit formulier?",
+      "en": "Could you (formal) help me with this form for a moment?",
+      "hint": ["zullen", "even", "kunnen", "helpen", "formulier"],
+      "note": "A polite request: zou + kunnen + infinitive. Zou stands first in the question; the two infinitives kunnen helpen stand at the end, before the extra part met dit formulier.",
+      "alt": ["Zou u me even kunnen helpen met dit formulier?", "Zou u mij even met dit formulier kunnen helpen?", "Zou u me even met dit formulier kunnen helpen?"]
+    },
+    {
+      "nl": "Zou je me wat raad willen geven?",
+      "en": "Would you give me some advice?",
+      "hint": ["zullen", "raad", "willen", "geven"],
+      "note": "Zou je … willen …? is a friendly, polite request. It is jij zou, without t, so zou je does not change.",
+      "alt": ["Zou jij me wat raad willen geven?", "Zou je mij wat raad willen geven?", "Zou jij mij wat raad willen geven?"]
+    },
+    {
+      "nl": "Ik zou graag een wereldreis maken.",
+      "en": "I would like to travel round the world.",
+      "hint": ["zullen", "graag", "wereldreis", "maken"],
+      "note": "A wish: zou graag + infinitive. The infinitive maken goes to the end, without te.",
+      "alt": ["Ik zou graag een wereldreis willen maken."]
+    },
+    {
+      "nl": "Wat zou jouw droombaan zijn?",
+      "en": "What would your dream job be?",
+      "hint": ["wat", "zullen", "droombaan", "zijn"],
+      "note": "In a question with a question word, zou comes second, right after wat. The infinitive zijn closes the question.",
+      "alt": ["Wat zou je droombaan zijn?"]
+    },
+    {
+      "nl": "Ik zou je aanraden om eerst wat geld te sparen.",
+      "en": "I would advise you to save some money first.",
+      "hint": ["zullen", "aanraden", "eerst", "geld", "sparen"],
+      "note": "Ik zou … aanraden is a soft way to give advice. The separable verb aanraden stays in one piece at the end of the main part; then om … te sparen follows.",
+      "alt": ["Ik zou je aanraden eerst wat geld te sparen.", "Ik zou jou aanraden om eerst wat geld te sparen.", "Ik zou jou aanraden eerst wat geld te sparen."]
+    },
+    {
+      "nl": "Je zou je droom niet zo snel moeten opgeven.",
+      "en": "You should not give up your dream so quickly. (advice with zou)",
+      "hint": ["zullen", "droom", "niet", "snel", "moeten", "opgeven"],
+      "note": "zou + moeten is advice, softer than je moet. The two infinitives stand at the end, the modal first: moeten opgeven.",
+      "alt": ["Jij zou je droom niet zo snel moeten opgeven.", "Je zou je droom niet zo snel op moeten geven."]
+    },
+    {
+      "nl": "Als ik jou was, zou ik die baan aannemen.",
+      "en": "If I were you, I would take that job.",
+      "hint": ["als", "zijn", "zullen", "baan", "aannemen"],
+      "note": "Als ik jou was is a fixed phrase for advice, with was, not ben. The als-clause is the first element, so the main clause starts with zou.",
+      "alt": ["Als ik jou was, nam ik die baan aan.", "Ik zou die baan aannemen als ik jou was."]
+    },
+    {
+      "nl": "Als ik de loterij won, zou ik meteen stoppen met werken.",
+      "en": "If I won the lottery, I would stop working straight away.",
+      "hint": ["als", "loterij", "winnen", "zullen", "meteen", "stoppen"],
+      "note": "Won is the simple past, but it is not about the past: it says that this is not real. Then zou + infinitive in the main clause.",
+      "alt": ["Als ik de loterij zou winnen, zou ik meteen stoppen met werken.", "Ik zou meteen stoppen met werken als ik de loterij won.", "Ik zou meteen stoppen met werken als ik de loterij zou winnen.", "Als ik de loterij won, stopte ik meteen met werken.", "Als ik de loterij won, zou ik meteen met werken stoppen."]
+    },
+    {
+      "nl": "Wat zou je doen als je grootste droom morgen uitkwam?",
+      "en": "What would you do if your biggest dream came true tomorrow?",
+      "hint": ["wat", "zullen", "doen", "als", "droom", "uitkomen"],
+      "note": "Uitkwam is the simple past for an imagined situation, even though it is about tomorrow. In the als-clause the separable verb stays together at the end: uitkwam.",
+      "alt": ["Wat zou jij doen als je grootste droom morgen uitkwam?", "Wat zou je doen als je grootste droom morgen zou uitkomen?", "Wat zou je doen als je grootste droom morgen uit zou komen?", "Wat zou jij doen als jouw grootste droom morgen uitkwam?"]
+    },
+    {
+      "nl": "Ik zou zeggen dat dat plan ideaal is voor jullie.",
+      "en": "I would say that plan is ideal for you (plural).",
+      "hint": ["zullen", "zeggen", "plan", "ideaal", "jullie"],
+      "note": "Ik zou zeggen makes an opinion more careful. The first dat joins the clauses, the second belongs to plan: dat plan.",
+      "alt": ["Ik zou zeggen dat dat plan voor jullie ideaal is."]
+    }
+  ],
+  "exercises": [
+    {
+      "type": "choose",
+      "nl": "Ik ___ stiekem best eerder met pensioen willen gaan.",
+      "options": ["zouden", "zou", "zal"],
+      "correct": 1,
+      "en": "Secretly I would quite like to retire earlier.",
+      "note": "Ik takes zou; zouden is the plural. Zal is a promise or a guess about the future, not a wish."
+    },
+    {
+      "type": "choose",
+      "nl": "Als ik meer tijd ___, zou ik een cursus Japans volgen.",
+      "options": ["heb", "had", "zal hebben"],
+      "correct": 1,
+      "en": "If I had more time, I would take a Japanese course.",
+      "note": "An unreal situation: the als-clause takes the simple past, had. Heb would make it a real possibility, and that does not fit zou in the main clause."
+    },
+    {
+      "type": "choose",
+      "nl": "Als ik rijk was, ___ een huis aan zee.",
+      "options": ["ik kocht", "kocht ik", "ik zou kopen"],
+      "correct": 1,
+      "en": "If I were rich, I would buy a house by the sea.",
+      "note": "The main clause may take the simple past instead of zou. Because the als-clause comes first, the verb must come first: kocht ik."
+    },
+    {
+      "type": "choose",
+      "nl": "Je ___ eens advies moeten vragen aan een expert.",
+      "options": ["zou", "zult", "wou"],
+      "correct": 0,
+      "en": "You ought to ask an expert for advice.",
+      "note": "Advice is zou + moeten. Zult belongs to zullen in the present, and wou is an informal past of willen."
+    },
+    {
+      "type": "gap",
+      "nl": "Wij ___ (zullen) graag een keer met de hele familie op reis gaan; dat is onze grootste wens.",
+      "answers": ["zouden"],
+      "en": "We would like to go on a trip with the whole family some time; that is our biggest wish.",
+      "note": "Wij is plural, so zouden. The infinitive gaan goes to the end."
+    },
+    {
+      "type": "gap",
+      "nl": "Als ik durfde, ___ (zullen) ik zangeres worden.",
+      "answers": ["zou"],
+      "en": "If I dared, I would become a singer.",
+      "note": "The als-clause is the first element, so zou comes first in the main clause, before ik. Ik takes zou."
+    },
+    {
+      "type": "gap",
+      "nl": "Als ik niet zo moe ___ (zijn), zou ik vanavond meegaan.",
+      "answers": ["was", "zou zijn"],
+      "en": "If I were not so tired, I would come along tonight.",
+      "note": "The als-clause of an unreal situation takes the simple past: was. In speech zou zijn is also correct."
+    },
+    {
+      "type": "gap",
+      "nl": "Het ___ (zullen) zonde zijn als je nu opgaf.",
+      "answers": ["zou"],
+      "en": "It would be a pity if you gave up now.",
+      "note": "Het zou zonde zijn: zou + infinitive for something imagined. In the als-clause opgaf is the simple past of opgeven, joined because the verb stands at the end."
+    },
+    {
+      "type": "order",
+      "lead": "Als ik meer geld had,",
+      "words": ["zou", "ik", "een wereldreis", "maken"],
+      "answers": ["Als ik meer geld had, zou ik een wereldreis maken."],
+      "en": "If I had more money, I would travel round the world.",
+      "note": "The als-clause counts as the first element, so zou comes next and ik follows. The infinitive maken goes to the end."
+    },
+    {
+      "type": "order",
+      "lead": "Zou",
+      "words": ["u", "even", "de deur", "willen", "openhouden"],
+      "answers": ["Zou u even de deur willen openhouden?", "Zou u de deur even willen openhouden?"],
+      "en": "Would you (formal) hold the door open for a moment?",
+      "note": "A polite request starts with zou and u. The two infinitives go to the end, the modal first: willen openhouden."
+    },
+    {
+      "type": "order",
+      "lead": "Zou",
+      "words": ["jij", "je", "kunnen", "voorstellen", "om in het buitenland te wonen"],
+      "answers": ["Zou jij je kunnen voorstellen om in het buitenland te wonen?"],
+      "en": "Could you imagine living abroad?",
+      "note": "Jij is the subject and je is the reflexive pronoun of zich voorstellen; it comes right after the subject. The infinitives stand at the end, and the om-part follows them."
+    },
+    {
+      "type": "rewrite",
+      "task": "Make it unreal (you do not have the choice), with zou in the main clause.",
+      "from": "Als ik de keuze heb, ga ik in Spanje wonen.",
+      "answers": ["Als ik de keuze had, zou ik in Spanje gaan wonen.", "Als ik de keuze zou hebben, zou ik in Spanje gaan wonen."],
+      "en": "If I had the choice, I would go and live in Spain.",
+      "note": "Heb becomes the simple past had, and the main clause gets zou with the infinitives at the end: zou ik … gaan wonen."
+    },
+    {
+      "type": "rewrite",
+      "task": "Give the same advice, starting with Als ik jou was.",
+      "from": "Doe dat niet.",
+      "answers": ["Als ik jou was, zou ik dat niet doen.", "Als ik jou was, deed ik dat niet."],
+      "en": "If I were you, I would not do that.",
+      "note": "After the als-clause the main clause starts with its verb: zou ik. Niet stands before the infinitive doen."
+    },
+    {
+      "type": "fix",
+      "wrong": "Als ik rijk was, ik zou een groot huis kopen.",
+      "answers": ["Als ik rijk was, zou ik een groot huis kopen."],
+      "en": "If I were rich, I would buy a big house.",
+      "note": "The als-clause is the first element, so the verb comes next: zou ik, not ik zou."
+    },
+    {
+      "type": "fix",
+      "wrong": "Als ik jou ben, zou ik meer rust nemen.",
+      "answers": ["Als ik jou was, zou ik meer rust nemen."],
+      "en": "If I were you, I would take more rest.",
+      "note": "The phrase for advice is Als ik jou was: an unreal situation takes the simple past, even though it is about now."
+    },
+    {
+      "type": "fix",
+      "wrong": "Vroeger zouden we elke zomer bij mijn opa logeren.",
+      "answers": ["Vroeger logeerden we elke zomer bij mijn opa."],
+      "en": "When I was young, we would stay with my grandad every summer.",
+      "note": "English 'would' for a habit in the past is the simple past in Dutch: logeerden. Zouden would mean that it was planned or imagined."
+    }
+  ]
+}

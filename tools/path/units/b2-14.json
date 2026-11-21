@@ -1,0 +1,485 @@
+{
+  "id": "b2-14",
+  "level": "B2",
+  "icon": "⚖️",
+  "title": "Law and justice",
+  "grammar": "Verbs with te: schijnen, blijken, lijken, hoeven, dienen",
+  "summary": "lijken, schijnen, blijken, hoeven, dienen, weten, komen + te + infinitive at the end; never om. hoeven only with niet, geen, alleen, pas. Perfect: is gebleken, heeft niet hoeven (te) betalen.",
+  "explain": "Some Dutch verbs take a second verb with `te` and add a judgement to it: how sure the speaker is, whether something is required, or how it turned out. They work like the modal verbs (the second verb goes to the end), but they need `te`, and never `om`.\n\n### Seeming and turning out\n\n| verb | meaning | how you know |\n| lijken te | to seem | your own impression |\n| schijnen te | apparently | you have heard or read it |\n| blijken te | to turn out | there is evidence now |\n| heten te | to be said to | formal, rare in speech |\n\n> De verdachte lijkt de waarheid te spreken. — The suspect seems to be telling the truth.\n> De getuige schijnt in het buitenland te wonen. — Apparently the witness lives abroad.\n> Het alibi bleek vals te zijn. — The alibi turned out to be false.\n\nFor something that happened earlier, use `te hebben` or `te zijn` + participle; the participle may also come first: `Ze schijnt te hebben bekend` or `Ze schijnt bekend te hebben`.\n\n`blijken` and `schijnen` also take a dat-clause after `het`: `Het blijkt dat …`, `Het schijnt dat …`; with `lijken` say `Het lijkt erop dat …`. And they can stand without a second verb: `Dat blijkt uit het dossier`, `naar het schijnt` (so it is said), `Zo lijkt het`.\n\n### Need and duty\n\n`hoeven te` is the negative of `moeten`: `Je moet tekenen`, `Je hoeft niet te tekenen`. It is only used with a negation or a limiting word: `niet`, `geen`, `niets`, `nooit`, `alleen`, `maar`, `pas`, `nauwelijks`.\n\n> U hoeft alleen uw naam te noemen. — You only have to give your name.\n\n`dienen te` and `behoren te` are a formal 'must, ought to', in rules and official letters. `hebben te` is a stern 'have to'.\n\n> U dient zich te legitimeren. — You are required to show identification.\n> Je hebt je aan de wet te houden. — You have to obey the law.\n\n### Managing and ending up\n\n- `weten te`: to manage to. `De verdachte wist te ontsnappen`.\n- `zien te`: to try and manage, mostly after `moeten`: `We moeten zien te bewijzen dat hij er was`.\n- `komen te`: to end up, formal: `Hij kwam te overlijden` (he died); `De regel komt te vervallen` (the rule lapses).\n- `plegen te`: to be in the habit of, formal. Not the same as `een misdrijf plegen`, to commit a crime.\n\n### The perfect\n\nLearn only these frequent forms:\n\n- `blijken` takes **zijn**, mostly with dat or without a second verb: `Het is gebleken dat hij loog`.\n- `hoeven` stays an infinitive, with or without `te`; both are correct: `Ze heeft niet hoeven te betalen` or `Ze heeft niet hoeven betalen`.\n- `weten` also stays an infinitive: `Hij heeft weten te ontsnappen`.\n\nWith `lijken`, `schijnen` and `dienen` use the present or the simple past: `Hij leek te liegen`.\n\n### Word order\n\nMain clause: the te-verb stands second, `te` + infinitive goes last. Sub-clause: both go to the end, the te-verb first.\n\n> In de krant staat dat de verdachte onschuldig blijkt te zijn. — The paper says that the suspect turns out to be innocent.\n\nYou will also read the reverse order, `… dat je niet te komen hoeft`; it is correct, but less usual.\n\n### Watch out\n\n- No negation, no `hoeven`: *Je hoeft te tekenen → `Je moet tekenen`.\n- In the present tense standard Dutch keeps the `te`: *Je hoeft niet tekenen → `Je hoeft niet te tekenen`.\n- `Je moet niet tekenen` means 'do not sign'. 'You do not have to sign' is `Je hoeft niet te tekenen`.\n- No `om`: *Hij blijkt om schuldig te zijn → `Hij blijkt schuldig te zijn`.\n- *Het heeft gebleken → `Het is gebleken`.\n- English 'seems' is usually `lijken`. `schijnen` means you only know it from others.\n\n### Compared with Ukrainian\n\nUkrainian puts this in a separate word: `здається`, `кажуть`, `виявилося`, `не треба`. Dutch makes it the conjugated verb, with the subject in front: `Він виявився невинним` is `Hij bleek onschuldig te zijn`.",
+  "words": [
+    {
+      "nl": "rechter",
+      "art": "de",
+      "pl": "rechters",
+      "en": "judge",
+      "pos": "n"
+    },
+    {
+      "nl": "rechtbank",
+      "art": "de",
+      "pl": "rechtbanken",
+      "en": "court (of law)",
+      "pos": "n"
+    },
+    {
+      "nl": "advocaat",
+      "art": "de",
+      "pl": "advocaten",
+      "en": "lawyer",
+      "pos": "n"
+    },
+    {
+      "nl": "aanklager",
+      "art": "de",
+      "pl": "aanklagers",
+      "en": "prosecutor",
+      "pos": "n"
+    },
+    {
+      "nl": "verdachte",
+      "art": "de",
+      "pl": "verdachten",
+      "en": "suspect",
+      "pos": "n"
+    },
+    {
+      "nl": "slachtoffer",
+      "art": "het",
+      "pl": "slachtoffers",
+      "en": "victim",
+      "pos": "n"
+    },
+    {
+      "nl": "bewijs",
+      "art": "het",
+      "pl": "bewijzen",
+      "en": "evidence / proof",
+      "pos": "n"
+    },
+    {
+      "nl": "vonnis",
+      "art": "het",
+      "pl": "vonnissen",
+      "en": "verdict / judgment",
+      "pos": "n"
+    },
+    {
+      "nl": "misdrijf",
+      "art": "het",
+      "pl": "misdrijven",
+      "en": "crime / criminal offence",
+      "pos": "n"
+    },
+    {
+      "nl": "gevangenisstraf",
+      "art": "de",
+      "pl": "gevangenisstraffen",
+      "en": "prison sentence",
+      "pos": "n"
+    },
+    {
+      "nl": "verplichting",
+      "art": "de",
+      "pl": "verplichtingen",
+      "en": "obligation",
+      "pos": "n"
+    },
+    {
+      "nl": "veroordelen",
+      "past": "veroordeelde",
+      "perf": "heeft veroordeeld",
+      "en": "to convict / to sentence",
+      "pos": "v"
+    },
+    {
+      "nl": "vrijspreken",
+      "past": "sprak vrij",
+      "perf": "heeft vrijgesproken",
+      "en": "to acquit",
+      "pos": "v",
+      "tag": "separable"
+    },
+    {
+      "nl": "bekennen",
+      "past": "bekende",
+      "perf": "heeft bekend",
+      "en": "to confess",
+      "pos": "v"
+    },
+    {
+      "nl": "onschuldig",
+      "en": "innocent",
+      "pos": "adj"
+    },
+    {
+      "nl": "strafbaar",
+      "en": "punishable / a criminal offence",
+      "pos": "adj"
+    }
+  ],
+  "sentences": [
+    {
+      "nl": "Uit het vonnis blijkt dat de rechter de getuige niet geloofde.",
+      "en": "It emerges from the verdict that the judge did not believe the witness.",
+      "hint": [
+        "uit",
+        "vonnis",
+        "blijken",
+        "rechter",
+        "getuige",
+        "geloven"
+      ],
+      "note": "blijken with a dat-clause instead of te: uit … blijkt dat … means that something can be seen from a document or fact. In the dat-clause the verb geloofde goes to the end.",
+      "alt": [
+        "Het blijkt uit het vonnis dat de rechter de getuige niet geloofde."
+      ]
+    },
+    {
+      "nl": "Na drie maanden in de cel bleek de verdachte onschuldig te zijn.",
+      "en": "After three months in a cell, the suspect turned out to be innocent.",
+      "hint": [
+        "maand",
+        "cel",
+        "blijken",
+        "verdachte",
+        "onschuldig",
+        "zijn"
+      ],
+      "note": "blijken te: there is now evidence. Bleek is the conjugated verb in second place, te zijn closes the sentence.",
+      "alt": [
+        "De verdachte bleek na drie maanden in de cel onschuldig te zijn."
+      ]
+    },
+    {
+      "nl": "De verdachte schijnt alles te hebben bekend.",
+      "en": "The suspect has apparently confessed everything. (schijnen)",
+      "hint": [
+        "verdachte",
+        "schijnen",
+        "alles",
+        "bekennen"
+      ],
+      "note": "schijnen te: the speaker has heard it, but has not seen it. The confessing came earlier, so te hebben + participle; bekend te hebben is also correct.",
+      "alt": [
+        "De verdachte schijnt alles bekend te hebben.",
+        "Het schijnt dat de verdachte alles heeft bekend.",
+        "Het schijnt dat de verdachte alles bekend heeft.",
+        "Naar het schijnt heeft de verdachte alles bekend."
+      ]
+    },
+    {
+      "nl": "De aanklager lijkt het bewijs niet sterk genoeg te vinden.",
+      "en": "The prosecutor does not seem to find the evidence strong enough.",
+      "hint": [
+        "aanklager",
+        "lijken",
+        "bewijs",
+        "sterk",
+        "genoeg",
+        "vinden"
+      ],
+      "note": "lijken te gives the speaker's impression. Niet goes with what follows (sterk genoeg), and te vinden stands at the end.",
+      "alt": [
+        "Het lijkt erop dat de aanklager het bewijs niet sterk genoeg vindt."
+      ]
+    },
+    {
+      "nl": "Als getuige hoeft u alleen de waarheid te vertellen.",
+      "en": "As a witness you (formal) only have to tell the truth.",
+      "hint": [
+        "als",
+        "getuige",
+        "hoeven",
+        "alleen",
+        "waarheid",
+        "vertellen"
+      ],
+      "note": "hoeven needs a negation or a limiting word; here it is alleen. With u the verb has a t: u hoeft.",
+      "alt": [
+        "U hoeft als getuige alleen de waarheid te vertellen.",
+        "Als getuige hoeft u alleen de waarheid te spreken.",
+        "U hoeft als getuige alleen de waarheid te spreken."
+      ]
+    },
+    {
+      "nl": "Dankzij de nieuwe wet heeft ze de boete niet hoeven te betalen.",
+      "en": "Thanks to the new law, she did not have to pay the fine.",
+      "hint": [
+        "dankzij",
+        "nieuw",
+        "wet",
+        "hoeven",
+        "boete",
+        "betalen"
+      ],
+      "note": "In the perfect hoeven stays an infinitive instead of becoming a participle, and the te before betalen may also be left out: niet hoeven betalen.",
+      "alt": [
+        "Dankzij de nieuwe wet heeft ze de boete niet hoeven betalen.",
+        "Dankzij de nieuwe wet hoefde ze de boete niet te betalen.",
+        "Ze heeft dankzij de nieuwe wet de boete niet hoeven te betalen.",
+        "Ze heeft dankzij de nieuwe wet de boete niet hoeven betalen.",
+        "Ze hoefde dankzij de nieuwe wet de boete niet te betalen.",
+        "Dankzij de nieuwe wet heeft zij de boete niet hoeven te betalen.",
+        "Dankzij de nieuwe wet heeft zij de boete niet hoeven betalen.",
+        "Dankzij de nieuwe wet hoefde zij de boete niet te betalen."
+      ]
+    },
+    {
+      "nl": "Bezoekers dienen zich bij de ingang van de rechtbank te legitimeren.",
+      "en": "Visitors are required to show identification at the entrance of the court.",
+      "hint": [
+        "bezoeker",
+        "dienen",
+        "ingang",
+        "rechtbank",
+        "zich legitimeren"
+      ],
+      "note": "dienen te is the formal must of rules and notices. The reflexive zich comes straight after dienen, te legitimeren goes to the end.",
+      "alt": [
+        "Bij de ingang van de rechtbank dienen bezoekers zich te legitimeren.",
+        "Bezoekers moeten zich bij de ingang van de rechtbank legitimeren.",
+        "Bij de ingang van de rechtbank moeten bezoekers zich legitimeren."
+      ]
+    },
+    {
+      "nl": "Iedereen heeft zich aan de wet te houden, ook de politie.",
+      "en": "Everyone has to obey the law, the police included.",
+      "hint": [
+        "iedereen",
+        "hebben",
+        "zich houden aan",
+        "wet",
+        "politie"
+      ],
+      "note": "hebben te: a firm 'has to'. It is heeft (iedereen is singular), and te houden goes to the end of the clause.",
+      "alt": [
+        "Iedereen moet zich aan de wet houden, ook de politie.",
+        "Iedereen dient zich aan de wet te houden, ook de politie."
+      ]
+    },
+    {
+      "nl": "De verdachte wist tijdens het transport naar de rechtbank te ontsnappen.",
+      "en": "The suspect managed to escape during transport to the court.",
+      "hint": [
+        "verdachte",
+        "weten",
+        "tijdens",
+        "transport",
+        "rechtbank",
+        "ontsnappen"
+      ],
+      "note": "weten te means to manage to, not to know. Wist is the simple past; in the perfect it is heeft weten te ontsnappen.",
+      "alt": [
+        "Tijdens het transport naar de rechtbank wist de verdachte te ontsnappen.",
+        "De verdachte heeft tijdens het transport naar de rechtbank weten te ontsnappen.",
+        "Tijdens het transport naar de rechtbank heeft de verdachte weten te ontsnappen."
+      ]
+    },
+    {
+      "nl": "De rechter vond het opvallend dat de verdachte geen alibi bleek te hebben.",
+      "en": "The judge found it striking that the suspect turned out to have no alibi.",
+      "hint": [
+        "rechter",
+        "vinden",
+        "opvallend",
+        "verdachte",
+        "alibi",
+        "blijken"
+      ],
+      "note": "In a sub-clause bleek and te hebben both go to the end, bleek first.",
+      "alt": [
+        "De rechter vond het opmerkelijk dat de verdachte geen alibi bleek te hebben."
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "type": "choose",
+      "nl": "Je ___ niet te tekenen: het is geen verplichting.",
+      "options": [
+        "moet",
+        "hoeft",
+        "dient"
+      ],
+      "correct": 1,
+      "en": "You do not have to sign: it is not an obligation.",
+      "note": "'Not have to' is niet hoeven te. Moet never takes te, and dient niet te means 'should not', which does not fit 'it is not an obligation'."
+    },
+    {
+      "type": "choose",
+      "nl": "Uit de camerabeelden ___ dat de verdachte op de plaats van het misdrijf was.",
+      "options": [
+        "schijnt",
+        "lijkt",
+        "blijkt"
+      ],
+      "correct": 2,
+      "en": "The camera footage shows that the suspect was at the scene of the crime.",
+      "note": "The footage is evidence, and uit … blijkt dat is the fixed way to say that something follows from it. Schijnen is for hearsay and lijken for an impression; neither goes with uit."
+    },
+    {
+      "type": "choose",
+      "nl": "Het ___ gebleken dat de getuige had gelogen.",
+      "options": [
+        "heeft",
+        "is",
+        "werd"
+      ],
+      "correct": 1,
+      "en": "It has emerged that the witness had lied.",
+      "note": "blijken takes zijn in the perfect: het is gebleken. Heeft gebleken is a common mistake."
+    },
+    {
+      "type": "choose",
+      "nl": "De advocaat wist ___ de rechter te overtuigen.",
+      "options": [
+        "om",
+        "–",
+        "er"
+      ],
+      "correct": 1,
+      "en": "The lawyer managed to convince the judge.",
+      "note": "weten te (to manage to) takes te directly, like blijken, schijnen and hoeven; om is never used with these verbs."
+    },
+    {
+      "type": "gap",
+      "nl": "Tijdens het proces ___ (blijken) de man al twee keer eerder veroordeeld te zijn.",
+      "answers": [
+        "bleek"
+      ],
+      "en": "During the trial the man turned out to have been convicted twice before.",
+      "note": "A story in the past, so the simple past bleek. Veroordeeld te zijn is the passive of veroordelen with te: he had been convicted."
+    },
+    {
+      "type": "gap",
+      "nl": "Na het hoger beroep heeft hij de gevangenisstraf niet hoeven ___ (uitzitten).",
+      "answers": [
+        "uit te zitten",
+        "uitzitten"
+      ],
+      "en": "After the appeal he did not have to serve the prison sentence.",
+      "note": "After the infinitive hoeven in the perfect, te is optional: uit te zitten or uitzitten. With te, the separable verb takes it between its parts."
+    },
+    {
+      "type": "gap",
+      "nl": "De oude regeling komt per 1 januari ___ (vervallen).",
+      "answers": [
+        "te vervallen"
+      ],
+      "en": "The old arrangement will lapse on 1 January.",
+      "note": "komen te + infinitive is a formal 'end up': komt te vervallen, the arrangement stops being valid. Te is required."
+    },
+    {
+      "type": "gap",
+      "nl": "Als burger heb je je aan de wet ___ (houden).",
+      "answers": [
+        "te houden"
+      ],
+      "en": "As a citizen you have to obey the law.",
+      "note": "hebben te + infinitive is a firm 'have to'. Without te the sentence would be wrong."
+    },
+    {
+      "type": "order",
+      "lead": "Volgens de krant",
+      "words": [
+        "schijnt",
+        "de rechter",
+        "de verdachte",
+        "te hebben",
+        "vrijgesproken"
+      ],
+      "answers": [
+        "Volgens de krant schijnt de rechter de verdachte te hebben vrijgesproken.",
+        "Volgens de krant schijnt de rechter de verdachte vrijgesproken te hebben."
+      ],
+      "en": "According to the newspaper, the judge has apparently acquitted the suspect.",
+      "note": "Volgens de krant fills the first place, so schijnt comes next, then the subject. The acquittal came earlier, so te hebben + participle, in either order."
+    },
+    {
+      "type": "order",
+      "lead": "Het is opvallend",
+      "words": [
+        "dat",
+        "het slachtoffer",
+        "zich",
+        "niets",
+        "blijkt",
+        "te herinneren"
+      ],
+      "answers": [
+        "Het is opvallend dat het slachtoffer zich niets blijkt te herinneren.",
+        "Het is opvallend dat het slachtoffer zich niets te herinneren blijkt."
+      ],
+      "en": "It is striking that the victim turns out to remember nothing.",
+      "note": "In the dat-clause the verbs go to the end; blijkt te herinneren is the usual order, te herinneren blijkt is correct but less common. Zich comes straight after the subject."
+    },
+    {
+      "type": "order",
+      "lead": "De advocaat zegt",
+      "words": [
+        "dat",
+        "zijn cliënt",
+        "niet",
+        "hoeft",
+        "te getuigen"
+      ],
+      "answers": [
+        "De advocaat zegt dat zijn cliënt niet hoeft te getuigen.",
+        "De advocaat zegt dat zijn cliënt niet te getuigen hoeft."
+      ],
+      "en": "The lawyer says that his client does not have to give evidence.",
+      "note": "Hoeft needs its negation niet, which stands before the verbs at the end of the sub-clause. Hoeft te getuigen is the usual order; te getuigen hoeft is also correct."
+    },
+    {
+      "type": "rewrite",
+      "task": "Rewrite with blijken + te, starting with De verdachte.",
+      "from": "Het blijkt dat de verdachte onschuldig is.",
+      "answers": [
+        "De verdachte blijkt onschuldig te zijn."
+      ],
+      "en": "The suspect turns out to be innocent.",
+      "note": "The subject of the dat-clause becomes the subject of blijken, and is becomes te zijn at the end."
+    },
+    {
+      "type": "rewrite",
+      "task": "Make it negative with hoeven.",
+      "from": "U moet een advocaat nemen.",
+      "answers": [
+        "U hoeft geen advocaat te nemen."
+      ],
+      "en": "You (formal) do not have to get a lawyer.",
+      "note": "The negative of moeten is niet hoeven. Een advocaat becomes geen advocaat, and hoeven needs te before the infinitive."
+    },
+    {
+      "type": "rewrite",
+      "task": "Put it in the perfect.",
+      "from": "De verdachte hoefde niet te getuigen.",
+      "answers": [
+        "De verdachte heeft niet hoeven te getuigen.",
+        "De verdachte heeft niet hoeven getuigen."
+      ],
+      "en": "The suspect did not have to give evidence.",
+      "note": "The perfect is heeft + the infinitive hoeven, not a participle. After it te is optional, so both answers are correct."
+    },
+    {
+      "type": "fix",
+      "wrong": "Het heeft gebleken dat zijn gedrag niet strafbaar was.",
+      "answers": [
+        "Het is gebleken dat zijn gedrag niet strafbaar was."
+      ],
+      "en": "It has emerged that his behaviour was not a criminal offence.",
+      "note": "blijken takes zijn in the perfect: het is gebleken."
+    },
+    {
+      "type": "fix",
+      "wrong": "Je hoeft dit formulier te ondertekenen.",
+      "answers": [
+        "Je moet dit formulier ondertekenen.",
+        "Je dient dit formulier te ondertekenen.",
+        "Je hebt dit formulier te ondertekenen."
+      ],
+      "en": "You have to sign this form.",
+      "note": "hoeven is only used with a negation or a limiting word such as alleen. Without one, 'have to' is moeten (without te), or formally dienen te."
+    }
+  ]
+}

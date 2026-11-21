@@ -1,0 +1,454 @@
+{
+  "id": "b2-04",
+  "level": "B2",
+  "icon": "🏗️",
+  "title": "The city of tomorrow",
+  "grammar": "Participles as adjectives: de lachende man, het gebouwde huis",
+  "summary": "Present participle = infinitive + d (groeiend): active, going on. Past participle (gebouwd): passive or done. Both take the adjective -e. Written Dutch puts what belongs to them in front: het door de gemeente gebouwde huis.",
+  "explain": "A participle can stand in front of a noun, just like an adjective: `de groeiende stad`, `het gebouwde huis`. Written Dutch, in newspapers and reports, goes further: it packs a whole relative clause into the space between the article and the noun (`het door de gemeente gebouwde huis`).\n\n### The present participle: infinitive + d\n\n`groeien` → `groeiend`, `toenemen` → `toenemend`, `leegstaan` → `leegstaand`, `gaan` → `gaand`. It is **active** and **going on**: the city is growing, the building is standing empty. In front of a noun it follows the ordinary adjective rule (unit A2 · 10): an -e, except with an indefinite het-word.\n\n| | de-word | het-word |\n| with de / het | de groeiende stad | het groeiende aantal |\n| with een | een groeiende stad | een groeiend aantal |\n\n> Een toenemend aantal jongeren vindt geen betaalbare woning. — An increasing number of young people cannot find an affordable home.\n\nWithout a noun it describes **how** someone does something, and has no ending: `Lachend liep ze weg` (she walked away laughing). `Al doende leer je` (you learn by doing) is a fixed phrase.\n\nDutch does **not** use it for a continuous tense. \"I am reading\" is `Ik lees` or `Ik ben aan het lezen` (unit B1 · 8), never *Ik ben lezend.\n\n### The past participle as an adjective\n\nThe past participle is **passive** or **finished**: `het gebouwde huis` is the house that has been built. Compare `de stijgende prijzen` (still rising) and `de gestegen prijzen` (they have risen). The -e rule is the same, with two points of spelling:\n\n- A participle ending in **-en** gets no extra -e: `de gesloten brug`, `het geschreven rapport`.\n- The ending changes the spelling as with any adjective: `verbreed` → `de verbrede weg`, `gesloopt` → `het gesloopte gebouw`.\n\n> Door de gesloten brug moeten fietsers omrijden. — Because of the closed bridge cyclists have to take a detour.\n\n### The extended attribute\n\nEverything that belongs to the participle, such as the doer with `door`, a time, a place or an object, stands **between the article and the participle**. The noun comes last. Grammars call this *de uitgebreide bijvoeglijke bepaling*.\n\n| relative clause | extended attribute |\n| de brug die vorig jaar is geopend | de vorig jaar geopende brug |\n| het huis dat door de gemeente is gebouwd | het door de gemeente gebouwde huis |\n| de mensen die in het centrum wonen | de in het centrum wonende mensen |\n\n> Het door de gemeente gebouwde parkeergebouw staat al jaren leeg. — The car park built by the municipality has been empty for years.\n> De in het centrum wonende mensen klagen over het lawaai. — The people living in the centre complain about the noise.\n\n**Reading one**: when an article is followed by a preposition or an adverb, read on to the participle and the noun: `het | door de gemeente | gebouwde | huis`.\n\n**Making one**: drop `die`/`dat` and the auxiliary (`is`, `wordt`, `werd`), keep the rest in order, and put the participle with its ending right before the noun. With a present participle the verb itself becomes the participle: `die … wonen` → `wonende`.\n\n### te + infinitive as an adjective\n\n`te` + infinitive in front of a noun means **that must be done** or **that can be done**, like `zijn te` (unit B2 · 1). It never gets an ending.\n\n> De te verwachten kosten zijn hoger dan gepland. — The costs that can be expected are higher than planned.\n> De nog te bouwen wijk krijgt een eigen station. — The neighbourhood that is still to be built will get its own station.\n\nAlso: `een niet te missen kans` (a chance not to be missed).\n\n### Attribute or relative clause?\n\nThe extended attribute is written and formal. In speech, and whenever the attribute gets long, a relative clause is clearer: `het complex dat de gemeente in 2019 met twee corporaties heeft gebouwd` reads better than *het door de gemeente in 2019 met twee corporaties gebouwde complex*.\n\n### Watch out\n\n- Indefinite het-word: *een groeiende aantal → `een groeiend aantal`.\n- No extra -e after -en: *de geslotene brug → `de gesloten brug`.\n- No -end for a continuous tense: *Ik ben de plannen lezend → `Ik ben de plannen aan het lezen`.\n- No ending on te + infinitive: *de te bouwende woningen → `de te bouwen woningen`.\n- Everything before the participle: *de gebouwde door de gemeente woningen → `de door de gemeente gebouwde woningen`.\n\n### Compared with Ukrainian\n\nUkrainian participles work much the same: `збудований торік міст` is `de vorig jaar gebouwde brug`, with the article in front.",
+  "words": [
+    {
+      "nl": "bestemmingsplan",
+      "art": "het",
+      "pl": "bestemmingsplannen",
+      "en": "zoning plan",
+      "pos": "n"
+    },
+    {
+      "nl": "woningbouw",
+      "art": "de",
+      "pl": "",
+      "en": "house building / housing construction",
+      "pos": "n"
+    },
+    {
+      "nl": "nieuwbouwwijk",
+      "art": "de",
+      "pl": "nieuwbouwwijken",
+      "en": "new housing estate",
+      "pos": "n"
+    },
+    {
+      "nl": "infrastructuur",
+      "art": "de",
+      "pl": "",
+      "en": "infrastructure",
+      "pos": "n"
+    },
+    {
+      "nl": "renovatie",
+      "art": "de",
+      "pl": "renovaties",
+      "en": "renovation",
+      "pos": "n"
+    },
+    {
+      "nl": "bouwvergunning",
+      "art": "de",
+      "pl": "bouwvergunningen",
+      "en": "building permit",
+      "pos": "n"
+    },
+    {
+      "nl": "aannemer",
+      "art": "de",
+      "pl": "aannemers",
+      "en": "(building) contractor",
+      "pos": "n"
+    },
+    {
+      "nl": "woningnood",
+      "art": "de",
+      "pl": "",
+      "en": "housing shortage",
+      "pos": "n"
+    },
+    {
+      "nl": "stedenbouwkundige",
+      "art": "de",
+      "pl": "stedenbouwkundigen",
+      "en": "urban planner",
+      "pos": "n"
+    },
+    {
+      "nl": "slopen",
+      "past": "sloopte",
+      "perf": "heeft gesloopt",
+      "en": "to demolish",
+      "pos": "v"
+    },
+    {
+      "nl": "renoveren",
+      "past": "renoveerde",
+      "perf": "heeft gerenoveerd",
+      "en": "to renovate",
+      "pos": "v"
+    },
+    {
+      "nl": "verbreden",
+      "past": "verbreedde",
+      "perf": "heeft verbreed",
+      "en": "to widen",
+      "pos": "v"
+    },
+    {
+      "nl": "aanleggen",
+      "past": "legde aan",
+      "perf": "heeft aangelegd",
+      "en": "to construct (a road, park or line)",
+      "pos": "v"
+    },
+    {
+      "nl": "betaalbaar",
+      "en": "affordable",
+      "pos": "adj"
+    },
+    {
+      "nl": "leegstaand",
+      "en": "empty / vacant (of a building)",
+      "pos": "adj"
+    },
+    {
+      "nl": "toenemend",
+      "en": "increasing",
+      "pos": "adj"
+    }
+  ],
+  "sentences": [
+    {
+      "nl": "De groeiende stad heeft dringend meer betaalbare woningen nodig.",
+      "en": "The growing city urgently needs more affordable homes.",
+      "hint": [
+        "groeien",
+        "stad",
+        "dringend",
+        "betaalbaar",
+        "woning",
+        "nodig"
+      ],
+      "note": "groeiend is the present participle: groeien + d. Before a de-word with de it gets -e: de groeiende stad.",
+      "alt": [
+        "De groeiende stad heeft meer betaalbare woningen dringend nodig."
+      ]
+    },
+    {
+      "nl": "Door de woningnood vindt een toenemend aantal jongeren geen huis.",
+      "en": "Because of the housing shortage an increasing number of young people find no house.",
+      "hint": [
+        "woningnood",
+        "vinden",
+        "toenemend",
+        "aantal",
+        "jongere",
+        "huis"
+      ],
+      "note": "Het aantal is a het-word, and with een it gets no -e: een toenemend aantal. The verb may be singular (aantal) or plural (jongeren).",
+      "alt": [
+        "Door de woningnood vinden een toenemend aantal jongeren geen huis.",
+        "Een toenemend aantal jongeren vindt door de woningnood geen huis.",
+        "Een toenemend aantal jongeren vinden door de woningnood geen huis."
+      ]
+    },
+    {
+      "nl": "Het leegstaande kantoorgebouw wordt omgebouwd tot appartementen.",
+      "en": "The empty office building is being converted into flats.",
+      "hint": [
+        "leegstaand",
+        "kantoorgebouw",
+        "ombouwen",
+        "appartement"
+      ],
+      "note": "leegstaand is the present participle of leegstaan: the building is standing empty. With het it gets -e: het leegstaande kantoorgebouw.",
+      "alt": [
+        "Het leegstaande kantoorgebouw wordt tot appartementen omgebouwd."
+      ]
+    },
+    {
+      "nl": "Zuchtend bekeek de stedenbouwkundige de nieuwe tekeningen.",
+      "en": "Sighing, the urban planner looked at the new drawings.",
+      "hint": [
+        "zuchten",
+        "bekijken",
+        "stedenbouwkundige",
+        "nieuw",
+        "tekening"
+      ],
+      "note": "Without a noun the present participle tells how someone does something, and has no ending: zuchtend. It takes the first place, so the verb follows.",
+      "alt": [
+        "De stedenbouwkundige bekeek zuchtend de nieuwe tekeningen."
+      ]
+    },
+    {
+      "nl": "De verouderde infrastructuur van de stad moet worden vernieuwd.",
+      "en": "The outdated infrastructure of the city must be renewed.",
+      "hint": [
+        "verouderen",
+        "infrastructuur",
+        "stad",
+        "moeten",
+        "vernieuwen"
+      ],
+      "note": "verouderd is the past participle of verouderen, used as an adjective: de verouderde infrastructuur. The -e follows the normal rule.",
+      "alt": [
+        "De verouderde infrastructuur van de stad moet vernieuwd worden."
+      ]
+    },
+    {
+      "nl": "Het door de gemeente gebouwde parkeergebouw staat al jaren leeg.",
+      "en": "The car park built by the municipality has been empty for years. (with an extended attribute)",
+      "hint": [
+        "gemeente",
+        "bouwen",
+        "parkeergebouw",
+        "jaren",
+        "leegstaan"
+      ],
+      "note": "Extended attribute: door de gemeente stands between het and the participle gebouwde, and the noun comes last. Al jaren with the present tense: has been … for years."
+    },
+    {
+      "nl": "De vorig jaar verbrede weg is nu alweer te smal.",
+      "en": "The road that was widened last year is already too narrow again now. (with an extended attribute)",
+      "hint": [
+        "vorig jaar",
+        "verbreden",
+        "weg",
+        "alweer",
+        "smal"
+      ],
+      "note": "verbreed + e → verbrede: the open syllable needs only one e. The time vorig jaar stands between de and the participle.",
+      "alt": [
+        "De vorig jaar verbrede weg is alweer te smal."
+      ]
+    },
+    {
+      "nl": "De in het centrum wonende mensen klagen over het lawaai van de woningbouw.",
+      "en": "The people living in the centre complain about the noise of the house building. (with an extended attribute)",
+      "hint": [
+        "centrum",
+        "wonen",
+        "mens",
+        "klagen",
+        "lawaai",
+        "woningbouw"
+      ],
+      "note": "A present participle with its place in front of it: de in het centrum wonende mensen = de mensen die in het centrum wonen."
+    },
+    {
+      "nl": "De te verwachten kosten van de renovatie zijn veel hoger dan gepland.",
+      "en": "The costs to be expected for the renovation are much higher than planned.",
+      "hint": [
+        "verwachten",
+        "kosten",
+        "renovatie",
+        "hoog",
+        "plannen"
+      ],
+      "note": "te + infinitive before a noun: de te verwachten kosten = the costs that can be expected. Te verwachten has no ending."
+    },
+    {
+      "nl": "De nog te bouwen nieuwbouwwijk krijgt een eigen station.",
+      "en": "The new housing estate that is still to be built will get its own station. (with te + infinitive)",
+      "hint": [
+        "nog",
+        "bouwen",
+        "nieuwbouwwijk",
+        "krijgen",
+        "eigen",
+        "station"
+      ],
+      "note": "de nog te bouwen nieuwbouwwijk: te + infinitive means it still has to be built. The present tense krijgt is enough for the future.",
+      "alt": [
+        "De nog te bouwen nieuwbouwwijk zal een eigen station krijgen."
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "type": "choose",
+      "nl": "Een ___ aantal bewoners klaagt over de bouw.",
+      "options": [
+        "groeiende",
+        "groeiend",
+        "gegroeide"
+      ],
+      "correct": 1,
+      "en": "A growing number of residents complain about the building work.",
+      "note": "Het aantal is a het-word, and after een a het-word gets no -e: een groeiend aantal. Gegroeide would mean 'that has grown' and needs a different ending too."
+    },
+    {
+      "type": "choose",
+      "nl": "De ___ brug is weer open voor het verkeer.",
+      "options": [
+        "verbreedde",
+        "verbreed",
+        "verbrede",
+        "verbreedte"
+      ],
+      "correct": 2,
+      "en": "The widened bridge is open to traffic again.",
+      "note": "The participle verbreed gets -e before de brug, and in an open syllable one e is enough: verbrede. Verbreedde is the simple past, not an adjective."
+    },
+    {
+      "type": "choose",
+      "nl": "Op de plek van het ___ gebouw komen nieuwe woningen.",
+      "options": [
+        "gesloopt",
+        "gesloopde",
+        "gesloopte",
+        "slopende"
+      ],
+      "correct": 2,
+      "en": "New homes are coming on the site of the demolished building.",
+      "note": "Slopen has the stem sloop; p is in 't kofschip, so the participle is gesloopt and with -e gesloopte. Slopende would mean the building is doing the demolishing."
+    },
+    {
+      "type": "choose",
+      "nl": "De ___ maatregelen worden morgen bekendgemaakt.",
+      "options": [
+        "te nemende",
+        "nemen",
+        "te nemen"
+      ],
+      "correct": 2,
+      "en": "The measures to be taken will be announced tomorrow.",
+      "note": "te + infinitive before a noun means 'that must be done' and never gets an ending: de te nemen maatregelen."
+    },
+    {
+      "type": "gap",
+      "nl": "De wethouder opende ___ (lachen) het nieuwe fietspad.",
+      "answers": [
+        "lachend"
+      ],
+      "en": "Laughing, the alderman opened the new cycle path.",
+      "note": "The present participle as an adverb of manner: lachen + d, without an ending, because there is no noun after it."
+    },
+    {
+      "type": "gap",
+      "nl": "De ___ (renoveren) flats zijn alweer verhuurd.",
+      "answers": [
+        "gerenoveerde"
+      ],
+      "en": "The renovated flats have already been let again.",
+      "note": "Renoveren: ge- + the stem renoveer + d (r is not in 't kofschip). Before de flats it gets -e: gerenoveerde."
+    },
+    {
+      "type": "gap",
+      "nl": "Dit is het in 2020 ___ (aanleggen) park.",
+      "answers": [
+        "aangelegde"
+      ],
+      "en": "This is the park that was laid out in 2020.",
+      "note": "Extended attribute: in 2020 stands between het and the participle. Aanleggen → aangelegd, and with het + noun it gets -e: aangelegde."
+    },
+    {
+      "type": "gap",
+      "nl": "Door de ___ (sluiten) brug moeten we omrijden.",
+      "answers": [
+        "gesloten"
+      ],
+      "en": "Because of the closed bridge we have to take a detour.",
+      "note": "Gesloten ends in -en, and such participles get no extra -e: de gesloten brug, never *geslotene."
+    },
+    {
+      "type": "order",
+      "lead": "De",
+      "words": [
+        "door de aannemer",
+        "gebouwde",
+        "woningen",
+        "zijn",
+        "erg duur"
+      ],
+      "answers": [
+        "De door de aannemer gebouwde woningen zijn erg duur."
+      ],
+      "en": "The homes built by the contractor are very expensive.",
+      "note": "Everything that belongs to the participle stands between the article and the participle: de | door de aannemer | gebouwde | woningen."
+    },
+    {
+      "type": "order",
+      "lead": "Het",
+      "words": [
+        "vorig jaar",
+        "door de gemeenteraad",
+        "goedgekeurde",
+        "bestemmingsplan",
+        "wordt",
+        "aangepast"
+      ],
+      "answers": [
+        "Het vorig jaar door de gemeenteraad goedgekeurde bestemmingsplan wordt aangepast.",
+        "Het door de gemeenteraad vorig jaar goedgekeurde bestemmingsplan wordt aangepast."
+      ],
+      "en": "The zoning plan approved by the municipal council last year is being changed.",
+      "note": "Time and doer both go between het and goedgekeurde, usually the time first. The whole group het … bestemmingsplan is the subject, so wordt follows it."
+    },
+    {
+      "type": "order",
+      "lead": "De",
+      "words": [
+        "op de bus",
+        "wachtende",
+        "reizigers",
+        "stonden",
+        "in de regen"
+      ],
+      "answers": [
+        "De op de bus wachtende reizigers stonden in de regen."
+      ],
+      "en": "The travellers waiting for the bus stood in the rain.",
+      "note": "A present participle with what belongs to it: wachten op de bus → de op de bus wachtende reizigers. The preposition phrase comes first, the participle right before the noun."
+    },
+    {
+      "type": "rewrite",
+      "task": "Turn the relative clause into an extended attribute.",
+      "from": "Het park dat vorig jaar is aangelegd, is erg populair.",
+      "answers": [
+        "Het vorig jaar aangelegde park is erg populair."
+      ],
+      "en": "The park that was laid out last year is very popular.",
+      "note": "Drop dat and the auxiliary is, keep vorig jaar, and put the participle with -e before the noun: het vorig jaar aangelegde park."
+    },
+    {
+      "type": "rewrite",
+      "task": "Turn the extended attribute into a relative clause with die.",
+      "from": "De in de nieuwbouwwijk wonende gezinnen willen een school.",
+      "answers": [
+        "De gezinnen die in de nieuwbouwwijk wonen, willen een school."
+      ],
+      "en": "The families who live in the new housing estate want a school.",
+      "note": "The present participle becomes a conjugated verb at the end of the relative clause: die … wonen. Gezinnen is plural, so wonen."
+    },
+    {
+      "type": "rewrite",
+      "task": "Turn the extended attribute into a relative clause in the passive, with die … is.",
+      "from": "De door de aannemer aangevraagde bouwvergunning is geweigerd.",
+      "answers": [
+        "De bouwvergunning die door de aannemer is aangevraagd, is geweigerd.",
+        "De bouwvergunning die door de aannemer aangevraagd is, is geweigerd.",
+        "De bouwvergunning die is aangevraagd door de aannemer, is geweigerd."
+      ],
+      "en": "The building permit that was applied for by the contractor has been refused.",
+      "note": "The participle goes back into a passive relative clause: die door de aannemer is aangevraagd. Is and the participle may stand in either order."
+    },
+    {
+      "type": "fix",
+      "wrong": "Ik ben de plannen voor de nieuwe wijk lezend.",
+      "answers": [
+        "Ik ben de plannen voor de nieuwe wijk aan het lezen.",
+        "Ik lees de plannen voor de nieuwe wijk."
+      ],
+      "en": "I am reading the plans for the new neighbourhood.",
+      "note": "Dutch does not make a continuous tense with the present participle. Use aan het + infinitive, or simply the present tense."
+    },
+    {
+      "type": "fix",
+      "wrong": "De te bouwende woningen moeten betaalbaar zijn.",
+      "answers": [
+        "De te bouwen woningen moeten betaalbaar zijn."
+      ],
+      "en": "The homes that are to be built must be affordable.",
+      "note": "te + infinitive before a noun gets no ending: de te bouwen woningen. Te bouwende mixes it up with the present participle bouwende."
+    }
+  ]
+}

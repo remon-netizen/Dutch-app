@@ -1,0 +1,535 @@
+{
+  "id": "b2-02",
+  "level": "B2",
+  "icon": "🔙",
+  "title": "Looking back",
+  "grammar": "The unreal past: als ik dat had geweten …",
+  "summary": "What did not happen: als + past perfect (Als ik het had geweten), then the verb first: past perfect or zou + participle + hebben/zijn (was ik gekomen / zou ik zijn gekomen). had moeten / kunnen + infinitive.",
+  "explain": "Dutch talks about things that did **not** happen, and what would have followed, with the past perfect (*de voltooid verleden tijd*): `Als ik dat had geweten, was ik gekomen`, if I had known that, I would have come. This is the grammar of regret, reproach and missed chances.\n\n### The als-clause: the past perfect\n\n`als` + subject + `had` or `was` + participle. The auxiliary is the same as in the perfect: `hebben` for most verbs, `zijn` for a change of place or state (`emigreren`, `vertrekken`, `beginnen`, `worden`). It is a sub-clause, so the verbs go to the end, in either order: `had geweten` or `geweten had`.\n\n> Als hij niet was geëmigreerd, had hij haar nooit ontmoet. — If he had not emigrated, he would never have met her.\n\n### The main clause: two forms\n\n| form | example |\n| past perfect | was ik gekomen |\n| zou + participle + hebben/zijn | zou ik zijn gekomen |\n\nBoth are standard. The past perfect is shorter and more common in speech; `zou` sounds a little more careful. With `zou` the participle and `hebben`/`zijn` may stand in either order: `zou ik zijn gekomen` or `zou ik gekomen zijn`.\n\nWhen the als-clause comes first, it takes the first place, so the main clause **starts with the verb**. You may put `dan` in between. The als-clause can also come second:\n\n> Als ik dat had geweten, zou ik eerder zijn vertrokken. — If I had known that, I would have left earlier.\n> Ik was eerder vertrokken als ik dat had geweten. — I would have left earlier if I had known that.\n\n### Should have, could have\n\n`had` + modal verb + infinitive is the everyday way to talk about what should or could have happened:\n\n- `had moeten`: should have (reproach, regret)\n- `had kunnen`: could have (a missed chance)\n- `had mogen`: should have been allowed to; also a mild reproach (`Dat had je wel even mogen zeggen`)\n- `had willen`: would have liked to\n\n> Je had moeten bellen. — You should have called.\n> Ik had kunnen winnen. — I could have won.\n> Dat had ik niet moeten doen. — I should not have done that.\n\nThe modal stays an **infinitive** when another verb follows (unit B1 · 26): never *had gemoeten bellen. Only on its own does it become a participle: `Dat had ik niet gewild`.\n\n### Without als: the verb first\n\nPut `had` or `was` at the start and add `maar`, and you have a wish about the past: *if only*. Without `maar`, the same order replaces an als-clause, usually followed by `dan`; this is a little more formal.\n\n> Had ik dat maar geweten! — If only I had known that!\n> Was hij maar eerder gekomen! — If only he had come earlier!\n> Had ik die kans gegrepen, dan was alles anders gelopen. — Had I taken that chance, everything would have turned out differently.\n\n### bijna and anders\n\n`bijna` with the past perfect: something almost happened, but did not: `Ik was bijna gevallen`. The perfect is used just as much, with the same meaning: `Ik ben bijna gevallen`. `anders` (otherwise) is followed by the verb: `Ik had het druk, anders was ik gekomen`.\n\n### A past condition with a result now\n\nWhen the result is about **now**, the main clause has the unreal present (unit B1 · 12): the simple past or `zou` + infinitive. Here `had` is simply the past of `hebben`:\n\n> Als ik toen had gespaard, had ik nu een huis. — If I had saved back then, I would have a house now.\n\n### Watch out\n\n- Verb first after the als-clause: *Als ik dat had geweten, ik was gekomen → `…, was ik gekomen`.\n- `zijn` with verbs of change: *Als hij niet had geëmigreerd → `Als hij niet was geëmigreerd`.\n- Infinitive, not participle: *Ik had het gemoeten zeggen → `Ik had het moeten zeggen`.\n- `zou` needs its `hebben` or `zijn`: *zou ik gekomen → `zou ik gekomen zijn`.\n- `zou` in the als-clause as well (*Als ik het zou hebben geweten, zou ik …) is heard, but in writing put the past perfect after als: `Als ik het had geweten, zou ik …`.\n\n### Compared with Ukrainian\n\nUkrainian uses `б`/`би` + past tense for now and for then alike: `Якби я знав, я б прийшов`. Dutch keeps them apart: `Als ik het wist, zou ik komen` (now) against `Als ik het had geweten, was ik gekomen` (then).",
+  "words": [
+    {
+      "nl": "spijt",
+      "art": "de",
+      "pl": "",
+      "en": "regret",
+      "pos": "n",
+      "tag": "spijt hebben van"
+    },
+    {
+      "nl": "keerpunt",
+      "art": "het",
+      "pl": "keerpunten",
+      "en": "turning point",
+      "pos": "n"
+    },
+    {
+      "nl": "tweesprong",
+      "art": "de",
+      "pl": "tweesprongen",
+      "en": "crossroads (a choice between two ways)",
+      "pos": "n"
+    },
+    {
+      "nl": "afweging",
+      "art": "de",
+      "pl": "afwegingen",
+      "en": "weighing up / consideration",
+      "pos": "n"
+    },
+    {
+      "nl": "omscholing",
+      "art": "de",
+      "pl": "omscholingen",
+      "en": "retraining (for a new profession)",
+      "pos": "n"
+    },
+    {
+      "nl": "dilemma",
+      "art": "het",
+      "pl": "dilemma's",
+      "en": "dilemma",
+      "pos": "n"
+    },
+    {
+      "nl": "loopbaan",
+      "art": "de",
+      "pl": "loopbanen",
+      "en": "career",
+      "pos": "n"
+    },
+    {
+      "nl": "levenskeuze",
+      "art": "de",
+      "pl": "levenskeuzes",
+      "en": "life choice",
+      "pos": "n"
+    },
+    {
+      "nl": "betreuren",
+      "past": "betreurde",
+      "perf": "heeft betreurd",
+      "en": "to regret (formal)",
+      "pos": "v"
+    },
+    {
+      "nl": "overwegen",
+      "past": "overwoog",
+      "perf": "heeft overwogen",
+      "en": "to consider",
+      "pos": "v"
+    },
+    {
+      "nl": "aarzelen",
+      "past": "aarzelde",
+      "perf": "heeft geaarzeld",
+      "en": "to hesitate",
+      "pos": "v"
+    },
+    {
+      "nl": "afslaan",
+      "past": "sloeg af",
+      "perf": "heeft afgeslagen",
+      "en": "to turn down (an offer)",
+      "pos": "v"
+    },
+    {
+      "nl": "stopzetten",
+      "past": "zette stop",
+      "perf": "heeft stopgezet",
+      "en": "to discontinue / to stop (for good)",
+      "pos": "v"
+    },
+    {
+      "nl": "emigreren",
+      "past": "emigreerde",
+      "perf": "is geëmigreerd",
+      "en": "to emigrate",
+      "pos": "v"
+    },
+    {
+      "nl": "destijds",
+      "en": "at the time (back then)",
+      "pos": "adv"
+    },
+    {
+      "nl": "ingrijpend",
+      "en": "drastic / far-reaching",
+      "pos": "adj"
+    }
+  ],
+  "sentences": [
+    {
+      "nl": "Als ik dat destijds had geweten, was ik nooit geëmigreerd.",
+      "en": "If I had known that at the time, I would never have emigrated.",
+      "hint": [
+        "als",
+        "destijds",
+        "weten",
+        "nooit",
+        "emigreren"
+      ],
+      "note": "Als-clause: past perfect, had geweten. Main clause: past perfect again, and with zijn, because emigreren is a change of place: was geëmigreerd. The main clause starts with the verb.",
+      "alt": [
+        "Als ik dat destijds had geweten, dan was ik nooit geëmigreerd.",
+        "Als ik dat destijds had geweten, zou ik nooit zijn geëmigreerd.",
+        "Als ik dat destijds had geweten, dan zou ik nooit zijn geëmigreerd.",
+        "Als ik dat destijds had geweten, zou ik nooit geëmigreerd zijn.",
+        "Als ik dat destijds had geweten, dan zou ik nooit geëmigreerd zijn.",
+        "Als ik dat destijds geweten had, was ik nooit geëmigreerd.",
+        "Als ik dat destijds geweten had, dan was ik nooit geëmigreerd.",
+        "Als ik dat destijds geweten had, zou ik nooit zijn geëmigreerd.",
+        "Als ik dat destijds geweten had, dan zou ik nooit zijn geëmigreerd.",
+        "Als ik dat destijds geweten had, zou ik nooit geëmigreerd zijn.",
+        "Als ik dat destijds geweten had, dan zou ik nooit geëmigreerd zijn.",
+        "Had ik dat destijds geweten, dan was ik nooit geëmigreerd.",
+        "Had ik dat destijds geweten, dan zou ik nooit zijn geëmigreerd.",
+        "Had ik dat destijds geweten, dan zou ik nooit geëmigreerd zijn."
+      ]
+    },
+    {
+      "nl": "Als ze dat aanbod niet had afgeslagen, zou ze nu in het buitenland wonen.",
+      "en": "If she had not turned down that offer, she would be living abroad now.",
+      "hint": [
+        "als",
+        "aanbod",
+        "afslaan",
+        "nu",
+        "buitenland",
+        "wonen"
+      ],
+      "note": "A past condition (had afgeslagen) with a result now: zou + infinitive, or the simple past woonde. Niet stands before the verbs at the end.",
+      "alt": [
+        "Als ze dat aanbod niet had afgeslagen, dan zou ze nu in het buitenland wonen.",
+        "Als ze dat aanbod niet had afgeslagen, woonde ze nu in het buitenland.",
+        "Als ze dat aanbod niet had afgeslagen, dan woonde ze nu in het buitenland.",
+        "Als ze dat aanbod niet afgeslagen had, zou ze nu in het buitenland wonen.",
+        "Als ze dat aanbod niet afgeslagen had, dan zou ze nu in het buitenland wonen.",
+        "Als ze dat aanbod niet afgeslagen had, woonde ze nu in het buitenland.",
+        "Als ze dat aanbod niet afgeslagen had, dan woonde ze nu in het buitenland."
+      ]
+    },
+    {
+      "nl": "Je had me moeten vertellen dat je twijfelde.",
+      "en": "You should have told me that you were having doubts.",
+      "hint": [
+        "moeten",
+        "vertellen",
+        "twijfelen"
+      ],
+      "note": "Should have = had moeten + infinitive. Moeten is an infinitive here, not *gemoeten, because vertellen follows it.",
+      "alt": [
+        "Je had mij moeten vertellen dat je twijfelde.",
+        "Jij had me moeten vertellen dat je twijfelde.",
+        "Jij had mij moeten vertellen dat je twijfelde.",
+        "Je had me moeten vertellen dat jij twijfelde."
+      ]
+    },
+    {
+      "nl": "Achteraf had ik die baan nooit moeten opgeven.",
+      "en": "In hindsight I should never have given up that job.",
+      "hint": [
+        "achteraf",
+        "baan",
+        "nooit",
+        "moeten",
+        "opgeven"
+      ],
+      "note": "had moeten + infinitive for regret. The separable verb may stay in one piece at the end (moeten opgeven) or its prefix may stand before the group (op moeten geven).",
+      "alt": [
+        "Achteraf had ik die baan nooit op moeten geven.",
+        "Achteraf gezien had ik die baan nooit moeten opgeven.",
+        "Achteraf gezien had ik die baan nooit op moeten geven.",
+        "Ik had die baan achteraf nooit moeten opgeven.",
+        "Ik had die baan achteraf nooit op moeten geven."
+      ]
+    },
+    {
+      "nl": "Ik had die kans kunnen grijpen, maar ik aarzelde te lang.",
+      "en": "I could have seized that chance, but I hesitated too long.",
+      "hint": [
+        "kans",
+        "kunnen",
+        "grijpen",
+        "aarzelen",
+        "lang"
+      ],
+      "note": "Could have = had kunnen + infinitive: a missed chance. The second half tells what really happened, so it is an ordinary past tense.",
+      "alt": [
+        "Ik had die kans kunnen grijpen, maar ik heb te lang geaarzeld.",
+        "Die kans had ik kunnen grijpen, maar ik aarzelde te lang.",
+        "Die kans had ik kunnen grijpen, maar ik heb te lang geaarzeld."
+      ]
+    },
+    {
+      "nl": "Was ik maar nooit aan die opleiding begonnen!",
+      "en": "If only I had never started that course!",
+      "hint": [
+        "zijn",
+        "maar",
+        "nooit",
+        "opleiding",
+        "beginnen"
+      ],
+      "note": "A wish about the past: the auxiliary first, then maar. Beginnen takes zijn, so it is Was ik, not *Had ik.",
+      "alt": [
+        "Als ik maar nooit aan die opleiding was begonnen!",
+        "Als ik maar nooit aan die opleiding begonnen was!",
+        "Was ik maar nooit met die opleiding begonnen!",
+        "Als ik maar nooit met die opleiding was begonnen!",
+        "Als ik maar nooit met die opleiding begonnen was!"
+      ]
+    },
+    {
+      "nl": "Na twee jaar twijfel had ik mijn omscholing bijna stopgezet.",
+      "en": "After two years of doubt I had almost stopped my retraining.",
+      "hint": [
+        "twee",
+        "jaar",
+        "twijfel",
+        "omscholing",
+        "bijna",
+        "stopzetten"
+      ],
+      "note": "bijna + past perfect: it almost happened, but it did not. The perfect (heb ik … bijna stopgezet) says the same and is just as common.",
+      "alt": [
+        "Na twee jaar twijfel heb ik mijn omscholing bijna stopgezet.",
+        "Ik had mijn omscholing na twee jaar twijfel bijna stopgezet.",
+        "Ik heb mijn omscholing na twee jaar twijfel bijna stopgezet."
+      ]
+    },
+    {
+      "nl": "Gelukkig aarzelde ik destijds niet, anders had ik deze baan nooit gekregen.",
+      "en": "Luckily I did not hesitate at the time, otherwise I would never have got this job.",
+      "hint": [
+        "gelukkig",
+        "aarzelen",
+        "destijds",
+        "anders",
+        "baan",
+        "krijgen"
+      ],
+      "note": "anders introduces what would have happened, and the verb follows it directly: anders had ik. The first half is what really happened.",
+      "alt": [
+        "Gelukkig aarzelde ik destijds niet, anders zou ik deze baan nooit hebben gekregen.",
+        "Gelukkig aarzelde ik destijds niet, anders zou ik deze baan nooit gekregen hebben.",
+        "Gelukkig heb ik destijds niet geaarzeld, anders had ik deze baan nooit gekregen.",
+        "Gelukkig heb ik destijds niet geaarzeld, anders zou ik deze baan nooit hebben gekregen.",
+        "Gelukkig heb ik destijds niet geaarzeld, anders zou ik deze baan nooit gekregen hebben."
+      ]
+    },
+    {
+      "nl": "Als ik toen had gespaard, had ik nu een eigen huis.",
+      "en": "If I had saved back then, I would have my own house now.",
+      "hint": [
+        "als",
+        "toen",
+        "sparen",
+        "nu",
+        "eigen",
+        "huis"
+      ],
+      "note": "The condition is in the past (had gespaard), the result is now. In the main clause had is the simple past of hebben: I would have, not I would have had.",
+      "alt": [
+        "Als ik toen had gespaard, dan had ik nu een eigen huis.",
+        "Als ik toen had gespaard, zou ik nu een eigen huis hebben.",
+        "Als ik toen had gespaard, dan zou ik nu een eigen huis hebben.",
+        "Als ik toen gespaard had, had ik nu een eigen huis.",
+        "Als ik toen gespaard had, dan had ik nu een eigen huis.",
+        "Als ik toen gespaard had, zou ik nu een eigen huis hebben.",
+        "Als ik toen gespaard had, dan zou ik nu een eigen huis hebben."
+      ]
+    },
+    {
+      "nl": "Zonder die ingrijpende beslissing zou mijn leven er heel anders hebben uitgezien.",
+      "en": "Without that drastic decision my life would have looked very different.",
+      "hint": [
+        "zonder",
+        "ingrijpend",
+        "beslissing",
+        "leven",
+        "anders",
+        "uitzien"
+      ],
+      "note": "The condition is in zonder …, so there is no als-clause. zou + hebben + participle; the past perfect is just as good: had mijn leven er heel anders uitgezien.",
+      "alt": [
+        "Zonder die ingrijpende beslissing zou mijn leven er heel anders uitgezien hebben.",
+        "Zonder die ingrijpende beslissing zou mijn leven er heel anders uit hebben gezien.",
+        "Zonder die ingrijpende beslissing had mijn leven er heel anders uitgezien.",
+        "Mijn leven zou er zonder die ingrijpende beslissing heel anders hebben uitgezien.",
+        "Mijn leven had er zonder die ingrijpende beslissing heel anders uitgezien."
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "type": "choose",
+      "nl": "Als ik van je dilemma had geweten, ___ ik je geholpen.",
+      "options": [
+        "heb",
+        "had",
+        "zou",
+        "was"
+      ],
+      "correct": 1,
+      "en": "If I had known about your dilemma, I would have helped you.",
+      "note": "The main clause takes the past perfect: had geholpen (helpen takes hebben). Zou would need hebben at the end (zou ik je hebben geholpen), and heb is a plain perfect."
+    },
+    {
+      "type": "choose",
+      "nl": "Als hij niet ___ geëmigreerd, had hij zijn vrouw nooit ontmoet.",
+      "options": [
+        "had",
+        "was",
+        "zou"
+      ],
+      "correct": 1,
+      "en": "If he had not emigrated, he would never have met his wife.",
+      "note": "Emigreren is a change of place, so its perfect takes zijn: is geëmigreerd, and the past perfect was geëmigreerd. Not *had geëmigreerd."
+    },
+    {
+      "type": "choose",
+      "nl": "Je had de gevolgen beter ___ overwegen.",
+      "options": [
+        "gemoeten",
+        "moeten",
+        "moest",
+        "te moeten"
+      ],
+      "correct": 1,
+      "en": "You should have considered the consequences more carefully.",
+      "note": "had + modal + infinitive: had moeten overwegen. With another verb after it the modal is an infinitive, never *gemoeten."
+    },
+    {
+      "type": "choose",
+      "nl": "Ik stond toen op een tweesprong. Als ik anders ___ gekozen, was ik nu arts.",
+      "options": [
+        "zou",
+        "was",
+        "heb",
+        "had"
+      ],
+      "correct": 3,
+      "en": "I was at a crossroads then. If I had chosen differently, I would be a doctor now.",
+      "note": "The als-clause is about the past: had gekozen (kiezen takes hebben). The result is about now, so the main clause has the simple past was ik nu arts."
+    },
+    {
+      "type": "gap",
+      "nl": "Als we nog langer ___ (aarzelen), was de kans voorbij geweest.",
+      "answers": [
+        "hadden geaarzeld",
+        "geaarzeld hadden"
+      ],
+      "en": "If we had hesitated any longer, the chance would have been gone.",
+      "note": "Past perfect in the als-clause, with hebben: hadden geaarzeld. In a sub-clause the two verbs may stand in either order."
+    },
+    {
+      "type": "gap",
+      "nl": "Ach, ___ (zijn) we maar nooit naar die stad verhuisd!",
+      "answers": [
+        "waren"
+      ],
+      "en": "Oh, if only we had never moved to that city!",
+      "note": "A wish about the past starts with the auxiliary, followed by maar. Verhuizen takes zijn (we zijn verhuisd), and we is plural: waren."
+    },
+    {
+      "type": "gap",
+      "nl": "Ik ___ (zijn) bijna te laat gekomen voor het gesprek dat een keerpunt in mijn loopbaan werd.",
+      "answers": [
+        "was",
+        "ben"
+      ],
+      "en": "I almost arrived late for the interview that became a turning point in my career.",
+      "note": "bijna + past perfect (was … gekomen) says it almost happened but did not. The perfect, ben … gekomen, is used with the same meaning. Komen takes zijn."
+    },
+    {
+      "type": "gap",
+      "nl": "Als je toen die levenskeuze had gemaakt, ___ (hebben) je er nu spijt van.",
+      "answers": [
+        "had"
+      ],
+      "en": "If you had made that life choice back then, you would regret it now.",
+      "note": "The condition is past, the result is now: the main clause has the simple past of hebben, had je er nu spijt van. Not *had gehad, because the regret would be now."
+    },
+    {
+      "type": "order",
+      "lead": "Als ik meer tijd had gehad,",
+      "words": [
+        "had",
+        "ik",
+        "die afweging",
+        "zorgvuldiger",
+        "gemaakt"
+      ],
+      "answers": [
+        "Als ik meer tijd had gehad, had ik die afweging zorgvuldiger gemaakt."
+      ],
+      "en": "If I had had more time, I would have weighed it up more carefully.",
+      "note": "The als-clause fills the first place, so the main clause starts with the verb had and then the subject. The participle gemaakt closes the sentence."
+    },
+    {
+      "type": "order",
+      "lead": "Je",
+      "words": [
+        "had",
+        "me",
+        "dat dilemma",
+        "moeten",
+        "voorleggen"
+      ],
+      "answers": [
+        "Je had me dat dilemma moeten voorleggen."
+      ],
+      "en": "You should have put that dilemma to me.",
+      "note": "had in second place, the two infinitives moeten voorleggen at the end. The short pronoun me comes before the object dat dilemma."
+    },
+    {
+      "type": "order",
+      "lead": "Had ik die kans gegrepen,",
+      "words": [
+        "dan",
+        "was",
+        "mijn leven",
+        "heel anders",
+        "gelopen"
+      ],
+      "answers": [
+        "Had ik die kans gegrepen, dan was mijn leven heel anders gelopen."
+      ],
+      "en": "Had I taken that chance, my life would have turned out very differently.",
+      "note": "The inverted clause replaces an als-clause. Dan takes the first place of the main clause, so the verb was follows it directly. Lopen takes zijn here: is gelopen."
+    },
+    {
+      "type": "rewrite",
+      "task": "Join them into one sentence that starts with Als: what would have happened if I had known?",
+      "from": "Ik wist het niet, dus ik ben niet gekomen.",
+      "answers": [
+        "Als ik het had geweten, was ik gekomen.",
+        "Als ik het had geweten, dan was ik gekomen.",
+        "Als ik het had geweten, zou ik zijn gekomen.",
+        "Als ik het had geweten, dan zou ik zijn gekomen.",
+        "Als ik het had geweten, zou ik gekomen zijn.",
+        "Als ik het had geweten, dan zou ik gekomen zijn.",
+        "Als ik het geweten had, was ik gekomen.",
+        "Als ik het geweten had, dan was ik gekomen.",
+        "Als ik het geweten had, zou ik zijn gekomen.",
+        "Als ik het geweten had, dan zou ik zijn gekomen.",
+        "Als ik het geweten had, zou ik gekomen zijn.",
+        "Als ik het geweten had, dan zou ik gekomen zijn."
+      ],
+      "en": "If I had known, I would have come.",
+      "note": "What did not happen goes into the past perfect: als ik het had geweten. The result is past perfect or zou + participle + zijn (komen takes zijn), with the verb first. Niet disappears: both halves are now the opposite of what happened."
+    },
+    {
+      "type": "rewrite",
+      "task": "Say it as a wish: start with the verb and use maar.",
+      "from": "Ik betreur het dat ik niet ben gegaan.",
+      "answers": [
+        "Was ik maar gegaan!"
+      ],
+      "en": "If only I had gone!",
+      "note": "A wish about the past: the auxiliary of the perfect first (ben becomes was), then the subject, maar, and the participle at the end."
+    },
+    {
+      "type": "rewrite",
+      "task": "Write it in good formal Dutch: no zou in the als-clause.",
+      "from": "Als mijn werkgever mij zou hebben gesteund, zou ik met de omscholing zijn begonnen.",
+      "answers": [
+        "Als mijn werkgever mij had gesteund, zou ik met de omscholing zijn begonnen.",
+        "Als mijn werkgever mij had gesteund, zou ik met de omscholing begonnen zijn.",
+        "Als mijn werkgever mij had gesteund, was ik met de omscholing begonnen.",
+        "Als mijn werkgever mij gesteund had, zou ik met de omscholing zijn begonnen.",
+        "Als mijn werkgever mij gesteund had, zou ik met de omscholing begonnen zijn.",
+        "Als mijn werkgever mij gesteund had, was ik met de omscholing begonnen.",
+        "Als mijn werkgever me had gesteund, zou ik met de omscholing zijn begonnen.",
+        "Als mijn werkgever me had gesteund, zou ik met de omscholing begonnen zijn.",
+        "Als mijn werkgever me had gesteund, was ik met de omscholing begonnen.",
+        "Als mijn werkgever me gesteund had, zou ik met de omscholing zijn begonnen.",
+        "Als mijn werkgever me gesteund had, zou ik met de omscholing begonnen zijn.",
+        "Als mijn werkgever me gesteund had, was ik met de omscholing begonnen."
+      ],
+      "en": "If my employer had supported me, I would have started the retraining.",
+      "note": "zou twice is heard in speech, but in writing the als-clause takes the past perfect: had gesteund. The main clause may keep zou or use the past perfect, was begonnen."
+    },
+    {
+      "type": "fix",
+      "wrong": "Ik had dat nooit gemoeten zeggen.",
+      "answers": [
+        "Ik had dat nooit moeten zeggen.",
+        "Dat had ik nooit moeten zeggen."
+      ],
+      "en": "I should never have said that.",
+      "note": "When another infinitive follows, the modal does not become a participle: had moeten zeggen, two infinitives at the end."
+    },
+    {
+      "type": "fix",
+      "wrong": "Als hij het aanbod had aangenomen, had hij naar Canada geëmigreerd.",
+      "answers": [
+        "Als hij het aanbod had aangenomen, was hij naar Canada geëmigreerd.",
+        "Als hij het aanbod had aangenomen, zou hij naar Canada zijn geëmigreerd.",
+        "Als hij het aanbod had aangenomen, zou hij naar Canada geëmigreerd zijn."
+      ],
+      "en": "If he had accepted the offer, he would have emigrated to Canada.",
+      "note": "Emigreren takes zijn, also in the unreal past: was geëmigreerd, or zou … zijn geëmigreerd. Aannemen takes hebben, so the als-clause is right."
+    }
+  ]
+}

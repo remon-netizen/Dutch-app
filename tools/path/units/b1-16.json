@@ -1,0 +1,437 @@
+{
+  "id": "b1-16",
+  "level": "B1",
+  "icon": "❤️",
+  "title": "Feelings and relationships",
+  "grammar": "Verbs with a fixed preposition",
+  "summary": "Many verbs take one fixed preposition: wachten op, denken aan, houden van. Learn it with the verb. A thing becomes er + preposition (Ik reken erop), a person a pronoun (op hem). Niet goes before the preposition.",
+  "explain": "Many Dutch verbs are tied to one preposition: `wachten op`, `denken aan`, `houden van`. The preposition has no meaning of its own here; it simply belongs to the verb, and the part that follows it is called the *prepositional object* (het voorzetselvoorwerp). Which preposition it is cannot be worked out from English or Ukrainian, so learn every such verb as a pair.\n\n### The most common ones, by preposition\n\n- **op**: wachten op, rekenen op, vertrouwen op; boos, verliefd, trots, jaloers zijn op; zich verheugen op\n- **aan**: denken aan, twijfelen aan, wennen aan, lijden aan (an illness), zich ergeren aan\n- **naar**: luisteren naar, kijken naar, verlangen naar\n- **om**: lachen om, vragen om (ask for)\n- **voor**: zorgen voor, kiezen voor, bang zijn voor, zich interesseren voor\n- **van**: houden van, genieten van\n- **in**: geloven in\n- **over** and **met**: praten over (about), praten met (with), omgaan met, zich zorgen maken over\n\n> Ze is al twee jaar verliefd op haar collega. — She has been in love with her colleague for two years.\n> Ik denk vaak aan mijn oude vrienden. — I often think of my old friends.\n\n### Not the English and not the Ukrainian preposition\n\n| Dutch | English | Ukrainian |\n| wachten op | wait for | чекати на |\n| denken aan | think of | думати про |\n| houden van | love | любити |\n| luisteren naar | listen to | слухати |\n| boos zijn op | be angry with | сердитися на |\n| lachen om | laugh at | сміятися з |\n\nSometimes the preposition changes the meaning: `denken aan` (think of, remember) and `denken over` (have an opinion on, consider); `vragen om` (ask for) and `vragen naar` (ask about); `lachen om` (laugh at) and `lachen naar` (smile at someone).\n\n### A thing: er + preposition. A person: a pronoun\n\nWhen you replace a **thing** or a whole idea, you use `er` + the preposition (unit B1 · 5): `erop`, `eraan`, `ernaar`, `erover`. For a **person**, keep the preposition and use a pronoun.\n\n> Je kunt altijd op mijn steun rekenen. — You can always count on my support.\n> Ik reken erop. — I am counting on it.\n> Ik reken op hem. — I am counting on him.\n\nWith a sub-clause the er-word comes first: `Ik reken erop dat je komt`. With two verbs, er and the preposition split: `Ik heb er nooit aan getwijfeld`. In questions about a thing, `waar … aan`, `waar … op`; about a person, `op wie`, `aan wie`.\n\n> Waar lachen jullie om? — What are you laughing about?\n> Op wie is hij jaloers? — Who is he jealous of?\n\n### Where it goes\n\nThe prepositional object stands **late** in the clause, just before the verbs at the end. `niet` comes **before** it.\n\n> Gisteren heb ik niet op hem gewacht. — Yesterday I did not wait for him.\n\nA prepositional object with a noun may also follow the final verb: `Hoe kun je met verdriet omgaan?` and `Hoe kun je omgaan met verdriet?` are both fine. With a short pronoun like `op hem`, keep it before the verb.\n\n### Watch out\n\n- The English preposition: *verliefd met → `verliefd op`; *trots van → `trots op`; *luisteren aan → `luisteren naar`.\n- No preposition where English has none: `houden van` (to love) needs van, `iemand vertrouwen` (to trust someone) needs none.\n- Not *op het for a thing: *Ik reken op het → `Ik reken erop`.\n- Niet before the preposition: *Ik heb op hem niet gewacht → `Ik heb niet op hem gewacht`.\n\nYou already know the reflexive ones from unit A2 · 25. Adjectives and nouns with a fixed preposition come back in B2.",
+  "words": [
+    {
+      "nl": "rekenen op",
+      "past": "rekende",
+      "perf": "heeft gerekend",
+      "en": "to count on",
+      "pos": "v"
+    },
+    {
+      "nl": "vertrouwen op",
+      "past": "vertrouwde",
+      "perf": "heeft vertrouwd",
+      "en": "to rely on",
+      "pos": "v"
+    },
+    {
+      "nl": "twijfelen aan",
+      "past": "twijfelde",
+      "perf": "heeft getwijfeld",
+      "en": "to doubt / to have doubts about",
+      "pos": "v"
+    },
+    {
+      "nl": "verlangen naar",
+      "past": "verlangde",
+      "perf": "heeft verlangd",
+      "en": "to long for",
+      "pos": "v"
+    },
+    {
+      "nl": "wennen aan",
+      "past": "wende",
+      "perf": "is gewend",
+      "en": "to get used to",
+      "pos": "v"
+    },
+    {
+      "nl": "geloven in",
+      "past": "geloofde",
+      "perf": "heeft geloofd",
+      "en": "to believe in",
+      "pos": "v"
+    },
+    {
+      "nl": "lachen om",
+      "past": "lachte",
+      "perf": "heeft gelachen",
+      "en": "to laugh at / to laugh about",
+      "pos": "v"
+    },
+    {
+      "nl": "omgaan met",
+      "past": "ging om",
+      "perf": "is omgegaan",
+      "en": "to deal with / to get on with",
+      "pos": "v",
+      "tag": "separable"
+    },
+    {
+      "nl": "het uitmaken",
+      "past": "maakte het uit",
+      "perf": "heeft het uitgemaakt",
+      "en": "to break up / to end a relationship",
+      "pos": "v",
+      "tag": "separable"
+    },
+    {
+      "nl": "verliefd op",
+      "en": "in love with",
+      "pos": "adj"
+    },
+    {
+      "nl": "jaloers op",
+      "en": "jealous of",
+      "pos": "adj"
+    },
+    {
+      "nl": "trots op",
+      "en": "proud of",
+      "pos": "adj"
+    },
+    {
+      "nl": "relatie",
+      "art": "de",
+      "pl": "relaties",
+      "en": "relationship",
+      "pos": "n"
+    },
+    {
+      "nl": "verdriet",
+      "art": "het",
+      "pl": "",
+      "en": "grief / sorrow",
+      "pos": "n",
+      "tag": "no plural"
+    },
+    {
+      "nl": "steun",
+      "art": "de",
+      "pl": "",
+      "en": "support",
+      "pos": "n",
+      "tag": "no plural"
+    }
+  ],
+  "sentences": [
+    {
+      "nl": "Ik denk vaak aan mijn oude vrienden.",
+      "en": "I often think of my old friends.",
+      "hint": [
+        "denken aan",
+        "vaak",
+        "oud",
+        "vriend"
+      ],
+      "note": "Thinking of someone is denken aan, not *denken van or *denken over (that means 'to have an opinion on')."
+    },
+    {
+      "nl": "Je kunt altijd op mijn steun rekenen.",
+      "en": "You can always count on my support.",
+      "hint": [
+        "kunnen",
+        "altijd",
+        "steun",
+        "rekenen op"
+      ],
+      "note": "Rekenen op: the preposition is part of the verb. The prepositional object stands just before the infinitive at the end, or after it.",
+      "alt": [
+        "Je kunt altijd rekenen op mijn steun.",
+        "Jij kunt altijd op mijn steun rekenen.",
+        "Jij kunt altijd rekenen op mijn steun.",
+        "Op mijn steun kun je altijd rekenen.",
+        "Je kan altijd op mijn steun rekenen."
+      ]
+    },
+    {
+      "nl": "Ze is al twee jaar verliefd op haar collega.",
+      "en": "She has been in love with her colleague for two years.",
+      "hint": [
+        "al",
+        "jaar",
+        "verliefd op",
+        "collega"
+      ],
+      "note": "In love with is verliefd op, never *verliefd met. Al + present tense says how long it has been going on.",
+      "alt": [
+        "Ze is al twee jaar op haar collega verliefd."
+      ]
+    },
+    {
+      "nl": "Hij is jaloers op iedereen die met zijn vriendin praat.",
+      "en": "He is jealous of everyone who talks to his girlfriend.",
+      "hint": [
+        "jaloers op",
+        "iedereen",
+        "praten met",
+        "vriendin"
+      ],
+      "note": "Two fixed prepositions: jaloers op (not *van) and praten met. English 'talk to' is praten met or praten tegen; met is the usual one.",
+      "alt": [
+        "Hij is jaloers op iedereen die praat met zijn vriendin."
+      ]
+    },
+    {
+      "nl": "Ik ben eraan gewend dat hij altijd te laat komt.",
+      "en": "I am used to him always being late.",
+      "hint": [
+        "gewend",
+        "eraan",
+        "altijd",
+        "te laat",
+        "komen"
+      ],
+      "note": "Wennen aan, gewend zijn aan. The thing you are used to is a whole sub-clause, so er + aan comes first: eraan … dat. With gewend zijn, eraan may also be left out.",
+      "alt": [
+        "Ik ben gewend dat hij altijd te laat komt."
+      ]
+    },
+    {
+      "nl": "Ze verlangt naar haar familie in het buitenland.",
+      "en": "She longs for her family abroad.",
+      "hint": [
+        "verlangen naar",
+        "familie",
+        "buitenland"
+      ],
+      "note": "Verlangen naar, with naar where English has 'for'. The prepositional object comes at the end here, because there is no second verb."
+    },
+    {
+      "nl": "Waar lachen jullie om?",
+      "en": "What are you (plural) laughing about?",
+      "hint": [
+        "waar",
+        "lachen om",
+        "jullie"
+      ],
+      "note": "Lachen om: in a question about a thing, waar goes first and om stays at the end. Waarom would mean 'why'."
+    },
+    {
+      "nl": "We hebben gisteren niet op hem gewacht.",
+      "en": "We did not wait for him yesterday.",
+      "hint": [
+        "wachten op",
+        "gisteren",
+        "niet"
+      ],
+      "note": "Niet stands before the prepositional object op hem, and op hem stands before the participle at the end.",
+      "alt": [
+        "Gisteren hebben we niet op hem gewacht.",
+        "We wachtten gisteren niet op hem.",
+        "Gisteren wachtten we niet op hem."
+      ]
+    },
+    {
+      "nl": "Hoe kun je het beste met verdriet omgaan?",
+      "en": "What is the best way to deal with grief?",
+      "hint": [
+        "hoe",
+        "kunnen",
+        "best",
+        "verdriet",
+        "omgaan met"
+      ],
+      "note": "Omgaan met: after the modal kun, the infinitive omgaan stays in one piece at the end. Met verdriet may stand before it or after it.",
+      "alt": [
+        "Hoe kun je het beste omgaan met verdriet?",
+        "Hoe kan je het beste met verdriet omgaan?",
+        "Hoe kan je het beste omgaan met verdriet?",
+        "Hoe kun jij het beste met verdriet omgaan?",
+        "Hoe kun jij het beste omgaan met verdriet?"
+      ]
+    },
+    {
+      "nl": "Ze heeft het uitgemaakt, omdat ze niet meer in de relatie geloofde.",
+      "en": "She broke it off because she no longer believed in the relationship.",
+      "hint": [
+        "het uitmaken",
+        "omdat",
+        "niet meer",
+        "geloven in",
+        "relatie"
+      ],
+      "note": "Geloven in, as in English. In the sub-clause niet meer stands before in de relatie, and the verb goes to the end.",
+      "alt": [
+        "Ze heeft het uitgemaakt, omdat ze niet meer geloofde in de relatie."
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "type": "choose",
+      "nl": "Ik wacht al een half uur ___ mijn vriend.",
+      "options": [
+        "voor",
+        "op",
+        "naar"
+      ],
+      "correct": 1,
+      "en": "I have been waiting for my friend for half an hour.",
+      "note": "Wachten op, never *wachten voor: English 'wait for' leads you to the wrong word."
+    },
+    {
+      "type": "choose",
+      "nl": "Luister je wel ___ me?",
+      "options": [
+        "op",
+        "aan",
+        "naar"
+      ],
+      "correct": 2,
+      "en": "Are you listening to me?",
+      "note": "Luisteren naar. English has 'to' and Ukrainian no preposition at all (слухати мене), so this one has to be learned."
+    },
+    {
+      "type": "choose",
+      "nl": "Ik twijfel niet ___ zijn liefde.",
+      "options": [
+        "aan",
+        "op",
+        "in"
+      ],
+      "correct": 0,
+      "en": "I do not doubt his love.",
+      "note": "Twijfelen aan: to doubt something. English 'doubt' has no preposition at all."
+    },
+    {
+      "type": "choose",
+      "nl": "Mijn ouders zijn trots ___ mij.",
+      "options": [
+        "van",
+        "op",
+        "over"
+      ],
+      "correct": 1,
+      "en": "My parents are proud of me.",
+      "note": "Trots op, like jaloers op and boos op. 'Of' tempts you to van, but van is wrong here."
+    },
+    {
+      "type": "choose",
+      "nl": "Hij lacht altijd ___ mijn grapjes.",
+      "options": [
+        "naar",
+        "op",
+        "om"
+      ],
+      "correct": 2,
+      "en": "He always laughs at my jokes.",
+      "note": "Lachen om: laugh at or about something funny. Lachen naar iemand means 'to smile at someone'."
+    },
+    {
+      "type": "gap",
+      "nl": "Ik reken ___ (on it) dat je komt.",
+      "answers": [
+        "erop"
+      ],
+      "en": "I am counting on you coming.",
+      "note": "What you count on is the sub-clause dat je komt, a thing, not a person. So rekenen op becomes erop, followed by the dat-clause."
+    },
+    {
+      "type": "gap",
+      "nl": "Hij verlangt ___ (for it) om weer thuis te zijn.",
+      "answers": [
+        "ernaar"
+      ],
+      "en": "He longs to be home again.",
+      "note": "Verlangen naar. The thing he longs for is the om te-part, so naar becomes ernaar."
+    },
+    {
+      "type": "gap",
+      "nl": "Wil je ___ (about it) praten?",
+      "answers": [
+        "erover"
+      ],
+      "en": "Do you want to talk about it?",
+      "note": "Praten over. For 'it', a thing, Dutch uses er + over: erover. Never *over het."
+    },
+    {
+      "type": "gap",
+      "nl": "___ (of whom) is hij jaloers?",
+      "answers": [
+        "Op wie"
+      ],
+      "en": "Who is he jealous of?",
+      "note": "Jaloers op. In a question about a person the preposition goes with wie to the front: op wie."
+    },
+    {
+      "type": "order",
+      "lead": "Gisteren",
+      "words": [
+        "heb",
+        "ik",
+        "niet",
+        "op hem",
+        "gewacht"
+      ],
+      "answers": [
+        "Gisteren heb ik niet op hem gewacht."
+      ],
+      "en": "Yesterday I did not wait for him.",
+      "note": "Niet goes before the prepositional object, and op hem stands before the participle gewacht at the end."
+    },
+    {
+      "type": "order",
+      "lead": "Ik",
+      "words": [
+        "heb",
+        "er",
+        "nooit",
+        "aan",
+        "getwijfeld"
+      ],
+      "answers": [
+        "Ik heb er nooit aan getwijfeld."
+      ],
+      "en": "I have never doubted it.",
+      "note": "With two verbs, eraan splits: er stands early in the middle, aan just before the participle, and nooit between them."
+    },
+    {
+      "type": "rewrite",
+      "task": "Replace op het feest by er + preposition.",
+      "from": "Ik verheug me op het feest.",
+      "answers": [
+        "Ik verheug me erop."
+      ],
+      "en": "I am looking forward to it.",
+      "note": "Het feest is a thing, so op het feest becomes erop. Never *op het."
+    },
+    {
+      "type": "rewrite",
+      "task": "Replace op mijn beste vriendin by a pronoun.",
+      "from": "Ik vertrouw volledig op mijn beste vriendin.",
+      "answers": [
+        "Ik vertrouw volledig op haar."
+      ],
+      "en": "I rely completely on her.",
+      "note": "For a person you keep the preposition and use a pronoun: op haar. Erop is only for things."
+    },
+    {
+      "type": "rewrite",
+      "task": "Ask what he doubts: start with Waar.",
+      "from": "Hij twijfelt aan zijn relatie.",
+      "answers": [
+        "Waar twijfelt hij aan?",
+        "Waaraan twijfelt hij?"
+      ],
+      "en": "What does he have doubts about?",
+      "note": "In a question about a thing, waar goes to the front and aan usually stays at the end. Waaraan together is more formal."
+    },
+    {
+      "type": "fix",
+      "wrong": "Ze is verliefd met haar buurman.",
+      "answers": [
+        "Ze is verliefd op haar buurman.",
+        "Ze is op haar buurman verliefd."
+      ],
+      "en": "She is in love with her neighbour.",
+      "note": "In love with is verliefd op. The English 'with' does not carry over."
+    },
+    {
+      "type": "fix",
+      "wrong": "Ik reken op het.",
+      "answers": [
+        "Ik reken erop."
+      ],
+      "en": "I am counting on it.",
+      "note": "For a thing, preposition + het becomes er + preposition: erop. Op het is not Dutch here."
+    }
+  ]
+}

@@ -1,0 +1,222 @@
+{
+  "id": "b2-18",
+  "level": "B2",
+  "icon": "🧒",
+  "title": "Bringing up children",
+  "grammar": "Als, of, alsof, zoals, dan",
+  "summary": "als: if, when, as (a role), even … als. dan: after a comparative and anders. of: or, whether, 'or so'. alsof: as if. zoals + clause (zoals ik zei), net als + noun (net als ik), als + role (als kind).",
+  "explain": "Five short words cause more mistakes at B2 than many long ones: `als`, `dan`, `of`, `alsof` and `zoals`. English *if*, *as*, *like* and *than* do not map onto them one to one, so it helps to sort them by meaning.\n\n### als\n\n- **if** (a condition): `Als het regent, blijven we binnen.`\n- **when**, for something that happens again and again or in the future: `Als ik thuiskom, ga ik koken.` For one moment in the past Dutch says `toen` (unit B1 · 01).\n- **as**, in a role or at an age: `als leerkracht` (as a teacher), `als kind` (as a child). No article.\n- in comparisons of **equality**: `even groot als`, `net zo streng als`, `zo snel als mogelijk` (or simply `zo snel mogelijk`; both are correct).\n\nAs a conjunction `als` starts a sub-clause, so its verb goes to the end; when the clause comes first, the main clause starts with its verb.\n\n> Als kinderen genoeg slapen, kunnen ze zich beter concentreren. — If children get enough sleep, they can concentrate better.\n> Als leerkracht zie ik elke dag hoeveel prestatiedruk de leerlingen ervaren. — As a teacher I see every day how much pressure to perform the pupils feel.\n\n### dan\n\n`dan` follows a **comparative** (`groter dan`, `meer dan`, `liever dan`) and the words `anders` and `ander` (`anders dan vroeger`, `een andere school dan`). It also means *then*: `Eerst eten, dan huiswerk.`\n\n> De kinderopvang is veel duurder dan ik had verwacht. — Childcare is much more expensive than I had expected.\n\nIn speech you will hear *groter als. In writing that counts as a mistake: after a comparative the norm is `dan`. The rule of thumb: **equal** → `als`, **different** → `dan`.\n\n| | Dutch |\n| as big as | even groot als |\n| bigger than | groter dan |\n| different from | anders dan |\n\n### of\n\n- **or**: `thee of koffie`.\n- **whether**, the *if* of an indirect question: `Ik weet niet of hij komt.` Never *Ik weet niet als hij komt.\n- **or so**, with an amount: `een stuk of tien` (ten or so), `een dag of drie` (three days or so).\n- After a negative main clause, in fixed patterns you only need to recognise: `Het duurde niet lang of ze sliep.` (It was not long before she was asleep.)\n\n> Ik weet niet of er in de pauze genoeg toezicht is. — I do not know whether there is enough supervision during the break.\n\n### alsof\n\n`alsof` means *as if*. It starts a sub-clause, so the verb goes to the end. When the comparison is not true, the past tense is common, as in English *as if he were*. In everyday Dutch `of` is often used in the same way: `Hij doet of hij slaapt.`\n\n> Hij doet alsof hij zijn huiswerk al gemaakt heeft. — He acts as if he has already done his homework.\n> Ze behandelt haar zoon alsof hij nog een peuter was. — She treats her son as if he were still a toddler.\n\n### zoals, als or net als: English 'like'\n\n| English | Dutch |\n| like I said | zoals ik al zei |\n| like me, like his father | net als ik, net als zijn vader |\n| as a child | als kind |\n\n- `zoals` + a clause (*the way that*): `zoals ik al zei`, `zoals altijd`, `zoals afgesproken`.\n- `net als` + a noun or pronoun, when two people or things are the same: `Hij is net als zijn vader leraar.`\n- `als` + a noun without article, for a role: `als ouder`, `als kind`.\n- For *such as* in a list both are correct: `vakken zoals wiskunde` and `vakken als wiskunde`.\n\n> Mijn zoon is net als zijn vader erg zelfstandig. — Like his father, my son is very independent.\n\n### Watch out\n\n- *if* = condition → `als`; *if* = whether → `of`.\n- *than* is `dan`; *as … as* is `als`.\n- *Zoals kind → `Als kind`. *Als ik al zei → `Zoals ik al zei`.\n\nTwo more: `hoe ouder, hoe wijzer` or `hoe ouder, des te wijzer` (the older, the wiser; unit B1 · 19), and the formal `evenals` and `alsmede` (as well as) in official texts.\n\n### Compared with Ukrainian\n\nUkrainian `як` covers `als`, `zoals` and `net als`; `якщо` is `als` (if), `чи` is `of`, `ніж` is `dan`, and `ніби` or `наче` is `alsof`.",
+  "words": [
+    { "nl": "opvoeding", "art": "de", "pl": "", "en": "upbringing", "pos": "n" },
+    { "nl": "opvoeden", "past": "voedde op", "perf": "heeft opgevoed", "en": "to bring up (a child)", "pos": "v" },
+    { "nl": "kinderopvang", "art": "de", "pl": "", "en": "childcare", "pos": "n" },
+    { "nl": "peuter", "art": "de", "pl": "peuters", "en": "toddler", "pos": "n" },
+    { "nl": "leerkracht", "art": "de", "pl": "leerkrachten", "en": "teacher (in a school)", "pos": "n" },
+    { "nl": "leerling", "art": "de", "pl": "leerlingen", "en": "pupil", "pos": "n" },
+    { "nl": "leerplicht", "art": "de", "pl": "", "en": "compulsory education", "pos": "n" },
+    { "nl": "onderwijs", "art": "het", "pl": "", "en": "education (the system)", "pos": "n" },
+    { "nl": "achterstand", "art": "de", "pl": "achterstanden", "en": "disadvantage / falling behind", "pos": "n" },
+    { "nl": "prestatiedruk", "art": "de", "pl": "", "en": "pressure to perform", "pos": "n" },
+    { "nl": "toezicht", "art": "het", "pl": "", "en": "supervision", "pos": "n" },
+    { "nl": "grens", "art": "de", "pl": "grenzen", "en": "limit / border", "pos": "n" },
+    { "nl": "verwennen", "past": "verwende", "perf": "heeft verwend", "en": "to spoil (a child)", "pos": "v" },
+    { "nl": "belonen", "past": "beloonde", "perf": "heeft beloond", "en": "to reward", "pos": "v" },
+    { "nl": "zelfstandig", "en": "independent", "pos": "adj" },
+    { "nl": "consequent", "en": "consistent", "pos": "adj" }
+  ],
+  "sentences": [
+    {
+      "nl": "Als kinderen genoeg slapen, kunnen ze zich beter concentreren.",
+      "en": "If children get enough sleep, they can concentrate better.",
+      "hint": ["kind", "genoeg", "slapen", "zich concentreren"],
+      "note": "Als is 'if' here: a condition. The als-clause has its verb at the end and counts as the first element, so the main clause continues with the verb kunnen.",
+      "alt": ["Kinderen kunnen zich beter concentreren als ze genoeg slapen.", "Kinderen kunnen zich beter concentreren als ze voldoende slapen.", "Als kinderen voldoende slapen, kunnen ze zich beter concentreren."]
+    },
+    {
+      "nl": "Als leerkracht zie ik elke dag hoeveel prestatiedruk de leerlingen ervaren.",
+      "en": "As a teacher I see every day how much pressure to perform the pupils feel.",
+      "hint": ["leerkracht", "zien", "prestatiedruk", "leerling", "ervaren"],
+      "note": "Als + a noun without article gives a role: as a teacher. Not zoals, and no een after als.",
+      "alt": ["Ik zie als leerkracht elke dag hoeveel prestatiedruk de leerlingen ervaren.", "Als leerkracht zie ik elke dag hoeveel prestatiedruk de leerlingen voelen."]
+    },
+    {
+      "nl": "Mijn zoon is net als zijn vader erg zelfstandig.",
+      "en": "Like his father, my son is very independent.",
+      "hint": ["zoon", "net als", "vader", "zelfstandig"],
+      "note": "English 'like' before a noun, when two people are the same, is net als. Zoals would need a clause after it.",
+      "alt": ["Net als zijn vader is mijn zoon erg zelfstandig.", "Mijn zoon is erg zelfstandig, net als zijn vader.", "Mijn zoon is net als zijn vader heel zelfstandig.", "Net als zijn vader is mijn zoon heel zelfstandig."]
+    },
+    {
+      "nl": "Zoals ik al zei, moet je in de opvoeding consequent zijn.",
+      "en": "As I said, you have to be consistent in bringing up children.",
+      "hint": ["zoals", "zeggen", "opvoeding", "consequent"],
+      "note": "Zoals + a clause: 'as' or 'like' in the sense of 'the way that'. Als ik al zei would be wrong.",
+      "alt": ["Zoals ik al zei, je moet in de opvoeding consequent zijn.", "Je moet, zoals ik al zei, in de opvoeding consequent zijn.", "Zoals ik al zei, moet je consequent zijn in de opvoeding."]
+    },
+    {
+      "nl": "In Nederland gaan kinderen eerder naar school dan in Oekraïne.",
+      "en": "In the Netherlands children start school earlier than in Ukraine.",
+      "hint": ["Nederland", "kind", "vroeg", "school", "Oekraïne"],
+      "note": "Eerder is a comparative, so 'than' is dan. Als after a comparative is heard in speech but counts as wrong in writing.",
+      "alt": ["Kinderen gaan in Nederland eerder naar school dan in Oekraïne."]
+    },
+    {
+      "nl": "De kinderopvang is hier veel duurder dan ik had verwacht.",
+      "en": "Childcare here is much more expensive than I had expected.",
+      "hint": ["kinderopvang", "hier", "duur", "verwachten"],
+      "note": "Duurder is a comparative: dan. A clause can follow dan; it has sub-clause order, and both orders of the two verbs are correct.",
+      "alt": ["De kinderopvang is hier veel duurder dan ik verwacht had.", "Hier is de kinderopvang veel duurder dan ik had verwacht.", "Hier is de kinderopvang veel duurder dan ik verwacht had."]
+    },
+    {
+      "nl": "Ik weet niet of er in de pauze genoeg toezicht is.",
+      "en": "I do not know whether there is enough supervision during the break.",
+      "hint": ["weten", "pauze", "genoeg", "toezicht"],
+      "note": "Whether, the 'if' of an indirect question, is of. Als would mean 'if' as a condition. The of-clause has its verb at the end.",
+      "alt": ["Ik weet niet of er genoeg toezicht is in de pauze.", "Ik weet niet of er tijdens de pauze genoeg toezicht is.", "Ik weet niet of er genoeg toezicht is tijdens de pauze."]
+    },
+    {
+      "nl": "Hij doet alsof hij zijn huiswerk al gemaakt heeft.",
+      "en": "He acts as if he has already done his homework.",
+      "hint": ["doen", "alsof", "huiswerk", "maken"],
+      "note": "Alsof starts a sub-clause, so the verbs go to the end. In everyday Dutch of is also used here: Hij doet of hij …",
+      "alt": ["Hij doet alsof hij zijn huiswerk al heeft gemaakt.", "Hij doet of hij zijn huiswerk al gemaakt heeft.", "Hij doet of hij zijn huiswerk al heeft gemaakt."]
+    },
+    {
+      "nl": "Ze behandelt haar zoon alsof hij nog een peuter was.",
+      "en": "She treats her son as if he were still a toddler.",
+      "hint": ["behandelen", "zoon", "alsof", "nog", "peuter"],
+      "note": "The comparison is not true, so the past tense was is usual after alsof, like English 'were'. The present tense is also heard: alsof hij nog een peuter is.",
+      "alt": ["Zij behandelt haar zoon alsof hij nog een peuter was.", "Ze behandelt haar zoon alsof hij nog een peuter is."]
+    },
+    {
+      "nl": "Er zitten een stuk of dertig leerlingen in de klas.",
+      "en": "There are thirty or so pupils in the class.",
+      "hint": ["zitten", "stuk", "dertig", "leerling", "klas"],
+      "note": "Een stuk of + a number means 'about' or 'or so'. The verb is plural, because the subject is the thirty pupils.",
+      "alt": ["In de klas zitten een stuk of dertig leerlingen.", "Er zitten in de klas een stuk of dertig leerlingen."]
+    }
+  ],
+  "exercises": [
+    {
+      "type": "choose",
+      "nl": "Het onderwijs is tegenwoordig minder streng ___ vroeger.",
+      "options": ["als", "dan", "of"],
+      "correct": 1,
+      "en": "Education is less strict nowadays than it used to be.",
+      "note": "Minder streng is a comparative, so 'than' is dan. Als after a comparative is heard in speech, but in writing it is wrong."
+    },
+    {
+      "type": "choose",
+      "nl": "Mijn moeder werkte twintig jaar ___ leerkracht op een basisschool.",
+      "options": ["zoals", "net als", "als"],
+      "correct": 2,
+      "en": "My mother worked as a teacher at a primary school for twenty years.",
+      "note": "A role is als + noun without article: als leerkracht. Zoals needs a clause, and net als would mean 'just like a teacher', which she is not compared to."
+    },
+    {
+      "type": "choose",
+      "nl": "Ze voedt haar kinderen op ___ haar ouders dat vroeger deden.",
+      "options": ["zoals", "als", "alsof"],
+      "correct": 0,
+      "en": "She brings up her children the way her parents used to do.",
+      "note": "A clause follows (haar ouders dat vroeger deden), and the meaning is 'the way that': zoals. Alsof would say it only seems so."
+    },
+    {
+      "type": "choose",
+      "nl": "Ik vraag me af ___ we onze dochter te veel verwennen.",
+      "options": ["als", "dan", "of"],
+      "correct": 2,
+      "en": "I wonder whether we are spoiling our daughter too much.",
+      "note": "After zich afvragen comes an indirect question: of (whether). Als is 'if' only as a condition."
+    },
+    {
+      "type": "choose",
+      "nl": "De achterstand in taal is bij deze leerlingen even groot ___ vorig jaar.",
+      "options": ["dan", "als", "zoals"],
+      "correct": 1,
+      "en": "The language gap among these pupils is as big as last year.",
+      "note": "Even groot is a comparison of equality: even … als. Dan only follows a comparative such as groter."
+    },
+    {
+      "type": "gap",
+      "nl": "Ze doet ___ (as if) ze niets gemerkt heeft.",
+      "answers": ["alsof", "of"],
+      "en": "She acts as if she has not noticed anything.",
+      "note": "As if is alsof, and in everyday Dutch of is used the same way after doen. The verbs go to the end of the clause."
+    },
+    {
+      "type": "gap",
+      "nl": "Weet jij ___ (whether) er in Oekraïne ook een leerplicht is?",
+      "answers": ["of"],
+      "en": "Do you know whether there is compulsory education in Ukraine too?",
+      "note": "Whether is of, also when English says 'if': Do you know if …? Als cannot start an indirect question."
+    },
+    {
+      "type": "gap",
+      "nl": "Belonen werkt vaak beter ___ (than) straffen.",
+      "answers": ["dan"],
+      "en": "Rewarding often works better than punishing.",
+      "note": "Beter is a comparative (of goed), so it is followed by dan."
+    },
+    {
+      "type": "gap",
+      "nl": "Wij hebben onze kinderen heel anders opgevoed ___ (than) onze ouders ons.",
+      "answers": ["dan"],
+      "en": "We brought up our children very differently from the way our parents brought us up.",
+      "note": "Anders is followed by dan, just like a comparative: anders dan. Not anders als."
+    },
+    {
+      "type": "order",
+      "lead": "Als je consequent bent,",
+      "words": ["leren", "kinderen", "sneller", "waar", "de grenzen", "liggen"],
+      "answers": ["Als je consequent bent, leren kinderen sneller waar de grenzen liggen."],
+      "en": "If you are consistent, children learn more quickly where the limits are.",
+      "note": "The als-clause is the first element, so the main clause starts with its verb leren and then the subject kinderen. In the waar-clause the verb liggen goes last."
+    },
+    {
+      "type": "order",
+      "lead": "Hij",
+      "words": ["doet", "alsof", "hij", "het", "niet", "gehoord", "heeft"],
+      "answers": ["Hij doet alsof hij het niet gehoord heeft.", "Hij doet alsof hij het niet heeft gehoord."],
+      "en": "He acts as if he has not heard it.",
+      "note": "Alsof makes a sub-clause: subject first, verbs at the end. Both orders of the two verbs at the end are correct."
+    },
+    {
+      "type": "rewrite",
+      "task": "Join the two sentences with alsof, keeping the present tense.",
+      "from": "Ze praat tegen haar peuter. Hij is al volwassen.",
+      "answers": ["Ze praat tegen haar peuter alsof hij al volwassen is."],
+      "en": "She talks to her toddler as if he is already grown up.",
+      "note": "Alsof sends the verb is to the end of the clause. (With the unreal past, alsof hij al volwassen was, the sentence is also correct.)"
+    },
+    {
+      "type": "rewrite",
+      "task": "Make it an indirect question after Ik weet niet.",
+      "from": "Gaat de kinderopvang in de zomer dicht?",
+      "answers": ["Ik weet niet of de kinderopvang in de zomer dichtgaat.", "Ik weet niet of de kinderopvang dichtgaat in de zomer."],
+      "en": "I do not know whether the childcare centre closes in the summer.",
+      "note": "A yes/no question becomes an of-clause. The verb goes to the end, and the separable verb dichtgaan is written as one word there."
+    },
+    {
+      "type": "fix",
+      "wrong": "Ik weet niet als mijn dochter morgen naar school kan.",
+      "answers": ["Ik weet niet of mijn dochter morgen naar school kan."],
+      "en": "I do not know whether my daughter can go to school tomorrow.",
+      "note": "This 'if' means 'whether', so it is of. Als is only 'if' as a condition: Als ze beter is, gaat ze naar school."
+    },
+    {
+      "type": "fix",
+      "wrong": "Onze zoon is veel drukker als zijn zus.",
+      "answers": ["Onze zoon is veel drukker dan zijn zus."],
+      "en": "Our son is much livelier than his sister.",
+      "note": "After a comparative (drukker) the norm is dan. Als is for equality: even druk als."
+    },
+    {
+      "type": "fix",
+      "wrong": "Zoals kind wilde ik altijd leerkracht worden.",
+      "answers": ["Als kind wilde ik altijd leerkracht worden."],
+      "en": "As a child I always wanted to become a teacher.",
+      "note": "As a child is als kind: als + noun without article for a role or an age. Zoals is followed by a clause, as in zoals ik al zei."
+    }
+  ]
+}
