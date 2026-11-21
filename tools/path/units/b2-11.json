@@ -181,7 +181,9 @@
       "alt": [
         "Veel mensen gaan hun huis isoleren als de gasprijs blijft stijgen.",
         "Als de gasprijs blijft stijgen, gaan veel mensen hun huizen isoleren.",
-        "Veel mensen gaan hun huizen isoleren als de gasprijs blijft stijgen."
+        "Veel mensen gaan hun huizen isoleren als de gasprijs blijft stijgen.",
+        "Als de gasprijs stijgen blijft, gaan veel mensen hun huis isoleren.",
+        "Veel mensen gaan hun huis isoleren als de gasprijs stijgen blijft."
       ]
     },
     {
@@ -260,7 +262,11 @@
       "alt": [
         "Hoeveel energie we kunnen opwekken, hangt van het weer af.",
         "Het hangt van het weer af hoeveel energie we kunnen opwekken.",
-        "Het hangt af van het weer hoeveel energie we kunnen opwekken."
+        "Het hangt af van het weer hoeveel energie we kunnen opwekken.",
+        "Hoeveel energie we op kunnen wekken, hangt af van het weer.",
+        "Hoeveel energie we op kunnen wekken, hangt van het weer af.",
+        "Hoeveel energie we opwekken kunnen, hangt af van het weer.",
+        "Hoeveel energie we opwekken kunnen, hangt van het weer af."
       ]
     },
     {
@@ -441,7 +447,12 @@
         "De maatregel die het kabinet vorige maand heeft aangekondigd, is omstreden.",
         "De maatregel die het kabinet vorige maand aangekondigd heeft, is omstreden.",
         "De maatregel die vorige maand door het kabinet is aangekondigd, is omstreden.",
-        "De maatregel die vorige maand door het kabinet aangekondigd is, is omstreden."
+        "De maatregel die vorige maand door het kabinet aangekondigd is, is omstreden.",
+        "De maatregel die het kabinet vorige maand aankondigde, is omstreden.",
+        "De maatregel die vorige maand door het kabinet werd aangekondigd, is omstreden.",
+        "De maatregel die door het kabinet vorige maand is aangekondigd, is omstreden.",
+        "De maatregel die door het kabinet vorige maand aangekondigd is, is omstreden.",
+        "De maatregel die door het kabinet vorige maand werd aangekondigd, is omstreden."
       ],
       "en": "The measure that the cabinet announced last month is controversial.",
       "note": "Everything between de and maatregel moves into a relative clause after the noun. Die is used because maatregel is a de-word."

@@ -30,7 +30,7 @@
       "en": "Every morning the most important headlines are read out on the radio.",
       "hint": ["elke ochtend", "belangrijk", "krantenkop", "radio", "voorlezen"],
       "note": "The subject de krantenkoppen is plural, so worden. Elke ochtend stands first, so worden comes second and the subject follows; the participle voorgelezen goes to the end.",
-      "alt": ["De belangrijkste krantenkoppen worden elke ochtend op de radio voorgelezen."]
+      "alt": ["De belangrijkste krantenkoppen worden elke ochtend op de radio voorgelezen.", "Elke ochtend worden de belangrijkste krantenkoppen voorgelezen op de radio.", "De belangrijkste krantenkoppen worden elke ochtend voorgelezen op de radio."]
     },
     {
       "nl": "Het artikel werd gisteren op de website van de krant gepubliceerd.",
@@ -78,7 +78,7 @@
       "en": "The broadcast was watched by more than a million viewers.",
       "hint": ["uitzending", "meer dan", "miljoen", "kijker", "bekijken"],
       "note": "The kijkers did the watching, so they come with door. The subject is de uitzending, singular, so werd, even though the kijkers are many.",
-      "alt": ["De uitzending werd bekeken door meer dan een miljoen kijkers.", "De uitzending werd door meer dan één miljoen kijkers bekeken."]
+      "alt": ["De uitzending werd bekeken door meer dan een miljoen kijkers.", "De uitzending werd door meer dan één miljoen kijkers bekeken.", "De uitzending werd bekeken door meer dan één miljoen kijkers."]
     },
     {
       "nl": "Mijn zus wordt journalist en haar eerste artikel wordt volgende week gepubliceerd.",
@@ -91,8 +91,7 @@
       "nl": "De naam van de winnaar wordt nog niet bekendgemaakt.",
       "en": "The name of the winner is not being announced yet.",
       "hint": ["naam", "winnaar", "nog niet", "bekendmaken"],
-      "note": "Nog niet stands before the participle at the end. The subject is de naam, singular, so wordt.",
-      "alt": ["De naam van de winnaar wordt nog niet bekend gemaakt."]
+      "note": "Nog niet stands before the participle at the end. The subject is de naam, singular, so wordt."
     }
   ],
   "exercises": [
@@ -199,7 +198,7 @@
     {
       "type": "fix",
       "wrong": "De uitslagen wordt morgen bekendgemaakt.",
-      "answers": ["De uitslagen worden morgen bekendgemaakt.", "De uitslagen worden morgen bekend gemaakt."],
+      "answers": ["De uitslagen worden morgen bekendgemaakt."],
       "en": "The results will be announced tomorrow.",
       "note": "Worden agrees with the subject, and de uitslagen is plural: worden."
     },

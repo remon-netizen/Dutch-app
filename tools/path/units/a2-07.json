@@ -127,7 +127,10 @@
         "wel",
         "vis"
       ],
-      "note": "The positive sentence is Ik eet vlees, a noun without an article, so the negative takes geen. Wel is the opposite of the negation: it stresses that fish is fine."
+      "note": "The positive sentence is Ik eet vlees, a noun without an article, so the negative takes geen. Wel is the opposite of the negation: it stresses that fish is fine.",
+      "alt": [
+        "Ik eet geen vlees, maar ik eet wel vis."
+      ]
     },
     {
       "nl": "Lust je de soep niet?",

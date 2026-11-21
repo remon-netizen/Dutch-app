@@ -116,7 +116,7 @@
         "tegenover",
         "station"
       ],
-      "note": "tegenover is one word and stands before the noun, like every Dutch preposition. The noun does not change after it: Dutch has no cases."
+      "note": "tegenover is one word and stands before the noun, where Dutch prepositions normally stand. The noun does not change after it: Dutch has no cases."
     },
     {
       "nl": "De ingang is niet aan de voorkant, maar om de hoek.",
@@ -151,6 +151,7 @@
       ],
       "note": "bij for a point on the way: bij het stoplicht. The phrase stands first, so the verb comes before je, and je after the verb means no t: ga je.",
       "alt": [
+        "Bij het stoplicht ga jij linksaf.",
         "Bij de stoplichten ga je linksaf.",
         "Bij het stoplicht sla je linksaf.",
         "Je gaat bij het stoplicht linksaf."

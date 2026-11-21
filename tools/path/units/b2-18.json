@@ -51,7 +51,7 @@
       "en": "As I said, you have to be consistent in bringing up children.",
       "hint": ["zoals", "zeggen", "opvoeding", "consequent"],
       "note": "Zoals + a clause: 'as' or 'like' in the sense of 'the way that'. Als ik al zei would be wrong.",
-      "alt": ["Zoals ik al zei, je moet in de opvoeding consequent zijn.", "Je moet, zoals ik al zei, in de opvoeding consequent zijn.", "Zoals ik al zei, moet je consequent zijn in de opvoeding."]
+      "alt": ["Zoals ik al zei, je moet in de opvoeding consequent zijn.", "Je moet, zoals ik al zei, in de opvoeding consequent zijn.", "Zoals ik al zei, moet je consequent zijn in de opvoeding.", "Zoals ik al zei, je moet consequent zijn in de opvoeding.", "Zoals ik zei, moet je in de opvoeding consequent zijn.", "Zoals ik zei, je moet in de opvoeding consequent zijn."]
     },
     {
       "nl": "In Nederland gaan kinderen eerder naar school dan in Oekraïne.",
@@ -93,7 +93,7 @@
       "en": "There are thirty or so pupils in the class.",
       "hint": ["zitten", "stuk", "dertig", "leerling", "klas"],
       "note": "Een stuk of + a number means 'about' or 'or so'. The verb is plural, because the subject is the thirty pupils.",
-      "alt": ["In de klas zitten een stuk of dertig leerlingen.", "Er zitten in de klas een stuk of dertig leerlingen."]
+      "alt": ["In de klas zitten een stuk of dertig leerlingen.", "Er zitten in de klas een stuk of dertig leerlingen.", "Er zijn een stuk of dertig leerlingen in de klas."]
     }
   ],
   "exercises": [

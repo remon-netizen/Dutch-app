@@ -130,7 +130,10 @@
         "klein",
         "voor"
       ],
-      "note": "De jas is a de-word and the coat is right here, so deze. With a het-word it would be dit: dit overhemd."
+      "note": "De jas is a de-word and the coat is right here, so deze. With a het-word it would be dit: dit overhemd.",
+      "alt": [
+        "Deze jas is te klein voor me."
+      ]
     },
     {
       "nl": "Hoeveel kost dit horloge met korting?",
@@ -196,7 +199,10 @@
         "deze",
         "die"
       ],
-      "note": "Deze and die stand on their own here: the noun maat is not repeated. De maat is a de-word, so deze and die, not dit and dat. Dutch has no word for 'one'."
+      "note": "Deze and die stand on their own here: the noun maat is not repeated. De maat is a de-word, so deze and die, not dit and dat. Dutch has no word for 'one'.",
+      "alt": [
+        "Welke maat wil u, deze of die?"
+      ]
     },
     {
       "nl": "Dit is de nieuwe verkoper.",

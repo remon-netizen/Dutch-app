@@ -172,7 +172,10 @@
       "alt": [
         "Zou u mij misschien kunnen vertellen wanneer mijn klacht afgehandeld wordt?",
         "Zou u me misschien kunnen vertellen wanneer mijn klacht wordt afgehandeld?",
-        "Zou u me misschien kunnen vertellen wanneer mijn klacht afgehandeld wordt?"
+        "Zou u me misschien kunnen vertellen wanneer mijn klacht afgehandeld wordt?",
+        "Zou u mij misschien kunnen vertellen wanneer mijn klacht zal worden afgehandeld?",
+        "Zou u mij misschien kunnen vertellen wanneer mijn klacht afgehandeld zal worden?",
+        "Zou u mij misschien kunnen vertellen wanneer mijn klacht zal afgehandeld worden?"
       ]
     },
     {
@@ -266,7 +269,8 @@
       "note": "Here je means 'people in general', which is fine in a text about rules. aanspreken is separable: aan goes to the end.",
       "alt": [
         "Een onbekende spreek je in een zakelijke e-mail altijd met u aan.",
-        "Je spreekt een onbekende in een zakelijke e-mail altijd met u aan."
+        "Je spreekt een onbekende in een zakelijke e-mail altijd met u aan.",
+        "In een zakelijke e-mail spreek je een onbekende altijd aan met u."
       ]
     }
   ],

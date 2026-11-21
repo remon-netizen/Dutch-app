@@ -36,7 +36,7 @@
       "en": "From Monday I am becoming your (plural) contact person.",
       "hint": ["vanaf", "maandag", "worden", "contactpersoon"],
       "note": "Ik takes the bare stem: word, with no t. You hear a t, but the d belongs to the stem of worden.",
-      "alt": ["Ik word vanaf maandag jullie contactpersoon."]
+      "alt": ["Ik word vanaf maandag jullie contactpersoon.", "Ik word jullie contactpersoon vanaf maandag."]
     },
     {
       "nl": "Vind je het onderwerp van deze mail duidelijk genoeg?",
@@ -71,7 +71,7 @@
       "en": "Our contact person moved abroad last month.",
       "hint": ["contactpersoon", "vorig", "maand", "buitenland", "verhuizen"],
       "note": "Verhuizen has a z, which is not in 't kofschip: past verhuisde, participle verhuisd. It takes zijn, because it is a move from one place to another.",
-      "alt": ["Vorige maand is onze contactpersoon naar het buitenland verhuisd.", "Onze contactpersoon is vorige maand verhuisd naar het buitenland."]
+      "alt": ["Vorige maand is onze contactpersoon naar het buitenland verhuisd.", "Onze contactpersoon is vorige maand verhuisd naar het buitenland.", "Onze contactpersoon verhuisde vorige maand naar het buitenland.", "Vorige maand verhuisde onze contactpersoon naar het buitenland."]
     },
     {
       "nl": "Ik weet niet wat er met de herinnering is gebeurd.",
@@ -205,7 +205,7 @@
     {
       "type": "fix",
       "wrong": "Ik wordt zenuwachtig van dringende mails.",
-      "answers": ["Ik word zenuwachtig van dringende mails."],
+      "answers": ["Ik word zenuwachtig van dringende mails.", "Ik word zenuwachtig van dringende e-mails."],
       "en": "Urgent e-mails make me nervous.",
       "note": "Ik takes only the stem: word. The t is for jij, u and hij (compare ik loop, hij loopt)."
     },

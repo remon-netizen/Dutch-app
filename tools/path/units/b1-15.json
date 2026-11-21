@@ -61,13 +61,15 @@
       "nl": "De meeste vrijwilligers zijn met pensioen.",
       "en": "Most volunteers are retired.",
       "hint": ["meest", "vrijwilliger", "zijn", "pensioen"],
-      "note": "Most is de meeste, always with de. The subject is plural, so the verb is plural: zijn."
+      "note": "Most is de meeste, always with de. The subject is plural, so the verb is plural: zijn.",
+      "alt": ["De meeste vrijwilligers zijn gepensioneerd."]
     },
     {
       "nl": "De bewoners hebben allemaal geld ingezameld.",
       "en": "The residents all collected money.",
       "hint": ["bewoner", "allemaal", "geld", "inzamelen"],
-      "note": "Allemaal stands in the middle, directly after the conjugated verb hebben, not before the subject as English 'all the residents'."
+      "note": "Allemaal stands in the middle, directly after the conjugated verb hebben, not before the subject as English 'all the residents'.",
+      "alt": ["De bewoners zamelden allemaal geld in."]
     },
     {
       "nl": "Mijn buurvrouw en ik doen allebei vrijwilligerswerk.",
@@ -88,7 +90,7 @@
       "en": "Can you bring some coffee for the volunteers?",
       "hint": ["kunnen", "wat", "koffie", "meenemen", "vrijwilliger"],
       "note": "Before an uncountable noun, wat means 'some' in everyday Dutch: wat koffie.",
-      "alt": ["Kun jij wat koffie meenemen voor de vrijwilligers?", "Kan je wat koffie meenemen voor de vrijwilligers?", "Kun je voor de vrijwilligers wat koffie meenemen?", "Kun jij voor de vrijwilligers wat koffie meenemen?"]
+      "alt": ["Kun jij wat koffie meenemen voor de vrijwilligers?", "Kan je wat koffie meenemen voor de vrijwilligers?", "Kun je voor de vrijwilligers wat koffie meenemen?", "Kun jij voor de vrijwilligers wat koffie meenemen?", "Kan jij wat koffie meenemen voor de vrijwilligers?", "Kan je voor de vrijwilligers wat koffie meenemen?", "Kan jij voor de vrijwilligers wat koffie meenemen?"]
     }
   ],
   "exercises": [

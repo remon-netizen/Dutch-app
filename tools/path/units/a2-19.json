@@ -142,7 +142,9 @@
       ],
       "note": "duur + st = duurst, without d: only the comparative duurder has one. On its own the superlative takes het: het duurst (het duurste is also right).",
       "alt": [
-        "In het centrum zijn de huizen het duurste."
+        "In het centrum zijn de huizen het duurste.",
+        "De huizen zijn in het centrum het duurst.",
+        "De huizen zijn in het centrum het duurste."
       ]
     },
     {
@@ -197,7 +199,8 @@
       ],
       "note": "niet zo … als: the adjective keeps its basic form, schoon, and als follows. The same idea with a comparative: In ons dorp is de lucht schoner dan hier.",
       "alt": [
-        "De lucht hier is niet zo schoon als in ons dorp."
+        "De lucht hier is niet zo schoon als in ons dorp.",
+        "Hier is de lucht niet zo schoon als in ons dorp."
       ]
     },
     {
@@ -234,7 +237,10 @@
         "weinig",
         "verkeer"
       ],
-      "note": "meer and minder are the irregular comparatives of veel and weinig. Before a noun they do not change: meer ruimte, minder verkeer."
+      "note": "meer and minder are the irregular comparatives of veel and weinig. Before a noun they do not change: meer ruimte, minder verkeer.",
+      "alt": [
+        "Je hebt op het platteland meer ruimte en minder verkeer."
+      ]
     }
   ],
   "exercises": [

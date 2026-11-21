@@ -176,7 +176,8 @@
       ],
       "note": "Is beveiligd describes the result, how the site is now, and also that someone did it. Beveiligen has the unstressed prefix be-, so the participle has no ge.",
       "alt": [
-        "Sinds de inbraak is het terrein beter beveiligd."
+        "Sinds de inbraak is het terrein beter beveiligd.",
+        "Het terrein is beter beveiligd sinds de inbraak."
       ]
     },
     {
@@ -192,7 +193,9 @@
       "alt": [
         "Er is vannacht bij onze buren ingebroken.",
         "Vannacht is bij onze buren ingebroken.",
-        "Er is bij onze buren vannacht ingebroken."
+        "Er is bij onze buren vannacht ingebroken.",
+        "Vannacht is er ingebroken bij onze buren.",
+        "Er is vannacht ingebroken bij onze buren."
       ]
     },
     {
@@ -206,7 +209,8 @@
       "note": "An activity without a subject: wordt + participle. In dit gebouw comes first, so er may be left out; with er it is also correct.",
       "alt": [
         "In dit gebouw wordt er niet gerookt.",
-        "Er wordt in dit gebouw niet gerookt."
+        "Er wordt in dit gebouw niet gerookt.",
+        "Er wordt niet gerookt in dit gebouw."
       ]
     },
     {
@@ -254,7 +258,8 @@
       ],
       "note": "Aangifte has no article, so it is an indefinite subject and the sentence needs er. In the question the auxiliary is comes first.",
       "alt": [
-        "Is er al aangifte van de inbraak gedaan?"
+        "Is er al aangifte van de inbraak gedaan?",
+        "Is er van de inbraak al aangifte gedaan?"
       ]
     },
     {
@@ -307,7 +312,7 @@
         "Hij"
       ],
       "correct": 1,
-      "en": "During the fire there was a lot of loud shouting.",
+      "en": "During the fire there was loud shouting.",
       "note": "Schreeuwen here has no object, so nothing can become the subject: er takes its place. Het and hij cannot stand there, because there is nothing that is shouted."
     },
     {
@@ -433,7 +438,9 @@
       "wrong": "De gewonde man is door een buurman gered geworden.",
       "answers": [
         "De gewonde man is door een buurman gered.",
-        "De gewonde man werd door een buurman gered."
+        "De gewonde man werd door een buurman gered.",
+        "De gewonde man is gered door een buurman.",
+        "De gewonde man werd gered door een buurman."
       ],
       "en": "The injured man was rescued by a neighbour.",
       "note": "The perfect of the passive is zijn + participle, without geworden: is gered. Werd gered is also correct."

@@ -84,14 +84,14 @@
       "en": "I often order dresses online; last month I sent three back.",
       "hint": ["bestellen", "vaak", "jurk", "online", "vorige maand", "terugsturen"],
       "note": "Vorige maand stands first, so heb comes second and ik follows it. Er goes directly after the subject; drie keeps its place before the participle.",
-      "alt": ["Ik bestel vaak jurken online; ik heb er vorige maand drie teruggestuurd."]
+      "alt": ["Ik bestel vaak jurken online; ik heb er vorige maand drie teruggestuurd.", "Ik bestel vaak jurken online; vorige maand stuurde ik er drie terug."]
     },
     {
       "nl": "Vandaag zijn er drie pakketten gekomen en morgen komen er nog twee.",
       "en": "Three parcels came today and two more are coming tomorrow.",
       "hint": ["vandaag", "pakket", "komen", "morgen", "nog"],
       "note": "In the first half the noun is there, so er only means 'there'. In the second half er 'there' and er 'of them' would stand side by side, so there is just one er.",
-      "alt": ["Vandaag zijn er drie pakketten gekomen en er komen er morgen nog twee."]
+      "alt": ["Vandaag zijn er drie pakketten gekomen en er komen er morgen nog twee.", "Vandaag kwamen er drie pakketten en morgen komen er nog twee."]
     }
   ],
   "exercises": [
@@ -212,7 +212,7 @@
     {
       "type": "fix",
       "wrong": "Er heb ik drie besteld.",
-      "answers": ["Ik heb er drie besteld."],
+      "answers": ["Ik heb er drie besteld.", "Drie heb ik er besteld."],
       "en": "I ordered three.",
       "note": "This er can never stand first. Put the subject first and er directly after the verb heb."
     }

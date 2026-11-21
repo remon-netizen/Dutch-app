@@ -186,7 +186,11 @@
       "alt": [
         "Na failliet gegaan te zijn, werd de onderneming door een concurrent overgenomen.",
         "Na failliet te zijn gegaan, werd de onderneming overgenomen door een concurrent.",
-        "Na failliet gegaan te zijn, werd de onderneming overgenomen door een concurrent."
+        "Na failliet gegaan te zijn, werd de onderneming overgenomen door een concurrent.",
+        "Na failliet te zijn gegaan, is de onderneming door een concurrent overgenomen.",
+        "Na failliet gegaan te zijn, is de onderneming door een concurrent overgenomen.",
+        "Na failliet te zijn gegaan, is de onderneming overgenomen door een concurrent.",
+        "Na failliet gegaan te zijn, is de onderneming overgenomen door een concurrent."
       ]
     },
     {
@@ -352,7 +356,8 @@
       "type": "gap",
       "nl": "Op spaargeld ___ (vallen) nauwelijks rendement te behalen.",
       "answers": [
-        "valt"
+        "valt",
+        "valt er"
       ],
       "en": "Hardly any return can be made on savings.",
       "note": "vallen + te + infinitive means that something can or cannot be done. The verb agrees with rendement, which is singular: valt."
@@ -386,7 +391,9 @@
         "belegd"
       ],
       "answers": [
-        "Zonder de risico's te kennen, heeft hij al zijn geld op de beurs belegd."
+        "Zonder de risico's te kennen, heeft hij al zijn geld op de beurs belegd.",
+        "Zonder de risico's te kennen, heeft hij op de beurs al zijn geld belegd.",
+        "Zonder de risico's te kennen, heeft hij al zijn geld belegd op de beurs."
       ],
       "en": "Without knowing the risks, he invested all his money on the stock exchange.",
       "note": "The zonder-clause fills the first place, so the conjugated verb heeft follows, then the subject hij. The participle belegd goes to the end."
@@ -473,7 +480,9 @@
         "Na de cijfers te hebben bekeken, besloot hij zijn aandelen te houden.",
         "Na de cijfers bekeken te hebben, besloot hij zijn aandelen te houden.",
         "Na de cijfers te hebben bekeken, besloot hij om zijn aandelen te houden.",
-        "Na de cijfers bekeken te hebben, besloot hij om zijn aandelen te houden."
+        "Na de cijfers bekeken te hebben, besloot hij om zijn aandelen te houden.",
+        "Nadat hij de cijfers had bekeken, besloot hij zijn aandelen te houden.",
+        "Nadat hij de cijfers bekeken had, besloot hij zijn aandelen te houden."
       ],
       "en": "After looking at the figures, he decided to keep his shares.",
       "note": "After na the action is finished, so Dutch uses te hebben + participle: na de cijfers te hebben bekeken. Na + te + a plain infinitive is not standard Dutch."

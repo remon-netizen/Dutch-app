@@ -155,7 +155,8 @@
       ],
       "note": "Echter usually stands after the verb, in the middle of the sentence. It belongs to written and careful Dutch; in speech you would say maar.",
       "alt": [
-        "Bewegen is belangrijk; goede voeding echter is net zo belangrijk."
+        "Bewegen is belangrijk; goede voeding echter is net zo belangrijk.",
+        "Bewegen is belangrijk; goede voeding is echter even belangrijk."
       ]
     },
     {
@@ -191,7 +192,9 @@
         "Het regende hard, maar ze fietste toch naar de sportschool.",
         "Het regende hard, maar zij fietste toch naar de sportschool.",
         "Het regende hard, maar toch fietste ze naar de sportschool.",
-        "Het regende hard, maar toch fietste zij naar de sportschool."
+        "Het regende hard, maar toch fietste zij naar de sportschool.",
+        "Het regende hard, ze fietste toch naar de sportschool.",
+        "Het regende hard, zij fietste toch naar de sportschool."
       ]
     },
     {
@@ -252,7 +255,8 @@
       ],
       "note": "Anders is an adverb: it takes the first place of its sentence, and the verb heeft comes before the subject het.",
       "alt": [
-        "Je moet het elke dag volhouden, anders heeft het geen nut."
+        "Je moet het elke dag volhouden, anders heeft het geen nut.",
+        "Jij moet het elke dag volhouden, anders heeft het geen zin."
       ]
     },
     {

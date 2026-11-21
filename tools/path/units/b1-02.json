@@ -30,7 +30,7 @@
       "en": "The official says that I must renew my residence permit in time.",
       "hint": ["ambtenaar", "zeggen", "verblijfsvergunning", "op tijd", "moeten", "verlengen"],
       "note": "A reported statement starts with dat, and both verbs go to the end: moet verlengen (verlengen moet is also possible).",
-      "alt": ["De ambtenaar zegt dat ik mijn verblijfsvergunning op tijd verlengen moet.", "De ambtenaar zegt dat ik op tijd mijn verblijfsvergunning moet verlengen."]
+      "alt": ["De ambtenaar zegt dat ik mijn verblijfsvergunning op tijd verlengen moet.", "De ambtenaar zegt dat ik op tijd mijn verblijfsvergunning moet verlengen.", "De ambtenaar zegt dat ik op tijd mijn verblijfsvergunning verlengen moet."]
     },
     {
       "nl": "Weet u waar het loket voor paspoorten is?",
@@ -120,10 +120,10 @@
     {
       "type": "choose",
       "nl": "Toen ik belde, zei de ambtenaar dat hij het druk ___.",
-      "options": ["heeft", "had", "hadden"],
+      "options": ["heb", "had", "hadden"],
       "correct": 1,
       "en": "When I called, the official said that he was busy.",
-      "note": "He said it in the past about that moment, so the present of his words (Ik heb het druk) becomes the past: had. Hadden is plural."
+      "note": "His words were Ik heb het druk. Reported, ik becomes hij, and because he said it in the past about that moment, the present becomes the past: had. Heb keeps his own ik-form; hadden is plural."
     },
     {
       "type": "choose",

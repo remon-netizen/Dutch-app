@@ -73,7 +73,7 @@
     {
       "nl": "stoppen",
       "past": "stopte",
-      "perf": "is gestopt",
+      "perf": "heeft/is gestopt",
       "en": "to stop",
       "pos": "v"
     },
@@ -135,7 +135,10 @@
         "elke dag",
         "uur"
       ],
-      "note": "Mijn collega is a hij/zij-subject: stem + t. The stem of beginnen is begin, with one n."
+      "note": "Mijn collega is a hij/zij-subject: stem + t. The stem of beginnen is begin, with one n.",
+      "alt": [
+        "Elke dag begint mijn collega om acht uur."
+      ]
     },
     {
       "nl": "Wij vergaderen meestal op maandag.",
@@ -145,7 +148,10 @@
         "meestal",
         "maandag"
       ],
-      "note": "With wij the verb is simply the infinitive: vergaderen."
+      "note": "With wij the verb is simply the infinitive: vergaderen.",
+      "alt": [
+        "Meestal vergaderen wij op maandag."
+      ]
     },
     {
       "nl": "De baas stuurt veel berichten.",
@@ -205,7 +211,12 @@
         "praten",
         "collega"
       ],
-      "note": "praten → stem praat: the long a is doubled. The ik-form has no ending, wherever ik stands in the sentence."
+      "note": "praten → stem praat: the long a is doubled. The ik-form has no ending, wherever ik stands in the sentence.",
+      "alt": [
+        "Ik praat in de pauze met mijn collega's.",
+        "Tijdens de pauze praat ik met mijn collega's.",
+        "Ik praat tijdens de pauze met mijn collega's."
+      ]
     },
     {
       "nl": "Werkt u morgen ook thuis?",
@@ -226,7 +237,11 @@
         "bericht",
         "trein"
       ],
-      "note": "lezen → stem lees: z becomes s and the long e is doubled. Then + t for hij."
+      "note": "lezen → stem lees: z becomes s and the long e is doubled. Then + t for hij.",
+      "alt": [
+        "In de trein leest hij zijn berichten.",
+        "Hij leest in de trein zijn berichten."
+      ]
     }
   ],
   "exercises": [

@@ -98,8 +98,8 @@
       "nl": "Het was een ___ lange film, maar ik heb me geen moment verveeld.",
       "options": ["erge", "erg", "ergere"],
       "correct": 1,
-      "en": "It was a very long film, but I was not bored for a moment.",
-      "note": "Erg says how long, so it is an adverb and stays without ending. Only lange, the adjective with film, gets the -e."
+      "en": "It was a very long film, but I was not bored for a moment. (in writing)",
+      "note": "Erg says how long, so it is an adverb and stays without ending. Only lange, the adjective with film, gets the -e. Erge lange is heard in speech, like hele lange."
     },
     {
       "type": "choose",
@@ -151,9 +151,9 @@
     {
       "type": "gap",
       "nl": "Dit product kreeg in elke beoordeling ___ (at least) vier sterren.",
-      "answers": ["minstens", "minimaal", "ten minste", "zeker"],
+      "answers": ["minstens", "minimaal", "ten minste", "zeker", "op zijn minst", "op z'n minst"],
       "en": "This product got at least four stars in every rating.",
-      "note": "At least is minstens, minimaal or ten minste; zeker also works with an amount. The opposite is hooguit (at most)."
+      "note": "At least is minstens, minimaal, ten minste or op zijn minst; zeker also works with an amount. The opposite is hooguit (at most)."
     },
     {
       "type": "gap",

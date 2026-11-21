@@ -32,7 +32,7 @@
       "nl": "vak",
       "art": "het",
       "pl": "vakken",
-      "en": "trade / profession / school subject",
+      "en": "profession / school subject",
       "pos": "n"
     },
     {
@@ -132,7 +132,8 @@
       ],
       "note": "After omdat both verbs go to the end, conjugated verb first: wil worden. Worden wil is also right.",
       "alt": [
-        "Ik doe deze opleiding omdat ik verpleegkundige worden wil."
+        "Ik doe deze opleiding omdat ik verpleegkundige worden wil.",
+        "Ik doe deze opleiding, want ik wil verpleegkundige worden."
       ]
     },
     {
@@ -158,7 +159,11 @@
         "volgend jaar",
         "afstuderen"
       ],
-      "note": "English can drop 'that', Dutch cannot. At the end of the sub-clause the separable verb is one word again: afstudeer."
+      "note": "English can drop 'that', Dutch cannot. At the end of the sub-clause the separable verb is one word again: afstudeer.",
+      "alt": [
+        "Ik denk dat ik volgend jaar ga afstuderen.",
+        "Ik denk dat ik volgend jaar afstuderen ga."
+      ]
     },
     {
       "nl": "Als je dit diploma hebt, verdien je meer.",
@@ -187,7 +192,9 @@
       ],
       "note": "In the omdat-clause the verb werkt closes the clause. With want it would be: want hij werkt graag met mensen.",
       "alt": [
-        "Hij heeft dit vak gekozen omdat hij graag met mensen werkt."
+        "Hij heeft dit vak gekozen omdat hij graag met mensen werkt.",
+        "Hij koos dit vak, want hij werkt graag met mensen.",
+        "Hij heeft dit vak gekozen, want hij werkt graag met mensen."
       ]
     },
     {
@@ -231,7 +238,9 @@
       "alt": [
         "Omdat het salaris laag was, heb ik een andere baan gezocht.",
         "Ik zocht een andere baan omdat het salaris laag was.",
-        "Ik heb een andere baan gezocht omdat het salaris laag was."
+        "Ik heb een andere baan gezocht omdat het salaris laag was.",
+        "Ik zocht een andere baan, want het salaris was laag.",
+        "Ik heb een andere baan gezocht, want het salaris was laag."
       ]
     },
     {
@@ -339,7 +348,7 @@
     },
     {
       "type": "gap",
-      "nl": "Ik kies deze opleiding ___ ik graag met kinderen werk.",
+      "nl": "Ik kies deze opleiding ___ (because) ik graag met kinderen werk.",
       "answers": [
         "omdat",
         "aangezien"

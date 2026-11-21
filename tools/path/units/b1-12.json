@@ -242,7 +242,10 @@
         "Ik zou meteen stoppen met werken als ik de loterij won.",
         "Ik zou meteen stoppen met werken als ik de loterij zou winnen.",
         "Als ik de loterij won, stopte ik meteen met werken.",
-        "Als ik de loterij won, zou ik meteen met werken stoppen."
+        "Als ik de loterij won, zou ik meteen met werken stoppen.",
+        "Als ik de loterij zou winnen, zou ik meteen met werken stoppen.",
+        "Ik zou meteen met werken stoppen als ik de loterij won.",
+        "Ik zou meteen met werken stoppen als ik de loterij zou winnen."
       ]
     },
     {
@@ -261,7 +264,9 @@
         "Wat zou jij doen als je grootste droom morgen uitkwam?",
         "Wat zou je doen als je grootste droom morgen zou uitkomen?",
         "Wat zou je doen als je grootste droom morgen uit zou komen?",
-        "Wat zou jij doen als jouw grootste droom morgen uitkwam?"
+        "Wat zou jij doen als jouw grootste droom morgen uitkwam?",
+        "Wat zou jij doen als je grootste droom morgen zou uitkomen?",
+        "Wat zou jij doen als je grootste droom morgen uit zou komen?"
       ]
     },
     {
@@ -322,12 +327,12 @@
       "nl": "Je ___ eens advies moeten vragen aan een expert.",
       "options": [
         "zou",
-        "zult",
+        "zouden",
         "wou"
       ],
       "correct": 0,
       "en": "You ought to ask an expert for advice.",
-      "note": "Advice is zou + moeten. Zult belongs to zullen in the present, and wou is an informal past of willen."
+      "note": "Advice is zou + moeten, and je takes zou. Zouden is the plural, and wou is an informal past of willen."
     },
     {
       "type": "gap",

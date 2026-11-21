@@ -289,7 +289,9 @@
       "nl": "Ik maak ___ een praatje met de buurvrouw, ik ben zo terug.",
       "answers": [
         "even",
-        "nog even"
+        "nog even",
+        "eventjes",
+        "snel even"
       ],
       "en": "I'm just having a quick chat with the neighbour, I'll be right back.",
       "note": "Even says it will only take a moment. It stands after the verb and the subject, before the object."
@@ -299,10 +301,12 @@
       "nl": "Hij zegt dat hij ziek is, maar dat zal ___ een smoes zijn.",
       "answers": [
         "wel",
-        "vast"
+        "vast",
+        "vast wel",
+        "waarschijnlijk"
       ],
       "en": "He says he is ill, but that is probably an excuse.",
-      "note": "Zal … wel is a guess: probably. Vast (surely) gives almost the same meaning and is also right."
+      "note": "Zal … wel is a guess: probably. Vast (surely), vast wel and waarschijnlijk give almost the same meaning and are also right."
     },
     {
       "type": "gap",
@@ -317,10 +321,11 @@
       "type": "gap",
       "nl": "Nee ___, je stoort helemaal niet.",
       "answers": [
-        "hoor"
+        "hoor",
+        "joh"
       ],
       "en": "No, don't worry, you're not disturbing me at all.",
-      "note": "Nee hoor is a friendly no: no, don't worry. Hoor can stand straight after ja or nee."
+      "note": "Nee hoor is a friendly no: no, don't worry. Hoor can stand straight after ja or nee. Nee joh, more familiar, is also right."
     },
     {
       "type": "gap",

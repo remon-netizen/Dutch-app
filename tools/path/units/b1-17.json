@@ -191,7 +191,8 @@
         "Jij hoeft in Utrecht niet over te stappen.",
         "In Utrecht hoef je niet over te stappen.",
         "In Utrecht hoef jij niet over te stappen.",
-        "Je hoeft niet over te stappen in Utrecht."
+        "Je hoeft niet over te stappen in Utrecht.",
+        "Jij hoeft niet over te stappen in Utrecht."
       ]
     },
     {
@@ -448,7 +449,8 @@
       "answers": [
         "Ik stap altijd in Utrecht over.",
         "Ik stap altijd over in Utrecht.",
-        "In Utrecht stap ik altijd over."
+        "In Utrecht stap ik altijd over.",
+        "Ik stap in Utrecht altijd over."
       ],
       "en": "I always change trains in Utrecht.",
       "note": "In a main clause only the verb part stands second; the prefix over goes to the end (or before in Utrecht)."

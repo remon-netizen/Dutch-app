@@ -56,7 +56,8 @@
       "nl": "De medewerkers die op deze afdeling werken, overleggen elke maandag.",
       "en": "The employees who work in this department consult each other every Monday.",
       "hint": ["medewerker", "afdeling", "werken", "overleggen", "maandag"],
-      "note": "A plural always takes die. The plural verb werken at the end shows that die (the employees) is the subject."
+      "note": "A plural always takes die. The plural verb werken at the end shows that die (the employees) is the subject.",
+      "alt": ["De medewerkers die op deze afdeling werken, overleggen elke maandag met elkaar."]
     },
     {
       "nl": "Het overleg dat we elke week hebben, duurt vaak te lang.",
@@ -82,7 +83,8 @@
       "nl": "Onze leidinggevende, die erg collegiaal is, helpt ons als het druk is.",
       "en": "Our manager, who is very supportive, helps us when it is busy.",
       "hint": ["leidinggevende", "erg", "collegiaal", "helpen", "druk"],
-      "note": "We have only one manager, so the clause just adds information and stands between commas. Is goes to the end of it."
+      "note": "We have only one manager, so the clause just adds information and stands between commas. Is goes to the end of it.",
+      "alt": ["Onze leidinggevende, die erg collegiaal is, helpt ons wanneer het druk is."]
     },
     {
       "nl": "De teams die goed samenwerken, hebben minder last van werkdruk.",

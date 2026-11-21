@@ -9,7 +9,7 @@
   "words": [
     { "nl": "smaak", "art": "de", "pl": "smaken", "en": "taste / flavour", "pos": "n" },
     { "nl": "traditie", "art": "de", "pl": "tradities", "en": "tradition", "pos": "n" },
-    { "nl": "gewoonte", "art": "de", "pl": "gewoonten", "en": "custom / habit", "pos": "n" },
+    { "nl": "gewoonte", "art": "de", "pl": "gewoonten / gewoontes", "en": "custom / habit", "pos": "n" },
     { "nl": "gebak", "art": "het", "pl": "", "en": "pastries / cakes", "pos": "n", "tag": "no plural" },
     { "nl": "kruid", "art": "het", "pl": "kruiden", "en": "herb", "pos": "n" },
     { "nl": "ingrediënt", "art": "het", "pl": "ingrediënten", "en": "ingredient", "pos": "n" },

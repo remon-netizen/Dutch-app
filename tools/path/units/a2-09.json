@@ -31,7 +31,7 @@
     {
       "nl": "eigenaar",
       "art": "de",
-      "pl": "eigenaren",
+      "pl": "eigenaren / eigenaars",
       "en": "owner",
       "pos": "n"
     },
@@ -133,7 +133,8 @@
       ],
       "note": "Whose? is Van wie …? and 'yours' is van jou, with the object form after van. De oplader is a de-word, so 'it' is hij.",
       "alt": [
-        "Van wie is die oplader? Is die van jou?"
+        "Van wie is die oplader? Is die van jou?",
+        "Van wie is die oplader? Is het van jou?"
       ]
     },
     {
@@ -155,7 +156,10 @@
         "weer",
         "kwijt"
       ],
-      "note": "Ukrainian would say свої; Dutch chooses by the owner: mijn zus → haar."
+      "note": "Ukrainian would say свої; Dutch chooses by the owner: mijn zus → haar.",
+      "alt": [
+        "Mijn zus is weer haar sleutels kwijt."
+      ]
     },
     {
       "nl": "We delen de keuken, maar we hebben allemaal onze eigen kamer.",
@@ -188,7 +192,10 @@
         "sleutel",
         "bij je hebben"
       ],
-      "note": "With jullie as the subject, the possessive is usually je; jullie jullie sleutels would sound clumsy."
+      "note": "With jullie as the subject, the possessive is usually je; jullie jullie sleutels is not wrong, but sounds clumsy.",
+      "alt": [
+        "Hebben jullie jullie sleutels bij je?"
+      ]
     },
     {
       "nl": "Is dit uw portemonnee, meneer?",
@@ -332,7 +339,7 @@
         "Dit is de fiets van mijn zus."
       ],
       "en": "This is my sister's bike.",
-      "note": "With van the owner comes after the thing: de fiets van mijn zus. Only a name can take s: Anna's fiets."
+      "note": "With van the owner comes after the thing: de fiets van mijn zus. The s is mainly for names: Anna's fiets."
     },
     {
       "type": "order",
