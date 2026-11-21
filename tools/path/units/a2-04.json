@@ -1,0 +1,220 @@
+{
+  "id": "a2-04",
+  "level": "A2",
+  "icon": "❓",
+  "title": "Getting to know someone",
+  "grammar": "Questions: yes/no questions and question words",
+  "summary": "Yes/no question: verb first, then the subject (Woon je hier?). With a question word: question word, verb, subject (Waar woon je?). Welke with de-words and plurals, welk with het-words. Jij after the verb loses its t.",
+  "explain": "Dutch makes a question by changing the word order: the verb moves in front of the subject. There is no helper verb like English *do*. There are two kinds of question, and in both the subject comes **directly after the verb**.\n\n### Yes/no questions: the verb first\n\nA question that you answer with ja or nee starts with the conjugated verb. Then comes the subject, then the rest.\n\n> Woon je hier al lang? — Have you lived here long?\n> Spreekt u Engels? — Do you (formal) speak English?\n> Zijn jullie hier ook nieuw? — Are you (plural) new here too?\n\nJij and je after the verb make it lose its t, as in unit A2 · 1: `jij woont`, but `Woon jij hier?` `Hij` and `u` keep the t: `Woont hij hier?`, `Woont u hier?`\n\n### Questions with a question word\n\nThe question word goes first, then the verb, then the subject. It is the rule of unit A2 · 3: the question word is element number one, the verb number two.\n\n| question word | meaning | example |\n| wie | who | Wie is dat? |\n| wat | what | Wat doe je? |\n| waar | where | Waar woon je? |\n| wanneer | when | Wanneer begin je? |\n| waarom | why | Waarom lach je? |\n| hoe | how | Hoe gaat het? |\n| hoeveel | how much, how many | Hoeveel kinderen heeft u? |\n| hoe laat | what time | Hoe laat is het? |\n| hoe lang | how long | Hoe lang blijf je? |\n| hoe vaak | how often | Hoe vaak sport je? |\n| hoe oud | how old | Hoe oud is hij? |\n\n> Hoe lang woont u al in Nederland? — How long have you (formal) lived in the Netherlands?\n\n### Welk or welke, and wat voor\n\n`Welke` (which) goes with de-words and with every plural. `Welk` goes only with a het-word in the singular.\n\n> Welke taal spreek je thuis? — Which language do you speak at home? (de taal)\n> Uit welk land kom je? — Which country are you from? (het land)\n\n`Wat voor` asks what kind: `Wat voor werk doe je?` With a singular noun you can count, `een` is often added: `Wat voor (een) auto heb je?` With plurals and with nouns you cannot count there is no een: `Wat voor boeken lees je?`\n\n### Waar … vandaan and waar … naartoe\n\nThese question words are split: `waar` goes first, and `vandaan` (from) or `naartoe` (to) goes to the **end**. Instead of naartoe you can also say `heen`.\n\n> Waar kom je vandaan? — Where are you from?\n> Waar gaan jullie in de zomer naartoe? — Where are you (plural) going in the summer?\n\n### Wie or wat as the subject\n\nWhen `wie` or `wat` is itself the subject, the verb follows it directly, and it is normally singular, even if the answer could be several people.\n\n> Wie woont hier? — Who lives here?\n\nBut in `Wie zijn die mensen?` the subject is `die mensen`, so the verb is plural.\n\n### A preposition goes in front\n\nEnglish puts the preposition at the end (*Who do you live with?*). Dutch puts it in front of `wie`: `Met wie woon je?`, `Van wie is die jas?` For things, Dutch usually says `waarmee`, `waarover` and so on (more in B1).\n\n### Answering: ja, nee and jawel\n\nTo say yes to a negative question, and so contradict it, Dutch uses `jawel`. `Ja` alone sounds unclear, and `nee` agrees with the negative.\n\n> Ben je niet moe? Jawel, heel erg. — Aren't you tired? Yes, I am, very.\n\n### Watch out\n\n- The verb comes before the subject: *Waar jij woont? → `Waar woon jij?`\n- The t goes: *Woont jij hier? → `Woon jij hier?`\n- No *do*: *Doe je spreken Engels? → `Spreek je Engels?`\n- *Welk taal → `Welke taal`; *Welke land → `Welk land`.\n- *Waar kom je van? → `Waar kom je vandaan?`\n- *Wie woon je mee? → `Met wie woon je?`\n\n### Compared with Ukrainian\n\nUkrainian can make a question just with the voice or with `чи`: `Ти тут живеш?` Dutch needs the word order: `Woon jij hier?` And where Ukrainian says just `Звідки ти?`, Dutch needs a verb: `Waar kom je vandaan?`",
+  "words": [
+    { "nl": "achternaam", "art": "de", "pl": "achternamen", "en": "surname", "pos": "n" },
+    { "nl": "woonplaats", "art": "de", "pl": "woonplaatsen", "en": "place of residence", "pos": "n" },
+    { "nl": "nationaliteit", "art": "de", "pl": "nationaliteiten", "en": "nationality", "pos": "n" },
+    { "nl": "leeftijd", "art": "de", "pl": "leeftijden", "en": "age", "pos": "n" },
+    { "nl": "moedertaal", "art": "de", "pl": "moedertalen", "en": "mother tongue", "pos": "n" },
+    { "nl": "kennis", "art": "de", "pl": "kennissen", "en": "acquaintance", "pos": "n" },
+    { "nl": "gesprek", "art": "het", "pl": "gesprekken", "en": "conversation", "pos": "n" },
+    { "nl": "heten", "past": "heette", "perf": "heeft geheten", "en": "to be called", "pos": "v" },
+    { "nl": "spellen", "past": "spelde", "perf": "heeft gespeld", "en": "to spell", "pos": "v" },
+    { "nl": "bedoelen", "past": "bedoelde", "perf": "heeft bedoeld", "en": "to mean", "pos": "v" },
+    { "nl": "ontmoeten", "past": "ontmoette", "perf": "heeft ontmoet", "en": "to meet", "pos": "v" },
+    { "nl": "geboren", "en": "born", "pos": "adj" },
+    { "nl": "eigenlijk", "en": "actually / really", "pos": "adv" },
+    { "nl": "vandaan", "en": "from (waar … vandaan: where from)", "pos": "adv" },
+    { "nl": "naartoe", "en": "to (waar … naartoe: where to)", "pos": "adv" },
+    { "nl": "aangenaam", "en": "pleased to meet you", "pos": "expr" }
+  ],
+  "sentences": [
+    {
+      "nl": "Hoe spel je je achternaam?",
+      "en": "How do you spell your surname?",
+      "hint": ["hoe", "spellen", "achternaam"],
+      "note": "Question word, verb, subject. Je comes directly after the verb, so the t of spelt disappears: spel je.",
+      "alt": ["Hoe spel jij je achternaam?", "Hoe spel je jouw achternaam?", "Hoe spel jij jouw achternaam?"]
+    },
+    {
+      "nl": "Waar kom je eigenlijk vandaan?",
+      "en": "Where are you actually from?",
+      "hint": ["waar", "komen", "eigenlijk", "vandaan"],
+      "note": "Waar goes first and vandaan goes to the very end. Between them the normal question order: verb, subject, the rest.",
+      "alt": ["Waar kom jij eigenlijk vandaan?"]
+    },
+    {
+      "nl": "Is Oekraïens uw moedertaal?",
+      "en": "Is Ukrainian your (formal) mother tongue?",
+      "hint": ["zijn", "Oekraïens", "moedertaal"],
+      "note": "A yes/no question starts with the verb: is. The subject Oekraïens follows it directly."
+    },
+    {
+      "nl": "Is zij een vriendin of een kennis?",
+      "en": "Is she a friend or an acquaintance?",
+      "hint": ["zijn", "vriendin", "kennis"],
+      "note": "The verb comes first and the subject zij second. Of only joins the two choices and changes nothing in the order.",
+      "alt": ["Is ze een vriendin of een kennis?"]
+    },
+    {
+      "nl": "Welke talen spreek je thuis?",
+      "en": "Which languages do you speak at home?",
+      "hint": ["welke", "taal", "spreken", "thuis"],
+      "note": "Talen is a plural, and every plural takes welke. Je after the verb: spreek, without t.",
+      "alt": ["Welke talen spreek jij thuis?"]
+    },
+    {
+      "nl": "In welk land ben je geboren?",
+      "en": "In which country were you born?",
+      "hint": ["welk", "land", "zijn", "geboren"],
+      "note": "Land is a het-word in the singular, so welk without e. The preposition in goes in front of the question word.",
+      "alt": ["In welk land ben jij geboren?"]
+    },
+    {
+      "nl": "Wat voor werk doe je?",
+      "en": "What kind of work do you do?",
+      "hint": ["wat voor", "werk", "doen"],
+      "note": "Wat voor asks what kind. Werk is a noun you cannot count, so there is no een.",
+      "alt": ["Wat voor werk doe jij?"]
+    },
+    {
+      "nl": "Wie spreekt hier Nederlands?",
+      "en": "Who speaks Dutch here?",
+      "hint": ["wie", "spreken", "hier", "Nederlands"],
+      "note": "Wie is the subject here, so the verb follows it directly and is singular: spreekt, even if several people may answer.",
+      "alt": ["Wie spreekt er hier Nederlands?"]
+    },
+    {
+      "nl": "Aangenaam, ik ben Olena. Hoe heet jij?",
+      "en": "Pleased to meet you, I am Olena. What is your name?",
+      "hint": ["aangenaam", "zijn", "hoe", "heten"],
+      "note": "Hoe heet jij? is how Dutch asks for a name: literally 'how are you called'. Heten has a stem ending in t, so heet jij and jij heet look the same.",
+      "alt": ["Aangenaam, ik ben Olena. Hoe heet je?", "Aangenaam, ik heet Olena. Hoe heet jij?", "Aangenaam, ik heet Olena. Hoe heet je?"]
+    },
+    {
+      "nl": "Woon je hier niet? Jawel, al drie jaar.",
+      "en": "Don't you live here? Yes, I do: for three years now.",
+      "hint": ["wonen", "hier", "jawel", "jaar"],
+      "note": "The question starts with the verb: woon je, without t. To say yes to a negative question you use jawel, not ja.",
+      "alt": ["Woon jij hier niet? Jawel, al drie jaar."]
+    }
+  ],
+  "exercises": [
+    {
+      "type": "choose",
+      "nl": "Hoe ___ eigenlijk?",
+      "options": ["jullie heten", "heten jullie", "heet jullie"],
+      "correct": 1,
+      "en": "What are your (plural) names, actually?",
+      "note": "After the question word comes the verb, then the subject: heten jullie. Only jij and je make the verb lose its t; jullie keeps the infinitive."
+    },
+    {
+      "type": "choose",
+      "nl": "Uit ___ land komt uw man?",
+      "options": ["welke", "welk", "wat"],
+      "correct": 1,
+      "en": "Which country is your (formal) husband from?",
+      "note": "Land is a het-word and singular, so welk without e. Welke is for de-words and plurals; wat cannot stand before a noun like this."
+    },
+    {
+      "type": "choose",
+      "nl": "Wie ___ de nieuwe buurvrouw al?",
+      "options": ["ken", "ken je", "kent"],
+      "correct": 2,
+      "en": "Who knows the new neighbour already?",
+      "note": "Wie is the subject, so the verb follows it directly in the singular hij-form: kent. With ken je, wie would no longer be the subject."
+    },
+    {
+      "type": "choose",
+      "nl": "Ben je niet moe? ___, ik ben heel moe.",
+      "options": ["Nee", "Jawel", "Geen"],
+      "correct": 1,
+      "en": "Aren't you tired? Yes, I am very tired.",
+      "note": "Jawel contradicts a negative question: yes, I am. Nee would agree with niet and mean 'no, I am not tired'."
+    },
+    {
+      "type": "gap",
+      "nl": "___ is uw woonplaats?",
+      "answers": ["Wat"],
+      "en": "What is your (formal) place of residence?",
+      "note": "Wat asks for a piece of information, like a name or a place on a form. Welke only stands in front of a noun: welke stad."
+    },
+    {
+      "type": "gap",
+      "nl": "___ voor muziek vind je mooi?",
+      "answers": ["Wat"],
+      "en": "What kind of music do you like?",
+      "note": "Wat voor means 'what kind of'. Muziek cannot be counted, so there is no een after wat voor."
+    },
+    {
+      "type": "gap",
+      "nl": "Wat ___ (bedoelen) je precies?",
+      "answers": ["bedoel"],
+      "en": "What exactly do you mean?",
+      "note": "Je comes directly after the verb, so the t disappears: bedoel je. With hij it stays: Wat bedoelt hij?"
+    },
+    {
+      "type": "gap",
+      "nl": "Met ___ heb je morgen een gesprek?",
+      "answers": ["wie"],
+      "en": "Who are you having a conversation with tomorrow?",
+      "note": "For a person after a preposition Dutch uses wie, and the preposition goes in front of it: met wie. Never *wie … met at the end."
+    },
+    {
+      "type": "order",
+      "lead": "Waar",
+      "words": ["ga", "je", "in de zomer", "naartoe"],
+      "answers": ["Waar ga je in de zomer naartoe?", "Waar ga je naartoe in de zomer?"],
+      "en": "Where are you going in the summer?",
+      "note": "Waar first, then the verb and the subject. Naartoe normally closes the sentence; in speech the time can also follow it."
+    },
+    {
+      "type": "order",
+      "lead": "Waar",
+      "words": ["jullie", "ontmoeten", "elkaar", "meestal"],
+      "answers": ["Waar ontmoeten jullie elkaar meestal?"],
+      "en": "Where do you (plural) usually meet?",
+      "note": "Question word, verb, subject. A short word like elkaar comes right after the subject, before meestal."
+    },
+    {
+      "type": "order",
+      "words": ["wonen", "hoe lang", "uw buren", "al", "in deze straat"],
+      "answers": ["Hoe lang wonen uw buren al in deze straat?"],
+      "en": "How long have your (formal) neighbours lived in this street?",
+      "note": "Hoe lang is one question word and stands first. The verb wonen comes second and agrees with the plural subject uw buren."
+    },
+    {
+      "type": "rewrite",
+      "task": "Ask where he is from, with waar … vandaan.",
+      "from": "Hij komt uit Polen.",
+      "answers": ["Waar komt hij vandaan?"],
+      "en": "Where is he from?",
+      "note": "Waar takes the first place and vandaan goes to the end. Hij keeps the t: komt hij."
+    },
+    {
+      "type": "rewrite",
+      "task": "Ask the same thing in everyday Dutch, with hoe oud.",
+      "from": "Wat is uw leeftijd?",
+      "answers": ["Hoe oud bent u?"],
+      "en": "How old are you (formal)?",
+      "note": "Hoe oud is the question word, then the verb and the subject: bent u. Wat is uw leeftijd? is what a form says."
+    },
+    {
+      "type": "fix",
+      "wrong": "Waar jij woont?",
+      "answers": ["Waar woon jij?", "Waar woon je?"],
+      "en": "Where do you live?",
+      "note": "After the question word comes the verb, then the subject. And jij after the verb loses the t: woon jij."
+    },
+    {
+      "type": "fix",
+      "wrong": "Welk nationaliteit heeft hij?",
+      "answers": ["Welke nationaliteit heeft hij?"],
+      "en": "What nationality is he?",
+      "note": "Nationaliteit is a de-word, like every word in -teit, so welke. Welk is only for het-words in the singular."
+    },
+    {
+      "type": "fix",
+      "wrong": "Woont jij hier al lang?",
+      "answers": ["Woon jij hier al lang?", "Woon je hier al lang?"],
+      "en": "Have you lived here long?",
+      "note": "In a yes/no question jij stands directly after the verb, and then the verb loses its t: woon jij."
+    }
+  ]
+}

@@ -1,0 +1,413 @@
+{
+  "id": "a2-09",
+  "level": "A2",
+  "icon": "🐕",
+  "title": "Whose is it?",
+  "grammar": "Possessives: mijn, jouw, zijn, haar, ons, hun",
+  "summary": "mijn, jouw/je, uw, zijn, haar, ons/onze, jullie/je, hun. The form depends on the owner only. ons with a het-word in the singular, onze with all others. Also: de fiets van Anna, Anna's fiets. Whose? Van wie is …?",
+  "explain": "Possessives (*bezittelijke voornaamwoorden*) say whose something is: my key, her cat, our house. In Dutch the form depends on **the owner** and hardly ever on the thing: `mijn` fiets, `mijn` huis and `mijn` sleutels all use the same word.\n\n### The forms\n\n| owner | possessive | example |\n| ik | mijn | mijn sleutel |\n| jij / je | jouw / je | jouw kamer |\n| u | uw | uw fiets |\n| hij, het | zijn | zijn hond |\n| zij / ze (she) | haar | haar kat |\n| wij / we | ons / onze | ons huis, onze kat |\n| jullie | jullie / je | jullie tuin |\n| zij / ze (they) | hun | hun spullen |\n\n> Mijn huisgenoot leent vaak mijn spullen. — My housemate often borrows my things.\n> Is dit uw portemonnee, meneer? — Is this your wallet, sir?\n\n`je` is the short, unstressed form of `jouw`. Use `jouw` for stress or contrast: `Dat is jouw probleem, niet mijn probleem.` In chats and speech you will also see `m'n` and `z'n` for `mijn` and `zijn`; write the full forms.\n\n### Ons or onze\n\nThis is the only possessive that changes with the thing. `ons` goes with a **het-word in the singular**; `onze` goes with every de-word and with every plural.\n\n> Ons huis is oud, maar onze buren zijn heel aardig. — Our house is old, but our neighbours are very nice.\n\nSo: `ons konijn`, but `onze konijnen`; `onze kat`, `onze katten`.\n\n### Zijn or haar: look at the owner\n\n`zijn` is for a male owner and for an owner that is a thing or an animal; `haar` is for a female owner. What is owned does not matter. (In formal writing an organisation often gets `haar`: `de gemeente en haar inwoners`.)\n\n> Anna zorgt goed voor haar konijn. — Anna takes good care of her rabbit.\n> Peter zoekt zijn oplader. — Peter is looking for his charger.\n\n### Jullie as the subject: usually je\n\nWhen `jullie` is the subject, the possessive in the same sentence is usually `je`, because jullie … jullie sounds clumsy (it is not wrong). In other sentences `jullie` is the normal possessive.\n\n> Hebben jullie je sleutels bij je? — Do you (plural) have your keys with you?\n> Is dit jullie hond? — Is this your (plural) dog?\n\n### Other ways to say whose\n\n- `van` + the owner: `de fiets van Anna`, `de kat van de buren`. This works with every noun and every pronoun, which takes the object form: `van mij`, `van hem`, `van ons`.\n- A name + `s`: `Peters auto`. After a, i, o, u or y the s gets an apostrophe, so the vowel keeps its sound: `Anna's fiets`, `Timo's kamer`. This is mainly for names; with other nouns use `van`.\n\nTo ask whose something is: `Van wie is …?` The answer uses `van` too.\n\n> Van wie is die oplader? Is hij van jou? — Whose is that charger? Is it yours?\n> Dat is van mij. — That is mine.\n\nThere are also forms like `de mijne` and `het jouwe` (mine, yours). You will meet them later; for now say `van mij`, `van jou`.\n\n### Hun: their or them\n\n`hun` before a noun means \"their\": `hun kat`. Unit A2 · 8 also used `hun` (and `hen`) for \"them\". Recognise the difference: `Dat is hun auto` (their car) against `Ik help hen` (I help them).\n\n### Watch out\n\n- `jouw` is \"your\", `jou` is \"you\": `Is dit jouw sleutel?`, never *Is dit jou sleutel?\n- The owner decides: `Anna en haar hond`, not *Anna en zijn hond.\n- `onze kat`, `onze huizen`, but `ons huis`: never *ons kat or *onze huis.\n- No apostrophe after a consonant: `Peters auto`, not *Peter's auto.\n\n### Compared with Ukrainian\n\n`мій, моя, моє, мої` change with the thing; Dutch possessives change only with the owner. And Dutch has **no word for свій**: you always choose the form that fits the owner. `Він любить свою роботу` is `Hij houdt van zijn werk`, `Вона любить свою роботу` is `Zij houdt van haar werk`, `Ми любимо свою роботу` is `Wij houden van ons werk`. Where it could be someone else's, add `eigen` (own): `Hij gebruikt zijn eigen oplader`.",
+  "words": [
+    {
+      "nl": "huisdier",
+      "art": "het",
+      "pl": "huisdieren",
+      "en": "pet",
+      "pos": "n"
+    },
+    {
+      "nl": "konijn",
+      "art": "het",
+      "pl": "konijnen",
+      "en": "rabbit",
+      "pos": "n"
+    },
+    {
+      "nl": "huisgenoot",
+      "art": "de",
+      "pl": "huisgenoten",
+      "en": "housemate",
+      "pos": "n"
+    },
+    {
+      "nl": "eigenaar",
+      "art": "de",
+      "pl": "eigenaren",
+      "en": "owner",
+      "pos": "n"
+    },
+    {
+      "nl": "spullen",
+      "art": "de",
+      "pl": "",
+      "en": "things / belongings",
+      "pos": "n",
+      "tag": "always plural"
+    },
+    {
+      "nl": "sleutel",
+      "art": "de",
+      "pl": "sleutels",
+      "en": "key",
+      "pos": "n"
+    },
+    {
+      "nl": "oplader",
+      "art": "de",
+      "pl": "opladers",
+      "en": "charger",
+      "pos": "n"
+    },
+    {
+      "nl": "portemonnee",
+      "art": "de",
+      "pl": "portemonnees",
+      "en": "wallet / purse",
+      "pos": "n"
+    },
+    {
+      "nl": "lenen",
+      "past": "leende",
+      "perf": "heeft geleend",
+      "en": "to borrow / to lend",
+      "pos": "v"
+    },
+    {
+      "nl": "delen",
+      "past": "deelde",
+      "perf": "heeft gedeeld",
+      "en": "to share",
+      "pos": "v"
+    },
+    {
+      "nl": "zorgen voor",
+      "past": "zorgde voor",
+      "perf": "heeft gezorgd voor",
+      "en": "to take care of / to look after",
+      "pos": "v"
+    },
+    {
+      "nl": "voeren",
+      "past": "voerde",
+      "perf": "heeft gevoerd",
+      "en": "to feed (an animal)",
+      "pos": "v"
+    },
+    {
+      "nl": "kwijt",
+      "en": "lost / missing",
+      "pos": "adj",
+      "tag": "kwijt zijn"
+    },
+    {
+      "nl": "eigen",
+      "en": "own",
+      "pos": "adj"
+    },
+    {
+      "nl": "kapot",
+      "en": "broken",
+      "pos": "adj"
+    }
+  ],
+  "sentences": [
+    {
+      "nl": "Mijn huisgenoot leent vaak mijn spullen.",
+      "en": "My housemate often borrows my things.",
+      "hint": [
+        "huisgenoot",
+        "lenen",
+        "vaak",
+        "spullen"
+      ],
+      "note": "Mijn is the same for every noun: mijn huisgenoot (de), mijn spullen (plural), mijn huis (het).",
+      "alt": [
+        "Mijn huisgenoot leent mijn spullen vaak."
+      ]
+    },
+    {
+      "nl": "Van wie is die oplader? Is hij van jou?",
+      "en": "Whose is that charger? Is it yours?",
+      "hint": [
+        "van wie",
+        "oplader"
+      ],
+      "note": "Whose? is Van wie …? and 'yours' is van jou, with the object form after van. De oplader is a de-word, so 'it' is hij.",
+      "alt": [
+        "Van wie is die oplader? Is die van jou?"
+      ]
+    },
+    {
+      "nl": "Anna zorgt goed voor haar konijn.",
+      "en": "Anna takes good care of her rabbit.",
+      "hint": [
+        "zorgen voor",
+        "goed",
+        "konijn"
+      ],
+      "note": "The owner is a woman, so haar. That konijn is a het-word does not matter."
+    },
+    {
+      "nl": "Mijn zus is haar sleutels weer kwijt.",
+      "en": "My sister has lost her keys again.",
+      "hint": [
+        "zus",
+        "sleutel",
+        "weer",
+        "kwijt"
+      ],
+      "note": "Ukrainian would say свої; Dutch chooses by the owner: mijn zus → haar."
+    },
+    {
+      "nl": "We delen de keuken, maar we hebben allemaal onze eigen kamer.",
+      "en": "We share the kitchen, but we all have our own room.",
+      "hint": [
+        "delen",
+        "keuken",
+        "allemaal",
+        "eigen",
+        "kamer"
+      ],
+      "note": "Kamer is a de-word, so onze. Eigen (own) comes between the possessive and the noun and never changes."
+    },
+    {
+      "nl": "Ons huis is oud, maar onze buren zijn heel aardig.",
+      "en": "Our house is old, but our neighbours are very nice.",
+      "hint": [
+        "huis",
+        "oud",
+        "buur",
+        "aardig"
+      ],
+      "note": "Huis is a het-word in the singular: ons. Buren is a plural: onze."
+    },
+    {
+      "nl": "Hebben jullie je sleutels bij je?",
+      "en": "Do you (plural) have your keys with you?",
+      "hint": [
+        "hebben",
+        "sleutel",
+        "bij je hebben"
+      ],
+      "note": "With jullie as the subject, the possessive is usually je; jullie jullie sleutels would sound clumsy."
+    },
+    {
+      "nl": "Is dit uw portemonnee, meneer?",
+      "en": "Is this your wallet, sir?",
+      "hint": [
+        "portemonnee",
+        "meneer"
+      ],
+      "note": "To someone you call u, the possessive is uw."
+    },
+    {
+      "nl": "Mijn buren zijn weg, dus ik voer hun kat.",
+      "en": "My neighbours are away, so I am feeding their cat.",
+      "hint": [
+        "buur",
+        "weg",
+        "dus",
+        "voeren",
+        "kat"
+      ],
+      "note": "Hun before a noun means 'their'. Never hen kat: hen only means 'them'.",
+      "alt": [
+        "Mijn buren zijn weg, dus voer ik hun kat."
+      ]
+    },
+    {
+      "nl": "Ik leen vandaag Peters auto.",
+      "en": "Today I am borrowing Peter's car.",
+      "hint": [
+        "lenen",
+        "vandaag",
+        "auto"
+      ],
+      "note": "A name + s shows the owner. Peter ends in a consonant, so there is no apostrophe: Peters.",
+      "alt": [
+        "Vandaag leen ik Peters auto.",
+        "Ik leen vandaag de auto van Peter.",
+        "Vandaag leen ik de auto van Peter."
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "type": "choose",
+      "nl": "Mijn zus zorgt goed voor ___ eigen konijn.",
+      "options": [
+        "zijn",
+        "haar",
+        "hun"
+      ],
+      "correct": 1,
+      "en": "My sister takes good care of her own rabbit.",
+      "note": "The owner, mijn zus, is a woman: haar. Konijn is a het-word, but the thing owned does not choose the possessive."
+    },
+    {
+      "type": "choose",
+      "nl": "Wij wonen hier al tien jaar. Dit is ___ huis.",
+      "options": [
+        "onze",
+        "ons",
+        "wij"
+      ],
+      "correct": 1,
+      "en": "We have lived here for ten years. This is our house.",
+      "note": "Huis is a het-word in the singular, so ons. Onze is for de-words and plurals."
+    },
+    {
+      "type": "choose",
+      "nl": "Van wie is de oplader? Is hij van ___?",
+      "options": [
+        "jouw",
+        "jou",
+        "jij"
+      ],
+      "correct": 1,
+      "en": "Whose is the charger? Is it yours?",
+      "note": "After van comes the object form jou. Jouw is the possessive and needs a noun after it: jouw oplader."
+    },
+    {
+      "type": "choose",
+      "nl": "De eigenaar van de hond is een oude vrouw. Ze wandelt elke dag met ___ hond.",
+      "options": [
+        "zijn",
+        "hun",
+        "haar"
+      ],
+      "correct": 2,
+      "en": "The owner of the dog is an old woman. She walks with her dog every day.",
+      "note": "The owner is a woman, so haar, even though de eigenaar is a de-word. Zijn would mean someone else's dog."
+    },
+    {
+      "type": "choose",
+      "nl": "___ kat slaapt de hele dag.",
+      "options": [
+        "Ons",
+        "Onze",
+        "Wij"
+      ],
+      "correct": 1,
+      "en": "Our cat sleeps all day.",
+      "note": "Kat is a de-word, so onze. Ons is only for a het-word in the singular: ons konijn."
+    },
+    {
+      "type": "gap",
+      "nl": "De buren lenen vaak ___ (wij) ladder.",
+      "answers": [
+        "onze"
+      ],
+      "en": "The neighbours often borrow our ladder.",
+      "note": "Ladder is a de-word, so the possessive of wij is onze."
+    },
+    {
+      "type": "gap",
+      "nl": "Zetten jullie ___ (jullie) fietsen in de gang?",
+      "answers": [
+        "je",
+        "jullie"
+      ],
+      "en": "Are you (plural) putting your bikes in the hall?",
+      "note": "With jullie as the subject the possessive is usually je. Jullie fietsen is also correct, but sounds heavier."
+    },
+    {
+      "type": "gap",
+      "nl": "Mijn buren zijn op vakantie, dus ik zorg voor ___ (zij, they) konijn.",
+      "answers": [
+        "hun"
+      ],
+      "en": "My neighbours are on holiday, so I am looking after their rabbit.",
+      "note": "'Their' is hun. Hen and ze mean 'them' and cannot stand before a noun."
+    },
+    {
+      "type": "order",
+      "lead": "Dit",
+      "words": [
+        "de fiets",
+        "is",
+        "mijn zus",
+        "van"
+      ],
+      "answers": [
+        "Dit is de fiets van mijn zus."
+      ],
+      "en": "This is my sister's bike.",
+      "note": "With van the owner comes after the thing: de fiets van mijn zus. Only a name can take s: Anna's fiets."
+    },
+    {
+      "type": "order",
+      "lead": "Mijn huisgenoot",
+      "words": [
+        "deelt",
+        "zijn eten",
+        "nooit",
+        "met mij"
+      ],
+      "answers": [
+        "Mijn huisgenoot deelt zijn eten nooit met mij.",
+        "Mijn huisgenoot deelt nooit zijn eten met mij."
+      ],
+      "en": "My housemate never shares his food with me.",
+      "note": "The owner of the food is the housemate, a man: zijn eten. After met comes the object form mij."
+    },
+    {
+      "type": "rewrite",
+      "task": "Use the name with s instead of van.",
+      "from": "Dit is de auto van Peter.",
+      "answers": [
+        "Dit is Peters auto."
+      ],
+      "en": "This is Peter's car.",
+      "note": "Name + s, without an apostrophe after a consonant: Peters auto. The article de disappears."
+    },
+    {
+      "type": "rewrite",
+      "task": "Use van instead of the name with s.",
+      "from": "Mijn oplader is kapot, dus ik leen Anna's oplader.",
+      "answers": [
+        "Mijn oplader is kapot, dus ik leen de oplader van Anna."
+      ],
+      "en": "My charger is broken, so I am borrowing Anna's charger.",
+      "note": "With van the article comes back: de oplader van Anna. Anna's has an apostrophe because the name ends in a."
+    },
+    {
+      "type": "rewrite",
+      "task": "Change the subject to mijn zus.",
+      "from": "Mijn broer zorgt voor zijn konijn.",
+      "answers": [
+        "Mijn zus zorgt voor haar konijn."
+      ],
+      "en": "My sister looks after her rabbit.",
+      "note": "With a new owner the possessive changes too: zijn becomes haar. Dutch has no word like свій that stays the same."
+    },
+    {
+      "type": "rewrite",
+      "task": "Change the subject to wij.",
+      "from": "Ik geef mijn huisdieren elke ochtend eten.",
+      "answers": [
+        "Wij geven onze huisdieren elke ochtend eten."
+      ],
+      "en": "We give our pets food every morning.",
+      "note": "Wij needs the plural verb geven, and the possessive follows the owner: onze, because huisdieren is a plural."
+    },
+    {
+      "type": "fix",
+      "wrong": "Is dit jou sleutel?",
+      "answers": [
+        "Is dit jouw sleutel?",
+        "Is dit je sleutel?"
+      ],
+      "en": "Is this your key?",
+      "note": "'Your' is jouw (or short je). Jou means 'you', as in van jou."
+    },
+    {
+      "type": "fix",
+      "wrong": "Mijn zus heeft nu zijn eigen kamer.",
+      "answers": [
+        "Mijn zus heeft nu haar eigen kamer."
+      ],
+      "en": "My sister has her own room now.",
+      "note": "Eigen means the owner is the subject, mijn zus, so it must be haar. Zijn eigen would only fit a man or a het-word."
+    }
+  ]
+}

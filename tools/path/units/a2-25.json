@@ -1,0 +1,237 @@
+{
+  "id": "a2-25",
+  "level": "A2",
+  "icon": "🙂",
+  "title": "How do you feel?",
+  "grammar": "Reflexive verbs",
+  "summary": "A reflexive verb has a pronoun that points back to the subject: ik voel me, jij voelt je, hij voelt zich, wij voelen ons. It stands after the verb, or after the subject when that follows the verb. Perfect: always hebben.",
+  "explain": "A reflexive verb (*een wederkerend werkwoord*) has an extra pronoun that refers back to the subject: `Ik vergis me` (I am mistaken), `Hij voelt zich goed` (he feels well). The pronoun does not add a person; it is the subject itself. Many verbs about feelings and daily care work this way.\n\n### The reflexive pronouns\n\n| | zich voelen |\n| ik | voel me |\n| jij / je | voelt je |\n| u | voelt zich / voelt u |\n| hij, zij / ze, het | voelt zich |\n| wij / we | voelen ons |\n| jullie | voelen je |\n| zij / ze | voelen zich |\n\n- Only `zich` is a new word. The others look like object pronouns, but with **jij** and **jullie** it is always `je`, never jou or jullie: `Jij voelt je`, `Jullie voelen je`.\n- With `ik` you will also read `mij` (`Ik voel mij goed`); in speech `me` is normal.\n- With `u` both `zich` and `u` are correct: `U vergist zich` or `U vergist u`. `zich` is more usual.\n\n> Ik voel me vandaag niet zo goed. — I don't feel so well today.\n> Mijn oma voelt zich soms eenzaam. — My grandmother sometimes feels lonely.\n> Wij verheugen ons op het weekend. — We are looking forward to the weekend.\n\n### Always reflexive\n\nSome verbs always have the pronoun when they have the meaning given here. Learn them with `zich`:\n\n`zich vergissen` (to be mistaken), `zich schamen` (to be ashamed), `zich haasten` (to hurry), `zich herinneren` (to remember), `zich vervelen` (to be bored), `zich zorgen maken` (to worry), `zich verheugen op` (to look forward to), `zich ergeren aan` (to be annoyed by), `zich afvragen` (to wonder), `zich voorstellen` (to introduce yourself, to imagine).\n\n`zich voelen` belongs here when it is about how you feel: `Ik voel me moe`. Without the pronoun, `voelen` means to touch or notice something: `Ik voel de wind`.\n\n### Sometimes reflexive\n\nOther verbs can have an ordinary object or the reflexive pronoun. Use the pronoun when the action goes back to the subject: `wassen`, `aankleden`, `scheren`, `omdraaien`, `verstoppen`.\n\n> Ik was de baby. Daarna was ik me. — I wash the baby. Then I wash myself.\n> Hij kleedt zich snel aan. — He gets dressed quickly.\n\n`Hij wast hem` means that he washes someone else. For himself it must be `zich`.\n\n### Word order\n\nThe pronoun stands **directly after the conjugated verb**. When the subject comes after the verb, the pronoun comes after the subject. In a sub-clause it follows the subject.\n\n> Morgen voel je je vast beter. — You will surely feel better tomorrow.\n> Ik denk dat ze zich verveelt op school. — I think she is bored at school.\n\nWith a modal verb or in the perfect, the pronoun stays in the middle and the other verb goes to the end. The perfect of a reflexive verb is **always** made with `hebben`:\n\n> Jullie moeten je haasten. — You have to hurry.\n> Ik heb me vergist in de datum. — I made a mistake about the date.\n\n### Watch out\n\n- **Do not drop the pronoun**: *Ik herinner die dag → `Ik herinner me die dag`.\n- **jij and jullie take je**: *Jij voelt jou niet goed → `Jij voelt je niet goed`.\n- **Not hem or haar for himself or herself**: *Mijn vader scheert hem → `Mijn vader scheert zich`.\n- **hebben, not zijn**: *Ik ben me vergist → `Ik heb me vergist`.\n- **Pronoun after the subject** in inversion: *Morgen voel me ik beter → `Morgen voel ik me beter`.\n\n`elkaar` means \"each other\" and is not the same as `zich`: `Ze zien elkaar morgen` (they see each other), `Ze wassen zich` (they wash themselves).\n\n### Compared with Ukrainian\n\nUkrainian -ся and Dutch `zich` often do not match. These Ukrainian verbs are **not** reflexive in Dutch: сміятися = `lachen`, вчитися = `leren`, повертатися = `terugkomen`, сподіватися = `hopen`. And the other way round: пам'ятати has no -ся, but Dutch says `zich herinneren`. Learn every Dutch verb with or without `zich`, and do not translate the -ся.",
+  "words": [
+    { "nl": "zich voelen", "past": "voelde me", "perf": "heeft zich gevoeld", "en": "to feel (well, tired …)", "pos": "v" },
+    { "nl": "zich vergissen", "past": "vergiste me", "perf": "heeft zich vergist", "en": "to be mistaken / to make a mistake", "pos": "v" },
+    { "nl": "zich schamen", "past": "schaamde me", "perf": "heeft zich geschaamd", "en": "to be ashamed", "pos": "v" },
+    { "nl": "zich haasten", "past": "haastte me", "perf": "heeft zich gehaast", "en": "to hurry", "pos": "v" },
+    { "nl": "zich herinneren", "past": "herinnerde me", "perf": "heeft zich herinnerd", "en": "to remember", "pos": "v" },
+    { "nl": "zich vervelen", "past": "verveelde me", "perf": "heeft zich verveeld", "en": "to be bored", "pos": "v" },
+    { "nl": "zich zorgen maken", "past": "maakte me zorgen", "perf": "heeft zich zorgen gemaakt", "en": "to worry", "pos": "v" },
+    { "nl": "zich ergeren aan", "past": "ergerde me", "perf": "heeft zich geërgerd", "en": "to be annoyed by", "pos": "v" },
+    { "nl": "zich verheugen op", "past": "verheugde me", "perf": "heeft zich verheugd", "en": "to look forward to", "pos": "v" },
+    { "nl": "zich ontspannen", "past": "ontspande me", "perf": "heeft zich ontspannen", "en": "to relax", "pos": "v" },
+    { "nl": "zich aankleden", "past": "kleedde me aan", "perf": "heeft zich aangekleed", "en": "to get dressed", "pos": "v", "tag": "separable" },
+    { "nl": "zich scheren", "past": "schoor me", "perf": "heeft zich geschoren", "en": "to shave", "pos": "v" },
+    { "nl": "zich afvragen", "past": "vroeg me af", "perf": "heeft zich afgevraagd", "en": "to wonder", "pos": "v", "tag": "separable" },
+    { "nl": "zich omdraaien", "past": "draaide me om", "perf": "heeft zich omgedraaid", "en": "to turn round", "pos": "v", "tag": "separable" },
+    { "nl": "zenuwachtig", "en": "nervous", "pos": "adj" },
+    { "nl": "eenzaam", "en": "lonely", "pos": "adj" }
+  ],
+  "sentences": [
+    {
+      "nl": "Ik voel me vandaag niet zo goed.",
+      "en": "I don't feel so well today.",
+      "hint": ["zich voelen", "vandaag", "niet", "goed"],
+      "note": "With ik the reflexive pronoun is me. It stands directly after the verb voel.",
+      "alt": [
+        "Vandaag voel ik me niet zo goed.",
+        "Ik voel mij vandaag niet zo goed.",
+        "Vandaag voel ik mij niet zo goed."
+      ]
+    },
+    {
+      "nl": "Mijn oma voelt zich soms eenzaam.",
+      "en": "My grandmother sometimes feels lonely.",
+      "hint": ["oma", "zich voelen", "soms", "eenzaam"],
+      "note": "Mijn oma is a hij/zij-subject, so the pronoun is zich: the only reflexive pronoun that is a word of its own.",
+      "alt": ["Soms voelt mijn oma zich eenzaam."]
+    },
+    {
+      "nl": "Morgen voel je je vast beter.",
+      "en": "You will surely feel better tomorrow.",
+      "hint": ["morgen", "zich voelen", "vast", "beter"],
+      "note": "The first je is the subject, the second the reflexive pronoun. Morgen comes first, so the subject follows the verb and the pronoun follows the subject.",
+      "alt": [
+        "Je voelt je morgen vast beter.",
+        "Morgen voel jij je vast beter.",
+        "Jij voelt je morgen vast beter."
+      ]
+    },
+    {
+      "nl": "Mijn broer ergert zich aan het lawaai van de buren.",
+      "en": "My brother is annoyed by the neighbours' noise.",
+      "hint": ["broer", "zich ergeren aan", "lawaai", "buren"],
+      "note": "zich ergeren aan always has the pronoun and the preposition aan. Zich stands right after ergert."
+    },
+    {
+      "nl": "Maak je geen zorgen, het komt goed.",
+      "en": "Don't worry, it will be all right.",
+      "hint": ["zich zorgen maken", "geen", "goed"],
+      "note": "An imperative of a reflexive verb: maak + the pronoun je for the person you speak to. Zorgen has no article, so the negative is geen.",
+      "alt": ["Maak je geen zorgen, het komt wel goed."]
+    },
+    {
+      "nl": "Herinnert u zich die dag nog?",
+      "en": "Do you (formal) still remember that day?",
+      "hint": ["zich herinneren", "dag", "nog"],
+      "note": "zich herinneren is always reflexive, unlike Ukrainian пам'ятати. With u the pronoun is zich (u is also correct).",
+      "alt": ["Herinnert u u die dag nog?"]
+    },
+    {
+      "nl": "Ik heb me vergist in de datum.",
+      "en": "I made a mistake about the date.",
+      "hint": ["zich vergissen", "datum"],
+      "note": "The perfect of a reflexive verb is made with hebben. The pronoun me comes straight after heb, and the participle vergist goes to the end.",
+      "alt": [
+        "Ik heb me in de datum vergist.",
+        "Ik heb mij vergist in de datum.",
+        "Ik heb mij in de datum vergist."
+      ]
+    },
+    {
+      "nl": "Ik denk dat ze zich verveelt op school.",
+      "en": "I think she is bored at school.",
+      "hint": ["denken", "zich vervelen", "school"],
+      "note": "In a sub-clause with dat the verb goes to the end, and the pronoun zich stays directly after the subject ze.",
+      "alt": [
+        "Ik denk dat zij zich verveelt op school.",
+        "Ik denk dat ze zich op school verveelt.",
+        "Ik denk dat zij zich op school verveelt."
+      ]
+    },
+    {
+      "nl": "Jullie moeten je haasten, de trein vertrekt zo.",
+      "en": "You (plural) have to hurry, the train is leaving in a moment.",
+      "hint": ["moeten", "zich haasten", "trein", "vertrekken", "zo"],
+      "note": "With jullie the reflexive pronoun is je, not jullie. With a modal verb the pronoun stays after moeten and the infinitive haasten goes last."
+    },
+    {
+      "nl": "Hij wast zich en kleedt zich snel aan.",
+      "en": "He has a wash and gets dressed quickly.",
+      "hint": ["zich wassen", "zich aankleden", "snel"],
+      "note": "wassen and aankleden can also take another object (hij wast de auto). Here the action goes back to him, so zich, never hem.",
+      "alt": ["Hij wast zich en hij kleedt zich snel aan."]
+    }
+  ],
+  "exercises": [
+    {
+      "type": "choose",
+      "nl": "Ik voel ___ vandaag heel goed.",
+      "options": ["me", "zich", "mijn", "ik"],
+      "correct": 0,
+      "en": "I feel very well today.",
+      "note": "The reflexive pronoun for ik is me (in writing also mij). Zich is only for hij, zij, het, u and plural zij."
+    },
+    {
+      "type": "choose",
+      "nl": "Mijn vader scheert ___ elke ochtend.",
+      "options": ["hem", "zich", "zijn"],
+      "correct": 1,
+      "en": "My father shaves every morning.",
+      "note": "He shaves himself, so the pronoun points back to the subject: zich. Hem would be another man."
+    },
+    {
+      "type": "choose",
+      "nl": "Wij verheugen ___ op het weekend.",
+      "options": ["zich", "onze", "ons"],
+      "correct": 2,
+      "en": "We are looking forward to the weekend.",
+      "note": "With wij the reflexive pronoun is ons. Onze is a possessive (our) and needs a noun after it."
+    },
+    {
+      "type": "choose",
+      "nl": "Ik ___ dat het morgen mooi weer wordt.",
+      "options": ["hoop me", "hoop", "hoop mij"],
+      "correct": 1,
+      "en": "I hope the weather will be nice tomorrow.",
+      "note": "hopen is not reflexive in Dutch, although Ukrainian says сподіватися with -ся. Do not translate the -ся."
+    },
+    {
+      "type": "choose",
+      "nl": "Ik ___ me in het weekend goed ontspannen.",
+      "options": ["ben", "heb", "word"],
+      "correct": 1,
+      "en": "I relaxed well at the weekend.",
+      "note": "Reflexive verbs always form the perfect with hebben: ik heb me ontspannen. Ontspannen is also the participle."
+    },
+    {
+      "type": "gap",
+      "nl": "Jij voelt ___ vandaag niet lekker, hè?",
+      "answers": ["je"],
+      "en": "You are not feeling well today, are you?",
+      "note": "The reflexive pronoun for jij is je. Jou is never used as a reflexive pronoun."
+    },
+    {
+      "type": "gap",
+      "nl": "Jullie moeten ___ niet schamen.",
+      "answers": ["je"],
+      "en": "You (plural) should not be ashamed.",
+      "note": "The reflexive pronoun for jullie is je, the same as for jij. Not jullie."
+    },
+    {
+      "type": "gap",
+      "nl": "Kunt u ___ dat nog herinneren?",
+      "answers": ["zich", "u"],
+      "en": "Can you (formal) still remember that?",
+      "note": "With u the reflexive pronoun is zich or u; both are correct, zich is more usual."
+    },
+    {
+      "type": "gap",
+      "nl": "Draai ___ even om, ik wil de achterkant van je jas zien.",
+      "answers": ["je"],
+      "en": "Turn round for a moment, I want to see the back of your coat.",
+      "note": "An imperative to someone you say jij to: draai + je. The prefix om goes to the end."
+    },
+    {
+      "type": "order",
+      "lead": "Voor een examen",
+      "words": ["voel", "ik", "me", "altijd", "zenuwachtig"],
+      "answers": ["Voor een examen voel ik me altijd zenuwachtig."],
+      "en": "Before an exam I always feel nervous.",
+      "note": "Voor een examen takes the first place, so the verb comes next and then the subject. The pronoun me follows the subject ik."
+    },
+    {
+      "type": "order",
+      "lead": "Ik denk",
+      "words": ["dat", "hij", "zich", "vergist"],
+      "answers": ["Ik denk dat hij zich vergist."],
+      "en": "I think he is mistaken.",
+      "note": "In the sub-clause the verb vergist goes to the end; zich stays directly after the subject hij."
+    },
+    {
+      "type": "order",
+      "lead": "Gisteren",
+      "words": ["heb", "ik", "me", "erg", "geërgerd", "aan de buren"],
+      "answers": ["Gisteren heb ik me erg geërgerd aan de buren.", "Gisteren heb ik me erg aan de buren geërgerd."],
+      "en": "Yesterday I was very annoyed by the neighbours.",
+      "note": "After Gisteren comes heb, then ik, then me. The phrase with aan may stand before or after the participle."
+    },
+    {
+      "type": "rewrite",
+      "task": "Put it in the perfect.",
+      "from": "Ik vergis me.",
+      "answers": ["Ik heb me vergist.", "Ik heb mij vergist."],
+      "en": "I made a mistake.",
+      "note": "The perfect of a reflexive verb is always made with hebben. The pronoun stays after the conjugated verb heb."
+    },
+    {
+      "type": "rewrite",
+      "task": "The action now goes back to the subject: replace de kinderen by the reflexive pronoun.",
+      "from": "Ik kleed de kinderen aan.",
+      "answers": ["Ik kleed me aan.", "Ik kleed mij aan."],
+      "en": "I get dressed.",
+      "note": "aankleden can take an ordinary object or a reflexive pronoun. For ik the pronoun is me, and aan still goes to the end."
+    },
+    {
+      "type": "fix",
+      "wrong": "Dat heb ik ook afgevraagd.",
+      "answers": ["Dat heb ik me ook afgevraagd.", "Dat heb ik mij ook afgevraagd."],
+      "en": "I wondered about that too.",
+      "note": "zich afvragen always needs the pronoun, also in the perfect with hebben. Dat comes first, so ik follows heb and me follows ik."
+    },
+    {
+      "type": "fix",
+      "wrong": "Mijn zoon leert zich Nederlands op school.",
+      "answers": ["Mijn zoon leert Nederlands op school.", "Mijn zoon leert op school Nederlands."],
+      "en": "My son is learning Dutch at school.",
+      "note": "leren is not reflexive, even though Ukrainian says вчитися. The pronoun zich has to go."
+    }
+  ]
+}

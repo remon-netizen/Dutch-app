@@ -1,0 +1,435 @@
+{
+  "id": "a2-21",
+  "level": "A2",
+  "icon": "⏰",
+  "title": "Times and dates",
+  "grammar": "Prepositions of time and time expressions",
+  "summary": "om + clock time, op + day or date, in + month, season, year. over een uur = from now; twee jaar geleden = ago. sinds and al take the present for what is still going on. half drie is 2.30.",
+  "explain": "English and Dutch both use small words to place things in time, but they do not always choose the same ones: \"in an hour\" is `over een uur`, \"three years ago\" is `drie jaar geleden`. Most of them are fixed pairs that you learn once and then use every day: for opening hours, appointments and dates.\n\n### om, op, in\n\n| | use it for | example |\n| om | a clock time | om drie uur |\n| op | a day, a date | op maandag, op 5 mei |\n| in | a month, season, year | in mei, in de zomer, in 2020 |\n\n> De bibliotheek gaat om half negen open. — The library opens at half past eight.\n> Op feestdagen sluit de winkel al om vier uur. — On public holidays the shop already closes at four.\n> In de zomer zijn de openingstijden anders. — In the summer the opening hours are different.\n\nAlso with in: `in het weekend`, `in de ochtend`. For parts of the day the short forms are more usual: `'s morgens` or `'s ochtends`, `'s middags`, `'s avonds`, `'s nachts`. A day without op (`Ik werk maandag`) means this coming or this past Monday; `op maandag` can also mean every Monday.\n\n### No preposition\n\nWith `vandaag`, `morgen`, `gisteren`, `vorige week`, `volgend jaar`, `deze week`, `dit jaar`, `elke dag`, `afgelopen zaterdag` there is no preposition: `Ik heb volgende week vrij`, never *in volgende week.\n\n### From now, ago, how long\n\n- `over` = from now: `over een uur`, `over twee weken`.\n- `geleden` = ago, and it comes **after** the time: `twee jaar geleden`.\n- `binnen` = within: `binnen een week`.\n- `voor` and `na` = before and after: `voor het werk`, `na de les`.\n- `tot` = until; `van … tot` = from … to (on signs: `tot en met`, up to and including); `tussen … en` = between; `vanaf` = from … on; `tijdens` = during.\n- `rond` and `tegen` = about, around: `rond tien uur`, `tegen vijf uur`.\n\n> De vergadering begint over een kwartier. — The meeting starts in a quarter of an hour.\n> Ik heb de afspraak twee weken geleden verzet. — I moved the appointment two weeks ago.\n\n### sinds and al: the present tense\n\nFor something that started in the past and is **still going on**, Dutch uses the **present** tense: `sinds` + a starting point, or `al` + a length of time.\n\n> Ik woon sinds 2021 in Nederland. — I have been living in the Netherlands since 2021.\n> Hij werkt hier al drie jaar. — He has been working here for three years.\n\nThe perfect `Hij heeft hier drie jaar gewerkt` means that he no longer works here.\n\n### pas and al\n\n`al` = already, earlier than expected; `pas` = not until, later than expected.\n\n> De bus komt pas over twintig minuten. — The bus is not coming for another twenty minutes.\n\n### The clock and dates\n\nDutch counts the half hour towards the **next** hour: `half drie` is 2.30. Around it: `kwart over twee` (2.15), `tien voor half drie` (2.20), `vijf over half drie` (2.35), `kwart voor drie` (2.45). For 2.20 and 2.40 you also hear `twintig over twee` and `twintig voor drie`.\n\nDates: `op 1 mei`, spoken `op één mei` or `op de eerste mei`. The ordinal ends in **-ste** for 1, 8 and from 20 on (`eerste`, `achtste`, `twintigste`), and in **-de** for the others (`tweede`, `derde`, `negende`, `twaalfde`). The date question is `De hoeveelste is het vandaag?`\n\n> De hoeveelste is het vandaag? — What is the date today?\n\n### Watch out\n\n- From now is over, not in: `over een uur`, not *in een uur.\n- Still going on: `Ik woon hier sinds 2021`, not *Ik heb hier sinds 2021 gewoond.\n- A date takes op: `op 15 mei`, not *in 15 mei.\n- `half drie` is 2.30, not 3.30.\n\n### Compared with Ukrainian\n\nTwo things work as in Ukrainian: `пів на третю` is `half drie`, and `тому` comes after the time just like `geleden`: `два роки тому`, `twee jaar geleden`. And Ukrainian also uses the present for \"since\": `Я живу тут з 2021 року` is `Ik woon hier sinds 2021`.",
+  "words": [
+    {
+      "nl": "agenda",
+      "art": "de",
+      "pl": "agenda's",
+      "en": "diary / calendar (for appointments)",
+      "pos": "n"
+    },
+    {
+      "nl": "rooster",
+      "art": "het",
+      "pl": "roosters",
+      "en": "timetable / schedule",
+      "pos": "n"
+    },
+    {
+      "nl": "openingstijd",
+      "art": "de",
+      "pl": "openingstijden",
+      "en": "opening time (mostly plural: opening hours)",
+      "pos": "n"
+    },
+    {
+      "nl": "kwartier",
+      "art": "het",
+      "pl": "kwartieren",
+      "en": "quarter of an hour",
+      "pos": "n"
+    },
+    {
+      "nl": "datum",
+      "art": "de",
+      "pl": "data",
+      "en": "date (day of the month)",
+      "pos": "n"
+    },
+    {
+      "nl": "feestdag",
+      "art": "de",
+      "pl": "feestdagen",
+      "en": "public holiday",
+      "pos": "n"
+    },
+    {
+      "nl": "werkdag",
+      "art": "de",
+      "pl": "werkdagen",
+      "en": "working day",
+      "pos": "n"
+    },
+    {
+      "nl": "verzetten",
+      "past": "verzette",
+      "perf": "heeft verzet",
+      "en": "to move (an appointment) / to reschedule",
+      "pos": "v"
+    },
+    {
+      "nl": "annuleren",
+      "past": "annuleerde",
+      "perf": "heeft geannuleerd",
+      "en": "to cancel",
+      "pos": "v"
+    },
+    {
+      "nl": "duren",
+      "past": "duurde",
+      "perf": "heeft geduurd",
+      "en": "to last / to take (time)",
+      "pos": "v"
+    },
+    {
+      "nl": "sluiten",
+      "past": "sloot",
+      "perf": "heeft gesloten",
+      "en": "to close",
+      "pos": "v"
+    },
+    {
+      "nl": "op tijd",
+      "en": "on time",
+      "pos": "expr"
+    },
+    {
+      "nl": "tijdens",
+      "en": "during",
+      "pos": "prep"
+    },
+    {
+      "nl": "sinds",
+      "en": "since",
+      "pos": "prep"
+    },
+    {
+      "nl": "geleden",
+      "en": "ago",
+      "pos": "adv"
+    },
+    {
+      "nl": "pas",
+      "en": "not until / only (later than expected)",
+      "pos": "adv"
+    }
+  ],
+  "sentences": [
+    {
+      "nl": "De bibliotheek gaat om half negen open.",
+      "en": "The library opens at half past eight.",
+      "hint": [
+        "bibliotheek",
+        "half",
+        "negen",
+        "opengaan"
+      ],
+      "note": "om before a clock time. Half negen is half an hour before nine, so 8.30, not 9.30.",
+      "alt": [
+        "Om half negen gaat de bibliotheek open.",
+        "De bibliotheek opent om half negen.",
+        "Om half negen opent de bibliotheek."
+      ]
+    },
+    {
+      "nl": "Op feestdagen sluit de winkel al om vier uur.",
+      "en": "On public holidays the shop already closes at four o'clock.",
+      "hint": [
+        "feestdag",
+        "sluiten",
+        "winkel",
+        "al",
+        "uur"
+      ],
+      "note": "op before a day, om before the clock time. Al says it is earlier than you might expect.",
+      "alt": [
+        "De winkel sluit op feestdagen al om vier uur."
+      ]
+    },
+    {
+      "nl": "In de zomer zijn de openingstijden anders.",
+      "en": "In the summer the opening hours are different.",
+      "hint": [
+        "zomer",
+        "openingstijd",
+        "anders"
+      ],
+      "note": "in before a season, with the article: in de zomer. The same with months and years, without article: in juli, in 2025.",
+      "alt": [
+        "De openingstijden zijn in de zomer anders."
+      ]
+    },
+    {
+      "nl": "De vergadering begint over een kwartier.",
+      "en": "The meeting starts in a quarter of an hour.",
+      "hint": [
+        "vergadering",
+        "beginnen",
+        "kwartier"
+      ],
+      "note": "English 'in' for time from now is over in Dutch: over een kwartier. In een kwartier would mean 'within', how long something takes.",
+      "alt": [
+        "Over een kwartier begint de vergadering."
+      ]
+    },
+    {
+      "nl": "Ik woon sinds 2021 in Nederland.",
+      "en": "I have been living in the Netherlands since 2021.",
+      "hint": [
+        "wonen",
+        "sinds",
+        "Nederland"
+      ],
+      "note": "I still live here, so Dutch uses the present tense with sinds, where English uses 'have been living'.",
+      "alt": [
+        "Sinds 2021 woon ik in Nederland.",
+        "Ik woon in Nederland sinds 2021."
+      ]
+    },
+    {
+      "nl": "Hij werkt hier al drie jaar.",
+      "en": "He has been working here for three years.",
+      "hint": [
+        "werken",
+        "al",
+        "jaar"
+      ],
+      "note": "al + a length of time, with the present: he still works here. Hij heeft hier drie jaar gewerkt would mean he has left.",
+      "alt": [
+        "Hij werkt al drie jaar hier."
+      ]
+    },
+    {
+      "nl": "Ik heb de afspraak twee weken geleden verzet.",
+      "en": "I moved the appointment two weeks ago.",
+      "hint": [
+        "afspraak",
+        "week",
+        "geleden",
+        "verzetten"
+      ],
+      "note": "geleden comes after the length of time: twee weken geleden. Here the action is finished, so the perfect is right.",
+      "alt": [
+        "Twee weken geleden heb ik de afspraak verzet.",
+        "Ik heb twee weken geleden de afspraak verzet."
+      ]
+    },
+    {
+      "nl": "Het concert duurde tot elf uur 's avonds.",
+      "en": "The concert lasted until eleven o'clock in the evening.",
+      "hint": [
+        "concert",
+        "duren",
+        "tot",
+        "uur",
+        "'s avonds"
+      ],
+      "note": "tot = until. 's avonds is the usual way to say 'in the evening'; it comes after the clock time here.",
+      "alt": [
+        "Het concert duurde tot 's avonds elf uur."
+      ]
+    },
+    {
+      "nl": "De hoeveelste is het vandaag?",
+      "en": "What is the date today?",
+      "hint": [
+        "hoeveelste",
+        "vandaag"
+      ],
+      "note": "The fixed question for the date: de hoeveelste, from the ordinal numbers. Vandaag needs no preposition.",
+      "alt": [
+        "Welke datum is het vandaag?"
+      ]
+    },
+    {
+      "nl": "De bus komt pas over twintig minuten.",
+      "en": "The bus is not coming for another twenty minutes.",
+      "hint": [
+        "bus",
+        "komen",
+        "pas",
+        "minuut"
+      ],
+      "note": "pas = not until, later than you would like. Over twintig minuten counts from now."
+    }
+  ],
+  "exercises": [
+    {
+      "type": "choose",
+      "nl": "Volgens het rooster begint de les ___ tien uur.",
+      "options": [
+        "op",
+        "om",
+        "in"
+      ],
+      "correct": 1,
+      "en": "According to the timetable the lesson starts at ten o'clock.",
+      "note": "A clock time takes om. Op is for days and dates, in for months, seasons and years."
+    },
+    {
+      "type": "choose",
+      "nl": "Volgens mijn agenda is de afspraak ___ 3 juni.",
+      "options": [
+        "in",
+        "om",
+        "op"
+      ],
+      "correct": 2,
+      "en": "According to my diary the appointment is on 3 June.",
+      "note": "A date takes op, like a day: op 3 juni, op maandag. In is only for the whole month: in juni."
+    },
+    {
+      "type": "choose",
+      "nl": "Je bent op tijd: de film begint pas ___ tien minuten.",
+      "options": [
+        "in",
+        "over",
+        "om"
+      ],
+      "correct": 1,
+      "en": "You are on time: the film does not start for another ten minutes.",
+      "note": "Counting from now is over: over tien minuten. In tien minuten is the English pattern, not Dutch."
+    },
+    {
+      "type": "choose",
+      "nl": "Ze heeft de les twee dagen ___ geannuleerd.",
+      "options": [
+        "sinds",
+        "geleden",
+        "voor"
+      ],
+      "correct": 1,
+      "en": "She cancelled the lesson two days ago.",
+      "note": "'Ago' is geleden, and it comes after the time: twee dagen geleden. Sinds means since, a starting point."
+    },
+    {
+      "type": "choose",
+      "nl": "___ de lunchpauze is de balie gesloten.",
+      "options": [
+        "Om",
+        "Tijdens",
+        "Op"
+      ],
+      "correct": 1,
+      "en": "During the lunch break the desk is closed.",
+      "note": "tijdens = during, for the whole period of something. Om only goes with a clock time."
+    },
+    {
+      "type": "choose",
+      "nl": "Het is 10.20: het is ___.",
+      "options": [
+        "tien over tien",
+        "tien voor half elf",
+        "tien over half elf"
+      ],
+      "correct": 1,
+      "en": "It is 10.20: twenty past ten.",
+      "note": "Half elf is 10.30, and 10.20 is ten minutes before that: tien voor half elf. Tien over half elf is 10.40."
+    },
+    {
+      "type": "gap",
+      "nl": "Het is 7.30: het is half ___.",
+      "answers": [
+        "acht"
+      ],
+      "en": "It is 7.30: half past seven.",
+      "note": "Dutch counts the half hour towards the next hour: 7.30 is half acht, half an hour before eight."
+    },
+    {
+      "type": "gap",
+      "nl": "Op werkdagen zijn we ___ negen tot vijf uur open.",
+      "answers": [
+        "van",
+        "vanaf"
+      ],
+      "en": "On working days we are open from nine to five.",
+      "note": "From … to is van … tot; vanaf … tot is also heard. Tot without van would just mean until."
+    },
+    {
+      "type": "gap",
+      "nl": "De vergadering is op de ___ (acht).",
+      "answers": [
+        "achtste"
+      ],
+      "en": "The meeting is on the eighth.",
+      "note": "Acht is one of the numbers that take -ste, like eerste and twintigste. Most others take -de: tweede, negende."
+    },
+    {
+      "type": "gap",
+      "nl": "De winkel gaat ___ om tien uur open, niet om negen.",
+      "answers": [
+        "pas"
+      ],
+      "en": "The shop does not open until ten o'clock, not at nine.",
+      "note": "pas = not until, later than expected. Al would say the opposite: earlier than expected."
+    },
+    {
+      "type": "order",
+      "lead": "Ik",
+      "words": [
+        "al",
+        "hier",
+        "vijf jaar",
+        "woon"
+      ],
+      "answers": [
+        "Ik woon hier al vijf jaar.",
+        "Ik woon al vijf jaar hier."
+      ],
+      "en": "I have been living here for five years.",
+      "note": "The present tense with al + a length of time, because you still live here. English needs 'have been living'."
+    },
+    {
+      "type": "order",
+      "lead": "Morgen",
+      "words": [
+        "om drie uur",
+        "ben",
+        "bij de tandarts",
+        "ik"
+      ],
+      "answers": [
+        "Morgen ben ik om drie uur bij de tandarts."
+      ],
+      "en": "Tomorrow I am at the dentist's at three o'clock.",
+      "note": "Morgen needs no preposition. In the middle of the sentence the time comes before the place: om drie uur bij de tandarts."
+    },
+    {
+      "type": "rewrite",
+      "task": "Say the time the way people speak, with half.",
+      "from": "De film begint om 20.30 uur.",
+      "answers": [
+        "De film begint om half negen.",
+        "De film begint om half negen 's avonds."
+      ],
+      "en": "The film starts at half past eight.",
+      "note": "20.30 is 8.30 in the evening, and Dutch counts towards the next hour: half negen."
+    },
+    {
+      "type": "fix",
+      "wrong": "Ik heb hier sinds 2020 gewoond.",
+      "answers": [
+        "Ik woon hier sinds 2020.",
+        "Ik woon sinds 2020 hier.",
+        "Sinds 2020 woon ik hier."
+      ],
+      "en": "I have been living here since 2020.",
+      "note": "You still live here, so Dutch uses the present tense with sinds. The perfect would mean that you have moved away."
+    },
+    {
+      "type": "fix",
+      "wrong": "Mijn dochter is in 15 mei geboren.",
+      "answers": [
+        "Mijn dochter is op 15 mei geboren."
+      ],
+      "en": "My daughter was born on 15 May.",
+      "note": "A date takes op, just like a day of the week. In is for the month alone: in mei."
+    },
+    {
+      "type": "fix",
+      "wrong": "De dokter belt je in een kwartier terug.",
+      "answers": [
+        "De dokter belt je over een kwartier terug.",
+        "De dokter belt je binnen een kwartier terug."
+      ],
+      "en": "The doctor will call you back in a quarter of an hour.",
+      "note": "From now is over: over een kwartier. Binnen een kwartier (within) is also right. In een kwartier is copied from English."
+    }
+  ]
+}

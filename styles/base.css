@@ -132,7 +132,8 @@ header p { font-size: 0.8rem; opacity: 0.8; }
 body.drawer-open { overflow: hidden; }
 
 /* ── Layout ── */
-.app { max-width: 1100px; margin: 0 auto; padding: 24px 16px; }
+/* Every screen is one column of cards: wider than this, a line of an explanation gets too long to read. */
+.app { max-width: 760px; margin: 0 auto; padding: 24px 16px; }
 @media (max-width: 500px) { .app { padding: 16px 12px; }
 }
 

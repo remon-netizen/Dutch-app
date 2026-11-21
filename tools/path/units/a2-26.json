@@ -1,0 +1,223 @@
+{
+  "id": "a2-26",
+  "level": "A2",
+  "icon": "🏘️",
+  "title": "My neighbourhood",
+  "grammar": "Er: there is, there are",
+  "summary": "Er is + singular, er zijn + plural, for something not yet known (een, geen, veel): Er is een bakker in mijn straat. A known subject (de, het) has no er. Er also means 'there' for a place already named: Ik woon er al jaren.",
+  "explain": "To say that something exists or is somewhere, Dutch uses `er`: `Er is een bakker in mijn straat` (there is a baker's in my street). This `er` is a small word without stress, and the sentence sounds wrong or unfinished without it. `er` has a second job too: it can mean \"there\" for a place you have already mentioned.\n\n### er is, er zijn\n\nThe verb agrees with the noun that comes **after** it, not with `er`:\n\n| form | used with |\n| er is | + one thing: een bakker, veel verkeer |\n| er zijn | + more things: veel winkels, twee scholen |\n| is er …? | the yes/no question |\n| er is geen … | the negative |\n\n> Er is een bakker in mijn straat. — There is a baker's in my street.\n> Er zijn veel gezellige cafés in deze wijk. — There are lots of nice cafés in this district.\n> Is er een bibliotheek in de buurt? — Is there a library nearby?\n> Er is geen parkeerplaats voor de deur. — There is no parking space in front of the door.\n\nUse it with an **indefinite** subject: something new for the listener, with `een`, `geen`, `veel`, `weinig`, no article, or `iemand`, `iets`, `niemand`. Notice `Zijn er nog vragen?` (are there any more questions?) and `Er is niemand thuis` (nobody is at home).\n\n### Other verbs with er\n\nThe same `er` goes with other verbs, as long as the subject is indefinite. Dutch often uses a verb of position (`staan`, `liggen`, `zitten`) or `wonen`, `komen` where English just says \"there is\":\n\n> Er woont een kapper naast ons. — A hairdresser lives next door to us.\n> Er staat een glasbak naast de supermarkt. — There is a bottle bank next to the supermarket.\n> Volgend jaar komt er een nieuw zwembad. — A new swimming pool is coming next year.\n\n### A known subject: no er\n\nWhen the listener already knows which one you mean (`de`, `het`, `mijn`, a name), there is no `er`. The subject simply comes first:\n\n> De slager is op de hoek. — The butcher's is on the corner.\n\nSo *Er is de slager op de hoek is wrong.\n\n### Word order\n\n- `er` stands first, or directly after the conjugated verb: `Morgen is er een markt`, `Is er een kapper?` The indefinite subject follows.\n- When a **place** comes first, `er` may be left out: `In mijn straat is een bakker` and `In mijn straat is er een bakker` are both correct. After a time word like `morgen` or `volgend jaar`, keep it.\n\n### er = there, for a place already named\n\nWhen a place has just been mentioned, `er` refers back to it, like an unstressed \"there\". It stands after the conjugated verb, and after the subject when the subject follows the verb.\n\n> Ken je het buurthuis? Ik ben er elke week. — Do you know the community centre? I'm there every week.\n> Woon je er al lang? — Have you lived there long?\n\nWhen \"there\" is stressed, or stands at the start, use `daar`. `er` can never start a sentence in this meaning:\n\n> Deze wijk? Daar woon ik al tien jaar. — This district? I've lived there for ten years.\n\n### Watch out\n\n- **The verb agrees with what follows**: *Er is veel winkels → `Er zijn veel winkels`.\n- **No er with de or het**: *Er is de bibliotheek naast de school → `De bibliotheek is naast de school`.\n- **er is not daar**: `Er is een bakker` says that a baker's exists; `Daar is de bakker` points at it: over there.\n- **er never starts a sentence as \"there\"**: *Er woon ik → `Daar woon ik` or `Ik woon er`.\n\n`er` has more uses (`Ik heb er twee`, `Ik denk erover`); they come in B1.\n\n### Compared with Ukrainian\n\nUkrainian has no such word: `У моєму районі є пекарня` simply uses `є`. Dutch needs the place first (`In mijn buurt is een bakker`) or `er`: `Er is een bakker in mijn buurt`. A sentence that starts with the indefinite subject, *Een bakker is in mijn buurt, sounds wrong.",
+  "words": [
+    { "nl": "buurt", "art": "de", "pl": "buurten", "en": "neighbourhood / area", "pos": "n" },
+    { "nl": "wijk", "art": "de", "pl": "wijken", "en": "district (of a town)", "pos": "n" },
+    { "nl": "bakker", "art": "de", "pl": "bakkers", "en": "baker / baker's", "pos": "n" },
+    { "nl": "slager", "art": "de", "pl": "slagers", "en": "butcher / butcher's", "pos": "n" },
+    { "nl": "kapper", "art": "de", "pl": "kappers", "en": "hairdresser", "pos": "n" },
+    { "nl": "bibliotheek", "art": "de", "pl": "bibliotheken", "en": "library", "pos": "n" },
+    { "nl": "buurthuis", "art": "het", "pl": "buurthuizen", "en": "community centre", "pos": "n" },
+    { "nl": "speeltuin", "art": "de", "pl": "speeltuinen", "en": "playground", "pos": "n" },
+    { "nl": "zwembad", "art": "het", "pl": "zwembaden", "en": "swimming pool", "pos": "n" },
+    { "nl": "pakketpunt", "art": "het", "pl": "pakketpunten", "en": "parcel collection point", "pos": "n" },
+    { "nl": "parkeerplaats", "art": "de", "pl": "parkeerplaatsen", "en": "parking space / car park", "pos": "n" },
+    { "nl": "fietsenstalling", "art": "de", "pl": "fietsenstallingen", "en": "bicycle parking", "pos": "n" },
+    { "nl": "glasbak", "art": "de", "pl": "glasbakken", "en": "bottle bank", "pos": "n" },
+    { "nl": "voorziening", "art": "de", "pl": "voorzieningen", "en": "facility / service", "pos": "n" },
+    { "nl": "gezellig", "en": "cosy / pleasant (company, place)", "pos": "adj" },
+    { "nl": "overal", "en": "everywhere", "pos": "adv" }
+  ],
+  "sentences": [
+    {
+      "nl": "Er is een bakker in mijn straat.",
+      "en": "There is a baker's in my street.",
+      "hint": ["er", "zijn", "bakker", "straat"],
+      "note": "Een bakker is new for the listener, so the sentence starts with er. One baker: er is.",
+      "alt": ["In mijn straat is er een bakker.", "In mijn straat is een bakker."]
+    },
+    {
+      "nl": "Er zijn veel gezellige cafés in deze wijk.",
+      "en": "There are lots of nice cafés in this district.",
+      "hint": ["er", "zijn", "veel", "gezellig", "café", "wijk"],
+      "note": "The verb agrees with what follows: veel gezellige cafés is plural, so er zijn.",
+      "alt": ["In deze wijk zijn er veel gezellige cafés.", "In deze wijk zijn veel gezellige cafés."]
+    },
+    {
+      "nl": "Is er een bibliotheek in de buurt?",
+      "en": "Is there a library nearby?",
+      "hint": ["zijn", "er", "bibliotheek", "buurt"],
+      "note": "In a yes/no question the verb comes first and er follows directly: is er …?",
+      "alt": ["Is er in de buurt een bibliotheek?"]
+    },
+    {
+      "nl": "Er is geen parkeerplaats voor de deur.",
+      "en": "There is no parking space in front of the door.",
+      "hint": ["er", "zijn", "geen", "parkeerplaats", "deur"],
+      "note": "The negative of er is een … is er is geen …, not er is niet een.",
+      "alt": ["Voor de deur is er geen parkeerplaats.", "Voor de deur is geen parkeerplaats."]
+    },
+    {
+      "nl": "Er woont een kapper naast ons.",
+      "en": "A hairdresser lives next door to us.",
+      "hint": ["er", "wonen", "kapper", "naast"],
+      "note": "er also goes with other verbs when the subject is indefinite. Dutch prefers this to starting with een kapper.",
+      "alt": ["Naast ons woont een kapper.", "Naast ons woont er een kapper."]
+    },
+    {
+      "nl": "Er staat een glasbak naast de supermarkt.",
+      "en": "There is a bottle bank next to the supermarket.",
+      "hint": ["er", "staan", "glasbak", "naast", "supermarkt"],
+      "note": "For a thing that stands upright, Dutch says er staat where English says 'there is'.",
+      "alt": ["Naast de supermarkt staat een glasbak.", "Naast de supermarkt staat er een glasbak."]
+    },
+    {
+      "nl": "Volgend jaar komt er een nieuw zwembad in onze wijk.",
+      "en": "Next year a new swimming pool is coming to our district.",
+      "hint": ["volgend jaar", "komen", "er", "nieuw", "zwembad", "wijk"],
+      "note": "Volgend jaar stands first, so the verb comes next and er follows it, before the indefinite subject. After a time word er cannot be left out.",
+      "alt": ["Er komt volgend jaar een nieuw zwembad in onze wijk.", "In onze wijk komt er volgend jaar een nieuw zwembad.", "In onze wijk komt volgend jaar een nieuw zwembad."]
+    },
+    {
+      "nl": "De slager is op de hoek.",
+      "en": "The butcher's is on the corner.",
+      "hint": ["slager", "zijn", "hoek"],
+      "note": "De slager is a known, definite subject, so there is no er. The subject simply comes first."
+    },
+    {
+      "nl": "Ken je het buurthuis? Ik ben er elke week.",
+      "en": "Do you know the community centre? I'm there every week.",
+      "hint": ["kennen", "buurthuis", "zijn", "er", "elke week"],
+      "note": "Here er means 'there' and refers back to het buurthuis. It is unstressed and stands right after the verb ben.",
+      "alt": ["Ken jij het buurthuis? Ik ben er elke week.", "Ken je het buurthuis? Ik ben daar elke week.", "Ken jij het buurthuis? Ik ben daar elke week."]
+    },
+    {
+      "nl": "Deze wijk? Daar woon ik al tien jaar.",
+      "en": "This district? I've lived there for ten years.",
+      "hint": ["wijk", "daar", "wonen", "al", "jaar"],
+      "note": "At the start of the sentence 'there' must be daar: er cannot stand first in this meaning. Daar comes first, so the verb follows and then ik.",
+      "alt": ["Deze wijk? Ik woon er al tien jaar.", "Deze wijk? Ik woon daar al tien jaar."]
+    }
+  ],
+  "exercises": [
+    {
+      "type": "choose",
+      "nl": "Er ___ overal fietsenstallingen in het centrum.",
+      "options": ["is", "zijn", "heeft"],
+      "correct": 1,
+      "en": "There is bicycle parking everywhere in the town centre.",
+      "note": "The verb agrees with the noun after it: fietsenstallingen is plural, so er zijn. Dutch never says er heeft."
+    },
+    {
+      "type": "choose",
+      "nl": "Er ___ een pakketpunt in de supermarkt.",
+      "options": ["zijn", "heeft", "is"],
+      "correct": 2,
+      "en": "There is a parcel collection point in the supermarket.",
+      "note": "Een pakketpunt is one thing, so er is. Er is not the subject; the real subject comes after the verb."
+    },
+    {
+      "type": "choose",
+      "nl": "Ik ken die bakker goed. ___ koop ik elke zaterdag brood.",
+      "options": ["Er", "Daar", "Het"],
+      "correct": 1,
+      "en": "I know that baker's well. I buy bread there every Saturday.",
+      "note": "In first place 'there' is always daar. Er means 'there' only when it stands later in the sentence: Ik koop er elke zaterdag brood."
+    },
+    {
+      "type": "gap",
+      "nl": "Er ___ (zijn) geen parkeerplaatsen in deze straat.",
+      "answers": ["zijn"],
+      "en": "There are no parking spaces in this street.",
+      "note": "Parkeerplaatsen is plural, so er zijn, also in the negative with geen."
+    },
+    {
+      "type": "gap",
+      "nl": "___ (zijn) er nog vragen over de nieuwe voorzieningen?",
+      "answers": ["Zijn"],
+      "en": "Are there any more questions about the new facilities?",
+      "note": "In a question the verb comes first and er follows it. Vragen is plural, so zijn."
+    },
+    {
+      "type": "gap",
+      "nl": "Volgend jaar ___ (komen) er een speeltuin achter de school.",
+      "answers": ["komt"],
+      "en": "Next year a playground is coming behind the school.",
+      "note": "The verb agrees with een speeltuin, which comes after er: one thing, so komt."
+    },
+    {
+      "type": "order",
+      "lead": "In onze wijk",
+      "words": ["zijn", "er", "veel", "voorzieningen"],
+      "answers": ["In onze wijk zijn er veel voorzieningen."],
+      "en": "There are many facilities in our district.",
+      "note": "The place comes first, so the verb zijn follows, then er, then the indefinite subject. Here er could also be left out."
+    },
+    {
+      "type": "order",
+      "lead": "Morgen",
+      "words": ["is", "er", "een markt", "op het plein"],
+      "answers": ["Morgen is er een markt op het plein.", "Morgen is er op het plein een markt."],
+      "en": "Tomorrow there is a market in the square.",
+      "note": "After Morgen comes the verb, then er, then the subject. After a time word er has to stay."
+    },
+    {
+      "type": "order",
+      "lead": "Ik",
+      "words": ["ben", "er", "nog", "nooit", "geweest"],
+      "answers": ["Ik ben er nog nooit geweest."],
+      "en": "I have never been there.",
+      "note": "er (there) stands directly after the conjugated verb ben; nog nooit follows, and the participle goes to the end."
+    },
+    {
+      "type": "order",
+      "lead": "Woon",
+      "words": ["je", "er", "al", "lang"],
+      "answers": ["Woon je er al lang?"],
+      "en": "Have you lived there long?",
+      "note": "In a question the subject je follows the verb, and er (there) comes after the subject."
+    },
+    {
+      "type": "rewrite",
+      "task": "Make it negative with geen.",
+      "from": "Er is een glasbak in onze straat.",
+      "answers": ["Er is geen glasbak in onze straat."],
+      "en": "There is no bottle bank in our street.",
+      "note": "Een becomes geen; er and is stay where they are."
+    },
+    {
+      "type": "rewrite",
+      "task": "Start with In het centrum.",
+      "from": "Er zijn veel winkels in het centrum.",
+      "answers": ["In het centrum zijn er veel winkels.", "In het centrum zijn veel winkels."],
+      "en": "There are lots of shops in the town centre.",
+      "note": "The place comes first and the verb second. When a place stands first, er may stay after the verb or be left out."
+    },
+    {
+      "type": "rewrite",
+      "task": "Make it a yes/no question.",
+      "from": "Er is een zwembad in de buurt.",
+      "answers": ["Is er een zwembad in de buurt?", "Is er in de buurt een zwembad?"],
+      "en": "Is there a swimming pool nearby?",
+      "note": "The verb moves to the front and er follows it directly: is er …?"
+    },
+    {
+      "type": "rewrite",
+      "task": "Replace in de bibliotheek by er.",
+      "from": "Ik werk graag in de bibliotheek.",
+      "answers": ["Ik werk er graag."],
+      "en": "I like working there.",
+      "note": "er takes the place of the whole phrase in de bibliotheek and stands directly after the verb werk."
+    },
+    {
+      "type": "fix",
+      "wrong": "Er is de bibliotheek naast het buurthuis.",
+      "answers": ["De bibliotheek is naast het buurthuis.", "Naast het buurthuis is de bibliotheek."],
+      "en": "The library is next to the community centre.",
+      "note": "De bibliotheek is definite: the listener knows which one. A definite subject does not take er."
+    },
+    {
+      "type": "fix",
+      "wrong": "Er woon ik al tien jaar.",
+      "answers": ["Daar woon ik al tien jaar.", "Ik woon er al tien jaar.", "Ik woon daar al tien jaar."],
+      "en": "I have lived there for ten years.",
+      "note": "er cannot start a sentence when it means 'there'. At the start use daar, or put er after the verb."
+    }
+  ]
+}

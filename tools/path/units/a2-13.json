@@ -1,0 +1,445 @@
+{
+  "id": "a2-13",
+  "level": "A2",
+  "icon": "🧺",
+  "title": "Last weekend",
+  "grammar": "The perfect tense: regular verbs",
+  "summary": "hebben in second place + participle at the end. Participle: ge + stem + t after the letters of 't kofschip, else + d (geleefd: look at the v). No ge- after be-, ver-, ont-; separable: opgeruimd.",
+  "explain": "The perfect tense (*de voltooide tijd*) is the normal way to talk about something that is finished, above all in conversation. It covers both English \"I cleaned\" and \"I have cleaned\": `Ik heb de keuken schoongemaakt`. It is made of two parts: a form of `hebben` and a past participle (*het voltooid deelwoord*).\n\n### hebben + participle\n\n| | hebben |\n| ik | heb |\n| jij / je | hebt (heb je?) |\n| u | hebt / heeft |\n| hij, zij / ze, het | heeft |\n| wij, jullie, zij / ze | hebben |\n\n> Ik heb de hele ochtend gewerkt. — I worked all morning.\n> Mijn zus heeft haar kamer geverfd. — My sister has painted her room.\n\n### Making the participle: ge + stem + t or d\n\nTake the stem (the ik-form of the present: `werken → werk`), put `ge` in front and `t` or `d` behind it. Which one? Look at the **last letter of the stem**. If it is one of the consonants of **'t kofschip** (t, k, f, s, ch, p), add `t`. After any other letter, add `d`.\n\n| infinitive | stem | participle |\n| werken | werk | gewerkt |\n| poetsen | poets | gepoetst |\n| koken | kook | gekookt |\n| spelen | speel | gespeeld |\n| dweilen | dweil | gedweild |\n| repareren | repareer | gerepareerd |\n\n**Careful with v and z.** The rule looks at the stem as the infinitive spells it, **before** v becomes f and z becomes s. The stems of `leven`, `verven` and `reizen` end in v or z, which are not in 't kofschip, so you add d: `geleefd`, `geverfd`, `gereisd`. The same goes for `verhuizen`: `verhuisd`. (Reizen and verhuizen often take zijn: unit A2 · 14.)\n\n> We hebben de schuur geverfd. — We painted the shed.\n\n**A stem in t or d gets no extra letter.** A participle never ends in tt or dd: `praten → gepraat`, `wachten → gewacht`, `antwoorden → geantwoord`.\n\n> We hebben de hele avond gepraat. — We talked all evening.\n\n### No ge-\n\nVerbs that start with the unstressed prefixes **be-, ge-, her-, ont-, ver-** do not get an extra `ge`: `betalen → betaald`, `gebruiken → gebruikt`, `herhalen → herhaald`, `ontmoeten → ontmoet`, `vertellen → verteld`. The t or d rule still applies.\n\nSeparable verbs put `ge` **between** the prefix and the verb: `opruimen → opgeruimd`, `schoonmaken → schoongemaakt`, `invullen → ingevuld`.\n\n> Heb jij je kamer al opgeruimd? — Have you tidied your room yet?\n\n### Word order\n\n`hebben` is the conjugated verb, so it stands second in a statement and first in a yes/no question. The participle goes to the **end**. When the sentence starts with a time word, the subject comes after `heb`. `Niet` comes before the participle.\n\n> Zaterdag heb ik de vloer gedweild. — On Saturday I mopped the floor.\n> Ik heb de ramen niet gepoetst. — I did not clean the windows.\n\n### Watch out\n\n- t or d by 't kofschip: `gewerkt`, not *gewerkd; `gespeeld`, not *gespeelt.\n- v and z count as v and z: `geleefd`, not *geleeft; `geverfd`, not *geverft.\n- Never a double letter at the end: `gepraat`, not *gepraatt; `geantwoord`, not *geantwoordt.\n- No ge- after be-, ver-, ont-: `verteld`, not *geverteld. But `verven` has no prefix ver-, so `geverfd`.\n- Separable: `opgeruimd`, not *geopruimd.\n- The participle goes last: `Ik heb mijn fiets gepoetst`, not *Ik heb gepoetst mijn fiets.\n\n### Compared with Ukrainian\n\nUkrainian has one past tense with no helping verb: `Я прибрала кімнату`. Dutch needs both parts, `Ik heb mijn kamer opgeruimd`, and `heb` can never be left out. Dutch also has no aspect: `прибирала` and `прибрала` can both be `heb opgeruimd` when the action is over. Many common verbs have an irregular participle (`gedaan`, `gegeten`); they come in unit A2 · 14.",
+  "words": [
+    {
+      "nl": "klus",
+      "art": "de",
+      "pl": "klussen",
+      "en": "job (around the house) / chore",
+      "pos": "n"
+    },
+    {
+      "nl": "schuur",
+      "art": "de",
+      "pl": "schuren",
+      "en": "shed",
+      "pos": "n"
+    },
+    {
+      "nl": "stofzuiger",
+      "art": "de",
+      "pl": "stofzuigers",
+      "en": "vacuum cleaner",
+      "pos": "n"
+    },
+    {
+      "nl": "vloer",
+      "art": "de",
+      "pl": "vloeren",
+      "en": "floor",
+      "pos": "n"
+    },
+    {
+      "nl": "prullenbak",
+      "art": "de",
+      "pl": "prullenbakken",
+      "en": "bin / wastepaper basket",
+      "pos": "n"
+    },
+    {
+      "nl": "schoonmaken",
+      "past": "maakte schoon",
+      "perf": "heeft schoongemaakt",
+      "en": "to clean",
+      "pos": "v",
+      "tag": "separable"
+    },
+    {
+      "nl": "opruimen",
+      "past": "ruimde op",
+      "perf": "heeft opgeruimd",
+      "en": "to tidy up",
+      "pos": "v",
+      "tag": "separable"
+    },
+    {
+      "nl": "stofzuigen",
+      "past": "stofzuigde",
+      "perf": "heeft gestofzuigd",
+      "en": "to vacuum",
+      "pos": "v",
+      "tag": "not separable"
+    },
+    {
+      "nl": "dweilen",
+      "past": "dweilde",
+      "perf": "heeft gedweild",
+      "en": "to mop",
+      "pos": "v"
+    },
+    {
+      "nl": "poetsen",
+      "past": "poetste",
+      "perf": "heeft gepoetst",
+      "en": "to clean / to polish",
+      "pos": "v"
+    },
+    {
+      "nl": "verven",
+      "past": "verfde",
+      "perf": "heeft geverfd",
+      "en": "to paint (walls, a door)",
+      "pos": "v"
+    },
+    {
+      "nl": "tuinieren",
+      "past": "tuinierde",
+      "perf": "heeft getuinierd",
+      "en": "to garden",
+      "pos": "v"
+    },
+    {
+      "nl": "repareren",
+      "past": "repareerde",
+      "perf": "heeft gerepareerd",
+      "en": "to repair",
+      "pos": "v"
+    },
+    {
+      "nl": "uitrusten",
+      "past": "rustte uit",
+      "perf": "heeft uitgerust",
+      "en": "to rest",
+      "pos": "v",
+      "tag": "separable"
+    },
+    {
+      "nl": "afgelopen",
+      "en": "last (afgelopen weekend) / past",
+      "pos": "adj"
+    },
+    {
+      "nl": "eindelijk",
+      "en": "finally / at last",
+      "pos": "adv"
+    }
+  ],
+  "sentences": [
+    {
+      "nl": "Afgelopen weekend heb ik de hele keuken schoongemaakt.",
+      "en": "Last weekend I cleaned the whole kitchen.",
+      "hint": [
+        "afgelopen",
+        "weekend",
+        "heel",
+        "keuken",
+        "schoonmaken"
+      ],
+      "note": "Afgelopen weekend comes first, so heb comes second and ik after it. Schoonmaken is separable: ge goes in the middle, schoongemaakt.",
+      "alt": [
+        "Ik heb afgelopen weekend de hele keuken schoongemaakt."
+      ]
+    },
+    {
+      "nl": "Heb jij de vloer al gedweild?",
+      "en": "Have you mopped the floor yet?",
+      "hint": [
+        "hebben",
+        "vloer",
+        "al",
+        "dweilen"
+      ],
+      "note": "In a yes/no question heb comes first, without t because jij follows it. Dweil ends in l, which is not in 't kofschip: gedweild.",
+      "alt": [
+        "Heb je de vloer al gedweild?"
+      ]
+    },
+    {
+      "nl": "Mijn man heeft zaterdag de schuur geverfd.",
+      "en": "My husband painted the shed on Saturday.",
+      "hint": [
+        "man",
+        "hebben",
+        "zaterdag",
+        "schuur",
+        "verven"
+      ],
+      "note": "verven: the stem ends in v before it becomes f, and v is not in 't kofschip, so the participle ends in d: geverfd.",
+      "alt": [
+        "Zaterdag heeft mijn man de schuur geverfd."
+      ]
+    },
+    {
+      "nl": "We hebben de hele middag getuinierd.",
+      "en": "We gardened all afternoon.",
+      "hint": [
+        "hebben",
+        "heel",
+        "middag",
+        "tuinieren"
+      ],
+      "note": "English uses the simple past here, Dutch the perfect. Tuinier ends in r, so ge + stem + d.",
+      "alt": [
+        "De hele middag hebben we getuinierd."
+      ]
+    },
+    {
+      "nl": "Wie heeft de stofzuiger gerepareerd?",
+      "en": "Who repaired the vacuum cleaner?",
+      "hint": [
+        "wie",
+        "hebben",
+        "stofzuiger",
+        "repareren"
+      ],
+      "note": "Wie takes heeft, like hij. The stem repareer ends in r, so the participle ends in d."
+    },
+    {
+      "nl": "Jullie hebben de prullenbak niet geleegd.",
+      "en": "You (plural) have not emptied the bin.",
+      "hint": [
+        "hebben",
+        "prullenbak",
+        "niet",
+        "legen"
+      ],
+      "note": "legen → stem leeg; g is not in 't kofschip, so geleegd. Niet stands just before the participle."
+    },
+    {
+      "nl": "Zondag heb ik eindelijk mijn kamer opgeruimd.",
+      "en": "On Sunday I finally tidied my room.",
+      "hint": [
+        "zondag",
+        "hebben",
+        "eindelijk",
+        "kamer",
+        "opruimen"
+      ],
+      "note": "opruimen is separable, so ge comes between op and ruimd: opgeruimd. Zondag stands first, so the subject follows heb.",
+      "alt": [
+        "Ik heb zondag eindelijk mijn kamer opgeruimd.",
+        "Ik heb eindelijk zondag mijn kamer opgeruimd."
+      ]
+    },
+    {
+      "nl": "Hij heeft de hele ochtend gestofzuigd.",
+      "en": "He vacuumed all morning.",
+      "hint": [
+        "hebben",
+        "heel",
+        "ochtend",
+        "stofzuigen"
+      ],
+      "note": "stofzuigen is not separable (ik stofzuig), so ge goes in front: gestofzuigd. Stofzuig ends in g, so d.",
+      "alt": [
+        "De hele ochtend heeft hij gestofzuigd."
+      ]
+    },
+    {
+      "nl": "Na alle klussen hebben we even uitgerust.",
+      "en": "After all the jobs we rested for a while.",
+      "hint": [
+        "na",
+        "alle",
+        "klus",
+        "even",
+        "uitrusten"
+      ],
+      "note": "The stem rust already ends in t, so nothing is added: uitgerust. Ge goes after the prefix uit.",
+      "alt": [
+        "We hebben na alle klussen even uitgerust."
+      ]
+    },
+    {
+      "nl": "Ik heb mijn vriendin over mijn nieuwe hobby verteld.",
+      "en": "I told my friend about my new hobby.",
+      "hint": [
+        "hebben",
+        "vriendin",
+        "nieuw",
+        "hobby",
+        "vertellen"
+      ],
+      "note": "vertellen starts with the unstressed prefix ver-, so there is no ge: verteld.",
+      "alt": [
+        "Ik heb mijn vriendin verteld over mijn nieuwe hobby."
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "type": "choose",
+      "nl": "Ik ___ de vloer al gedweild.",
+      "options": [
+        "heb",
+        "heeft",
+        "hebt"
+      ],
+      "correct": 0,
+      "en": "I have already mopped the floor.",
+      "note": "Ik takes heb. Heeft is for hij, zij and het; hebt for jij and u."
+    },
+    {
+      "type": "choose",
+      "nl": "Ik heb gisteren de ramen ___.",
+      "options": [
+        "gepoetsd",
+        "gepoetst",
+        "poetst"
+      ],
+      "correct": 1,
+      "en": "I cleaned the windows yesterday.",
+      "note": "The stem poets ends in s, one of the letters of 't kofschip, so the participle ends in t: gepoetst."
+    },
+    {
+      "type": "choose",
+      "nl": "We hebben de deur groen ___.",
+      "options": [
+        "geverfd",
+        "geverft",
+        "verfd"
+      ],
+      "correct": 0,
+      "en": "We painted the door green.",
+      "note": "Look at the infinitive verven: the stem ends in v, not f. V is not in 't kofschip, so d: geverfd."
+    },
+    {
+      "type": "choose",
+      "nl": "Heb jij de rekening al ___?",
+      "options": [
+        "gebetaald",
+        "betaalt",
+        "betaald"
+      ],
+      "correct": 2,
+      "en": "Have you paid the bill yet?",
+      "note": "betalen starts with the unstressed prefix be-, so there is no ge. The stem betaal ends in l: d. Betaalt is the present tense."
+    },
+    {
+      "type": "gap",
+      "nl": "We hebben lang over onze hobby's ___ (praten).",
+      "answers": [
+        "gepraat"
+      ],
+      "en": "We talked about our hobbies for a long time.",
+      "note": "The stem praat already ends in t, and a participle never ends in tt: gepraat."
+    },
+    {
+      "type": "gap",
+      "nl": "Zij heeft haar fiets zelf ___ (repareren).",
+      "answers": [
+        "gerepareerd"
+      ],
+      "en": "She repaired her bike herself.",
+      "note": "ge + repareer + d: the stem ends in r, not one of 't kofschip. Write the long e double, as in the stem."
+    },
+    {
+      "type": "gap",
+      "nl": "Hebben jullie de keuken al ___ (opruimen)?",
+      "answers": [
+        "opgeruimd"
+      ],
+      "en": "Have you (plural) tidied the kitchen yet?",
+      "note": "opruimen is separable, so ge goes after op: opgeruimd. The stem ruim ends in m, so d."
+    },
+    {
+      "type": "gap",
+      "nl": "Heb jij de woonkamer al ___ (stofzuigen)?",
+      "answers": [
+        "gestofzuigd"
+      ],
+      "en": "Have you vacuumed the living room yet?",
+      "note": "stofzuigen does not split (ik stofzuig), so ge goes in front. The stem ends in g: gestofzuigd."
+    },
+    {
+      "type": "gap",
+      "nl": "Mijn opa heeft altijd gezond ___ (leven).",
+      "answers": [
+        "geleefd"
+      ],
+      "en": "My grandfather has always lived healthily.",
+      "note": "The stem of leven ends in v in the infinitive. V is not in 't kofschip, so d: geleefd, although you write f."
+    },
+    {
+      "type": "order",
+      "lead": "Gisteren",
+      "words": [
+        "heb",
+        "ik",
+        "mijn fiets",
+        "gepoetst"
+      ],
+      "answers": [
+        "Gisteren heb ik mijn fiets gepoetst."
+      ],
+      "en": "Yesterday I cleaned my bike.",
+      "note": "Gisteren takes the first place, heb the second, then the subject. The participle closes the sentence."
+    },
+    {
+      "type": "order",
+      "lead": "Ik",
+      "words": [
+        "heb",
+        "de vloer",
+        "niet",
+        "gedweild"
+      ],
+      "answers": [
+        "Ik heb de vloer niet gedweild."
+      ],
+      "en": "I have not mopped the floor.",
+      "note": "Niet comes after the object de vloer and just before the participle at the end."
+    },
+    {
+      "type": "order",
+      "lead": "Heb",
+      "words": [
+        "jij",
+        "de stofzuiger",
+        "al",
+        "gerepareerd"
+      ],
+      "answers": [
+        "Heb jij de stofzuiger al gerepareerd?",
+        "Heb jij al de stofzuiger gerepareerd?"
+      ],
+      "en": "Have you repaired the vacuum cleaner yet?",
+      "note": "A yes/no question starts with heb, then the subject. Al usually follows the object de stofzuiger (before it is possible too), and the participle goes last."
+    },
+    {
+      "type": "rewrite",
+      "task": "Put it in the perfect tense.",
+      "from": "Ik maak de badkamer schoon.",
+      "answers": [
+        "Ik heb de badkamer schoongemaakt."
+      ],
+      "en": "I have cleaned the bathroom.",
+      "note": "heb takes the place of maak, and the participle schoongemaakt, with ge in the middle, goes to the end."
+    },
+    {
+      "type": "rewrite",
+      "task": "Put it in the perfect tense.",
+      "from": "Zaterdag tuinieren we de hele dag.",
+      "answers": [
+        "Zaterdag hebben we de hele dag getuinierd."
+      ],
+      "en": "On Saturday we gardened all day.",
+      "note": "hebben takes the second place after Zaterdag, we follows it, and getuinierd goes to the end."
+    },
+    {
+      "type": "fix",
+      "wrong": "Wij hebben de muur geverft.",
+      "answers": [
+        "Wij hebben de muur geverfd."
+      ],
+      "en": "We painted the wall.",
+      "note": "verven: the stem ends in v in the infinitive, and v is not in 't kofschip, so the participle ends in d."
+    },
+    {
+      "type": "fix",
+      "wrong": "Ik heb mijn oma over het feest geverteld.",
+      "answers": [
+        "Ik heb mijn oma over het feest verteld.",
+        "Ik heb mijn oma verteld over het feest."
+      ],
+      "en": "I told my grandmother about the party.",
+      "note": "vertellen has the unstressed prefix ver-, so no ge is added: verteld."
+    }
+  ]
+}
