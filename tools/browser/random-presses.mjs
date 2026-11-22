@@ -26,7 +26,7 @@ const result = await withPage(async page => {
     const visible = el => { if (el.offsetParent === null || el.disabled) return false; const c = cover(); return c ? c.contains(el) : !el.closest('.settings-drawer'); };
     for (let i = 0; i < ${steps} && errors.length < 5; i++) {
       const roll = rnd();
-      if (roll < 0.03) { const f = pick(opens); trail.push(f); window[f](); await pause(0); continue; }
+      if (roll < 0.03) { const f = pick(opens); if (typeof window[f] !== 'function') continue; trail.push(f); window[f](); await pause(0); continue; }
       if (roll < 0.05) { trail.push('home'); window.showScreen('homeScreen'); await pause(0); continue; }
       // The back gesture, where the app has somewhere to go back to (on Home, with nothing open, it would rightly leave the app).
       if (roll < 0.07) {

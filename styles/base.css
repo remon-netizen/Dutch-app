@@ -270,3 +270,10 @@ body:not(.on-home) .app { padding-top: calc(24px + env(safe-area-inset-top, 0px)
 @media (max-width: 500px) {
   .wl-card { border-radius: 18px 18px 0 0; padding: 18px 16px 28px; }
 }
+
+/* ── Text fields on a phone ──
+   Safari on an iPhone zooms the page into a field whose text is under 16px when it
+   is tapped, and does not zoom back out. Every field is 16px or more there. */
+@media (hover: none) and (pointer: coarse) {
+  select.voice-select { font-size: 16px; }
+}

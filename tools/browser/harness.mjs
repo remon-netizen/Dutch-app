@@ -12,7 +12,8 @@ import http from 'http';
 import path from 'path';
 import { spawn } from 'child_process';
 
-const ROOT = path.resolve(path.dirname(new URL(import.meta.url).pathname), '../..');
+// APP_ROOT lets the same harness serve another app (the Ukrainian course next door).
+const ROOT = process.env.APP_ROOT ? path.resolve(process.env.APP_ROOT) : path.resolve(path.dirname(new URL(import.meta.url).pathname), '../..');
 const CHROME = process.env.CHROME || [
   '/Applications/Google Chrome.app/Contents/MacOS/Google Chrome',
   '/usr/bin/google-chrome', '/usr/bin/chromium', '/usr/bin/chromium-browser',
@@ -81,7 +82,7 @@ export async function withPage(fn, { width = 390, height = 844, mobile = true } 
         fs.writeFileSync(file, Buffer.from(r.data, 'base64'));
       },
       // A clean start: the app's own stored data removed, the page loaded again.
-      async reset() { await page.goto(); await page.eval(`for (const k of Object.keys(localStorage)) if (k.startsWith('dutch.')) localStorage.removeItem(k);`); await page.goto(); },
+      async reset() { await page.goto(); await page.eval(`for (const k of Object.keys(localStorage)) if (k.startsWith('dutch.') || !process.env.APP_ROOT) localStorage.removeItem(k);`.replace('!process.env.APP_ROOT', process.env.APP_ROOT ? 'true' : 'false')); await page.goto(); },
     };
     await page.reset();
     return await fn(page);

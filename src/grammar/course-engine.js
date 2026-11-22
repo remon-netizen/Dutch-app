@@ -23,8 +23,9 @@ import { shuffle, clean, resultLine, diffHtml, appendNext, missedListHtml, wireS
 //   intro        first exposure: the answer is on the card, nothing is recorded
 //   promptHtml   the question block
 //   autoSay      text spoken when the card appears
-//   input        { type: 'text', placeholder, long?, value? }
-//                  long = a field that grows, for a whole sentence · value = text already in it
+//   input        { type: 'text', placeholder, long?, value?, tap? }
+//                  long = a whole sentence (left-aligned, smaller text) · value = text already in it
+//                  tap = answered by tapping pieces: on a phone the keyboard stays down
 //                | { type: 'choice', options: [{ label, correct, key? }], layout? }
 //                  key = a letter that picks the option · layout 'pair' = two big buttons
 //   check(a)     → { isExact, isClose, isCorrect, quality, headline?, correct?, noOverride? }
@@ -44,6 +45,8 @@ import { shuffle, clean, resultLine, diffHtml, appendNext, missedListHtml, wireS
 //                card with controls of its own (the pieces of a word-order exercise)
 
 const DEFAULT_ACCENT = { main: '#c2410c', dark: '#9a3412', soft: '#fff7ed', border: '#fdba74' };
+// A phone or tablet: no hover, a finger for a pointer.
+const isTouch = () => window.matchMedia('(hover: none) and (pointer: coarse)').matches;
 
 // ── Warm-up ──────────────────────────────────────────────────────────────────
 // A session that teaches something new starts with a few items that are due,
@@ -101,7 +104,11 @@ export function runSession({ screen, icon, title, accent = DEFAULT_ACCENT, cards
     const pos = inWarm ? run.current : run.current - warm.length, total = inWarm ? warm.length : own;
     const pct = Math.round((pos / total) * 100);
     const isChoice = card.input.type === 'choice';
-    const attrs = `id="ceInput" lang="nl" placeholder="${escHtml(card.input.placeholder || '')}" autocomplete="off" autocorrect="off" autocapitalize="off" spellcheck="false"`;
+    // Every answer field is a textarea, one line high and growing with the text:
+    // Safari on an iPhone offers to fill in contact details (the AutoFill bar above
+    // the keyboard, with the owner's name) in a text input, not in a textarea.
+    // enterkeyhint names the Return key: it checks the answer.
+    const attrs = `id="ceInput" lang="nl" rows="1" enterkeyhint="go" placeholder="${escHtml(card.input.placeholder || '')}" autocomplete="off" autocorrect="off" autocapitalize="off" spellcheck="false"`;
 
     s.innerHTML = `
       ${header(title, `<div class="ce-progress-wrap"><div class="ce-progress-bar" style="width:${pct}%"></div></div>
@@ -117,14 +124,16 @@ export function runSession({ screen, icon, title, accent = DEFAULT_ACCENT, cards
           ${card.input.options.map((o, i) => `<button class="ce-option-btn" type="button" data-idx="${i}">${escHtml(o.label)}</button>`).join('')}
         </div>` : `
         <div class="ce-input-area ${card.input.long ? 'ce-input-long' : ''}">
-          ${card.input.long ? `<textarea class="ce-text-input" rows="1" ${attrs}></textarea>` : `<input type="text" class="ce-text-input" ${attrs} />`}
+          <textarea class="ce-text-input" ${attrs}></textarea>
           <button class="ce-check-btn" id="ceCheck" type="button">Check ✓</button>
         </div>
         <div class="ce-retry-note" id="ceRetry" hidden></div>`}
       <div id="ceFeedback"></div>`;
 
+    // A new card starts at the top of the page, before its field takes the focus.
+    window.scrollTo({ top: 0 });
     s.querySelector('#ceBack').addEventListener('click', exit);
-    s.querySelector('#ceSkipWarm')?.addEventListener('click', () => { run.current = warm.length; renderCard(); s.scrollTo({ top: 0 }); });
+    s.querySelector('#ceSkipWarm')?.addEventListener('click', () => { run.current = warm.length; renderCard(); });
     wireSpeakButtons(s);
     if (card.autoSay) setTimeout(() => speakText(card.autoSay), card.intro ? 200 : 0);
 
@@ -136,8 +145,8 @@ export function runSession({ screen, icon, title, accent = DEFAULT_ACCENT, cards
   function wireText(card) {
     const input = s.querySelector('#ceInput');
     const check = s.querySelector('#ceCheck');
-    // A field for a whole sentence grows with what is typed in it.
-    const fit = () => { if (card.input.long) { input.style.height = 'auto'; input.style.height = input.scrollHeight + 'px'; } };
+    // The field grows with what is typed in it.
+    const fit = () => { input.style.height = 'auto'; input.style.height = input.scrollHeight + 'px'; };
     if (card.input.value) input.value = card.input.value;
     const submit = () => {
       if (run.answered) return;
@@ -163,7 +172,9 @@ export function runSession({ screen, icon, title, accent = DEFAULT_ACCENT, cards
     input.addEventListener('keydown', e => { if (e.key === 'Enter') { e.preventDefault(); submit(); } });
     input.addEventListener('input', fit);
     fit();
-    input.focus();
+    // On a phone the keyboard comes up with the focus. A card that is answered by
+    // tapping (the pieces of a word-order exercise) leaves it down until asked for.
+    if (!(card.input.tap && isTouch())) input.focus();
     if (card.mount) card.mount({ root: s, input, submit });
   }
 
@@ -248,7 +259,7 @@ export function runSession({ screen, icon, title, accent = DEFAULT_ACCENT, cards
     const isLast = run.current + 1 >= cards.length;
     appendNext(fb, { isLast, className: 'ce-next-btn', onNext: () => {
       if (isLast) showScore();
-      else { run.current++; renderCard(); s.scrollTo({ top: 0, behavior: 'smooth' }); }
+      else { run.current++; renderCard(); }
     } });
   }
 

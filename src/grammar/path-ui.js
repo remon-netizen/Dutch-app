@@ -493,7 +493,7 @@ export function exerciseCard(unit, idx, { course = COURSE } = {}) {
             <button class="ce-piece-clear" type="button" aria-label="Start again">⌫</button>
           </div>
         </div>`,
-      input: { type: 'text', long: true, placeholder: 'Tap the pieces, or type the sentence…', value: x.lead ? x.lead + ' ' : '' },
+      input: { type: 'text', long: true, tap: true, placeholder: 'Tap the pieces, or type the sentence…', value: x.lead ? x.lead + ' ' : '' },
       // Tapping a piece adds it to the sentence; a piece that is in the sentence is
       // dimmed, and tapping it again takes it out. Typing works as well.
       mount({ root, input }) {
