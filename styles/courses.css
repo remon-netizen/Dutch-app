@@ -159,6 +159,8 @@ textarea.ce-text-input { display: block; resize: none; overflow: hidden; min-hei
   body:has(.dc-next-btn) .app-toast { bottom: calc(80px + env(safe-area-inset-bottom, 0px)); }
   /* Buttons react at once: no double-tap zoom, no waiting for one. */
   button, .ce-text-input, summary { touch-action: manipulation; }
+  /* The headings that fold a card open are a full finger high. */
+  .pt-fold > summary { min-height: 44px; }
 }
 /* With the keyboard up, about half the screen is left. The header and the card are
    kept low, so that the question and the answer field both fit above it. */
