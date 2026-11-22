@@ -227,7 +227,7 @@
         "meteen",
         "huis"
       ],
-      "note": "naar huis is where you go; thuis is where you are. Neither has an article, and *naar thuis does not exist.",
+      "note": "naar huis is where you go; thuis is where you are. Neither has an article, and *naar thuis is not standard Dutch.",
       "alt": [
         "Na het werk ga ik direct naar huis.",
         "Na mijn werk ga ik meteen naar huis."
@@ -251,13 +251,13 @@
       "type": "choose",
       "nl": "Ik zit nu ___ de trein naar Utrecht.",
       "options": [
-        "op",
+        "naar",
         "aan",
         "in"
       ],
       "correct": 2,
       "en": "I am on the train to Utrecht now.",
-      "note": "You are inside the train, so in de trein. English says 'on the train', but in the Netherlands it is in."
+      "note": "You are inside the train, so in de trein; naar would be going there. English says 'on the train'. In Belgium op de trein is also standard, but in the Netherlands it is in."
     },
     {
       "type": "choose",
@@ -377,7 +377,7 @@
         "Mijn man gaat naar de dokter."
       ],
       "en": "My husband is going to the doctor.",
-      "note": "bij de dokter is where you are, naar de dokter is where you go. Ukrainian changes the case here, Dutch changes the preposition."
+      "note": "bij de dokter is where you are, naar de dokter is where you go. The preposition changes, just as in Ukrainian у лікаря, до лікаря."
     },
     {
       "type": "rewrite",

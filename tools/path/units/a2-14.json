@@ -158,18 +158,19 @@
       "note": "vertrekken means going away from a place, so it takes zijn. The prefix ver- means there is no ge: vertrokken."
     },
     {
-      "nl": "Na tien uur zijn we eindelijk op onze bestemming aangekomen.",
-      "en": "After ten hours we finally arrived at our destination.",
+      "nl": "Na tien uur reizen zijn we eindelijk op onze bestemming aangekomen.",
+      "en": "After ten hours of travelling we finally arrived at our destination.",
       "hint": [
         "na",
         "uur",
+        "reizen",
         "eindelijk",
         "bestemming",
         "aankomen"
       ],
       "note": "aankomen takes zijn (movement to a place). It is separable, so ge goes in the middle: aangekomen.",
       "alt": [
-        "We zijn na tien uur eindelijk op onze bestemming aangekomen."
+        "We zijn na tien uur reizen eindelijk op onze bestemming aangekomen."
       ]
     },
     {

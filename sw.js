@@ -7,7 +7,7 @@
 // store per address. So this worker only ever touches caches whose name starts
 // with its own prefix.
 const PREFIX = 'dutch-app-';
-const CACHE = PREFIX + 'v11';
+const CACHE = PREFIX + 'v12';
 const SHELL = [
   './index.html',
   './manifest.json',

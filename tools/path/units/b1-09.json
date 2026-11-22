@@ -417,10 +417,12 @@
       "from": "Ik kon niet betalen. Ik verloor mijn portemonnee.",
       "answers": [
         "Ik kon niet betalen, omdat ik mijn portemonnee had verloren.",
-        "Ik kon niet betalen, omdat ik mijn portemonnee verloren had."
+        "Ik kon niet betalen, omdat ik mijn portemonnee verloren had.",
+        "Ik kon niet betalen, omdat ik mijn portemonnee was verloren.",
+        "Ik kon niet betalen, omdat ik mijn portemonnee verloren was."
       ],
       "en": "I could not pay, because I had lost my wallet.",
-      "note": "Losing the wallet came before the moment of paying, so it gets the past perfect: had verloren. In the omdat-clause both verbs go to the end, in either order."
+      "note": "Losing the wallet came before the moment of paying, so it gets the past perfect: had verloren (verliezen also takes zijn, so was verloren is correct too). In the omdat-clause both verbs go to the end, in either order."
     },
     {
       "type": "rewrite",
@@ -432,7 +434,7 @@
         "Nadat we de bezienswaardigheden bekeken, gingen we terug naar de accommodatie."
       ],
       "en": "After we had seen the sights, we went back to our accommodation.",
-      "note": "What happened first goes into the nadat-clause in the past perfect: hadden bekeken. The main clause then starts with its verb: gingen we."
+      "note": "What happened first goes into the nadat-clause in the past perfect: hadden bekeken (the simple past bekeken is also heard, but not everyone accepts it). The main clause then starts with its verb: gingen we."
     },
     {
       "type": "fix",
@@ -462,7 +464,7 @@
         "Nadat we incheckten, gingen we de stad in."
       ],
       "en": "After we had checked in, we went into town.",
-      "note": "The main clause is in the past (gingen), so the nadat-clause needs the past perfect: hadden ingecheckt, not the perfect hebben ingecheckt."
+      "note": "The main clause is in the past (gingen), so the nadat-clause takes the past perfect: hadden ingecheckt, not the perfect hebben ingecheckt. The simple past incheckten is also heard, but not everyone accepts it."
     }
   ]
 }

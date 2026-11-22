@@ -25,10 +25,9 @@
     {
       "nl": "ontvangst",
       "art": "de",
-      "pl": "",
+      "pl": "ontvangsten",
       "en": "receipt (of a letter, payment)",
-      "pos": "n",
-      "tag": "no plural in this sense"
+      "pos": "n"
     },
     {
       "nl": "behandeling",
@@ -163,7 +162,7 @@
         "kunnen",
         "reageren"
       ],
-      "note": "Wegens is a preposition and takes a noun without an article: wegens ziekte, the noun-style version of omdat ik ziek was.",
+      "note": "Wegens is a preposition and takes a noun, here without an article: wegens ziekte, the noun-style version of omdat ik ziek was.",
       "alt": [
         "Wegens ziekte kon ik niet binnen de termijn reageren.",
         "Ik heb wegens ziekte niet binnen de termijn kunnen reageren.",

@@ -199,7 +199,7 @@
         "deze",
         "die"
       ],
-      "note": "Deze and die stand on their own here: the noun maat is not repeated. De maat is a de-word, so deze and die, not dit and dat. Dutch has no word for 'one'.",
+      "note": "Deze and die stand on their own here: the noun maat is not repeated. De maat is a de-word, so deze and die, not dit and dat. English adds 'one'; Dutch adds nothing.",
       "alt": [
         "Welke maat wil u, deze of die?"
       ]
@@ -424,7 +424,7 @@
         "Dat is mijn nieuwe collega."
       ],
       "en": "This is my new colleague.",
-      "note": "To introduce a person Dutch uses dit is (or dat is), whether the noun is a de-word or a het-word. Deze is … is only right without a noun after it: Deze is van mij."
+      "note": "To introduce a person Dutch uses dit is (or dat is), whether the noun is a de-word or a het-word. Deze on its own refers back to a noun you have in mind (Deze is van mij); it does not introduce anyone."
     }
   ]
 }

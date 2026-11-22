@@ -401,10 +401,11 @@
       ],
       "answers": [
         "Gelukkig heeft niemand iets van het datalek gemerkt.",
-        "Gelukkig heeft niemand van het datalek iets gemerkt."
+        "Gelukkig heeft niemand van het datalek iets gemerkt.",
+        "Gelukkig heeft niemand iets gemerkt van het datalek."
       ],
       "en": "Fortunately nobody noticed anything of the data breach.",
-      "note": "Niemand is the only negation; the object is the positive iets. Iets may stand before or after van het datalek."
+      "note": "Niemand is the only negation; the object is the positive iets. Iets may stand before or after van het datalek, and van het datalek may also follow gemerkt."
     },
     {
       "type": "rewrite",

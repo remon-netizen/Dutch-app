@@ -136,7 +136,11 @@
       "alt": [
         "Ben jij morgen bereikbaar? Dan bel ik je.",
         "Ben je morgen bereikbaar? Dan bel ik jou.",
-        "Ben jij morgen bereikbaar? Dan bel ik jou."
+        "Ben jij morgen bereikbaar? Dan bel ik jou.",
+        "Ben je morgen bereikbaar? Dan zal ik je bellen.",
+        "Ben jij morgen bereikbaar? Dan zal ik je bellen.",
+        "Ben je morgen bereikbaar? Dan zal ik jou bellen.",
+        "Ben jij morgen bereikbaar? Dan zal ik jou bellen."
       ]
     },
     {
@@ -250,15 +254,15 @@
   "exercises": [
     {
       "type": "choose",
-      "nl": "Bel jij hem? – Nee, hij belt ___.",
+      "nl": "Ze appt ___, niet jou.",
       "options": [
         "me",
         "mij",
         "ik"
       ],
       "correct": 1,
-      "en": "Are you calling him? – No, he is calling me.",
-      "note": "'Me' carries the stress here, in contrast with 'him', and only the long form can be stressed: mij. Ik is the subject form."
+      "en": "She is texting me, not you.",
+      "note": "'Me' is contrasted with 'you' (niet jou), so it carries the stress, and only the long form can be stressed: mij. Ik is the subject form."
     },
     {
       "type": "choose",

@@ -28,7 +28,7 @@
       "pl": "",
       "en": "terms of employment",
       "pos": "n",
-      "tag": "always plural"
+      "tag": "usually plural"
     },
     {
       "nl": "werkloosheid",
@@ -79,7 +79,7 @@
       "pl": "",
       "en": "employment (jobs available)",
       "pos": "n",
-      "tag": "no plural"
+      "tag": "usually no plural"
     },
     {
       "nl": "ontslagvergoeding",

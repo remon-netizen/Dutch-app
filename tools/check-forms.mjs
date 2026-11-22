@@ -86,7 +86,19 @@ async function verbFacts(inf) {
 // ── What the app says ────────────────────────────────────────────────────────
 
 const errors = [], notes = [];
-const say = (list, where, text) => list.push(`${where}: ${text}`);
+// Looked at and right, with the reason; they are reported as remarks, not as errors.
+const KNOWN = {
+  'zich zorgen maken': 'the list is read for the verb zorgen; maakte me zorgen, heeft zich zorgen gemaakt are right',
+  'het uitmaken': 'maakte het uit is the split form of maakte uit',
+  hardlopen: 'zijn with a destination (ANS: verbs of movement); the list names only hebben, for the activity',
+  schaatsen: 'zijn with a destination (ANS: verbs of movement); the list names only hebben, for the activity',
+  varen: 'zijn with a destination (ANS: verbs of movement); the list names only hebben, for the activity',
+};
+const say = (list, where, text) => {
+  const known = Object.keys(KNOWN).find(k => list === errors && text.includes(` of ${k}:`));
+  if (known) notes.push(`${where}: ${text} (known: ${KNOWN[known]})`);
+  else list.push(`${where}: ${text}`);
+};
 const has = (set, v) => set.has(v);
 const PRON = new Set(['me', 'mij', 'zich', 'je']);
 const words = s => String(s).toLowerCase().split(/\s+/).filter(w => w && !PRON.has(w));

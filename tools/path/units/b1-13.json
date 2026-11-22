@@ -85,7 +85,7 @@
       "en": "Would you (formal) confirm the desired date?",
       "hint": ["willen", "wensen", "datum", "bevestigen"],
       "note": "Wensen has an s, which is in 't kofschip: wenste, gewenst. Before de datum the participle takes -e like an adjective: de gewenste datum.",
-      "alt": ["Kunt u de gewenste datum bevestigen?", "Zou u de gewenste datum willen bevestigen?"]
+      "alt": ["Kunt u de gewenste datum bevestigen?", "Zou u de gewenste datum willen bevestigen?", "Wil u de gewenste datum bevestigen?", "Kan u de gewenste datum bevestigen?"]
     },
     {
       "nl": "Antwoord zo spoedig mogelijk op dit verzoek.",
