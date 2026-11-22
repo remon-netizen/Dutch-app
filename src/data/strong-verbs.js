@@ -128,7 +128,7 @@ export const VERB_GROUPS = [
     ['werpen', 'to throw (formal)', 'wierp', 'wierpen', 'geworpen', 'h'],
   ]),
   group('e-a-e', 'e or i → a → e', 'geven · gaf · gegeven',
-    'The past has a short a in the singular and a long one in the plural (gaf, gaven; zat, zaten); the participle goes back to e. Eten has an extra g: gegeten.', [
+    'The past has a short a in the singular and a long one in the plural (gaf, gaven; zat, zaten); the participle goes back to e. Eten has an extra g: gegeten. With vergeten, is vergeten is always right; heeft vergeten only for something you did not do or bring.', [
     ['eten', 'to eat', 'at', 'aten', 'gegeten', 'h'],
     ['geven', 'to give', 'gaf', 'gaven', 'gegeven', 'h'],
     ['lezen', 'to read', 'las', 'lazen', 'gelezen', 'h'],
@@ -182,7 +182,7 @@ export const VERB_GROUPS = [
     ['barsten', 'to burst / to crack', 'barstte', 'barstten', 'gebarsten', 'z'],
   ]),
   group('built', 'Built on a strong verb', 'aankomen · kwam aan · aangekomen',
-    'A verb made from a strong verb changes exactly like it: aankomen goes like komen, bestaan like staan. A separable verb splits in the past and puts ge in the middle; one with be-, ont-, ver-, over- or onder- gets no ge at all.', [
+    'A verb made from a strong verb changes like it: aankomen goes like komen, bestaan like staan (a few made from a noun do not: glimlachen, geglimlacht). A separable verb splits in the past and puts ge in the middle. A verb whose prefix has no stress stays in one piece and gets no ge: always with be-, ge-, er-, her-, ont- and ver-, and with over-, onder- and voor- when the stress is on the verb (overlijden, voorkomen).', [
     ['aankomen', 'to arrive', 'kwam aan', 'kwamen aan', 'aangekomen', 'z'],
     ['opstaan', 'to get up', 'stond op', 'stonden op', 'opgestaan', 'z'],
     ['meenemen', 'to take along', 'nam mee', 'namen mee', 'meegenomen', 'h'],

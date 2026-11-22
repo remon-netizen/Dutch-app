@@ -5,99 +5,262 @@
   "title": "Nature and the environment",
   "grammar": "Word building: compounds, -heid, -ing, -baar, on-",
   "summary": "Compounds are one word, and the last part gives the meaning and the article: het natuurgebied. -ing and -heid make de-words, het + infinitive a het-word. -baar: can be …-ed. on-: not. No ge- after ver-, be-, ont-.",
-  "explain": "Dutch makes new words from old ones and writes the result as **one word**: `natuur` + `gebied` is `natuurgebied`, never *natuur gebied. If you know the parts, you can work out what most long words mean, and often their article too.\n\n### Compounds (samenstellingen)\n\nThe **last part** is the main word. It says what the thing is, and it decides the article and the plural. The parts in front only say which kind.\n\n| the parts | the compound |\n| de tuin + het huis | het tuinhuis (a summer house) |\n| het huis + de deur | de huisdeur (the front door) |\n| de natuur + het gebied | het natuurgebied, natuurgebieden |\n\n> Het natuurgebied in onze omgeving wordt goed beschermd. — The nature reserve in our area is well protected.\n> De bosbrand was niet ver van onze camping. — The forest fire was not far from our campsite.\n\nSometimes a linking sound stands between the parts: `-s-` (`het stadscentrum`), `-e-` or `-en-` (`de zonnebloem`, `de pannenkoek`). There is no simple rule for when; learn them with the word (how to spell them is unit B2 · 19).\n\n### Nouns from verbs and adjectives\n\n| ending | example | article |\n| -ing (from a verb) | vervuilen → vervuiling | always de |\n| -heid (from an adjective) | schoon → schoonheid | always de |\n| -te (from an adjective) | warm → warmte | de |\n| ge- + stem of a verb | voelen → gevoel | mostly het |\n| the infinitive | recyclen → recyclen | always het |\n\n- `-ing` names an action or its result: `de vervuiling`, `de bescherming`, `de verspilling`.\n- `-heid` names a quality: `de duurzaamheid`. The plural is `-heden`: `de mogelijkheid`, `de mogelijkheden`.\n- `-te` is mostly for size and temperature: `de hoogte`, `de lengte`, `de warmte`.\n- `ge-` + stem: `het geluid`, `het gebruik`, `het gevoel`. A common exception: `de gedachte`.\n- `het` + infinitive names the activity: `het recyclen`, `het scheiden van afval`.\n- People: `-er` (`de onderzoeker`), `-aar` usually after a stem ending in an unstressed -el, -er or -en (`de wandelaar`, `de luisteraar`; but also `de leraar`), and `-ster` often for a woman (`de verkoopster`).\n\n> Het recyclen van glas is heel normaal. — Recycling glass is quite normal.\n\n### Adjectives\n\n| ending | meaning | example |\n| -baar | can be …-ed | drinkbaar, herbruikbaar, betaalbaar |\n| -loos | without | eindeloos, werkloos |\n| -lijk, -ig | having, like | schadelijk, zonnig |\n| -vol, -zaam | full of, with | waardevol, duurzaam |\n\n`-baar` goes on the stem of a verb: `drinken` → `drinkbaar` (can be drunk), `betalen` → `betaalbaar` (affordable). `herbruikbaar` is `her-` (again) + `bruikbaar` (usable): reusable.\n\n`on-` in front makes the opposite: `ongezond`, `onbekend`, `onmogelijk`, `onbetaalbaar`. It does not go on every adjective: *onmooi does not exist (say `lelijk` or `niet mooi`). Only use an on- word you have seen.\n\n> Dit water is niet drinkbaar. — This water is not drinkable.\n> Zonnepanelen zijn voor veel mensen onbetaalbaar. — Solar panels are unaffordable for many people.\n\n### Verbs with ver-, be-, ont-\n\n- `ver-` often turns an adjective into \"make it so\": `beter` → `verbeteren`, `vuil` → `vervuilen`, `warm` → `verwarmen`.\n- `be-` lets a verb take a direct object: `wonen in een huis`, but `een huis bewonen`; `beschermen` (to protect).\n- `ont-` often means \"away\" or a beginning: `ontbossen` (to clear the forest), `ontstaan` (to come into being).\n\nThese prefixes never split off, and the participle gets **no ge-**: `verbeterd`, `beschermd`, `ontstaan`.\n\n> De fabriek heeft de rivier vervuild. — The factory polluted the river.\n\n### Watch out\n\n- The article comes from the last part: *de natuurgebied → `het natuurgebied`; *het milieuvervuiling → `de milieuvervuiling`.\n- One word: *het natuur gebied → `het natuurgebied`.\n- -ing and -heid words are always de, `het` + infinitive always het.\n- No ge- after these prefixes: *gevervuild → `vervuild`, *gebeschermd → `beschermd`.\n- Not every adjective takes on- or -baar: check that the word exists.\n\n### Compared with Ukrainian\n\nWhere Ukrainian uses an adjective with a noun, Dutch often makes one compound: `лісова пожежа` is `de bosbrand`. Ukrainian `не-` works like `on-`: `нездоровий` is `ongezond`.",
+  "explain": "Dutch makes new words from old ones and writes the result as **one word**: `natuur` + `gebied` is `natuurgebied`, never *natuur gebied. If you know the parts, you can work out what most long words mean, and often their article too.\n\n### Compounds (samenstellingen)\n\nThe **last part** is the main word. It says what the thing is, and it decides the article and the plural. The parts in front only say which kind.\n\n| the parts | the compound |\n| de tuin + het huis | het tuinhuis (a summer house) |\n| het huis + de deur | de huisdeur (the front door) |\n| de natuur + het gebied | het natuurgebied, natuurgebieden |\n\n> Het natuurgebied in onze omgeving wordt goed beschermd. — The nature reserve in our area is well protected.\n> De bosbrand was niet ver van onze camping. — The forest fire was not far from our campsite.\n\nSometimes a linking sound stands between the parts: `-s-` (`het stadscentrum`), `-e-` or `-en-` (`de zonnebloem`, `de pannenkoek`). There is no simple rule for when; learn them with the word (how to spell them is unit B2 · 19).\n\n### Nouns from verbs and adjectives\n\n| ending | example | article |\n| -ing (from a verb) | vervuilen → vervuiling | always de |\n| -heid (from an adjective) | schoon → schoonheid | always de |\n| -te (from an adjective) | warm → warmte | de |\n| ge- + stem of a verb | voelen → gevoel | mostly het |\n| the infinitive | recyclen → recyclen | always het |\n\n- `-ing` names an action or its result: `de vervuiling`, `de bescherming`, `de verspilling`.\n- `-heid` names a quality: `de duurzaamheid`. The plural is `-heden`: `de mogelijkheid`, `de mogelijkheden`.\n- `-te` is mostly for size and temperature: `de hoogte`, `de lengte`, `de warmte`.\n- `ge-` + stem: `het geluid`, `het gebouw`, `het gevoel`. A common exception: `de gedachte`.\n- `het` + infinitive names the activity: `het recyclen`, `het scheiden van afval`.\n- People: `-er` (`de onderzoeker`), `-aar` usually after a stem ending in an unstressed -el, -er or -en (`de wandelaar`, `de luisteraar`; but also `de leraar`), and `-ster` often for a woman (`de verkoopster`).\n\n> Het recyclen van glas is heel normaal. — Recycling glass is quite normal.\n\n### Adjectives\n\n| ending | meaning | example |\n| -baar | can be …-ed | drinkbaar, herbruikbaar, betaalbaar |\n| -loos | without | eindeloos, werkloos |\n| -lijk, -ig | having, like | schadelijk, zonnig |\n| -vol, -zaam | full of, with | waardevol, duurzaam |\n\n`-baar` goes on the stem of a verb: `drinken` → `drinkbaar` (can be drunk), `betalen` → `betaalbaar` (affordable). `herbruikbaar` is `her-` (again) + `bruikbaar` (usable): reusable.\n\n`on-` in front makes the opposite: `ongezond`, `onbekend`, `onmogelijk`, `onbetaalbaar`. It does not go on every adjective: *onmooi does not exist (say `lelijk` or `niet mooi`). Only use an on- word you have seen.\n\n> Dit water is niet drinkbaar. — This water is not drinkable.\n> Zonnepanelen zijn voor veel mensen onbetaalbaar. — Solar panels are unaffordable for many people.\n\n### Verbs with ver-, be-, ont-\n\n- `ver-` often turns an adjective into \"make it so\": `beter` → `verbeteren`, `vuil` → `vervuilen`, `warm` → `verwarmen`.\n- `be-` lets a verb take a direct object: `wonen in een huis`, but `een huis bewonen`; `beschermen` (to protect).\n- `ont-` often means \"away\" or a beginning: `ontbossen` (to clear the forest), `ontstaan` (to come into being).\n\nThese prefixes never split off, and the participle gets **no ge-**: `verbeterd`, `beschermd`, `ontstaan`.\n\n> De fabriek heeft de rivier vervuild. — The factory polluted the river.\n\n### Watch out\n\n- The article comes from the last part: *de natuurgebied → `het natuurgebied`; *het milieuvervuiling → `de milieuvervuiling`.\n- One word: *het natuur gebied → `het natuurgebied`.\n- -ing and -heid words are always de, `het` + infinitive always het.\n- No ge- after these prefixes: *gevervuild → `vervuild`, *gebeschermd → `beschermd`.\n- Not every adjective takes on- or -baar: check that the word exists.\n\n### Compared with Ukrainian\n\nWhere Ukrainian uses an adjective with a noun, Dutch often makes one compound: `лісова пожежа` is `de bosbrand`. Ukrainian `не-` works like `on-`: `нездоровий` is `ongezond`.",
   "words": [
-    { "nl": "milieu", "art": "het", "pl": "milieus", "en": "environment (nature)", "pos": "n" },
-    { "nl": "vervuiling", "art": "de", "pl": "", "en": "pollution", "pos": "n" },
-    { "nl": "afval", "art": "het", "pl": "", "en": "waste / rubbish", "pos": "n" },
-    { "nl": "uitstoot", "art": "de", "pl": "", "en": "emissions", "pos": "n" },
-    { "nl": "natuurgebied", "art": "het", "pl": "natuurgebieden", "en": "nature reserve", "pos": "n" },
-    { "nl": "landschap", "art": "het", "pl": "landschappen", "en": "landscape", "pos": "n" },
-    { "nl": "omgeving", "art": "de", "pl": "omgevingen", "en": "surroundings / area", "pos": "n" },
-    { "nl": "vervuilen", "past": "vervuilde", "perf": "heeft vervuild", "en": "to pollute", "pos": "v" },
-    { "nl": "beschermen", "past": "beschermde", "perf": "heeft beschermd", "en": "to protect", "pos": "v" },
-    { "nl": "verspillen", "past": "verspilde", "perf": "heeft verspild", "en": "to waste", "pos": "v" },
-    { "nl": "ontstaan", "past": "ontstond", "perf": "is ontstaan", "en": "to come into being / to arise", "pos": "v" },
-    { "nl": "uitsterven", "past": "stierf uit", "perf": "is uitgestorven", "en": "to die out", "pos": "v" },
-    { "nl": "duurzaam", "en": "sustainable / durable", "pos": "adj" },
-    { "nl": "herbruikbaar", "en": "reusable", "pos": "adj" },
-    { "nl": "afbreekbaar", "en": "(bio)degradable", "pos": "adj" },
-    { "nl": "schadelijk", "en": "harmful", "pos": "adj" }
+    {
+      "nl": "milieu",
+      "art": "het",
+      "pl": "milieus",
+      "en": "environment (nature)",
+      "pos": "n"
+    },
+    {
+      "nl": "vervuiling",
+      "art": "de",
+      "pl": "",
+      "en": "pollution",
+      "pos": "n"
+    },
+    {
+      "nl": "afval",
+      "art": "het/de",
+      "pl": "",
+      "en": "waste / rubbish",
+      "pos": "n"
+    },
+    {
+      "nl": "uitstoot",
+      "art": "de",
+      "pl": "",
+      "en": "emissions",
+      "pos": "n"
+    },
+    {
+      "nl": "natuurgebied",
+      "art": "het",
+      "pl": "natuurgebieden",
+      "en": "nature reserve",
+      "pos": "n"
+    },
+    {
+      "nl": "landschap",
+      "art": "het",
+      "pl": "landschappen",
+      "en": "landscape",
+      "pos": "n"
+    },
+    {
+      "nl": "omgeving",
+      "art": "de",
+      "pl": "omgevingen",
+      "en": "surroundings / area",
+      "pos": "n"
+    },
+    {
+      "nl": "vervuilen",
+      "past": "vervuilde",
+      "perf": "heeft vervuild",
+      "en": "to pollute",
+      "pos": "v"
+    },
+    {
+      "nl": "beschermen",
+      "past": "beschermde",
+      "perf": "heeft beschermd",
+      "en": "to protect",
+      "pos": "v"
+    },
+    {
+      "nl": "verspillen",
+      "past": "verspilde",
+      "perf": "heeft verspild",
+      "en": "to waste",
+      "pos": "v"
+    },
+    {
+      "nl": "ontstaan",
+      "past": "ontstond",
+      "perf": "is ontstaan",
+      "en": "to come into being / to arise",
+      "pos": "v"
+    },
+    {
+      "nl": "uitsterven",
+      "past": "stierf uit",
+      "perf": "is uitgestorven",
+      "en": "to die out",
+      "pos": "v"
+    },
+    {
+      "nl": "duurzaam",
+      "en": "sustainable / durable",
+      "pos": "adj"
+    },
+    {
+      "nl": "herbruikbaar",
+      "en": "reusable",
+      "pos": "adj"
+    },
+    {
+      "nl": "afbreekbaar",
+      "en": "(bio)degradable",
+      "pos": "adj"
+    },
+    {
+      "nl": "schadelijk",
+      "en": "harmful",
+      "pos": "adj"
+    }
   ],
   "sentences": [
     {
       "nl": "Het natuurgebied in onze omgeving wordt goed beschermd.",
       "en": "The nature reserve in our area is well protected.",
-      "hint": ["natuurgebied", "omgeving", "worden", "goed", "beschermen"],
+      "hint": [
+        "natuurgebied",
+        "omgeving",
+        "worden",
+        "goed",
+        "beschermen"
+      ],
       "note": "Natuurgebied ends in het gebied, so it is a het-word. Beschermen has the prefix be-, so its participle has no ge-: beschermd.",
-      "alt": ["In onze omgeving wordt het natuurgebied goed beschermd."]
+      "alt": [
+        "In onze omgeving wordt het natuurgebied goed beschermd."
+      ]
     },
     {
       "nl": "De vervuiling van de rivier is de laatste jaren sterk afgenomen.",
       "en": "The pollution of the river has decreased sharply in recent years.",
-      "hint": ["vervuiling", "rivier", "laatst", "jaar", "sterk", "afnemen"],
+      "hint": [
+        "vervuiling",
+        "rivier",
+        "laatst",
+        "jaar",
+        "sterk",
+        "afnemen"
+      ],
       "note": "Vervuiling is made from the verb vervuilen with -ing, and every -ing noun is a de-word.",
-      "alt": ["De laatste jaren is de vervuiling van de rivier sterk afgenomen."]
+      "alt": [
+        "De laatste jaren is de vervuiling van de rivier sterk afgenomen."
+      ]
     },
     {
       "nl": "Deze flessen zijn herbruikbaar, dus gooi ze niet weg.",
       "en": "These bottles are reusable, so do not throw them away.",
-      "hint": ["fles", "herbruikbaar", "dus", "weggooien"],
+      "hint": [
+        "fles",
+        "herbruikbaar",
+        "dus",
+        "weggooien"
+      ],
       "note": "Herbruikbaar is her- (again) + bruik (use) + -baar (can be …-ed): it can be used again.",
-      "alt": ["Deze flessen zijn herbruikbaar, dus gooi die niet weg."]
+      "alt": [
+        "Deze flessen zijn herbruikbaar, dus gooi die niet weg."
+      ]
     },
     {
       "nl": "Plastic is slecht afbreekbaar, dus het blijft lang in de natuur.",
       "en": "Plastic does not break down easily, so it stays in nature for a long time.",
-      "hint": ["plastic", "slecht", "afbreekbaar", "blijven", "natuur"],
+      "hint": [
+        "plastic",
+        "slecht",
+        "afbreekbaar",
+        "blijven",
+        "natuur"
+      ],
       "note": "Afbreekbaar is the stem of afbreken (to break down) + -baar: something that can be broken down. Slecht afbreekbaar: hard to break down.",
-      "alt": ["Plastic is slecht afbreekbaar, dus blijft het lang in de natuur."]
+      "alt": [
+        "Plastic is slecht afbreekbaar, dus blijft het lang in de natuur."
+      ]
     },
     {
       "nl": "Veel diersoorten dreigen uit te sterven.",
       "en": "Many animal species are in danger of dying out.",
-      "hint": ["veel", "diersoort", "dreigen", "uitsterven"],
+      "hint": [
+        "veel",
+        "diersoort",
+        "dreigen",
+        "uitsterven"
+      ],
       "note": "Diersoort is het dier + de soort. The last part decides: de diersoort, plural diersoorten."
     },
     {
       "nl": "Het scheiden van afval is in Nederland heel gewoon.",
       "en": "Separating rubbish is very normal in the Netherlands.",
-      "hint": ["scheiden", "afval", "Nederland", "gewoon"],
+      "hint": [
+        "scheiden",
+        "afval",
+        "Nederland",
+        "gewoon"
+      ],
       "note": "An infinitive used as a noun names the activity and is always a het-word: het scheiden. What you separate follows with van.",
-      "alt": ["In Nederland is het scheiden van afval heel gewoon.", "Het scheiden van afval is heel gewoon in Nederland."]
+      "alt": [
+        "In Nederland is het scheiden van afval heel gewoon.",
+        "Het scheiden van afval is heel gewoon in Nederland."
+      ]
     },
     {
       "nl": "Voedselverspilling is slecht voor het milieu.",
       "en": "Food waste is bad for the environment.",
-      "hint": ["voedselverspilling", "slecht", "milieu"],
+      "hint": [
+        "voedselverspilling",
+        "slecht",
+        "milieu"
+      ],
       "note": "Verspillen + -ing gives de verspilling; with voedsel in front it is still a de-word, because the last part decides."
     },
     {
       "nl": "De uitstoot van auto's is schadelijk voor de gezondheid.",
       "en": "The emissions from cars are harmful to health.",
-      "hint": ["uitstoot", "auto", "schadelijk", "gezondheid"],
+      "hint": [
+        "uitstoot",
+        "auto",
+        "schadelijk",
+        "gezondheid"
+      ],
       "note": "Two built words: schade + -lijk gives schadelijk (harmful), and gezond + -heid gives de gezondheid. Uitstoot is singular in Dutch (English says emissions), so the verb is singular: is."
     },
     {
       "nl": "Dit landschap is in de laatste ijstijd ontstaan.",
       "en": "This landscape came into being in the last ice age.",
-      "hint": ["landschap", "laatst", "ijstijd", "ontstaan"],
+      "hint": [
+        "landschap",
+        "laatst",
+        "ijstijd",
+        "ontstaan"
+      ],
       "note": "Ontstaan has the prefix ont-, so the participle has no ge- and looks like the infinitive: is ontstaan. De ijstijd is het ijs + de tijd.",
-      "alt": ["Dit landschap is ontstaan in de laatste ijstijd.", "In de laatste ijstijd is dit landschap ontstaan."]
+      "alt": [
+        "Dit landschap is ontstaan in de laatste ijstijd.",
+        "In de laatste ijstijd is dit landschap ontstaan."
+      ]
     },
     {
       "nl": "Zonnepanelen zijn duurzaam, maar voor veel mensen onbetaalbaar.",
       "en": "Solar panels are sustainable, but unaffordable for many people.",
-      "hint": ["zonnepaneel", "duurzaam", "maar", "veel", "mens", "onbetaalbaar"],
+      "hint": [
+        "zonnepaneel",
+        "duurzaam",
+        "maar",
+        "veel",
+        "mens",
+        "onbetaalbaar"
+      ],
       "note": "Onbetaalbaar is on- (not) + betaal (pay) + -baar: it cannot be paid. Het zonnepaneel has the linking -e- between zon and paneel.",
-      "alt": ["Zonnepanelen zijn duurzaam, maar onbetaalbaar voor veel mensen."]
+      "alt": [
+        "Zonnepanelen zijn duurzaam, maar onbetaalbaar voor veel mensen."
+      ]
     }
   ],
   "exercises": [
     {
       "type": "choose",
       "nl": "___ natuurgebied is alleen open voor wandelaars.",
-      "options": ["Deze", "Dit", "Die"],
+      "options": [
+        "Deze",
+        "Dit",
+        "Die"
+      ],
       "correct": 1,
       "en": "This nature reserve is only open to walkers.",
       "note": "The last part, het gebied, decides the article: het natuurgebied, so dit. Deze and die go with de-words."
@@ -105,7 +268,11 @@
     {
       "type": "choose",
       "nl": "Kijk, ___ zonnebloem is al twee meter hoog!",
-      "options": ["dit", "het", "deze"],
+      "options": [
+        "dit",
+        "het",
+        "deze"
+      ],
       "correct": 2,
       "en": "Look, this sunflower is already two metres tall!",
       "note": "Zonnebloem is zon + linking -e- + de bloem. The last part is a de-word, so deze zonnebloem."
@@ -113,7 +280,11 @@
     {
       "type": "choose",
       "nl": "De lucht in de stad is vies. De ___ is een groot probleem.",
-      "options": ["vervuiling", "vervuilheid", "vervuilen"],
+      "options": [
+        "vervuiling",
+        "vervuilheid",
+        "vervuilen"
+      ],
       "correct": 0,
       "en": "The air in the city is dirty. The pollution is a big problem.",
       "note": "A noun from a verb takes -ing: vervuilen → de vervuiling. -heid goes on adjectives, not on verbs."
@@ -121,7 +292,11 @@
     {
       "type": "choose",
       "nl": "De gemeente heeft het park flink ___.",
-      "options": ["geverbeterd", "verbeterd", "verbetert"],
+      "options": [
+        "geverbeterd",
+        "verbeterd",
+        "verbetert"
+      ],
       "correct": 1,
       "en": "The municipality has greatly improved the park.",
       "note": "Verbeteren starts with ver-, so the participle gets no ge-: verbeterd. The stem ends in r, not in a 't kofschip' letter, so -d."
@@ -129,35 +304,45 @@
     {
       "type": "gap",
       "nl": "Door de ___ (vervuilen) van de zee sterven veel vissen.",
-      "answers": ["vervuiling"],
+      "answers": [
+        "vervuiling"
+      ],
       "en": "Many fish die because of the pollution of the sea.",
       "note": "After de a noun is needed: the stem vervuil + -ing. Words ending in -ing are always de-words."
     },
     {
       "type": "gap",
       "nl": "De ___ (schoon) van dit landschap is bijzonder.",
-      "answers": ["schoonheid"],
+      "answers": [
+        "schoonheid"
+      ],
       "en": "The beauty of this landscape is special.",
       "note": "A noun for a quality is the adjective + -heid: schoon → de schoonheid."
     },
     {
       "type": "gap",
       "nl": "Er zijn veel ___ (mogelijk) om energie te besparen.",
-      "answers": ["mogelijkheden"],
+      "answers": [
+        "mogelijkheden"
+      ],
       "en": "There are many ways to save energy.",
       "note": "Mogelijk + -heid gives de mogelijkheid. After veel a plural is needed, and -heid becomes -heden."
     },
     {
       "type": "gap",
       "nl": "Dit water is niet ___ (drinken): je wordt er ziek van.",
-      "answers": ["drinkbaar"],
+      "answers": [
+        "drinkbaar"
+      ],
       "en": "This water is not drinkable: it will make you ill.",
       "note": "The stem drink + -baar means 'can be drunk'. In this meaning -baar goes on the stem of a verb."
     },
     {
       "type": "gap",
       "nl": "De ___ (hoog) van deze boom is dertig meter.",
-      "answers": ["hoogte"],
+      "answers": [
+        "hoogte"
+      ],
       "en": "The height of this tree is thirty metres.",
       "note": "For a size Dutch adds -te to the adjective: hoog → de hoogte, like lang → de lengte."
     },
@@ -165,7 +350,9 @@
       "type": "rewrite",
       "task": "Say the same with one adjective ending in -baar.",
       "from": "Je kunt deze tas opnieuw gebruiken.",
-      "answers": ["Deze tas is herbruikbaar."],
+      "answers": [
+        "Deze tas is herbruikbaar."
+      ],
       "en": "This bag is reusable.",
       "note": "Her- means 'again' and bruikbaar means 'usable': herbruikbaar is 'can be used again'."
     },
@@ -173,7 +360,10 @@
       "type": "rewrite",
       "task": "Say the same with one adjective ending in -loos; keep lijkt.",
       "from": "Het strand lijkt geen einde te hebben.",
-      "answers": ["Het strand lijkt eindeloos.", "Het strand lijkt eindeloos te zijn."],
+      "answers": [
+        "Het strand lijkt eindeloos.",
+        "Het strand lijkt eindeloos te zijn."
+      ],
       "en": "The beach seems endless.",
       "note": "-loos means 'without': eind + -loos is eindeloos, without an end."
     },
@@ -181,7 +371,9 @@
       "type": "rewrite",
       "task": "Replace niet bekend with one word starting with on-.",
       "from": "Deze vogel is in Nederland niet bekend.",
-      "answers": ["Deze vogel is in Nederland onbekend."],
+      "answers": [
+        "Deze vogel is in Nederland onbekend."
+      ],
       "en": "This bird is unknown in the Netherlands.",
       "note": "On- in front of an adjective makes the opposite: bekend → onbekend, written as one word."
     },
@@ -189,28 +381,38 @@
       "type": "rewrite",
       "task": "Make one sentence starting with Het and an infinitive: Het … van afval is belangrijk.",
       "from": "We scheiden ons afval. Dat is belangrijk.",
-      "answers": ["Het scheiden van afval is belangrijk.", "Het scheiden van ons afval is belangrijk."],
+      "answers": [
+        "Het scheiden van afval is belangrijk.",
+        "Het scheiden van ons afval is belangrijk."
+      ],
       "en": "Separating rubbish is important.",
       "note": "The infinitive scheiden becomes a noun: het scheiden, always with het. The object afval follows with van."
     },
     {
       "type": "fix",
       "wrong": "Het milieuvervuiling is een groot probleem.",
-      "answers": ["De milieuvervuiling is een groot probleem.", "Milieuvervuiling is een groot probleem."],
+      "answers": [
+        "De milieuvervuiling is een groot probleem.",
+        "Milieuvervuiling is een groot probleem."
+      ],
       "en": "Environmental pollution is a big problem.",
       "note": "Het milieu is only the first part. The last part, de vervuiling, decides the article: de milieuvervuiling."
     },
     {
       "type": "fix",
       "wrong": "De fabriek heeft de rivier gevervuild.",
-      "answers": ["De fabriek heeft de rivier vervuild."],
+      "answers": [
+        "De fabriek heeft de rivier vervuild."
+      ],
       "en": "The factory polluted the river.",
       "note": "Vervuilen starts with ver-, and verbs with ver-, be- or ont- never get ge- in the participle: vervuild."
     },
     {
       "type": "fix",
       "wrong": "We wandelen graag in het natuur gebied.",
-      "answers": ["We wandelen graag in het natuurgebied."],
+      "answers": [
+        "We wandelen graag in het natuurgebied."
+      ],
       "en": "We like walking in the nature reserve.",
       "note": "A compound is written as one word in Dutch: natuurgebied, not natuur gebied."
     }

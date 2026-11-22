@@ -29,6 +29,23 @@ Take the units one at a time. Read the whole file and check, string by string:
 4. **Every `gap`**: the keyed answers fit, and no other common form fits the sentence as it
    is written (with its cue and its English).
 5. **The English**: it must mean what the Dutch means.
+6. **The rules**: every statement in the summary and the explanation is true, or names the
+   exception a learner will soon meet; nothing is stated more firmly than the norm allows.
+
+Already done by machine, so no need to repeat it: the article, plural, past tense,
+participle and auxiliary given in each unit's `words` list were checked against
+woordenlijst.org (`node tools/check-forms.mjs`). `art: "het/de"` means the official list
+allows both articles for that meaning; such a noun must never be the point of an exercise
+about de or het, nor of one about adjective endings.
+
+Keep these decisions the same in every unit:
+- `hun` is the written norm for an indirect object, and `hen` there is accepted (the ANS:
+  not a mistake); `ze` is accepted in both roles.
+- `u kan`, `u wil`, `u zal` are accepted next to `u kunt`, `u wilt`, `u zult`.
+- After `zowel … als` with two singular subjects, singular and plural are both correct.
+- Belgian forms may be accepted as answers and named as Belgian; they are never the form
+  that is taught, and they are not called wrong.
+- A form the norm calls less usual but correct is accepted, and may be advised against.
 
 Do not hunt for more alternative answers: that has been done. Add one only when you
 notice a clearly correct, common answer that is rejected.

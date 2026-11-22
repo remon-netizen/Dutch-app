@@ -5,86 +5,231 @@
   "title": "At home",
   "grammar": "De and het: the articles",
   "summary": "Every noun is a de-word or a het-word; een goes with both. Every plural takes de. No article with an indefinite plural, with uncountables in general or with a job after zijn. Learn each noun with its article.",
-  "explain": "Dutch has two words for *the*: `de` and `het`. Which one a noun takes depends on its gender: most nouns are de-words, the rest are het-words. The word for *a* is `een` for both. Ukrainian has no articles at all, so this is a habit to build from the start.\n\n### The forms\n\n| | de-word | het-word |\n| the (one) | de kamer | het raam |\n| a (one) | een kamer | een raam |\n| the (more) | de kamers | de ramen |\n| (more, not known) | kamers | ramen |\n\n- In the **plural** every noun takes `de`: `het raam`, but `de ramen`.\n- `Een` has no plural: `een kamer`, but `kamers`.\n\n> De kamer is groot. — The room is big.\n> Het raam is open. — The window is open.\n> De ramen zijn schoon. — The windows are clean.\n\n### When to use de/het, een or nothing\n\n- `de` or `het`: something known, already mentioned, or the only one there is: `het dak van ons huis`.\n- `een`: one thing that is new to the listener: `We hebben een zolder.`\n- **nothing**: a plural that is not known (`Ik koop stoelen`), something you cannot count, said in general (`Hout is duur`), and a job after `zijn` or `worden` (`Zij is kapper`). With an adjective a job does get een: `een goede kapper`.\n\n> We kopen nieuwe stoelen. — We are buying new chairs.\n> Mijn buurman is schilder. — My neighbour is a painter.\n\n### Rules that help: het\n\n- All **diminutives** (*verkleinwoorden*), even of de-words: `de kamer`, but `het kamertje`.\n- An **infinitive** used as a noun: `het eten`, `het koken`.\n- **Languages**: `het Nederlands`, `het Oekraïens`.\n- **Metals**: `het goud`, `het ijzer`.\n- Words in **-isme, -ment, -sel, -um**: `het toerisme`, `het appartement`, `het raadsel`, `het museum`. Exception: `de datum`. This is about the suffix -sel (`raadsel` from raden): in `de mossel` and `de oksel` the letters are not a suffix.\n- Most two-syllable words starting with the unstressed prefix **ge-, be-, ver-**: `het gebouw`, `het begin`, `het verhaal`, `het behang`. Exception: `de verkoop`. Where the first syllable is stressed it is no prefix, and the rule does not apply: `de beker`, `de gevel`.\n\n> Het kamertje is klein. — The little room is small.\n> Na het eten zitten we op de bank. — After dinner we sit on the sofa.\n\n### Rules that help: de\n\n- **People and jobs**: `de man`, `de buurvrouw`, `de kapper`. But `het kind`, and `het meisje` (a diminutive).\n- Words in **-ing, -heid, -ie, -tie, -teit**: `de woning`, `de gezondheid`, `de familie`, `de informatie`, `de universiteit`.\n- Words in **-erij** and most in **-ij**: `de bakkerij`, `de partij`. Exception: `het schilderij`.\n- Persons in **-er, -aar, -eur**: `de bakker`, `de leraar`, `de chauffeur`. (Things in -er can be het: `het nummer`.)\n- **Fruit, trees and flowers**: `de appel`, `de eik`, `de tulp`; **rivers and mountains**; **letters and numbers**: `de a`, `de drie`.\n\nAbout two thirds of all nouns are de-words. For the rest there is no rule: `het plafond`, `het raam`, `het huis`. That is why the best advice is: **always learn a noun with its article**. In a compound the **last part** decides: `het bad` + `de kamer` = `de badkamer`; `de keuken` + `het raam` = `het keukenraam`.\n\n### Why it matters\n\nDe or het decides other words too: the ending of an adjective (`een grote kamer`, but `een groot raam`), `deze/dit`, `die/dat`, `onze/ons` and `welke/welk`. You will meet each of these in its own unit.\n\n### Watch out\n\n- The plural is always de: *het ramen → `de ramen`.\n- No een before a plural: *een stoelen → `stoelen`.\n- A diminutive is always het: *de kamertje → `het kamertje`.\n- A job after zijn has no article: `Hij is kapper`. (`Hij is de kapper` means he is the hairdresser you both know.)\n\n### Compared with Ukrainian\n\nThe Ukrainian gender does not help: `місто` is neuter, but `de stad` is a de-word. Think of `de/het` as *this one we know*, `een` as *one, new*, and nothing as *things in general*.",
+  "explain": "Dutch has two words for *the*: `de` and `het`. Which one a noun takes depends on its gender: most nouns are de-words, the rest are het-words. The word for *a* is `een` for both. Ukrainian has no articles at all, so this is a habit to build from the start.\n\n### The forms\n\n| | de-word | het-word |\n| the (one) | de kamer | het raam |\n| a (one) | een kamer | een raam |\n| the (more) | de kamers | de ramen |\n| (more, not known) | kamers | ramen |\n\n- In the **plural** every noun takes `de`: `het raam`, but `de ramen`.\n- `Een` has no plural: `een kamer`, but `kamers`.\n\n> De kamer is groot. — The room is big.\n> Het raam is open. — The window is open.\n> De ramen zijn schoon. — The windows are clean.\n\n### When to use de/het, een or nothing\n\n- `de` or `het`: something known, already mentioned, or the only one there is: `het dak van ons huis`.\n- `een`: one thing that is new to the listener: `We hebben een zolder.`\n- **nothing**: a plural that is not known (`Ik koop stoelen`), something you cannot count, said in general (`Hout is duur`), and a job after `zijn` or `worden` (`Zij is kapper`). With an adjective a job does get een: `een goede kapper`.\n\n> We kopen nieuwe stoelen. — We are buying new chairs.\n> Mijn buurman is schilder. — My neighbour is a painter.\n\n### Rules that help: het\n\n- All **diminutives** (*verkleinwoorden*), even of de-words: `de kamer`, but `het kamertje`.\n- An **infinitive** used as a noun: `het eten`, `het koken`.\n- **Languages**: `het Nederlands`, `het Oekraïens`.\n- **Metals**: `het goud`, `het ijzer`.\n- Words in **-isme, -ment, -sel, -um**: `het toerisme`, `het appartement`, `het raadsel`, `het museum`. Exception: `de datum`. This is about the suffix -sel (`raadsel` from raden): in `de mossel` and `de oksel` the letters are not a suffix.\n- Most two-syllable words starting with the unstressed prefix **ge-, be-, ver-**: `het gebouw`, `het begin`, `het verhaal`, `het behang`. Exception: `de verkoop`. Where the first syllable is stressed it is no prefix, and the rule does not apply: `de beker`, `de gevel`.\n\n> Het kamertje is klein. — The little room is small.\n> Na het eten zitten we op de bank. — After dinner we sit on the sofa.\n\n### Rules that help: de\n\n- **People and jobs**: `de man`, `de buurvrouw`, `de kapper`. But `het kind`, and `het meisje` (a diminutive).\n- Words in **-ing, -heid, -ie, -tie, -teit**: `de woning`, `de gezondheid`, `de familie`, `de informatie`, `de universiteit`. But `het ding` (no ending there) and `het ministerie`.\n- Words in **-erij** and most in **-ij**: `de bakkerij`, `de partij`. Exception: `het schilderij`.\n- Persons in **-er, -aar, -eur**: `de bakker`, `de leraar`, `de chauffeur`. (Things in -er can be het: `het nummer`.)\n- **Fruit, trees and flowers**: `de appel`, `de eik`, `de tulp`; **rivers and mountains**; **letters and numbers**: `de a`, `de drie`.\n\nAbout two thirds of all nouns are de-words. For the rest there is no rule: `het plafond`, `het raam`, `het huis`. That is why the best advice is: **always learn a noun with its article**. In a compound the **last part** decides: `het bad` + `de kamer` = `de badkamer`; `de keuken` + `het raam` = `het keukenraam`.\n\n### Why it matters\n\nDe or het decides other words too: the ending of an adjective (`een grote kamer`, but `een groot raam`), `deze/dit`, `die/dat`, `onze/ons` and `welke/welk`. You will meet each of these in its own unit.\n\n### Watch out\n\n- The plural is always de: *het ramen → `de ramen`.\n- No een before a plural: *een stoelen → `stoelen`.\n- A diminutive is always het: *de kamertje → `het kamertje`.\n- A job after zijn has no article: `Hij is kapper`. (`Hij is de kapper` means he is the hairdresser you both know.)\n\n### Compared with Ukrainian\n\nThe Ukrainian gender does not help: `місто` is neuter, but `de stad` is a de-word. Think of `de/het` as *this one we know*, `een` as *one, new*, and nothing as *things in general*.",
   "words": [
-    { "nl": "woonkamer", "art": "de", "pl": "woonkamers", "en": "living room", "pos": "n" },
-    { "nl": "zolder", "art": "de", "pl": "zolders", "en": "attic", "pos": "n" },
-    { "nl": "gang", "art": "de", "pl": "gangen", "en": "hall / corridor", "pos": "n" },
-    { "nl": "trap", "art": "de", "pl": "trappen", "en": "stairs / staircase", "pos": "n" },
-    { "nl": "vloer", "art": "de", "pl": "vloeren", "en": "floor", "pos": "n" },
-    { "nl": "muur", "art": "de", "pl": "muren", "en": "wall", "pos": "n" },
-    { "nl": "plafond", "art": "het", "pl": "plafonds", "en": "ceiling", "pos": "n" },
-    { "nl": "raam", "art": "het", "pl": "ramen", "en": "window", "pos": "n" },
-    { "nl": "bank", "art": "de", "pl": "banken", "en": "sofa / couch", "pos": "n" },
-    { "nl": "kussen", "art": "het", "pl": "kussens", "en": "cushion / pillow", "pos": "n" },
-    { "nl": "gordijn", "art": "het", "pl": "gordijnen", "en": "curtain", "pos": "n" },
-    { "nl": "meubel", "art": "het", "pl": "meubels", "en": "piece of furniture", "pos": "n" },
-    { "nl": "schilderij", "art": "het", "pl": "schilderijen", "en": "painting", "pos": "n" },
-    { "nl": "behang", "art": "het", "pl": "", "en": "wallpaper", "pos": "n" },
-    { "nl": "verwarming", "art": "de", "pl": "", "en": "heating", "pos": "n" },
-    { "nl": "licht", "en": "light / bright", "pos": "adj" }
+    {
+      "nl": "woonkamer",
+      "art": "de",
+      "pl": "woonkamers",
+      "en": "living room",
+      "pos": "n"
+    },
+    {
+      "nl": "zolder",
+      "art": "de",
+      "pl": "zolders",
+      "en": "attic",
+      "pos": "n"
+    },
+    {
+      "nl": "gang",
+      "art": "de",
+      "pl": "gangen",
+      "en": "hall / corridor",
+      "pos": "n"
+    },
+    {
+      "nl": "trap",
+      "art": "de",
+      "pl": "trappen",
+      "en": "stairs / staircase",
+      "pos": "n"
+    },
+    {
+      "nl": "vloer",
+      "art": "de",
+      "pl": "vloeren",
+      "en": "floor",
+      "pos": "n"
+    },
+    {
+      "nl": "muur",
+      "art": "de",
+      "pl": "muren",
+      "en": "wall",
+      "pos": "n"
+    },
+    {
+      "nl": "plafond",
+      "art": "het",
+      "pl": "plafonds",
+      "en": "ceiling",
+      "pos": "n"
+    },
+    {
+      "nl": "raam",
+      "art": "het",
+      "pl": "ramen",
+      "en": "window",
+      "pos": "n"
+    },
+    {
+      "nl": "bank",
+      "art": "de",
+      "pl": "banken",
+      "en": "sofa / couch",
+      "pos": "n"
+    },
+    {
+      "nl": "kussen",
+      "art": "het",
+      "pl": "kussens",
+      "en": "cushion / pillow",
+      "pos": "n"
+    },
+    {
+      "nl": "gordijn",
+      "art": "het/de",
+      "pl": "gordijnen",
+      "en": "curtain",
+      "pos": "n"
+    },
+    {
+      "nl": "meubel",
+      "art": "het",
+      "pl": "meubels",
+      "en": "piece of furniture",
+      "pos": "n"
+    },
+    {
+      "nl": "schilderij",
+      "art": "het/de",
+      "pl": "schilderijen",
+      "en": "painting",
+      "pos": "n"
+    },
+    {
+      "nl": "behang",
+      "art": "het",
+      "pl": "",
+      "en": "wallpaper",
+      "pos": "n"
+    },
+    {
+      "nl": "verwarming",
+      "art": "de",
+      "pl": "",
+      "en": "heating",
+      "pos": "n"
+    },
+    {
+      "nl": "licht",
+      "en": "light / bright",
+      "pos": "adj"
+    }
   ],
   "sentences": [
     {
       "nl": "De woonkamer is licht en het raam is groot.",
       "en": "The living room is bright and the window is big.",
-      "hint": ["woonkamer", "licht", "raam", "groot"],
+      "hint": [
+        "woonkamer",
+        "licht",
+        "raam",
+        "groot"
+      ],
       "note": "Woonkamer ends in kamer, a de-word, and the last part of a compound decides: de woonkamer. Raam is a het-word you simply have to learn."
     },
     {
       "nl": "Het schilderij hangt boven de bank.",
       "en": "The painting hangs above the sofa.",
-      "hint": ["schilderij", "hangen", "boven", "bank"],
+      "hint": [
+        "schilderij",
+        "hangen",
+        "boven",
+        "bank"
+      ],
       "note": "Most words in -ij are de-words, but schilderij is the well-known exception: het schilderij."
     },
     {
       "nl": "We kopen gordijnen voor de slaapkamer.",
       "en": "We are buying curtains for the bedroom.",
-      "hint": ["kopen", "gordijn", "slaapkamer"],
+      "hint": [
+        "kopen",
+        "gordijn",
+        "slaapkamer"
+      ],
       "note": "Gordijnen is a plural that is not known yet, so it has no article. One curtain would be een gordijn, and the curtain het gordijn.",
-      "alt": ["Wij kopen gordijnen voor de slaapkamer."]
+      "alt": [
+        "Wij kopen gordijnen voor de slaapkamer."
+      ]
     },
     {
       "nl": "De trap naar de zolder is erg steil.",
       "en": "The stairs to the attic are very steep.",
-      "hint": ["trap", "zolder", "steil"],
+      "hint": [
+        "trap",
+        "zolder",
+        "steil"
+      ],
       "note": "English says stairs, but Dutch de trap is one word in the singular, so the verb is is. Trap and zolder are both de-words.",
-      "alt": ["De trap naar de zolder is heel steil."]
+      "alt": [
+        "De trap naar de zolder is heel steil."
+      ]
     },
     {
       "nl": "Het plafond in de badkamer is wit.",
       "en": "The ceiling in the bathroom is white.",
-      "hint": ["plafond", "badkamer", "wit"],
+      "hint": [
+        "plafond",
+        "badkamer",
+        "wit"
+      ],
       "note": "Plafond is a het-word without a rule to help. Badkamer is de, because kamer is the last part."
     },
     {
       "nl": "Is de verwarming al aan?",
       "en": "Is the heating on already?",
-      "hint": ["zijn", "verwarming", "al", "aan"],
-      "note": "Every word in -ing is a de-word: de verwarming, de woning, de vergadering."
+      "hint": [
+        "zijn",
+        "verwarming",
+        "al",
+        "aan"
+      ],
+      "note": "Nouns made with the ending -ing are de-words: de verwarming, de woning, de vergadering."
     },
     {
       "nl": "Mijn broer is schilder en verft vooral muren.",
       "en": "My brother is a painter and mainly paints walls.",
-      "hint": ["broer", "schilder", "verven", "vooral", "muur"],
+      "hint": [
+        "broer",
+        "schilder",
+        "verven",
+        "vooral",
+        "muur"
+      ],
       "note": "A job after zijn takes no article: is schilder. Muren is a plural said in general, so no article either."
     },
     {
       "nl": "Het schoonmaken van de ramen duurt lang.",
       "en": "Cleaning the windows takes a long time.",
-      "hint": ["schoonmaken", "raam", "duren", "lang"],
+      "hint": [
+        "schoonmaken",
+        "raam",
+        "duren",
+        "lang"
+      ],
       "note": "An infinitive used as a noun is always a het-word: het schoonmaken. De ramen is plural, so de, although it is het raam."
     },
     {
       "nl": "Het kamertje boven de trap is van mijn zoon.",
       "en": "The little room above the stairs is my son's.",
-      "hint": ["kamer", "boven", "trap", "zoon"],
+      "hint": [
+        "kamer",
+        "boven",
+        "trap",
+        "zoon"
+      ],
       "note": "A diminutive is always a het-word, even when the noun itself is de: de kamer, het kamertje."
     },
     {
       "nl": "Behang is duur, maar het is mooi.",
       "en": "Wallpaper is expensive, but it is beautiful.",
-      "hint": ["behang", "duur", "mooi"],
+      "hint": [
+        "behang",
+        "duur",
+        "mooi"
+      ],
       "note": "Wallpaper in general, a thing you cannot count: no article. Behang is a het-word: be- + one syllable, like het begin."
     }
   ],
@@ -92,7 +237,11 @@
     {
       "type": "choose",
       "nl": "___ kussens liggen op de bank.",
-      "options": ["De", "Het", "Een"],
+      "options": [
+        "De",
+        "Het",
+        "Een"
+      ],
       "correct": 0,
       "en": "The cushions are on the sofa.",
       "note": "Every plural takes de, also when the singular is a het-word: het kussen, de kussens. Een never goes with a plural."
@@ -100,7 +249,11 @@
     {
       "type": "choose",
       "nl": "Ik zoek een lamp voor ___ woonkamer.",
-      "options": ["het", "de", "–"],
+      "options": [
+        "het",
+        "de",
+        "–"
+      ],
       "correct": 1,
       "en": "I am looking for a lamp for the living room.",
       "note": "In a compound the last part decides: de kamer, so de woonkamer. A countable noun in the singular cannot stand without an article."
@@ -108,51 +261,69 @@
     {
       "type": "choose",
       "nl": "___ kamertje boven de trap is klein.",
-      "options": ["De", "Het", "–"],
+      "options": [
+        "De",
+        "Het",
+        "–"
+      ],
       "correct": 1,
       "en": "The little room above the stairs is small.",
       "note": "A diminutive is always het, even though it is de kamer. A singular noun like this needs an article."
     },
     {
       "type": "choose",
-      "nl": "___ gordijn in de slaapkamer is te kort.",
-      "options": ["De", "–", "Het"],
+      "nl": "___ plafond in de slaapkamer is te laag.",
+      "options": [
+        "De",
+        "–",
+        "Het"
+      ],
       "correct": 2,
-      "en": "The curtain in the bedroom is too short.",
-      "note": "Gordijn is a het-word without a rule to show it: het gordijn. Learn it together with its article."
+      "en": "The ceiling in the bedroom is too low.",
+      "note": "Plafond is a het-word without a rule to show it: het plafond. Learn it together with its article."
     },
     {
       "type": "gap",
       "nl": "___ (de/het) plafond in de keuken is laag.",
-      "answers": ["Het"],
+      "answers": [
+        "Het"
+      ],
       "en": "The ceiling in the kitchen is low.",
       "note": "Plafond is a het-word. No rule tells you that, so learn it as one unit: het plafond."
     },
     {
       "type": "gap",
       "nl": "Het kussen ligt op ___ (de/het) vloer.",
-      "answers": ["de"],
+      "answers": [
+        "de"
+      ],
       "en": "The cushion is lying on the floor.",
       "note": "Vloer is a de-word, like about two thirds of all nouns: de vloer."
     },
     {
       "type": "gap",
       "nl": "Hoe zeg je 'sofa' in ___ (de/het) Nederlands?",
-      "answers": ["het"],
+      "answers": [
+        "het"
+      ],
       "en": "How do you say 'sofa' in Dutch?",
       "note": "The name of a language is a het-word: het Nederlands, het Oekraïens, het Engels."
     },
     {
       "type": "gap",
       "nl": "Na ___ (de/het) eten zitten we in de woonkamer.",
-      "answers": ["het"],
+      "answers": [
+        "het"
+      ],
       "en": "After dinner we sit in the living room.",
       "note": "Eten here is an infinitive used as a noun, and those are always het-words: het eten."
     },
     {
       "type": "gap",
       "nl": "___ (de/het) woonkamer is erg licht.",
-      "answers": ["De"],
+      "answers": [
+        "De"
+      ],
       "en": "The living room is very bright.",
       "note": "The last part of the compound decides: kamer is de, so de woonkamer."
     },
@@ -160,7 +331,9 @@
       "type": "rewrite",
       "task": "Make the noun plural.",
       "from": "Het kussen is zacht.",
-      "answers": ["De kussens zijn zacht."],
+      "answers": [
+        "De kussens zijn zacht."
+      ],
       "en": "The cushions are soft.",
       "note": "In the plural het becomes de, and the verb becomes plural too: de kussens zijn."
     },
@@ -168,7 +341,9 @@
       "type": "rewrite",
       "task": "Make the noun plural.",
       "from": "Het schilderij hangt in de gang.",
-      "answers": ["De schilderijen hangen in de gang."],
+      "answers": [
+        "De schilderijen hangen in de gang."
+      ],
       "en": "The paintings hang in the hall.",
       "note": "Het schilderij, but de schilderijen: every plural takes de. Hangt becomes hangen."
     },
@@ -176,35 +351,46 @@
       "type": "rewrite",
       "task": "Talk about one curtain instead of several.",
       "from": "Ik koop gordijnen.",
-      "answers": ["Ik koop een gordijn."],
+      "answers": [
+        "Ik koop een gordijn."
+      ],
       "en": "I am buying a curtain.",
       "note": "A plural that is not known has no article. One thing that is new to the listener gets een, for de-words and het-words alike."
     },
     {
       "type": "fix",
       "wrong": "Het ramen zijn schoon.",
-      "answers": ["De ramen zijn schoon."],
+      "answers": [
+        "De ramen zijn schoon."
+      ],
       "en": "The windows are clean.",
       "note": "Het raam is a het-word, but every plural takes de: de ramen."
     },
     {
       "type": "fix",
       "wrong": "De behang in de gang is oud.",
-      "answers": ["Het behang in de gang is oud."],
+      "answers": [
+        "Het behang in de gang is oud."
+      ],
       "en": "The wallpaper in the hall is old.",
       "note": "Behang has two syllables and starts with be-, like het begin and het bezoek: it is a het-word."
     },
     {
       "type": "fix",
       "wrong": "Wij hebben een nieuwe meubels.",
-      "answers": ["Wij hebben nieuwe meubels.", "We hebben nieuwe meubels."],
+      "answers": [
+        "Wij hebben nieuwe meubels.",
+        "We hebben nieuwe meubels."
+      ],
       "en": "We have new furniture.",
       "note": "Een means 'one' and never goes with a plural. A plural that is not known has no article at all."
     },
     {
       "type": "fix",
       "wrong": "Het muur in de slaapkamer is blauw.",
-      "answers": ["De muur in de slaapkamer is blauw."],
+      "answers": [
+        "De muur in de slaapkamer is blauw."
+      ],
       "en": "The wall in the bedroom is blue.",
       "note": "Muur is a de-word: de muur. Most nouns are de-words; when you are not sure, de is the better guess."
     }

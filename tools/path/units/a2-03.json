@@ -4,103 +4,273 @@
   "icon": "📅",
   "title": "My week",
   "grammar": "Word order: the verb in second place",
-  "summary": "In a main clause the conjugated verb is always the second element. If something else comes first (a time, a place, an object), the subject follows the verb: Morgen werk ik. En, maar, want and of do not count.",
-  "explain": "In a Dutch main clause the conjugated verb (the form with the ending: `werk`, `werkt`, `heeft`) always stands in **second place**. This is the most important rule of Dutch word order. English almost always puts the subject before the verb, and Ukrainian moves words around freely; Dutch keeps the verb in its place and lets something else go first. When the subject then moves behind the verb, that is called *inversion* (de inversie).\n\n### The verb is element number two\n\nThe first place can hold the subject, but also a time, a place or an object. Whatever stands first, the verb comes next. If the first place is not the subject, the subject moves to the place **directly after the verb**.\n\n| 1 | 2: verb | subject | the rest |\n| Ik | zing | – | op dinsdag in een koor. |\n| Op dinsdag | zing | ik | in een koor. |\n| Dat lied | ken | ik | goed. |\n\n> Ik wandel elke zondag met mijn buurvrouw. — I go for a walk with my neighbour every Sunday.\n> Elke zondag wandel ik met mijn buurvrouw. — Every Sunday I go for a walk with my neighbour.\n> Dat lied ken ik goed. — I know that song well.\n\nThe meaning hardly changes. What stands first is the starting point of what you say: often the time, or something you were already talking about.\n\n### What counts as one element\n\nCount **elements**, not words. An element is a group of words that belongs together and moves as a whole: a time phrase, a place with its preposition, or the subject with everything that belongs to it.\n\n> Volgende week woensdag ben ik de hele dag vrij. — On Wednesday next week I am free all day.\n> In de zomer logeren mijn ouders bij ons. — In the summer my parents stay with us.\n> Mijn zus en ik zingen in hetzelfde koor. — My sister and I sing in the same choir.\n\nThere is only **one** element before the verb, never two:\n\n- *Morgen ik werk is wrong: `Morgen werk ik` or `Ik werk morgen`.\n- *Morgen om acht uur ik werk is wrong too. `Morgen om acht uur` is one element, so the verb follows it: `Morgen om acht uur werk ik`.\n\n### Jij after the verb\n\nYou know from unit A2 · 1 that the verb loses its t when `jij` or `je` comes directly after it. Inversion is exactly that situation: `jij werkt`, but `zaterdag werk jij`. `Hij`, `zij` and `u` keep the t: `Zaterdag werkt hij`.\n\n> Zaterdag werk je tot zes uur. — On Saturday you work until six.\n\nFor every other subject the verb form stays the same, wherever the subject stands: `ik zing`, `op dinsdag zing ik`, never *zingt ik.\n\n### The middle of the sentence\n\nWords such as `vaak`, `altijd`, `nooit`, `ook` and `af en toe` come **after** the verb, unless they take the first place themselves (`Vaak wandel ik`). In English they can stand between the subject and the verb (*I often walk*), in Dutch never: `Ik wandel vaak`.\n\nWhen a time and a place both stand after the verb, the time usually comes first: `Ik ben morgen thuis`, `We wandelen zondag in de duinen`. The other order sounds like something you add as an afterthought.\n\n> We wandelen zondag in de duinen. — We are going for a walk in the dunes on Sunday.\n\nWhen there are two verbs, only the conjugated one stands second; the infinitive goes to the end: `Zaterdag ga ik zwemmen` (more in units A2 · 11 and A2 · 17).\n\n### En, maar, want, of\n\nThese four words join two sentences and do not count as an element. After them you count again from the start: the next element is number one.\n\n> Ik werk doordeweeks, maar zaterdag ben ik vrij. — I work on weekdays, but on Saturday I am free.\n> Ik blijf thuis, want ik ben moe. — I am staying at home, because I am tired.\n\nWords like `daarna`, `dan` and `eerst` are different: they **do** count, so the verb comes right after them: `Daarna ga ik naar huis`. (Joining sentences is the subject of unit A2 · 22.)\n\n### Watch out\n\n- Something first, then the subject: *Morgen ik heb een dienst → `Morgen heb ik een dienst`.\n- A long element is still one element: *Volgende week zaterdag wij hebben vrij → `Volgende week zaterdag hebben wij vrij`.\n- No adverb between subject and verb: *Ik vaak zing → `Ik zing vaak`.\n- `daarna` counts, `en` does not: *Daarna ik ga naar huis → `Daarna ga ik naar huis`.\n- Jij after the verb: *Zaterdag werkt jij → `Zaterdag werk jij`.\n\n### Compared with Ukrainian\n\nUkrainian word order is free, because the endings show who does what: `Завтра я працюю` and `Я завтра працюю` are both fine. Dutch nouns have no case endings, so Dutch relies on position, and the verb is fixed in second place. `Завтра я працюю` is `Morgen werk ik`, never *Morgen ik werk.",
+  "summary": "In a statement the conjugated verb is always the second element. If something else comes first (a time, a place, an object), the subject follows the verb: Morgen werk ik. En, maar, want and of do not count.",
+  "explain": "In a Dutch main clause the conjugated verb (the form with the ending: `werk`, `werkt`, `heeft`) stands in **second place**; only a yes/no question or a command starts with it. This is the most important rule of Dutch word order. English almost always puts the subject before the verb; Dutch keeps the verb in its place and lets something else go first. When the subject then moves behind the verb, that is called *inversion* (de inversie).\n\n### The verb is element number two\n\nThe first place can hold the subject, but also a time, a place or an object. Whatever stands first, the verb comes next. If the first place is not the subject, the subject moves to the place **directly after the verb**.\n\n| 1 | 2: verb | subject | the rest |\n| Ik | zing | – | op dinsdag in een koor. |\n| Op dinsdag | zing | ik | in een koor. |\n| Dat lied | ken | ik | goed. |\n\n> Ik wandel elke zondag met mijn buurvrouw. — I go for a walk with my neighbour every Sunday.\n> Elke zondag wandel ik met mijn buurvrouw. — Every Sunday I go for a walk with my neighbour.\n> Dat lied ken ik goed. — I know that song well.\n\nThe meaning hardly changes. What stands first is the starting point of what you say: often the time, or something you were already talking about.\n\n### What counts as one element\n\nCount **elements**, not words. An element is a group of words that belongs together and moves as a whole: a time phrase, a place with its preposition, or the subject with everything that belongs to it.\n\n> Volgende week woensdag ben ik de hele dag vrij. — On Wednesday next week I am free all day.\n> In de zomer logeren mijn ouders bij ons. — In the summer my parents stay with us.\n> Mijn zus en ik zingen in hetzelfde koor. — My sister and I sing in the same choir.\n\nThere is only **one** element before the verb, never two:\n\n- *Morgen ik werk is wrong: `Morgen werk ik` or `Ik werk morgen`.\n- *Morgen om acht uur ik werk is wrong too. `Morgen om acht uur` is one element, so the verb follows it: `Morgen om acht uur werk ik`.\n\n### Jij after the verb\n\nYou know from unit A2 · 1 that the verb loses its t when `jij` or `je` comes directly after it. Inversion is exactly that situation: `jij werkt`, but `zaterdag werk jij`. `Hij`, `zij` and `u` keep the t: `Zaterdag werkt hij`.\n\n> Zaterdag werk je tot zes uur. — On Saturday you work until six.\n\nFor every other subject the verb form stays the same, wherever the subject stands: `ik zing`, `op dinsdag zing ik`, never *zingt ik.\n\n### The middle of the sentence\n\nWords such as `vaak`, `altijd`, `nooit`, `ook` and `af en toe` come **after** the verb, unless they take the first place themselves (`Vaak wandel ik`). In English they can stand between the subject and the verb (*I often walk*), in a Dutch main clause never: `Ik wandel vaak`.\n\nWhen a time and a place both stand after the verb, the time usually comes first: `Ik ben morgen thuis`, `We wandelen zondag in de duinen`. The other order sounds like something you add as an afterthought.\n\n> We wandelen zondag in de duinen. — We are going for a walk in the dunes on Sunday.\n\nWhen there are two verbs, only the conjugated one stands second; the infinitive goes to the end: `Zaterdag ga ik zwemmen` (more in units A2 · 11 and A2 · 17).\n\n### En, maar, want, of\n\nThese four words join two sentences and do not count as an element. After them you count again from the start: the next element is number one.\n\n> Ik werk doordeweeks, maar zaterdag ben ik vrij. — I work on weekdays, but on Saturday I am free.\n> Ik blijf thuis, want ik ben moe. — I am staying at home, because I am tired.\n\nWords like `daarna`, `dan` and `eerst` are different: they **do** count, so the verb comes right after them: `Daarna ga ik naar huis`. (Joining sentences is the subject of unit A2 · 22.)\n\n### Watch out\n\n- Something first, then the verb: *Morgen ik heb een dienst → `Morgen heb ik een dienst`.\n- A long element is still one element: *Volgende week zaterdag wij hebben vrij → `Volgende week zaterdag hebben wij vrij`.\n- No adverb between subject and verb: *Ik vaak zing → `Ik zing vaak`.\n- `daarna` counts, `en` does not: *Daarna ik ga naar huis → `Daarna ga ik naar huis`.\n- Jij after the verb: *Zaterdag werkt jij → `Zaterdag werk jij`.\n\n### Compared with Ukrainian\n\nUkrainian word order is free, because the endings show who does what: `Завтра я працюю` and `Я завтра працюю` are both fine. Dutch nouns have no case endings, so Dutch relies on position, and the verb is fixed in second place. `Завтра я працюю` is `Morgen werk ik`.",
   "words": [
-    { "nl": "rooster", "art": "het", "pl": "roosters", "en": "schedule / timetable", "pos": "n" },
-    { "nl": "dienst", "art": "de", "pl": "diensten", "en": "shift (at work)", "pos": "n" },
-    { "nl": "kapper", "art": "de", "pl": "kappers", "en": "hairdresser", "pos": "n" },
-    { "nl": "koor", "art": "het", "pl": "koren", "en": "choir", "pos": "n" },
-    { "nl": "repetitie", "art": "de", "pl": "repetities", "en": "rehearsal", "pos": "n" },
-    { "nl": "uitje", "art": "het", "pl": "uitjes", "en": "outing / day out", "pos": "n" },
-    { "nl": "wandelen", "past": "wandelde", "perf": "heeft/is gewandeld", "en": "to walk / to go for a walk", "pos": "v" },
-    { "nl": "zingen", "past": "zong", "perf": "heeft gezongen", "en": "to sing", "pos": "v" },
-    { "nl": "oefenen", "past": "oefende", "perf": "heeft geoefend", "en": "to practise", "pos": "v" },
-    { "nl": "logeren", "past": "logeerde", "perf": "heeft gelogeerd", "en": "to stay (with someone) / to stay over", "pos": "v" },
-    { "nl": "klussen", "past": "kluste", "perf": "heeft geklust", "en": "to do odd jobs / to do DIY", "pos": "v" },
-    { "nl": "vrij", "en": "free / off (not working)", "pos": "adj" },
-    { "nl": "doordeweeks", "en": "on weekdays", "pos": "adv" },
-    { "nl": "daarna", "en": "after that / afterwards", "pos": "adv" },
-    { "nl": "af en toe", "en": "now and then", "pos": "expr" },
-    { "nl": "om de week", "en": "every other week", "pos": "expr" }
+    {
+      "nl": "rooster",
+      "art": "het/de",
+      "pl": "roosters",
+      "en": "schedule / timetable",
+      "pos": "n"
+    },
+    {
+      "nl": "dienst",
+      "art": "de",
+      "pl": "diensten",
+      "en": "shift (at work)",
+      "pos": "n"
+    },
+    {
+      "nl": "kapper",
+      "art": "de",
+      "pl": "kappers",
+      "en": "hairdresser",
+      "pos": "n"
+    },
+    {
+      "nl": "koor",
+      "art": "het",
+      "pl": "koren",
+      "en": "choir",
+      "pos": "n"
+    },
+    {
+      "nl": "repetitie",
+      "art": "de",
+      "pl": "repetities",
+      "en": "rehearsal",
+      "pos": "n"
+    },
+    {
+      "nl": "uitje",
+      "art": "het",
+      "pl": "uitjes",
+      "en": "outing / day out",
+      "pos": "n"
+    },
+    {
+      "nl": "wandelen",
+      "past": "wandelde",
+      "perf": "heeft/is gewandeld",
+      "en": "to walk / to go for a walk",
+      "pos": "v"
+    },
+    {
+      "nl": "zingen",
+      "past": "zong",
+      "perf": "heeft gezongen",
+      "en": "to sing",
+      "pos": "v"
+    },
+    {
+      "nl": "oefenen",
+      "past": "oefende",
+      "perf": "heeft geoefend",
+      "en": "to practise",
+      "pos": "v"
+    },
+    {
+      "nl": "logeren",
+      "past": "logeerde",
+      "perf": "heeft gelogeerd",
+      "en": "to stay (with someone) / to stay over",
+      "pos": "v"
+    },
+    {
+      "nl": "klussen",
+      "past": "kluste",
+      "perf": "heeft geklust",
+      "en": "to do odd jobs / to do DIY",
+      "pos": "v"
+    },
+    {
+      "nl": "vrij",
+      "en": "free / off (not working)",
+      "pos": "adj"
+    },
+    {
+      "nl": "doordeweeks",
+      "en": "on weekdays",
+      "pos": "adv"
+    },
+    {
+      "nl": "daarna",
+      "en": "after that / afterwards",
+      "pos": "adv"
+    },
+    {
+      "nl": "af en toe",
+      "en": "now and then",
+      "pos": "expr"
+    },
+    {
+      "nl": "om de week",
+      "en": "every other week",
+      "pos": "expr"
+    }
   ],
   "sentences": [
     {
       "nl": "Mijn rooster verandert elke week.",
       "en": "My schedule changes every week.",
-      "hint": ["rooster", "veranderen", "elke week"],
+      "hint": [
+        "rooster",
+        "veranderen",
+        "elke week"
+      ],
       "note": "The subject mijn rooster stands first and the verb verandert comes second. This is the plain order, the same as in English.",
-      "alt": ["Elke week verandert mijn rooster."]
+      "alt": [
+        "Elke week verandert mijn rooster."
+      ]
     },
     {
       "nl": "Op dinsdag zing ik in een koor.",
       "en": "On Tuesdays I sing in a choir.",
-      "hint": ["dinsdag", "zingen", "koor"],
+      "hint": [
+        "dinsdag",
+        "zingen",
+        "koor"
+      ],
       "note": "Op dinsdag fills the first place, so the verb zing comes second and ik follows it. The ik-form stays zing, wherever ik stands.",
-      "alt": ["Ik zing op dinsdag in een koor."]
+      "alt": [
+        "Ik zing op dinsdag in een koor."
+      ]
     },
     {
       "nl": "Volgende week donderdag heb ik een afspraak bij de kapper.",
       "en": "On Thursday next week I have an appointment at the hairdresser's.",
-      "hint": ["volgende week", "donderdag", "afspraak", "kapper"],
+      "hint": [
+        "volgende week",
+        "donderdag",
+        "afspraak",
+        "kapper"
+      ],
       "note": "Volgende week donderdag is three words but one element, so heb is still the second element and ik comes directly after it.",
-      "alt": ["Ik heb volgende week donderdag een afspraak bij de kapper.", "Donderdag volgende week heb ik een afspraak bij de kapper."]
+      "alt": [
+        "Ik heb volgende week donderdag een afspraak bij de kapper.",
+        "Donderdag volgende week heb ik een afspraak bij de kapper."
+      ]
     },
     {
       "nl": "In het weekend wandelen we vaak in het bos.",
       "en": "At the weekend we often go for a walk in the woods.",
-      "hint": ["weekend", "wandelen", "vaak", "bos"],
+      "hint": [
+        "weekend",
+        "wandelen",
+        "vaak",
+        "bos"
+      ],
       "note": "In het weekend is the first element, so wandelen comes second and we follows. Vaak stands after the verb, not before it as in English.",
-      "alt": ["We wandelen in het weekend vaak in het bos.", "We wandelen vaak in het weekend in het bos."]
+      "alt": [
+        "We wandelen in het weekend vaak in het bos.",
+        "We wandelen vaak in het weekend in het bos."
+      ]
     },
     {
       "nl": "Om de week heb ik een late dienst.",
       "en": "Every other week I have a late shift.",
-      "hint": ["om de week", "hebben", "laat", "dienst"],
+      "hint": [
+        "om de week",
+        "hebben",
+        "laat",
+        "dienst"
+      ],
       "note": "Om de week is one element in first place. Then comes the verb heb, and then the subject ik.",
-      "alt": ["Ik heb om de week een late dienst."]
+      "alt": [
+        "Ik heb om de week een late dienst."
+      ]
     },
     {
       "nl": "Na de repetitie drink je nog iets met de anderen.",
       "en": "After the rehearsal you have a drink with the others.",
-      "hint": ["na", "repetitie", "drinken", "iets", "ander"],
+      "hint": [
+        "na",
+        "repetitie",
+        "drinken",
+        "iets",
+        "ander"
+      ],
       "note": "Na de repetitie stands first, so je comes directly after the verb. That is why drinkt loses its t: drink je.",
-      "alt": ["Na de repetitie drink jij nog iets met de anderen.", "Je drinkt na de repetitie nog iets met de anderen.", "Jij drinkt na de repetitie nog iets met de anderen.", "Na de repetitie drink je iets met de anderen.", "Na de repetitie drink jij iets met de anderen.", "Je drinkt na de repetitie iets met de anderen.", "Jij drinkt na de repetitie iets met de anderen."]
+      "alt": [
+        "Na de repetitie drink jij nog iets met de anderen.",
+        "Je drinkt na de repetitie nog iets met de anderen.",
+        "Jij drinkt na de repetitie nog iets met de anderen.",
+        "Na de repetitie drink je iets met de anderen.",
+        "Na de repetitie drink jij iets met de anderen.",
+        "Je drinkt na de repetitie iets met de anderen.",
+        "Jij drinkt na de repetitie iets met de anderen."
+      ]
     },
     {
       "nl": "Volgend weekend logeert mijn zus bij ons.",
       "en": "Next weekend my sister is staying with us.",
-      "hint": ["volgend", "weekend", "logeren", "zus"],
+      "hint": [
+        "volgend",
+        "weekend",
+        "logeren",
+        "zus"
+      ],
       "note": "A noun subject goes behind the verb just like a pronoun: logeert mijn zus. The verb still agrees with mijn zus: stem + t.",
-      "alt": ["Mijn zus logeert volgend weekend bij ons."]
+      "alt": [
+        "Mijn zus logeert volgend weekend bij ons."
+      ]
     },
     {
       "nl": "Af en toe klust mijn man in de garage.",
       "en": "Now and then my husband does odd jobs in the garage.",
-      "hint": ["af en toe", "klussen", "man", "garage"],
+      "hint": [
+        "af en toe",
+        "klussen",
+        "man",
+        "garage"
+      ],
       "note": "Af en toe is three words but one element. After it comes the verb klust, then the subject mijn man.",
-      "alt": ["Mijn man klust af en toe in de garage."]
+      "alt": [
+        "Mijn man klust af en toe in de garage."
+      ]
     },
     {
       "nl": "Ik werk doordeweeks, maar in het weekend ben ik vrij.",
       "en": "I work on weekdays, but at the weekend I am free.",
-      "hint": ["werken", "doordeweeks", "maar", "weekend", "vrij"],
+      "hint": [
+        "werken",
+        "doordeweeks",
+        "maar",
+        "weekend",
+        "vrij"
+      ],
       "note": "Maar does not count as an element. After maar, in het weekend is number one, so ben comes next and then ik.",
-      "alt": ["Doordeweeks werk ik, maar in het weekend ben ik vrij.", "Ik werk doordeweeks, maar ik ben in het weekend vrij.", "Doordeweeks werk ik, maar ik ben in het weekend vrij."]
+      "alt": [
+        "Doordeweeks werk ik, maar in het weekend ben ik vrij.",
+        "Ik werk doordeweeks, maar ik ben in het weekend vrij.",
+        "Doordeweeks werk ik, maar ik ben in het weekend vrij."
+      ]
     },
     {
       "nl": "Dat lied oefenen we al drie weken.",
       "en": "We have been practising that song for three weeks.",
-      "hint": ["lied", "oefenen", "al", "week"],
+      "hint": [
+        "lied",
+        "oefenen",
+        "al",
+        "week"
+      ],
       "note": "The object dat lied can stand first, because you were already talking about it. The verb oefenen stays second and we follows. Al + present tense says how long something has been going on.",
-      "alt": ["We oefenen dat lied al drie weken."]
+      "alt": [
+        "We oefenen dat lied al drie weken."
+      ]
     }
   ],
   "exercises": [
     {
       "type": "choose",
       "nl": "Morgen ___ naar de kapper.",
-      "options": ["ik ga", "ga ik", "gaat ik"],
+      "options": [
+        "ik ga",
+        "ga ik",
+        "gaat ik"
+      ],
       "correct": 1,
       "en": "Tomorrow I am going to the hairdresser's.",
       "note": "Morgen takes the first place, so the verb comes second and ik follows it. The ik-form stays ga: never gaat ik."
@@ -108,7 +278,11 @@
     {
       "type": "choose",
       "nl": "Ik werk tot vier uur en daarna ___ naar huis.",
-      "options": ["ik fiets", "fiets ik", "fietst ik"],
+      "options": [
+        "ik fiets",
+        "fiets ik",
+        "fietst ik"
+      ],
       "correct": 1,
       "en": "I work until four and after that I cycle home.",
       "note": "En does not count, but daarna does: it is the first element of the second sentence. So the verb fiets comes next, and then ik."
@@ -116,7 +290,11 @@
     {
       "type": "choose",
       "nl": "Ik blijf vanavond thuis, want ___ moe.",
-      "options": ["ben ik", "ik ben", "ik is"],
+      "options": [
+        "ben ik",
+        "ik ben",
+        "ik is"
+      ],
       "correct": 1,
       "en": "I am staying at home tonight, because I am tired.",
       "note": "Want does not count as an element. After want the subject ik is number one, so the order is the normal one: ik ben."
@@ -124,53 +302,84 @@
     {
       "type": "gap",
       "nl": "Elke zomer ___ (logeren) mijn ouders drie weken bij ons.",
-      "answers": ["logeren"],
+      "answers": [
+        "logeren"
+      ],
       "en": "Every summer my parents stay with us for three weeks.",
       "note": "The subject stands after the verb, but the verb still agrees with it: mijn ouders is plural, so the infinitive logeren."
     },
     {
       "type": "gap",
       "nl": "Na het werk ___ (wandelen) ik een half uur in het park.",
-      "answers": ["wandel"],
+      "answers": [
+        "wandel"
+      ],
       "en": "After work I go for a walk in the park for half an hour.",
       "note": "Na het werk is the first element, so the verb comes second and ik after it. Ik takes the bare stem: wandel."
     },
     {
       "type": "gap",
       "nl": "Volgende maand ___ (hebben) ons koor een uitje naar Gent.",
-      "answers": ["heeft"],
+      "answers": [
+        "heeft"
+      ],
       "en": "Next month our choir has an outing to Ghent.",
       "note": "Volgende maand is the first element, then the verb, then the subject ons koor. That is one choir, so heeft."
     },
     {
       "type": "order",
       "lead": "Volgende week dinsdag",
-      "words": ["ga", "ik", "naar de tandarts"],
-      "answers": ["Volgende week dinsdag ga ik naar de tandarts."],
+      "words": [
+        "ga",
+        "ik",
+        "naar de tandarts"
+      ],
+      "answers": [
+        "Volgende week dinsdag ga ik naar de tandarts."
+      ],
       "en": "On Tuesday next week I am going to the dentist.",
       "note": "Volgende week dinsdag is one element, so the verb ga follows it at once and ik comes next."
     },
     {
       "type": "order",
       "lead": "In het weekend",
-      "words": ["vaak", "we", "wandelen", "in de duinen"],
-      "answers": ["In het weekend wandelen we vaak in de duinen."],
+      "words": [
+        "vaak",
+        "we",
+        "wandelen",
+        "in de duinen"
+      ],
+      "answers": [
+        "In het weekend wandelen we vaak in de duinen."
+      ],
       "en": "At the weekend we often go for a walk in the dunes.",
       "note": "After the first element come the verb and then the subject. Vaak stands after the subject, and the place goes last."
     },
     {
       "type": "order",
       "lead": "Dat lied",
-      "words": ["we", "elke week", "oefenen"],
-      "answers": ["Dat lied oefenen we elke week."],
+      "words": [
+        "we",
+        "elke week",
+        "oefenen"
+      ],
+      "answers": [
+        "Dat lied oefenen we elke week."
+      ],
       "en": "We practise that song every week.",
       "note": "The object dat lied stands first, so the verb oefenen comes second and the subject we directly after it."
     },
     {
       "type": "order",
       "lead": "Morgen om acht uur",
-      "words": ["de repetitie", "begint", "in de kerk"],
-      "answers": ["Morgen om acht uur begint de repetitie in de kerk."],
+      "words": [
+        "de repetitie",
+        "begint",
+        "in de kerk"
+      ],
+      "answers": [
+        "Morgen om acht uur begint de repetitie in de kerk."
+      ],
       "en": "Tomorrow at eight o'clock the rehearsal starts in the church.",
       "note": "Morgen om acht uur is one element, so begint comes right after it and the subject de repetitie follows. Never *Morgen om acht uur de repetitie begint."
     },
@@ -178,7 +387,9 @@
       "type": "rewrite",
       "task": "Start with Op vrijdag.",
       "from": "Ik ga op vrijdag altijd naar de kapper.",
-      "answers": ["Op vrijdag ga ik altijd naar de kapper."],
+      "answers": [
+        "Op vrijdag ga ik altijd naar de kapper."
+      ],
       "en": "On Fridays I always go to the hairdresser's.",
       "note": "Op vrijdag takes the first place, the verb ga stays second, and ik moves behind it. Altijd stays after the subject."
     },
@@ -186,7 +397,10 @@
       "type": "rewrite",
       "task": "Start with In het weekend.",
       "from": "Jij werkt nooit in het weekend.",
-      "answers": ["In het weekend werk jij nooit.", "In het weekend werk je nooit."],
+      "answers": [
+        "In het weekend werk jij nooit.",
+        "In het weekend werk je nooit."
+      ],
       "en": "You never work at the weekend.",
       "note": "Jij now comes directly after the verb, so werkt loses its t: werk jij."
     },
@@ -194,28 +408,44 @@
       "type": "rewrite",
       "task": "Join the two sentences with maar.",
       "from": "Ik werk op zaterdag. Op zondag ben ik vrij.",
-      "answers": ["Ik werk op zaterdag, maar op zondag ben ik vrij.", "Ik werk op zaterdag, maar ik ben op zondag vrij."],
+      "answers": [
+        "Ik werk op zaterdag, maar op zondag ben ik vrij.",
+        "Ik werk op zaterdag, maar ik ben op zondag vrij."
+      ],
       "en": "I work on Saturdays, but on Sundays I am free.",
       "note": "Maar does not count as an element, so the second sentence keeps its own order: op zondag is first and ben second."
     },
     {
       "type": "fix",
       "wrong": "Morgen ik heb een late dienst.",
-      "answers": ["Morgen heb ik een late dienst.", "Ik heb morgen een late dienst."],
+      "answers": [
+        "Morgen heb ik een late dienst.",
+        "Ik heb morgen een late dienst."
+      ],
       "en": "Tomorrow I have a late shift.",
       "note": "Only one element goes before the verb. Morgen is already the first element, so heb must come next and ik after it."
     },
     {
       "type": "fix",
       "wrong": "Ik vaak wandel na het eten.",
-      "answers": ["Ik wandel vaak na het eten.", "Ik wandel na het eten vaak.", "Na het eten wandel ik vaak.", "Vaak wandel ik na het eten."],
+      "answers": [
+        "Ik wandel vaak na het eten.",
+        "Ik wandel na het eten vaak.",
+        "Na het eten wandel ik vaak.",
+        "Vaak wandel ik na het eten."
+      ],
       "en": "I often go for a walk after dinner.",
       "note": "The verb is the second element, so nothing goes between the subject and the verb. Vaak comes after the verb, not before it as in English."
     },
     {
       "type": "fix",
       "wrong": "Op zondag wandelt jij met de hond.",
-      "answers": ["Op zondag wandel jij met de hond.", "Op zondag wandel je met de hond.", "Jij wandelt op zondag met de hond.", "Je wandelt op zondag met de hond."],
+      "answers": [
+        "Op zondag wandel jij met de hond.",
+        "Op zondag wandel je met de hond.",
+        "Jij wandelt op zondag met de hond.",
+        "Je wandelt op zondag met de hond."
+      ],
       "en": "On Sundays you walk the dog.",
       "note": "The word order is right, but jij now stands directly after the verb, and then the t disappears: wandel jij."
     }
