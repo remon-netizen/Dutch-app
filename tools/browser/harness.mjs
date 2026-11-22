@@ -55,10 +55,17 @@ export async function withPage(fn, { width = 390, height = 844, mobile = true } 
     const ws = new WebSocket(tab.webSocketDebuggerUrl);
     await new Promise((res, rej) => { ws.onopen = res; ws.onerror = rej; });
     let id = 0;
-    const pending = new Map(), errors = [];
+    const pending = new Map(), errors = [], dialogs = [];
     ws.onmessage = m => {
       const d = JSON.parse(m.data);
       if (d.id && pending.has(d.id)) { const { res, rej } = pending.get(d.id); pending.delete(d.id); d.error ? rej(new Error(d.error.message)) : res(d.result); }
+      // With the Page events on, Chrome leaves every alert, confirm and prompt to us, and the page
+      // waits until we answer: without an answer it waits for ever. Close it the safe way (OK on an
+      // alert, Cancel on a question) and write it down.
+      else if (d.method === 'Page.javascriptDialogOpening') {
+        dialogs.push(`${d.params.type}: ${d.params.message}`);
+        send('Page.handleJavaScriptDialog', { accept: d.params.type === 'alert' || d.params.type === 'beforeunload' }).catch(() => {});
+      }
       else if (d.method === 'Runtime.exceptionThrown') errors.push('exception: ' + (d.params.exceptionDetails.exception?.description || d.params.exceptionDetails.text));
       else if (d.method === 'Runtime.consoleAPICalled' && d.params.type === 'error') errors.push('console.error: ' + d.params.args.map(a => a.value ?? a.description).join(' '));
       else if (d.method === 'Log.entryAdded' && d.params.entry.level === 'error') errors.push('log: ' + d.params.entry.text + ' ' + (d.params.entry.url || ''));
@@ -67,13 +74,18 @@ export async function withPage(fn, { width = 390, height = 844, mobile = true } 
     await send('Page.enable'); await send('Runtime.enable'); await send('Log.enable');
     await send('Emulation.setDeviceMetricsOverride', { width, height, deviceScaleFactor: 2, mobile });
     const page = {
-      base, errors, sleep, send,
+      base, errors, dialogs, sleep, send,
       async goto(url = base) { await send('Page.navigate', { url }); await sleep(700); },
       // The snippet is the body of an async function: use return, and await freely.
-      async eval(body) {
-        const r = await send('Runtime.evaluate', { expression: `(async () => { ${body} })()`, awaitPromise: true, returnByValue: true });
-        if (r.exceptionDetails) throw new Error('in the page: ' + (r.exceptionDetails.exception?.description || r.exceptionDetails.text));
-        return r.result.value;
+      // A page that has not answered after `minutes` is stuck: the test stops instead of waiting for ever.
+      async eval(body, { minutes = 10 } = {}) {
+        let timer;
+        const stuck = new Promise((_, rej) => { timer = setTimeout(() => rej(new Error(`the page did not answer for ${minutes} minutes`)), minutes * 60e3); });
+        try {
+          const r = await Promise.race([send('Runtime.evaluate', { expression: `(async () => { ${body} })()`, awaitPromise: true, returnByValue: true }), stuck]);
+          if (r.exceptionDetails) throw new Error('in the page: ' + (r.exceptionDetails.exception?.description || r.exceptionDetails.text));
+          return r.result.value;
+        } finally { clearTimeout(timer); }
       },
       async shot(file, { full = false } = {}) {
         let clip;

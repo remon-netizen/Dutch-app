@@ -2,6 +2,7 @@
 // Press random buttons, type random text and jump between screens, for a while,
 // and see whether the app ever throws. The sequence is repeatable: give the same seed.
 //   node tools/browser/random-presses.mjs [steps=4000] [seed=1]
+// A page that has not answered for MINUTES (10) is reported as stuck.
 
 import { withPage } from './harness.mjs';
 
@@ -50,13 +51,17 @@ const result = await withPage(async page => {
       await pause(0);
     }
     return { errors, last: trail.slice(-3), screen: document.querySelector('.screen.active')?.id, stillTheApp: location.pathname.endsWith('index.html') };
-  `);
-  return { ...r, pageErrors: page.errors };
-}).catch(e => ({ errors: [{ msg: 'the page went away: ' + e.message, after: [] }], pageErrors: [], screen: '?', stillTheApp: false }));
+  `, { minutes: Number(process.env.MINUTES) || 10 });
+  return { ...r, pageErrors: page.errors, dialogs: page.dialogs };
+}).catch(e => ({ errors: [{ msg: 'the page went away: ' + e.message, after: [] }], pageErrors: [], dialogs: [], screen: '?', stillTheApp: false }));
 
 console.log(`${steps} steps, seed ${seed}: ended on ${result.screen}${result.stillTheApp ? '' : ' (the app was left!)'}`);
 for (const e of result.errors) console.log(`ERROR ${e.msg}\n   after: ${e.after.join(' → ')}`);
 for (const e of result.pageErrors) console.log(`PAGE ${e}`);
+// Pop-ups the app showed (the harness closed them). No error in itself: the list is for a person to read.
+const seen = new Map();
+for (const d of result.dialogs) seen.set(d, (seen.get(d) || 0) + 1);
+for (const [d, n] of seen) console.log(`dialog ${n}×  ${d}`);
 const bad = result.errors.length + result.pageErrors.length + (result.stillTheApp ? 0 : 1);
 console.log(bad ? `${bad} problems` : 'no errors');
 process.exit(bad ? 1 : 0);
